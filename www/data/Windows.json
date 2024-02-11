@@ -1,0 +1,25 @@
+{
+    "Scene_Menu": {
+        "Window_MenuCommand": {
+            "x": 0,
+            "y": 0
+        },
+        "Window_Gold": {
+            "x": 0,
+            "y": 420,
+            "opacity": "255",
+            "width": "240",
+            "height": "300"
+        },
+        "Window_MenuStatus": {
+            "x": 240,
+            "y": 0
+        }
+    },
+    "Scene_Log": {
+        "Window_MenuLog": {
+            "x": 200,
+            "y": 140
+        }
+    }
+}

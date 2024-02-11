@@ -1,0 +1,4875 @@
+[
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameParty.leader().tp",
+        "Max Value": "$gameParty.leader().mtp",
+        "Condition": "$gameSwitches.value(101)",
+        "Layer": "2",
+        "Scale X": "1.16",
+        "Scale Y": "0.9",
+        "Style": "left",
+        "Main Image": "custom_gauge",
+        "Back Image": "custom_gauge_background",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 999,
+                "loop": false,
+                "min": -90,
+                "max": -90
+            }
+        },
+        "id": 13,
+        "x": 1157,
+        "y": 604
+    },
+    {
+        "type": "Image Numbers",
+        "Value": "$gameParty.leader().tp",
+        "Condition": "$gameSwitches.value(101)",
+        "Layer": "3",
+        "Image": "WhiteNumbers",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 15,
+        "x": 1094,
+        "y": 690
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(103)",
+        "Layer": "0",
+        "Image": "Main character Standing_0",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 16,
+        "x": 600,
+        "y": 360
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(105)",
+        "Layer": "0",
+        "Image": "Sub character Standing_0",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 41,
+        "x": 600,
+        "y": 360
+    },
+    {
+        "type": "Text",
+        "Value": " 魔力 : ${$gameVariables.value(1)}",
+        "Condition": "$gameSwitches.value(101)",
+        "Layer": "2",
+        "Font": "GameFont",
+        "Max Width": "200",
+        "Align": "left",
+        "Font Size": "14",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 42,
+        "x": 1031,
+        "y": 108
+    },
+    {
+        "type": "Text",
+        "Value": " 経験指数 : ${$gameVariables.value(2)}",
+        "Condition": "$gameSwitches.value(101)",
+        "Layer": "2",
+        "Font": "GameFont",
+        "Max Width": "300",
+        "Align": "left",
+        "Font Size": "14",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 50,
+        "x": 1198,
+        "y": 108
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(1)} + ${$gameVariables.value(41)}",
+        "Condition": "$gameSwitches.value(102)",
+        "Layer": "0",
+        "Font": "GameFont",
+        "Max Width": "300",
+        "Align": "left",
+        "Font Size": "18",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 44,
+        "x": 270,
+        "y": 692
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(2)} + ${$gameVariables.value(42)}",
+        "Condition": "$gameSwitches.value(102)",
+        "Layer": "0",
+        "Font": "GameFont",
+        "Max Width": "300",
+        "Align": "left",
+        "Font Size": "18",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 44,
+        "x": 270,
+        "y": 728
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(3)} + ${$gameVariables.value(43)}",
+        "Condition": "$gameSwitches.value(102)",
+        "Layer": "0",
+        "Font": "GameFont",
+        "Max Width": "300",
+        "Align": "left",
+        "Font Size": "18",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 44,
+        "x": 270,
+        "y": 764
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(41)}",
+        "Condition": "$gameSwitches.value(104)",
+        "Layer": "0",
+        "Font": "GameFont",
+        "Max Width": "300",
+        "Align": "left",
+        "Font Size": "20",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 44,
+        "x": 1017,
+        "y": 535
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(42)}",
+        "Condition": "$gameSwitches.value(104)",
+        "Layer": "0",
+        "Font": "GameFont",
+        "Max Width": "300",
+        "Align": "left",
+        "Font Size": "20",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 44,
+        "x": 1017,
+        "y": 573
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(43)}",
+        "Condition": "$gameSwitches.value(104)",
+        "Layer": "0",
+        "Font": "GameFont",
+        "Max Width": "300",
+        "Align": "left",
+        "Font Size": "20",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 44,
+        "x": 1017,
+        "y": 611
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(101)",
+        "Layer": "1",
+        "Image": "background_main00",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 51,
+        "x": 600,
+        "y": 360
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(49) - $gameVariables.value(52)} 週",
+        "Condition": "$gameSwitches.value(101)",
+        "Layer": "3",
+        "Font": "GameFont",
+        "Max Width": "150",
+        "Align": "center",
+        "Font Size": "40",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 52,
+        "x": 108,
+        "y": 761
+    },
+    {
+        "type": "Text",
+        "Value": "目標まで ${$gameVariables.value(40) - $gameVariables.value(56)}",
+        "Condition": "$gameSwitches.value(101)",
+        "Layer": "2",
+        "Font": "GameFont",
+        "Max Width": "300",
+        "Align": "left",
+        "Font Size": "16",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 53,
+        "x": 1197,
+        "y": 158
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(321)}",
+        "Condition": "$gameSwitches.value(119)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "center",
+        "Font Size": "24",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 61,
+        "x": 126,
+        "y": 360
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(322)}",
+        "Condition": "$gameSwitches.value(119)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "250",
+        "Align": "center",
+        "Font Size": "14",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 62,
+        "x": 125,
+        "y": 411
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(323)}",
+        "Condition": "$gameSwitches.value(119)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "300",
+        "Align": "left",
+        "Font Size": "14",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 63,
+        "x": 885,
+        "y": 695
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(324)}",
+        "Condition": "$gameSwitches.value(119)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "300",
+        "Align": "left",
+        "Font Size": "14",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 64,
+        "x": 883,
+        "y": 757
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(325)}",
+        "Condition": "$gameSwitches.value(119)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "400",
+        "Align": "left",
+        "Font Size": "14",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 71,
+        "x": 1174,
+        "y": 696
+    },
+    {
+        "type": "Text",
+        "Value": " + ${$gameVariables.value(46)}",
+        "Condition": "$gameSwitches.value(81)",
+        "Layer": "0",
+        "Font": "Galmuri7",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "20",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 67,
+        "x": 708,
+        "y": 611
+    },
+    {
+        "type": "Text",
+        "Value": " + ${$gameVariables.value(47)}",
+        "Condition": "$gameSwitches.value(81)",
+        "Layer": "0",
+        "Font": "Galmuri7",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "20",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 67,
+        "x": 708,
+        "y": 675
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(326)}",
+        "Condition": "$gameSwitches.value(119)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "400",
+        "Align": "left",
+        "Font Size": "14",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 106,
+        "x": 1173,
+        "y": 725
+    },
+    {
+        "type": "Text",
+        "Value": " + ${$gameVariables.value(48)}",
+        "Condition": "$gameSwitches.value(81)",
+        "Layer": "0",
+        "Font": "Galmuri7",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "20",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 67,
+        "x": 708,
+        "y": 739
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(1)}",
+        "Condition": "$gameSwitches.value(81)",
+        "Layer": "0",
+        "Font": "Galmuri7",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "30",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 67,
+        "x": 533,
+        "y": 612
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(2)}",
+        "Condition": "$gameSwitches.value(81)",
+        "Layer": "0",
+        "Font": "Galmuri7",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "30",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 67,
+        "x": 533,
+        "y": 676
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(3)}",
+        "Condition": "$gameSwitches.value(81)",
+        "Layer": "0",
+        "Font": "Galmuri7",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "30",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 67,
+        "x": 533,
+        "y": 740
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(341)}",
+        "Condition": "$gameSwitches.value(86)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 78,
+        "x": 532,
+        "y": 302
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(342)}",
+        "Condition": "$gameSwitches.value(86)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 79,
+        "x": 655,
+        "y": 302
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(343)}",
+        "Condition": "$gameSwitches.value(86)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 80,
+        "x": 725,
+        "y": 303
+    },
+    {
+        "type": "Text",
+        "Value": "월요일 : ${$gameVariables.value(344)}",
+        "Condition": "$gameSwitches.value(86)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "13",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 81,
+        "x": 510,
+        "y": 604
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(346)}",
+        "Condition": "$gameSwitches.value(87)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 82,
+        "x": 532,
+        "y": 340
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(347)}",
+        "Condition": "$gameSwitches.value(87)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 83,
+        "x": 656,
+        "y": 340
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(348)}",
+        "Condition": "$gameSwitches.value(87)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 84,
+        "x": 725,
+        "y": 339
+    },
+    {
+        "type": "Text",
+        "Value": "화요일 : ${$gameVariables.value(349)}",
+        "Condition": "$gameSwitches.value(87)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "13",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 85,
+        "x": 510,
+        "y": 619
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(351)}",
+        "Condition": "$gameSwitches.value(88)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 86,
+        "x": 532,
+        "y": 377
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(352)}",
+        "Condition": "$gameSwitches.value(88)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 87,
+        "x": 656,
+        "y": 377
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(353)}",
+        "Condition": "$gameSwitches.value(88)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 88,
+        "x": 725,
+        "y": 376
+    },
+    {
+        "type": "Text",
+        "Value": "수요일 : ${$gameVariables.value(354)}",
+        "Condition": "$gameSwitches.value(88)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "13",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 89,
+        "x": 510,
+        "y": 634
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(356)}",
+        "Condition": "$gameSwitches.value(89)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 90,
+        "x": 532,
+        "y": 415
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(357)}",
+        "Condition": "$gameSwitches.value(89)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 91,
+        "x": 656,
+        "y": 414
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(358)}",
+        "Condition": "$gameSwitches.value(89)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 92,
+        "x": 725,
+        "y": 414
+    },
+    {
+        "type": "Text",
+        "Value": "목요일 : ${$gameVariables.value(359)}",
+        "Condition": "$gameSwitches.value(89)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "13",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 93,
+        "x": 510,
+        "y": 649
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(361)}",
+        "Condition": "$gameSwitches.value(90)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 94,
+        "x": 532,
+        "y": 451
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(362)}",
+        "Condition": "$gameSwitches.value(90)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 95,
+        "x": 656,
+        "y": 451
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(363)}",
+        "Condition": "$gameSwitches.value(90)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 96,
+        "x": 725,
+        "y": 451
+    },
+    {
+        "type": "Text",
+        "Value": "금요일 : ${$gameVariables.value(364)}",
+        "Condition": "$gameSwitches.value(90)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "13",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 97,
+        "x": 510,
+        "y": 664
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(341) + $gameVariables.value(346) + $gameVariables.value(351) + $gameVariables.value(356) + $gameVariables.value(361) + $gameVariables.value(366)}",
+        "Condition": "$gameSwitches.value(92)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 97,
+        "x": 531,
+        "y": 537
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(342) + $gameVariables.value(347) + $gameVariables.value(352) + $gameVariables.value(357) + $gameVariables.value(362) + $gameVariables.value(367)}",
+        "Condition": "$gameSwitches.value(92)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 97,
+        "x": 655,
+        "y": 537
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(343) + $gameVariables.value(348) + $gameVariables.value(353) + $gameVariables.value(358) + $gameVariables.value(363) + $gameVariables.value(368) + $gameVariables.value(369)}",
+        "Condition": "$gameSwitches.value(92)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 97,
+        "x": 727,
+        "y": 537
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(366)}",
+        "Condition": "$gameSwitches.value(91)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 94,
+        "x": 532,
+        "y": 488
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(367)}",
+        "Condition": "$gameSwitches.value(91)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 94,
+        "x": 656,
+        "y": 488
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(368) + $gameVariables.value(369)}",
+        "Condition": "$gameSwitches.value(91)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "18",
+        "Text Color": "#212121",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 94,
+        "x": 725,
+        "y": 488
+    },
+    {
+        "type": "Text",
+        "Value": " ${$gameVariables.value(221)}",
+        "Condition": "$gameSwitches.value(81)",
+        "Layer": "0",
+        "Font": "Galmuri7",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "30",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 67,
+        "x": 564,
+        "y": 687
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(131)} 회 ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 108,
+        "x": 1000,
+        "y": 285
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(132)} 회 ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 109,
+        "x": 1000,
+        "y": 316
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(133)} 회 ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 110,
+        "x": 1000,
+        "y": 348
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(134)} 회 ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 111,
+        "x": 1000,
+        "y": 379
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(135)} 회 ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 112,
+        "x": 1000,
+        "y": 410
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(136)} 회 ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 113,
+        "x": 1001,
+        "y": 439
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(137)} 회 ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 114,
+        "x": 1001,
+        "y": 469
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(138)} ml ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 115,
+        "x": 1002,
+        "y": 520
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(139)} ml ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 116,
+        "x": 1002,
+        "y": 551
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(140)} ml ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 117,
+        "x": 1001,
+        "y": 581
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(141)} ml ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 118,
+        "x": 1001,
+        "y": 611
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(121)} ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "center",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 119,
+        "x": 524,
+        "y": 347
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(122)} ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "center",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 120,
+        "x": 154,
+        "y": 644
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(123)} ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "center",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 121,
+        "x": 144,
+        "y": 365
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(124)} ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "center",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 122,
+        "x": 145,
+        "y": 507
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(125)} ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "center",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 123,
+        "x": 340,
+        "y": 637
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(126)} ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "center",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 124,
+        "x": 523,
+        "y": 624
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(127)} ",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "center",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 125,
+        "x": 518,
+        "y": 485
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(101)} 회 ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 126,
+        "x": 277,
+        "y": 319
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(102)} 회 ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 127,
+        "x": 277,
+        "y": 351
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(103)} 회 ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 128,
+        "x": 277,
+        "y": 381
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(104)} 회 ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 129,
+        "x": 462,
+        "y": 321
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(105)} 회 ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 130,
+        "x": 461,
+        "y": 353
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(106)} 회 ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 131,
+        "x": 461,
+        "y": 383
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(109)} 회 ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 132,
+        "x": 459,
+        "y": 491
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(110)} 회 ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 133,
+        "x": 458,
+        "y": 521
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(111)} 회 ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 134,
+        "x": 458,
+        "y": 552
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(112)} 회 ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "16",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 135,
+        "x": 457,
+        "y": 582
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(151)} ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "24",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 136,
+        "x": 933,
+        "y": 352
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(152)} ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "24",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 137,
+        "x": 932,
+        "y": 466
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(153)} ",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Font": "NotoSansKR-Bold",
+        "Max Width": "150",
+        "Align": "right",
+        "Font Size": "24",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 138,
+        "x": 932,
+        "y": 578
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(86)} ",
+        "Condition": "$gameSwitches.value(96)",
+        "Layer": "0",
+        "Font": "SangSangShin",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "44",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 139,
+        "x": 1036,
+        "y": 190
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(87)} ",
+        "Condition": "$gameSwitches.value(96)",
+        "Layer": "0",
+        "Font": "SangSangShin",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "44",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 140,
+        "x": 1033,
+        "y": 315
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(88)} ",
+        "Condition": "$gameSwitches.value(96)",
+        "Layer": "0",
+        "Font": "SangSangShin",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "44",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 141,
+        "x": 1032,
+        "y": 441
+    },
+    {
+        "type": "Text",
+        "Value": "${$gameVariables.value(89)} ",
+        "Condition": "$gameSwitches.value(96)",
+        "Layer": "0",
+        "Font": "SangSangShin",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "44",
+        "Text Color": "#1f1f1f",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 142,
+        "x": 1033,
+        "y": 567
+    },
+    {
+        "type": "Text",
+        "Value": "残った期間",
+        "Condition": "$gameSwitches.value(101)",
+        "Layer": "3",
+        "Font": "GameFont",
+        "Max Width": "150",
+        "Align": "left",
+        "Font Size": "14",
+        "Text Color": "#ffffff",
+        "Text Alpha": "255",
+        "Outline Color": "#000000",
+        "Outline Alpha": "127",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 179,
+        "x": 153,
+        "y": 729
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(86)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(461)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_1",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 158,
+        "x": 569,
+        "y": 212
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(86)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(462)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_2",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 167,
+        "x": 569,
+        "y": 212
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(86)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(463)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_3",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 168,
+        "x": 569,
+        "y": 212
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(86)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(464)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_4",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 170,
+        "x": 569,
+        "y": 212
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(87)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(466)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_1",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 158,
+        "x": 117,
+        "y": 211
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(87)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(467)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_2",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 167,
+        "x": 117,
+        "y": 211
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(87)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(468)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_3",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 168,
+        "x": 118,
+        "y": 211
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(87)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(469)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_4",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 170,
+        "x": 117,
+        "y": 211
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(88)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(471)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_1",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 158,
+        "x": 565,
+        "y": 483
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(88)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(472)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_2",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 167,
+        "x": 565,
+        "y": 483
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(88)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(473)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_3",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 168,
+        "x": 565,
+        "y": 483
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(88)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(474)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_4",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 178,
+        "x": 565,
+        "y": 483
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(89)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(476)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_1",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 158,
+        "x": 127,
+        "y": 483
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(89)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(477)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_2",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 180,
+        "x": 127,
+        "y": 483
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(89)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(478)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_3",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 181,
+        "x": 127,
+        "y": 483
+    },
+    {
+        "type": "Image Gauge",
+        "Cur. Value": "$gameVariables.value(89)",
+        "Max Value": "25",
+        "Condition": "$gameSwitches.value(479)",
+        "Layer": "4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Style": "down",
+        "Main Image": "isoGaugeimage",
+        "Back Image": "isoGaugeback_4",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 182,
+        "x": 127,
+        "y": 483
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(94) | $gameSwitches.value(95) | $gameSwitches.value(96) | $gameSwitches.value(97)",
+        "Layer": "0",
+        "Image": "hstat_keyboard_left",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 184,
+        "x": 45,
+        "y": 360
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(94) | $gameSwitches.value(95) | $gameSwitches.value(96) | $gameSwitches.value(97)",
+        "Layer": "0",
+        "Image": "hstat_keyboard_right",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 185,
+        "x": 1155,
+        "y": 360
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(94)",
+        "Layer": "0",
+        "Image": "hstat_page_1",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 186,
+        "x": 1046,
+        "y": 72
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(96)",
+        "Layer": "0",
+        "Image": "hstat_page_3",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 187,
+        "x": 1048,
+        "y": 69
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(97)",
+        "Layer": "0",
+        "Image": "hstat_page_4",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 188,
+        "x": 1046,
+        "y": 72
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(95)",
+        "Layer": "0",
+        "Image": "hstat_page_2",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 189,
+        "x": 1045,
+        "y": 72
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(97)",
+        "Layer": "0",
+        "Image": "hstat_keyboard_enter",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 191,
+        "x": 1125,
+        "y": 645
+    },
+    {
+        "type": "Picture",
+        "Condition": "$gameSwitches.value(94) | $gameSwitches.value(95) | $gameSwitches.value(96) | $gameSwitches.value(97)",
+        "Layer": "0",
+        "Image": "hstat_keyboard_esc",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 192,
+        "x": 75,
+        "y": 75
+    },
+    {
+        "type": "Picture EX",
+        "Condition": "",
+        "Layer": "0",
+        "Image": "$gameVariables.value(94)",
+        "Scale X": "1",
+        "Scale Y": "1",
+        "Opacity": "255",
+        "Hue": "0",
+        "Blend": "0",
+        "animateInfo": {
+            "x": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "y": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            },
+            "s": {
+                "spd": 0,
+                "loop": false,
+                "min": 1,
+                "max": 1
+            },
+            "r": {
+                "spd": 0,
+                "loop": false,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "id": 193,
+        "x": 600,
+        "y": 360
+    }
+]
