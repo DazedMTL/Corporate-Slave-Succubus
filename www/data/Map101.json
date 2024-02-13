@@ -4092,7 +4092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\bustMsgExp[1, 0]\\nc<Saki>(Oh my, Senpai is being kind today...[bustMsgExp[1, 2]] No,\nwait, when I think about it, I didn't do it for Senpai in\nthe first place.)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(Oh my, Senpai is being kind today...\\bustMsgExp[1, 2] No,\nwait, when I think about it, I didn't do it for Senpai in\nthe first place.)"
                             ]
                         },
                         {
