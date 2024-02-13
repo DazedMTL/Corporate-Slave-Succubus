@@ -35125,7 +35125,7 @@
                                 322,
                                 0,
                                 4,
-                                "\"\"Event Staff\"\""
+                                "\"I will participate as staff in the offline meeting event.\\n\\n Making preparations one day in advance, \\n I wonder about it from a human perspective.\\n Oh, perhaps not as a human.\""
                             ]
                         },
                         {
@@ -35158,7 +35158,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n Advertising疲労度 \" + $gameVariables.value(43) + \" - 5 \""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n Advertising Fatique \" + $gameVariables.value(43) + \" - 5 \""
                             ]
                         },
                         {
@@ -35412,7 +35412,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n Advertising疲労度 \" + $gameVariables.value(43) + \" - 5 \""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n Advertising Fatique \" + $gameVariables.value(43) + \" - 5 \""
                             ]
                         },
                         {
@@ -35656,7 +35656,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n Advertising疲労度 \" + $gameVariables.value(43) + \" - 5 \""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n Advertising Fatique \" + $gameVariables.value(43) + \" - 5 \""
                             ]
                         },
                         {

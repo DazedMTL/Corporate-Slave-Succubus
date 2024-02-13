@@ -43220,7 +43220,7 @@
                 "code": 355,
                 "indent": 3,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★ Due to inappropriate expressions detected by the Cleanbot, the content has been removed\");"
+                    "$gameVariables.setValue(201, \"★ Due to inappropriate expressions detected by the Cleanbot, the content has\\nbeen removed\");"
                 ]
             },
             {
@@ -43379,7 +43379,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★ Recently, these kinds of advertisements have increased a lot Don't you think it's embarrassing\\nfor the children?\");"
+                    "$gameVariables.setValue(201, \"★★★ Recently, these kinds of advertisements have increased a lot Don't you think\\nit's embarrassing for the children?\");"
                 ]
             },
             {
@@ -43414,7 +43414,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been\\nremoved\");"
                 ]
             },
             {
@@ -43449,7 +43449,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been\\nremoved\");"
                 ]
             },
             {
@@ -43484,7 +43484,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I was wondering why I hadn't seen you around lately You've been paying attention only to the next\\ntown over, haven't you?\");"
+                    "$gameVariables.setValue(201, \"I was wondering why I hadn't seen you around lately You've been paying attention\\nonly to the next town over, haven't you?\");"
                 ]
             },
             {
@@ -43643,7 +43643,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been\\nremoved\");"
                 ]
             },
             {
@@ -43767,7 +43767,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"This is why I hate big corporations Far from improving their service, it's actually getting worse\");"
+                    "$gameVariables.setValue(201, \"This is why I hate big corporations Far from improving their service, it's\\nactually getting worse\");"
                 ]
             },
             {
@@ -43837,7 +43837,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been\\nremoved\");"
                 ]
             },
             {
@@ -43907,7 +43907,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I thought you'd check if I gave it a five-star review^^ I'm getting tired of making complaints like\\nthis\");"
+                    "$gameVariables.setValue(201, \"I thought you'd check if I gave it a five-star review^^ I'm getting tired of\\nmaking complaints like this\");"
                 ]
             },
             {
@@ -44031,7 +44031,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been\\nremoved\");"
                 ]
             },
             {
@@ -44066,7 +44066,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I don't know if it's the first industry of succubi or what, but is it really okay to do such things\\nby the roadside? There are children around, too\");"
+                    "$gameVariables.setValue(201, \"I don't know if it's the first industry of succubi or what, but is it really\\nokay to do such things by the roadside? There are children around, too\");"
                 ]
             },
             {
@@ -44101,7 +44101,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"★★★★★ The inappropriate expression has been detected by the Cleanbot and has\\nbeen removed\");"
                 ]
             },
             {
@@ -44190,7 +44190,7 @@
                 "code": 355,
                 "indent": 8,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I was chased by an employee here until I took a flyer Please provide some training\");"
+                    "$gameVariables.setValue(201, \"I was chased by an employee here until I took a flyer Please provide some\\ntraining\");"
                 ]
             },
             {
@@ -44225,7 +44225,7 @@
                 "code": 355,
                 "indent": 8,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★ Due to inappropriate content detected by the Cleanbot, the message has been deleted\");"
+                    "$gameVariables.setValue(201, \"★ Due to inappropriate content detected by the Cleanbot, the message has been\\ndeleted\");"
                 ]
             },
             {
@@ -44260,7 +44260,7 @@
                 "code": 355,
                 "indent": 8,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I might have tolerated it before, but I can't stand it anymore Please stop doing such things on the\\nside of the road\");"
+                    "$gameVariables.setValue(201, \"I might have tolerated it before, but I can't stand it anymore Please stop doing\\nsuch things on the side of the road\");"
                 ]
             },
             {
@@ -44661,7 +44661,7 @@
                 "code": 355,
                 "indent": 3,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ Out of all the places I've visited so far, this was the best I had no idea there was a place\\nlike this in the next town\");"
+                    "$gameVariables.setValue(201, \"★★★★★ Out of all the places I've visited so far, this was the best I had no idea\\nthere was a place like this in the next town\");"
                 ]
             },
             {
@@ -44696,7 +44696,7 @@
                 "code": 355,
                 "indent": 3,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"★★★★★ The inappropriate expression has been detected by the Cleanbot and has\\nbeen removed\");"
                 ]
             },
             {
@@ -44801,7 +44801,7 @@
                 "code": 355,
                 "indent": 3,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I'm about to go neurotic because of all the advertising around here, and now even the internet Can't\\nsomething be done about this?\");"
+                    "$gameVariables.setValue(201, \"I'm about to go neurotic because of all the advertising around here, and now\\neven the internet Can't something be done about this?\");"
                 ]
             },
             {
@@ -44890,7 +44890,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"★★★★★ The inappropriate expression has been detected by the Cleanbot and has\\nbeen removed\");"
                 ]
             },
             {
@@ -44925,7 +44925,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ I was looking for a new place, but I'm satisfied with the service here, so I think I'll become\\na regular\");"
+                    "$gameVariables.setValue(201, \"★★★★★ I was looking for a new place, but I'm satisfied with the service here, so\\nI think I'll become a regular\");"
                 ]
             },
             {
@@ -44960,7 +44960,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ I came here on a recommendation from an acquaintance, and it was quite good\");"
+                    "$gameVariables.setValue(201, \"★★★★★ I came here on a recommendation from an acquaintance, and it was quite\\ngood\");"
                 ]
             },
             {
@@ -44995,7 +44995,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"You've littered the front of someone's house with flyers I'll definitely kill you someday for this\");"
+                    "$gameVariables.setValue(201, \"You've littered the front of someone's house with flyers I'll definitely kill\\nyou someday for this\");"
                 ]
             },
             {
@@ -45049,7 +45049,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I wanted to talk to the employee who was advertising, but they were just too fast\");"
+                    "$gameVariables.setValue(201, \"I wanted to talk to the employee who was advertising, but they were just too\\nfast\");"
                 ]
             },
             {
@@ -45084,7 +45084,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"★★★★★ The inappropriate expression has been detected by the Cleanbot and has\\nbeen removed\");"
                 ]
             },
             {
@@ -45154,7 +45154,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"Before I knew it, there was a flyer in my bag I thought it must be some kind of fate, so I decided\\nto go, and it was great\");"
+                    "$gameVariables.setValue(201, \"Before I knew it, there was a flyer in my bag I thought it must be some kind of\\nfate, so I decided to go, and it was great\");"
                 ]
             },
             {
@@ -45189,7 +45189,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I've stopped you from distributing flyers several times, but now it's started happening\\nautomatically I'll report this to the police\");"
+                    "$gameVariables.setValue(201, \"I've stopped you from distributing flyers several times, but now it's started\\nhappening automatically I'll report this to the police\");"
                 ]
             },
             {
@@ -45313,7 +45313,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I want to write in more detail, but the character limit is too strict Some improvement is necessary\");"
+                    "$gameVariables.setValue(201, \"I want to write in more detail, but the character limit is too strict Some\\nimprovement is necessary\");"
                 ]
             },
             {
@@ -45383,7 +45383,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"Please consider the inconvenience this company is causing and think about the people in the\\nneighborhood\");"
+                    "$gameVariables.setValue(201, \"Please consider the inconvenience this company is causing and think about the\\npeople in the neighborhood\");"
                 ]
             },
             {
@@ -45437,7 +45437,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★ It doesn't have any particular features compared to other places, but it feels pretty decent\");"
+                    "$gameVariables.setValue(201, \"★★★★ It doesn't have any particular features compared to other places, but it\\nfeels pretty decent\");"
                 ]
             },
             {
@@ -45577,7 +45577,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The trash has decreased, but the number of weird people around has increased a lot They're the ones\\nwho came after seeing the flyers, right?\");"
+                    "$gameVariables.setValue(201, \"The trash has decreased, but the number of weird people around has increased a\\nlot They're the ones who came after seeing the flyers, right?\");"
                 ]
             },
             {
@@ -45771,7 +45771,7 @@
                 "code": 355,
                 "indent": 8,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I've been reporting this for a while now, but it's a nuisance having someone dump trash without\\npermission I wish they would stop doing it where the children are, especially since they don't even\\nclean up\");"
+                    "$gameVariables.setValue(201, \"I've been reporting this for a while now, but it's a nuisance having someone\\ndump trash without permission I wish they would stop doing it where the children\\nare, especially since they don't even clean up\");"
                 ]
             },
             {
@@ -45851,7 +45851,7 @@
                 "code": 355,
                 "indent": 8,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★ The kindest succubus made for the best part-time job However, since it wasn't the person I\\nrequested, I'm giving it three stars\");"
+                    "$gameVariables.setValue(201, \"★★★ The kindest succubus made for the best part-time job However, since it\\nwasn't the person I requested, I'm giving it three stars\");"
                 ]
             },
             {
@@ -47249,7 +47249,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I specifically requested someone to my liking, but I'm utterly disappointed with the person who\\nshowed up\");"
+                    "$gameVariables.setValue(201, \"I specifically requested someone to my liking, but I'm utterly disappointed with\\nthe person who showed up\");"
                 ]
             },
             {
@@ -47389,7 +47389,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"If you're going to make it so obvious that you don't want to do it, then don't work at all\");"
+                    "$gameVariables.setValue(201, \"If you're going to make it so obvious that you don't want to do it, then don't\\nwork at all\");"
                 ]
             },
             {
@@ -47478,7 +47478,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been\\nremoved\");"
                 ]
             },
             {
@@ -47672,7 +47672,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★ Due to inappropriate expressions detected by the Cleanbot, the content has been removed\");"
+                    "$gameVariables.setValue(201, \"★ Due to inappropriate expressions detected by the Cleanbot, the content has\\nbeen removed\");"
                 ]
             },
             {
@@ -47936,7 +47936,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"Just like before, you're terrible at adjusting Do you even intend to provide service?\");"
+                    "$gameVariables.setValue(201, \"Just like before, you're terrible at adjusting Do you even intend to provide\\nservice?\");"
                 ]
             },
             {
@@ -47971,7 +47971,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"There are too many customers It's pitiful for the employees being run ragged, and I think\\nimprovements are necessary\");"
+                    "$gameVariables.setValue(201, \"There are too many customers It's pitiful for the employees being run ragged,\\nand I think improvements are necessary\");"
                 ]
             },
             {
@@ -48016,7 +48016,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The employee has been away for a long time I've been waiting forever, but since they didn't come, I\\nhad to go look for them myself\");"
+                    "$gameVariables.setValue(201, \"The employee has been away for a long time I've been waiting forever, but since\\nthey didn't come, I had to go look for them myself\");"
                 ]
             },
             {
@@ -48086,7 +48086,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I've been kept waiting for so long, and people who arrived after me got in first I was patient for a\\nwhile, but I never want to go there again\");"
+                    "$gameVariables.setValue(201, \"I've been kept waiting for so long, and people who arrived after me got in first\\nI was patient for a while, but I never want to go there again\");"
                 ]
             },
             {
@@ -48121,7 +48121,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"If you're going to be late, just say so I came because you said it was okay, but this is the worst\");"
+                    "$gameVariables.setValue(201, \"If you're going to be late, just say so I came because you said it was okay, but\\nthis is the worst\");"
                 ]
             },
             {
@@ -48156,7 +48156,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The staff's attitude is terrible Ignoring people is the norm, and they leave customers unattended\\nfor hours\");"
+                    "$gameVariables.setValue(201, \"The staff's attitude is terrible Ignoring people is the norm, and they leave\\ncustomers unattended for hours\");"
                 ]
             },
             {
@@ -48432,7 +48432,7 @@
                 "code": 355,
                 "indent": 3,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"★★★★★ The inappropriate expression has been detected by the Cleanbot and has\\nbeen removed\");"
                 ]
             },
             {
@@ -48521,7 +48521,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ The staff member was cute, which is a pity But I had no complaints about the matching\");"
+                    "$gameVariables.setValue(201, \"★★★★★ The staff member was cute, which is a pity But I had no complaints about\\nthe matching\");"
                 ]
             },
             {
@@ -48626,7 +48626,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ Due to inappropriate expressions detected by the Cleanbot, the content has been removed\");"
+                    "$gameVariables.setValue(201, \"★★★★★ Due to inappropriate expressions detected by the Cleanbot, the content has\\nbeen removed\");"
                 ]
             },
             {
@@ -48750,7 +48750,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"Thanks to the hard work of the employee in charge, it was enjoyable I would like to request that\\nperson next time\");"
+                    "$gameVariables.setValue(201, \"Thanks to the hard work of the employee in charge, it was enjoyable I would like\\nto request that person next time\");"
                 ]
             },
             {
@@ -48785,7 +48785,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"Thanks to the staff member in charge, even after cumming once, I felt even more energized and was\\nable to work harder than usual\");"
+                    "$gameVariables.setValue(201, \"Thanks to the staff member in charge, even after cumming once, I felt even more\\nenergized and was able to work harder than usual\");"
                 ]
             },
             {
@@ -48820,7 +48820,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been\\nremoved\");"
                 ]
             },
             {
@@ -48855,7 +48855,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The employees are all very proactive Perhaps because they're succubi, their service is definitely\\nreliable\");"
+                    "$gameVariables.setValue(201, \"The employees are all very proactive Perhaps because they're succubi, their\\nservice is definitely reliable\");"
                 ]
             },
             {
@@ -48909,7 +48909,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ Quick response and kind service, which was great The person in charge must have a hard time\\ntoo\");"
+                    "$gameVariables.setValue(201, \"★★★★★ Quick response and kind service, which was great The person in charge must\\nhave a hard time too\");"
                 ]
             },
             {
@@ -48979,7 +48979,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I was pissed off because of the previous employee, but I felt better after someone else apologized\");"
+                    "$gameVariables.setValue(201, \"I was pissed off because of the previous employee, but I felt better after\\nsomeone else apologized\");"
                 ]
             },
             {
@@ -49014,7 +49014,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"The inappropriate expression has been detected by the Cleanbot and has been\\nremoved\");"
                 ]
             },
             {
@@ -49049,7 +49049,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★ They accommodated me online for something that originally required me to go to the store Thanks\\nto that, it was easy for me But it was my mistake, so I feel a bit\");"
+                    "$gameVariables.setValue(201, \"★★★★ They accommodated me online for something that originally required me to go\\nto the store Thanks to that, it was easy for me But it was my mistake, so I feel\\na bit\");"
                 ]
             },
             {
@@ -49138,7 +49138,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I'm troubled that I'm getting off during foreplay This isn't what I came here for\");"
+                    "$gameVariables.setValue(201, \"I'm troubled that I'm getting off during foreplay This isn't what I came here\\nfor\");"
                 ]
             },
             {
@@ -49208,7 +49208,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★ The inappropriate expression has been detected by the Cleanbot and has been removed\");"
+                    "$gameVariables.setValue(201, \"★★★★ The inappropriate expression has been detected by the Cleanbot and has been\\nremoved\");"
                 ]
             },
             {
@@ -49243,7 +49243,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"Thanks to the foreplay, the rotation is quick and fun There's no time to get bored\");"
+                    "$gameVariables.setValue(201, \"Thanks to the foreplay, the rotation is quick and fun There's no time to get\\nbored\");"
                 ]
             },
             {
@@ -49428,7 +49428,7 @@
                 "code": 355,
                 "indent": 7,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ You're too good at making people impatient I feel like I've awakened to something\");"
+                    "$gameVariables.setValue(201, \"★★★★★ You're too good at making people impatient I feel like I've awakened to\\nsomething\");"
                 ]
             },
             {
@@ -50711,7 +50711,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I tried participating in the event, but it was the worst This is what happens when you put someone\\nwho knows nothing in charge\");"
+                    "$gameVariables.setValue(201, \"I tried participating in the event, but it was the worst This is what happens\\nwhen you put someone who knows nothing in charge\");"
                 ]
             },
             {
@@ -50746,7 +50746,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★ It was nice that there weren't many people, but the concept was a bit lackluster\");"
+                    "$gameVariables.setValue(201, \"★★★ It was nice that there weren't many people, but the concept was a bit\\nlackluster\");"
                 ]
             },
             {
@@ -50905,7 +50905,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"It's really something when someone who can't even handle it comes in and passes out in seconds\");"
+                    "$gameVariables.setValue(201, \"It's really something when someone who can't even handle it comes in and passes\\nout in seconds\");"
                 ]
             },
             {
@@ -50940,7 +50940,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"What kind of service is that when you don't even understand your customers? I'm giving one star for\\nthe employees' effort\");"
+                    "$gameVariables.setValue(201, \"What kind of service is that when you don't even understand your customers? I'm\\ngiving one star for the employees' effort\");"
                 ]
             },
             {
@@ -50975,7 +50975,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I thought they would just keep sending newbies even if I requested someone specific, but in the end,\\nI got hurt\");"
+                    "$gameVariables.setValue(201, \"I thought they would just keep sending newbies even if I requested someone\\nspecific, but in the end, I got hurt\");"
                 ]
             },
             {
@@ -51045,7 +51045,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"Even though it was a mistake to choose her, it was her first time with someone from a different\\nspecies It was no good at all\");"
+                    "$gameVariables.setValue(201, \"Even though it was a mistake to choose her, it was her first time with someone\\nfrom a different species It was no good at all\");"
                 ]
             },
             {
@@ -51134,7 +51134,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I was wondering why another person came along with the one I chose I was completely ignored while\\nall the attention was on the other person\");"
+                    "$gameVariables.setValue(201, \"I was wondering why another person came along with the one I chose I was\\ncompletely ignored while all the attention was on the other person\");"
                 ]
             },
             {
@@ -51354,7 +51354,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"It's one thing to bring a newcomer for training, but this is just too cruel, no matter how you look\\nat it\");"
+                    "$gameVariables.setValue(201, \"It's one thing to bring a newcomer for training, but this is just too cruel, no\\nmatter how you look at it\");"
                 ]
             },
             {
@@ -51655,7 +51655,7 @@
                 "code": 355,
                 "indent": 3,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ Came here on my son's recommendation and I'm completely satisfied I'll come again next time\");"
+                    "$gameVariables.setValue(201, \"★★★★★ Came here on my son's recommendation and I'm completely satisfied I'll\\ncome again next time\");"
                 ]
             },
             {
@@ -51690,7 +51690,7 @@
                 "code": 355,
                 "indent": 3,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"The person in charge had fluffy breasts and the tightness of her pussy was the best\");"
+                    "$gameVariables.setValue(201, \"The person in charge had fluffy breasts and the tightness of her pussy was the\\nbest\");"
                 ]
             },
             {
@@ -51779,7 +51779,7 @@
                 "code": 355,
                 "indent": 4,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ This was my first time participating in an event, and I now understand how the participants\\nfeel\");"
+                    "$gameVariables.setValue(201, \"★★★★★ This was my first time participating in an event, and I now understand how\\nthe participants feel\");"
                 ]
             },
             {
@@ -51973,7 +51973,7 @@
                 "code": 355,
                 "indent": 5,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★★ Your understanding of each race is high, and your technique was good too I'll recommend it to\\nothers\");"
+                    "$gameVariables.setValue(201, \"★★★★★ Your understanding of each race is high, and your technique was good too\\nI'll recommend it to others\");"
                 ]
             },
             {
@@ -52167,7 +52167,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"Even though my mentor came along, their skills weren't bad, and having the two of us together was\\nactually better\");"
+                    "$gameVariables.setValue(201, \"Even though my mentor came along, their skills weren't bad, and having the two\\nof us together was actually better\");"
                 ]
             },
             {
@@ -52272,7 +52272,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"★★★★ I gave it four stars as a way of saying you should try harder next time It means I'm expecting\\nmore\");"
+                    "$gameVariables.setValue(201, \"★★★★ I gave it four stars as a way of saying you should try harder next time It\\nmeans I'm expecting more\");"
                 ]
             },
             {
@@ -52352,7 +52352,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"I was looking forward to having two join in, but one of them was completely useless It took way too\\nmuch time\");"
+                    "$gameVariables.setValue(201, \"I was looking forward to having two join in, but one of them was completely\\nuseless It took way too much time\");"
                 ]
             },
             {
@@ -52457,7 +52457,7 @@
                 "code": 355,
                 "indent": 6,
                 "parameters": [
-                    "$gameVariables.setValue(201, \"Could you make it so I can request someone by name next time? This time was a bit disappointing\");"
+                    "$gameVariables.setValue(201, \"Could you make it so I can request someone by name next time? This time was a\\nbit disappointing\");"
                 ]
             },
             {

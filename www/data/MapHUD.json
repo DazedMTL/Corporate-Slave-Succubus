@@ -1278,7 +1278,7 @@
     },
     {
         "type": "Text",
-        "Value": "月曜日 : ${$gameVariables.value(344)}",
+        "Value": "Monday: ${$gameVariables.value(344)}",
         "Condition": "$gameSwitches.value(86)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -1450,7 +1450,7 @@
     },
     {
         "type": "Text",
-        "Value": "火曜日 : ${$gameVariables.value(349)}",
+        "Value": "Tuesday: ${$gameVariables.value(349)}",
         "Condition": "$gameSwitches.value(87)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -1622,7 +1622,7 @@
     },
     {
         "type": "Text",
-        "Value": "水曜日 : ${$gameVariables.value(354)}",
+        "Value": "Wednesday: ${$gameVariables.value(354)}",
         "Condition": "$gameSwitches.value(88)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -1794,7 +1794,7 @@
     },
     {
         "type": "Text",
-        "Value": "木曜日 : ${$gameVariables.value(359)}",
+        "Value": "Thursday: ${$gameVariables.value(359)}",
         "Condition": "$gameSwitches.value(89)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -1966,7 +1966,7 @@
     },
     {
         "type": "Text",
-        "Value": "金曜日 : ${$gameVariables.value(364)}",
+        "Value": "Friday: ${$gameVariables.value(364)}",
         "Condition": "$gameSwitches.value(90)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",

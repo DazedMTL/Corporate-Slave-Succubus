@@ -4527,7 +4527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\TA[1]\\nc<>Magic Power\\V[41] acquired! Experience Points\\V[42]\nacquired! Fatigue Level\\V[43] increased"
+                                "\\TA[1]\\nc<>Magic Power \\V[41] acquired! Experience Points \\V[42]\nacquired! Fatigue Level \\V[43] increased"
                             ]
                         },
                         {
