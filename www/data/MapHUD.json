@@ -163,7 +163,7 @@
     },
     {
         "type": "Text",
-        "Value": " Mana: ${$gameVariables.value(1)}",
+        "Value": " M.Power: ${$gameVariables.value(1)}",
         "Condition": "$gameSwitches.value(101)",
         "Layer": "2",
         "Font": "GameFont",
