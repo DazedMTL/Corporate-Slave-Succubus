@@ -1029,7 +1029,7 @@ var $plugins = [
       "Font Name": "GameFont",
       "Font Name CH": "GameFont",
       "Font Name KR": "GameFont",
-      "Font Size": "28",
+      "Font Size": "24",
       "Font Size Change": "12",
       "Font Changed Max": "96",
       "Font Changed Min": "12",
