@@ -2845,7 +2845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\bustMsgExp[1, 1]\\nc<Saki>Huh?! Is this... a call from Senpai?\\bustMsgExp[1,\n0]Hello...?"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Huh?! Is this... a call from Senpai?\\bustMsgExp[1,0]Hello...?"
                             ]
                         },
                         {
