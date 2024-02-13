@@ -1444,14 +1444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ちょっと待ってください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここって派遣先…しかも警備会社じゃないですか！"
+                                "\\nc<Saki>Please wait a moment! This place is the dispatch\ndestination... and it's a security company, isn't it!"
                             ]
                         },
                         {
@@ -1468,7 +1461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ご飯も食べたんだし、仕事しないとね。"
+                                "\\nc<Senpai>We've had our meal, so we have to work now."
                             ]
                         },
                         {
@@ -1485,14 +1478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>聞いてないです！　酷いですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がここでどんな目に遭ったか知ってるくせに…"
+                                "\\nc<Saki>I wasn't informed! This is terrible! You know what I went\nthrough here..."
                             ]
                         },
                         {
@@ -1509,21 +1495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ほかの子がやられるよりは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたがもう１回やられるほうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マシだと思わない？"
+                                "\\nc<Senpai>Don't you think it's better for you to go through it again\nrather than having another girl suffer?"
                             ]
                         },
                         {
@@ -1540,7 +1512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>全然です！"
+                                "\\nc<Saki>Not at all!"
                             ]
                         },
                         {
@@ -1557,7 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>降りなさい。"
+                                "\\nc<Senpai>Get off."
                             ]
                         },
                         {

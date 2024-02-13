@@ -6222,21 +6222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]はぁっ、はぁっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、それじゃあ今日のコースはこれで終了…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お疲れ様でした。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>*panting*...panting*...So, that concludes today's course...\nThank you for your hard work."
                             ]
                         },
                         {
@@ -6295,14 +6281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>お疲れ様～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや～、久しぶりに思いっきり楽しめたよ。"
+                                "\\nc<Customer>Good work~ Wow~, it's been a while since I've had so much\nfun."
                             ]
                         },
                         {
@@ -6319,14 +6298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ちょっとぎこちないけど一生懸命な姿が…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初心にかえった気分っていうのかな？"
+                                "\\nc<Customer>It was a bit awkward, but your earnestness... It's like I'm\nfeeling the thrill of a beginner again, you know?"
                             ]
                         },
                         {
@@ -6366,14 +6338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(しょ、初心の意味を取りちがえてません？)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりバレてましたか…"
+                                "\\nc<Saki>(Did he... misunderstand the meaning of 'beginner'?) So you\nnoticed after all..."
                             ]
                         },
                         {
@@ -6404,14 +6369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>僕はベテランだからね。そんなに落ちこまないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごく良かったよ。咲姫ちゃん、淫魔の才能あるかもね。"
+                                "\\nc<Customer>I'm a veteran, you know. Don't be so down about it. It was\nreally good. Saki-chan, you might have a talent for being a\nsuccubus."
                             ]
                         },
                         {
@@ -6442,21 +6400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>淫魔の才能ですか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まえから自覚はしていたんですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面と向かって言われると妙な気分ですね。"
+                                "\\nc<Saki>Talent for being a succubus... I've been aware of it for\nsome time, but it feels strange to be told that to my face."
                             ]
                         },
                         {
@@ -6598,7 +6542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>待って、咲姫ちゃん。忘れ物。"
+                                "\\nc<Customer>Wait, Saki-chan. You forgot something."
                             ]
                         },
                         {
@@ -6669,7 +6613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]え？　これ、ひょっとして…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh? Could this possibly be..."
                             ]
                         },
                         {
@@ -6716,21 +6660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>シィーッ。チップをもらったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会社に没収されちゃうんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっそりしまって。ここはカメラもあるからさ…"
+                                "\\nc<Customer>Shh. If you get a tip, won't the company confiscate it? Just\ntuck it away secretly. There are cameras here too, you\nknow..."
                             ]
                         },
                         {
@@ -6761,14 +6691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えええっ…\\.\\.\\bustMsgExp[1, 5]ほ、本当にありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いつもなら断ってたけど、今の財布事情では到底…)"
+                                "\\nc<Saki>Eeeeh...[bustMsgExp[1, 5]] Thank you so much! (I would\nusually refuse, but with my current financial situation,\nthere's no way...)"
                             ]
                         },
                         {

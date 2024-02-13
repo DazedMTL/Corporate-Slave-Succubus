@@ -2478,21 +2478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]お客様、申し訳ありませんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このようなコースはございません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通常金額の４倍、お支払いいただきます。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>\"Dear customer, I apologize, but we do not offer such a\ncourse. You will be charged four times the standard amount.\""
                             ]
                         },
                         {
@@ -2532,7 +2518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>はあ？　４倍？！　ふざけてんのか？"
+                                "\\nc<Customer>\"Huh? Four times?! Are you kidding me?\""
                             ]
                         },
                         {
@@ -2563,14 +2549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お支払いいただけないのであれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "原則通りブラックリストに載せるしかありません。"
+                                "\\nc<Senpai>\"If you are unable to pay, then as per our policy, we have\nno choice but to add you to the blacklist.\""
                             ]
                         },
                         {
@@ -2601,14 +2580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>おいおい、淫魔事業はここ以外にもあるのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか肝が据わってるな…"
+                                "\\nc<Customer>\"Hey now, there are other succubus businesses out there,\nyou've got some nerve...\""
                             ]
                         },
                         {
@@ -2639,21 +2611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]あら。淫魔事業所の間でもブラックリストくらいは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "共有されますけど？ここでブラックリストに載れば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかのところも利用できませんよ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>\"Oh? Even among succubus businesses, blacklists are shared,\nyou know? If you get blacklisted here, you won't be able to\nuse other places either.\""
                             ]
                         },
                         {
@@ -2684,14 +2642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ク、クソッ…分かった。今回はおかげで存分に楽しめたから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "４倍でいいんだな？"
+                                "\\nc<Customer>\"Damn it... Fine. I had a great time thanks to you this\ntime... So it's four times the amount, right?\""
                             ]
                         },
                         {
@@ -2734,14 +2685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>豪放磊落なこと。お支払いありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またのご来店をお待ちしております。"
+                                "\\nc<Senpai>\"How magnanimous of you. Thank you for your payment. We look\nforward to your next visit.\""
                             ]
                         },
                         {
@@ -2972,14 +2916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩、見逃してあげるんですか？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっそのことブラックリストに載せてしまったほうが…"
+                                "\\nc<Saki>\"Senpai, are you going to let him off? Wouldn't it be better\nto just put him on the blacklist...\""
                             ]
                         },
                         {
@@ -3024,7 +2961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そんなことしてほかのところに行かれたら終わりよ。"
+                                "\\nc<Senpai>\"If we do that and he goes somewhere else, it's all over.\""
                             ]
                         },
                         {
@@ -3041,14 +2978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あの人、ちょっと規則を破っただけで４倍も支払ったのよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああいうカモを奪われるわけにはいかないわ。"
+                                "\\nc<Senpai>\"That person just broke a little rule and paid four times\nthe amount. We can't let such easy prey get snatched away by\nothers.\""
                             ]
                         },
                         {
@@ -3093,14 +3023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ええっ？　ブラックリストに登録されたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかのところには行けないって…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"What? If you're registered on the blacklist, you can't go\nto other places...\""
                             ]
                         },
                         {
@@ -3145,7 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]そんなのもちろん嘘。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>\"Of course, that's a lie.\""
                             ]
                         },
                         {
@@ -3162,21 +3085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]淫魔業者は仲が良くないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブラックリストの共有なんてありえない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お互いに客を奪いあう関係よ？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>\"Succubus businesses don't get along, so there's no way they\nshare blacklists. They're all in competition for customers.\""
                             ]
                         },
                         {
@@ -3221,14 +3130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]先輩の嘘って本当に見破れません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "表情ひとつ変えないで平然と嘘をつくんですもん…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"I can never tell when you're lying, Senpai. You say it so\ncalmly without changing your expression...\""
                             ]
                         },
                         {
@@ -3273,7 +3175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふふっ、ほめ言葉として受けとるわ。"
+                                "\\nc<Senpai>\"Hehe, I'll take that as a compliment.\""
                             ]
                         },
                         {
@@ -3290,21 +3192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お疲れ様、咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この際、シャワーブースを利用した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ソープコースも正式に取りいれようかしら？"
+                                "\\nc<Senpai>\"Good work, Saki. Maybe we should officially introduce a\nsoap course using the shower booths next time?\""
                             ]
                         },
                         {
@@ -3358,7 +3246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]もう、勘弁してください！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Please, no more!\""
                             ]
                         },
                         {
@@ -3419,7 +3307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫はトボトボと帰る支度をしに行く…"
+                                "\\nc<>Saki trudges off to prepare to go home..."
                             ]
                         },
                         {

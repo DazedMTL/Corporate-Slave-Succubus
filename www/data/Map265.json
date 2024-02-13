@@ -3756,14 +3756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悪いことをしたら謝らないと"
+                                "Would you like to watch the event? If you've done something\nwrong, you have to apologize."
                             ]
                         },
                         {
@@ -3771,8 +3764,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4193,7 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー>警備会社に派遣行きたい人？"
+                                "\\nc<Member>Anyone want to go on dispatch to the security company?"
                             ]
                         },
                         {
@@ -4281,7 +4274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>警備会社にですか？"
+                                "\\nc<Member 2>To the security company?"
                             ]
                         },
                         {
@@ -4321,14 +4314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]私はパスしたいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この前ひどい目にあっちゃって…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>I'd like to pass. I had a terrible experience last time..."
                             ]
                         },
                         {
@@ -4399,14 +4385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>あ、そうだ。咲姫の話は聞いたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはトラウマになるわね。"
+                                "\\nc<Member 2>Oh, right. I heard about what happened to Saki. That must\nhave been traumatic."
                             ]
                         },
                         {
@@ -4468,14 +4447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>本当大変だったんですよ。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]ところで、メアリー先輩はどちらに？"
+                                "\\nc<Saki>It really was tough...\\bustMsgExp[1, 0]By the way, where is\nMeary-senpai?"
                             ]
                         },
                         {
@@ -4492,7 +4464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うちの会社に休暇なんてあるわけないのに…"
+                                "\\nc<Saki>It's not like our company has any holidays anyway..."
                             ]
                         },
                         {
@@ -4585,14 +4557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー>あ、メアリー先輩なら役員とVIPの接客に行ってるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちの確定メンバーなの。"
+                                "\\nc<Member>Ah, if you're looking for Meary-senpai, she's gone to attend\nto the executives and VIPs. She's a confirmed member for\nthat."
                             ]
                         },
                         {
@@ -4623,7 +4588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>接客ですか？"
+                                "\\nc<Saki>Attending to guests?"
                             ]
                         },
                         {
@@ -4663,7 +4628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>年末だったんですけど、今回はちょっと早いですね。"
+                                "\\nc<Member 3>It was supposed to be at the end of the year, but it seems a\nbit early this time."
                             ]
                         },
                         {
@@ -4680,14 +4645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー>まぁ…あいつらのことだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつ変わってもおかしくないでしょう。"
+                                "\\nc<Member>Well... knowing them, it wouldn't be surprising if they\nchanged plans at any time."
                             ]
                         },
                         {
@@ -4718,14 +4676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(VIPと役員がいっぱいいるのか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだか、良いイベントじゃなさそうね。)"
+                                "\\nc<Saki>(A lot of VIPs and executives... This doesn't seem like a\ngood event.)"
                             ]
                         },
                         {
@@ -4756,14 +4707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>咲姫はまだ１年目だから呼ばれないだろうけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちは後で呼ばれるかもね。"
+                                "\\nc<Employee>Saki is still in her first year, so she probably won't be\ncalled, but we might be later on."
                             ]
                         },
                         {
@@ -4794,7 +4738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]じゃ、じゃあ今日の警備会社の派遣は…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>So, about today's dispatch to the security company..."
                             ]
                         },
                         {
@@ -4887,14 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>咲姫で決定だね。頑張って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちも頑張るから…"
+                                "\\nc<Member 3>It's decided then, Saki. Good luck! We'll do our best too..."
                             ]
                         },
                         {
@@ -4925,21 +4862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](ううっ、いつもなら文句言ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はそんな空気じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おとなしく行った方が良いかも…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Ugh, I'd usually complain, but the mood isn't right today.\nMaybe I should just go quietly...)"
                             ]
                         },
                         {
@@ -5001,7 +4924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー>この前、メアリー先輩がよく言ってくれたんだって？"
+                                "\\nc<Member>I heard Meary-senpai spoke highly of you recently?"
                             ]
                         },
                         {
@@ -5032,14 +4955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ええ、まぁ。向こうは私を役員の女だと思ってるだろうし…)\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]分かりました。いってきます！"
+                                "\\nc<Saki>(Yes, well. They probably think of me as one of the\nexecutive's women...)\\bustMsgExp[1, 0]Understood. I'm off!"
                             ]
                         },
                         {

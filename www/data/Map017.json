@@ -5624,7 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -5957,7 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -6290,7 +6290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -6484,7 +6484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "退勤する？"
+                                "Leaving work?"
                             ]
                         },
                         {
@@ -6492,8 +6492,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -6866,14 +6866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<受付>お話はうかがっております、咲姫様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "弊社にお越しいただき、誠にありがとうございます。"
+                                "\\nc<Receptionist>We have been informed of your situation, Saki-sama. Thank\nyou very much for coming to our company."
                             ]
                         },
                         {
@@ -6971,14 +6964,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<受付>ようこそ。お待ちしておちました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "PDが咲姫様にお会いしたがっております。"
+                                "\\nc<Receptionist>Welcome. We have been expecting you. The PD has been eager\nto meet with Saki-sama."
                             ]
                         },
                         {
@@ -6995,14 +6981,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<受付>週末はだいたい会議室におりますので、一度お寄りになってみてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "会議室は左の扉を開けててすぐです。"
+                                "\\nc<Receptionist>On weekends, we are usually in the conference room, so\nplease drop by. The conference room is right through the\ndoor on the left."
                             ]
                         },
                         {
@@ -7100,14 +7079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<受付>お話はうかがっております、咲姫様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "弊社にお越しいただき、誠にありがとうございます。"
+                                "\\nc<Receptionist>We have been informed of your situation, Saki-sama. Thank\nyou very much for coming to our company."
                             ]
                         },
                         {
@@ -7205,7 +7177,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<社員>役員室にご用ですか？"
+                                "\\nc<Employee>Do you have business in the executive office?"
                             ]
                         },
                         {
@@ -7213,8 +7185,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "入る",
-                                    "入らない"
+                                    "Enter",
+                                    "Don't enter"
                                 ],
                                 1,
                                 0,
@@ -7289,7 +7261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<受付>ご用は済みましたか？"
+                                "\\nc<Receptionist>Have you finished your business?"
                             ]
                         },
                         {
@@ -7297,8 +7269,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7444,14 +7416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<受付>お話はうかがっております、咲姫様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "弊社にお越しいただき、誠にありがとうございます。"
+                                "\\nc<Receptionist>We have been informed of your situation, Saki-sama. Thank\nyou very much for coming to our company."
                             ]
                         },
                         {
@@ -7600,7 +7565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>おっ、来たか？　待ちくたびれたよ。"
+                                "\\nc<Producer>Oh, you're here? I've been waiting for a while."
                             ]
                         },
                         {
@@ -7617,14 +7582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>いや～。やっぱり咲姫ちゃんは最高だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宣伝のあと登録者が400％も増えたよ！"
+                                "\\nc<Producer>No kidding. Saki-chan is truly the best. After the\npromotion, our subscribers increased by 400%!"
                             ]
                         },
                         {
@@ -7641,14 +7599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>この程度なら安心して推せるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これもすべて咲姫ちゃんのおかげ！"
+                                "\\nc<Producer>With results like this, I can confidently push for more.\nIt's all thanks to Saki-chan!"
                             ]
                         },
                         {
@@ -7665,14 +7616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>さあ、報酬。魔力カプセルだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…どこで手に入れたかって？　秘密。"
+                                "\\nc<Producer>Now, for your reward. Here's a magic capsule... Where did I\nget it from? That's a secret."
                             ]
                         },
                         {
@@ -7700,7 +7644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><魔力カプセル(小)>を獲得した。"
+                                "\\nc<> Gained a Small Magic Capsule."
                             ]
                         },
                         {
@@ -7797,14 +7741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>この程度なら安心して推せるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これもすべて咲姫ちゃんのおかげ！"
+                                "\\nc<Producer>With this level of quality, I can promote it with\nconfidence. This is all thanks to you, Saki-chan!"
                             ]
                         },
                         {
@@ -7892,14 +7829,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>おっ、咲姫ちゃん。久しぶり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いつもお世話になってるよ。"
+                                "\\nc<Producer>Oh, Saki-chan. Long time no see. I'm always in your debt."
                             ]
                         },
                         {
@@ -7916,14 +7846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>前回の放送も大好評だったよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うちの女優として雇用したいくらいだ。"
+                                "\\nc<Producer>The last broadcast was a huge hit too! I'd hire you as an\nactress for our company if I could."
                             ]
                         },
                         {
@@ -7940,14 +7863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>次もよろしく頼むよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メアリーさんにもよろしく伝えてくれ。"
+                                "\\nc<Producer>I'm counting on you for the next time too, okay? Please send\nmy regards to Meary-san as well."
                             ]
                         },
                         {
@@ -8053,7 +7969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>あっ！　こんにちは！"
+                                "\\nc<Producer>Ah! Hello!"
                             ]
                         },
                         {
@@ -8070,7 +7986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<役員>週末なのに頑張ってるね。横のお嬢さんは？"
+                                "\\nc<Executive Officer>Working hard even on the weekend, huh? Who's the young lady\nbeside you?"
                             ]
                         },
                         {
@@ -8087,21 +8003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>あ、淫魔第一産業から派遣で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "来た子なんですけど出れば視聴率を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "保証してくれる人材です。フフ…"
+                                "\\nc<Producer>Ah, she's a girl dispatched from the First Demon Industry.\nIf she appears, she guarantees the ratings. Heh..."
                             ]
                         },
                         {
@@ -8118,7 +8020,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<役員>ふむ…そうか？"
+                                "\\nc<Executive Officer>Hmm... is that so?"
                             ]
                         },
                         {
@@ -8305,7 +8207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<役員>お嬢さん、名前は？"
+                                "\\nc<Executive Officer>Young lady, what's your name?"
                             ]
                         },
                         {
@@ -8322,7 +8224,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>咲姫ちゃんです。"
+                                "\\nc<Producer>It's Saki-chan."
                             ]
                         },
                         {
@@ -8339,14 +8241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<役員>咲姫…覚えておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう言わなくても分かるよな？　適当に準備しておけ。"
+                                "\\nc<Executive Officer>Saki... I'll remember that. You know what to do without me\nsaying it, right? Just prepare accordingly."
                             ]
                         },
                         {
@@ -8363,7 +8258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>わ、分かりました！"
+                                "\\nc<Producer>Yes, understood!"
                             ]
                         },
                         {
@@ -8513,21 +8408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>ふぅ…あ、誰かって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うちの会社の役員だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "咲姫ちゃんのこと気に入ったみたい。"
+                                "\\nc<Producer>Phew... Oh, who is that? He's one of our company's executive\nofficers. It seems he's taken a liking to Saki-chan."
                             ]
                         },
                         {
@@ -8544,14 +8425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>それでだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "咲姫ちゃん。VIPの接待ってしたことある？"
+                                "\\nc<Producer>But anyway... Saki-chan, have you ever done VIP\nentertainment?"
                             ]
                         },
                         {
@@ -8568,21 +8442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>あ、なくても関係ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなことは今から学べばいいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "咲姫ちゃんは天才淫魔だからね。"
+                                "\\nc<Producer>Ah, it doesn't matter if you haven't. You can learn all that\nnow. After all, Saki-chan is a genius succubus."
                             ]
                         },
                         {
@@ -8599,14 +8459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>僕の名前で予約しておくから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "接待頼んだよ。スケジュールは咲姫ちゃんに任せるよ。"
+                                "\\nc<Producer>I've made a reservation under my name, so I'm counting on\nyou for the entertainment. I'll leave the schedule up to\nyou, Saki-chan."
                             ]
                         },
                         {
@@ -8623,21 +8476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>僕だけが知っておきたい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "極上マンコだったのに…残念だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うちの番組も忘れないで頼むよ。"
+                                "\\nc<Producer>It was a top-notch pussy that I wanted to keep to myself...\nWhat a shame. Don't forget about our program too, okay?"
                             ]
                         },
                         {
@@ -8703,14 +8542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>おっ、咲姫ちゃん。久しぶり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いつもお世話になってるよ。"
+                                "\\nc<Producer>Oh, Saki-chan. Long time no see. I'm always in your debt."
                             ]
                         },
                         {
@@ -8727,14 +8559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>次もよろしく頼むよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メアリーさんにもよろしく伝えてくれ。"
+                                "\\nc<Producer>I'm counting on you for the next time too, okay? Please send\nmy regards to Meary-san as well."
                             ]
                         },
                         {
@@ -8823,14 +8648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>僕の名前で予約しておくから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "接待頼んだよ。スケジュールは咲姫ちゃんに任せるよ。"
+                                "\\nc<Producer>I'll make a reservation under my name, so I'm counting on\nyou for the hospitality. I'll leave the schedule up to Saki-\nchan."
                             ]
                         },
                         {
@@ -8909,14 +8727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>おっ、咲姫ちゃん。久しぶり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもお世話になってるよ。"
+                                "\\nc<Producer>Oh, Saki-chan. It's been a while. I'm always in your debt."
                             ]
                         },
                         {
@@ -8933,14 +8744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>このあいだの役員、覚えてるよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんに大満足したみたいなんだ。"
+                                "\\nc<Producer>You remember the executive from the other day, right? It\nseems he was very satisfied with you, Saki-chan."
                             ]
                         },
                         {
@@ -8957,14 +8761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>めちゃめちゃ褒めてたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげで僕まで…グフフ。"
+                                "\\nc<Producer>He was praising you a lot. Thanks to that, even I... Hehehe."
                             ]
                         },
                         {
@@ -8981,21 +8778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>ともかく、ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ必要だよね？　咲姫ちゃんのために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕が特別に準備したんだ。"
+                                "\\nc<Producer>Anyway, thank you. You need this, right? I prepared it\nespecially for you, Saki-chan."
                             ]
                         },
                         {
@@ -9012,7 +8795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>それじゃあ今後ともよろしく。"
+                                "\\nc<Producer>Well then, I look forward to working with you in the future."
                             ]
                         },
                         {
@@ -9040,7 +8823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><魔力カプセル(中)>を獲得した。"
+                                "\\nc<> Gained a Medium Magic Capsule."
                             ]
                         },
                         {
@@ -9137,14 +8920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>おっ、咲姫ちゃん。久しぶり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもお世話になってるよ。"
+                                "\\nc<Producer>Oh, Saki-chan. It's been a while. I'm always in your debt."
                             ]
                         },
                         {
@@ -9334,14 +9110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>何だよ、忙しいから話しかけるな…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おおっ、咲姫ちゃん。"
+                                "\\nc<Reporter>What do you want? I'm busy, so don't talk to me... Oh, it's\nSaki-chan."
                             ]
                         },
                         {
@@ -9358,14 +9127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>あの日はありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪いけど今すごく忙しくてさ。"
+                                "\\nc<Reporter>Thanks for the other day. Sorry, but I'm really swamped\nright now."
                             ]
                         },
                         {
@@ -9382,14 +9144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>もし話があれば、あとでスタジオにおいで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーあ、週末に何やってるんだか…"
+                                "\\nc<Reporter>If you have something to discuss, come to the studio later.\nAh-ah, I wonder what I'll be doing this weekend..."
                             ]
                         },
                         {
@@ -9755,14 +9510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>おお、咲姫くん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "週末にここまで来てくれるなんて。"
+                                "\\nc<Executive Officer>Oh, Saki-kun. I'm surprised you came all the way here on the\nweekend."
                             ]
                         },
                         {
@@ -9779,14 +9527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>このあいだは満足したかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕も久しぶりにかなり熱くなって…ククッ。"
+                                "\\nc<Executive Officer>Were you satisfied last time? I got quite heated up myself\nafter such a long time... Heh."
                             ]
                         },
                         {
@@ -9803,14 +9544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>会ったついでに頼みたいことがあるんだが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここではちょっとあれだから僕の部屋に行こうか？"
+                                "\\nc<Executive Officer>Since we've met, there's something I'd like to ask you...\nIt's a bit awkward to talk about it here, so shall we go to\nmy room?"
                             ]
                         },
                         {
@@ -9827,14 +9561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>受付にはあらかじめ伝えておくよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、準備ができたら上がっておいで。"
+                                "\\nc<Executive Officer>I'll let the reception know in advance. So, once you're\nready, come on up."
                             ]
                         },
                         {
@@ -10081,14 +9808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>あ、咲姫さんじゃないですか。お久しぶりです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お変わりありませんか？"
+                                "\\nc<Streamer>Ah, isn't that Saki-san? It's been a while. Have you been\nwell?"
                             ]
                         },
                         {
@@ -10167,14 +9887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>あ、咲姫さんじゃないですか。お久しぶりです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お変わりありませんか？"
+                                "\\nc<Streamer>Oh, isn't that Saki-san? Long time no see. Have you been\nwell?"
                             ]
                         },
                         {
@@ -10191,14 +9904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>…はい？　アハハ。僕はですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "成人向け番組、やめました。"
+                                "\\nc<Streamer>...Yes? Ahaha. You see, I've quit doing adult shows."
                             ]
                         },
                         {
@@ -10215,21 +9921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>お金もいっぱい稼いだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天職だと思ってたけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが本当に正しいのかと思いはじめて。"
+                                "\\nc<Streamer>I made plenty of money and thought it was my true calling,\nbut... I started to question if it was really the right\nthing to do."
                             ]
                         },
                         {
@@ -10246,21 +9938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>今後は社会の役に立つことを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しようと思ってます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例えば…社会告発チャンネルみたいなことです。"
+                                "\\nc<Streamer>From now on, I want to do something that contributes to\nsociety. For example... like a social exposé channel."
                             ]
                         },
                         {
@@ -10277,21 +9955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>ん？　このメモは何ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっ？　新入社員が会社で受けた不当な扱いに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついてのリストですか？"
+                                "\\nc<Streamer>Hm? What's this memo? Eh? A list of unfair treatment a new\nemployee received at the company?"
                             ]
                         },
                         {
@@ -10308,21 +9972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>実は近々、１つ目の動画を撮影する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "予定だったんです…こんなふうにテーマができるなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幸運が舞いおりたみたいです。"
+                                "\\nc<Streamer>Actually, I was planning to shoot my first video soon... To\nhave a theme like this fall into my lap is like a stroke of\nluck."
                             ]
                         },
                         {
@@ -10339,14 +9989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>これは僕が扱うことにします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます、咲姫さん！"
+                                "\\nc<Streamer>I'll take care of this. Thank you, Saki-san!"
                             ]
                         },
                         {
@@ -10363,21 +10006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>…あ。ところでですね…１つ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いしたいことがあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いてくれますか？"
+                                "\\nc<Streamer>...Ah. By the way... there's something I'd like to ask you.\nWill you listen?"
                             ]
                         },
                         {
@@ -10385,8 +10014,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10416,7 +10045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<配信者>ありがとうございます！"
+                                "\\nc<Streamer>Thank you!"
                             ]
                         },
                         {
@@ -10446,14 +10075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<配信者>そうなんですか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無理なお願いをしてすみません。"
+                                "\\nc<Streamer>Is that so... I'm sorry for making an unreasonable request."
                             ]
                         },
                         {
@@ -10485,21 +10107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>実は、成人向け番組をやめてから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どん底でして。色々とやってはいますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "登録者数がまったく伸びないんです。"
+                                "\\nc<Streamer>The truth is, ever since I quit the adult shows, I've hit\nrock bottom. I've tried various things, but my subscriber\ncount just won't grow."
                             ]
                         },
                         {
@@ -10516,14 +10124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>そういう状態で話題になるのは難しいと思うので…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫さんにバイラルをお願いしたいんです。"
+                                "\\nc<Streamer>It's hard to become a topic of discussion in such a state...\nso I'd like to ask for your help with going viral, Saki-san."
                             ]
                         },
                         {
@@ -10540,14 +10141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>会社で宣伝業務もやってますよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動画のコメントを偽装して世論を作るのはどうですか？"
+                                "\\nc<Streamer>You do promotional work at the company, right? How about\nfabricating comments on the video to shape public opinion?"
                             ]
                         },
                         {
@@ -10564,14 +10158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>「宣伝業務中には無理です」？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うう…でしたらパソコンを使うときだけでもどうか…"
+                                "\\nc<Streamer>\"It's impossible during promotional work\"? Ugh... then maybe\njust when you're using the computer..."
                             ]
                         },
                         {
@@ -10588,14 +10175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>こういう敏感なテーマには絶対に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食いつくと思うんです。僕も頑張りますから。"
+                                "\\nc<Streamer>I'm sure people will latch onto such a sensitive topic. I'll\ndo my best as well."
                             ]
                         },
                         {
@@ -10612,7 +10192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>では、よろしくお願いします！"
+                                "\\nc<Streamer>Then, I'm counting on you!"
                             ]
                         },
                         {
@@ -10711,14 +10291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<配信者>では、コメントの偽装、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくお願いします！"
+                                "\\nc<Streamer>Well then, please go ahead with disguising the comments!"
                             ]
                         },
                         {
@@ -10857,14 +10430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マスコミ警備員>何？　週末なのに派遣に来たって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…淫魔は全員、頭がイカれてるのか？"
+                                "\\nc<Press Security Guard>\"What? You came on dispatch even on the weekend?... Are all\nsuccubi out of their minds?\""
                             ]
                         },
                         {
@@ -10881,21 +10447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マスコミ警備員>とりあえず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボディーチェックはしないといけないから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、うしろを向け。"
+                                "\\nc<Press Security Guard>\"Anyway, I have to perform a body check. Now, turn around.\""
                             ]
                         },
                         {
@@ -10912,7 +10464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マスコミ警備員>ただのボディーチェックだ…ククッ。"
+                                "\\nc<Press Security Guard>\"It's just a body check... Heh.\""
                             ]
                         },
                         {
@@ -10974,14 +10526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マスコミ警備員>オッケー。行ってもよし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "余計なことはするんじゃないぞ。"
+                                "\\nc<Press Security Guard>\"Okay. You may go. Don't do anything unnecessary.\""
                             ]
                         },
                         {
@@ -11068,7 +10613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>少しの経験指数を獲得した！"
+                                "\\nc<>Gained a little bit of EXP!"
                             ]
                         },
                         {
@@ -11156,7 +10701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マスコミ警備員>余計なことはするんじゃないぞ。"
+                                "\\nc<Press Security Guard>Don't do anything unnecessary."
                             ]
                         },
                         {
@@ -11244,7 +10789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>自動販売機の奥に何か落ちているみたいだ…"
+                                "\\nc<>It seems like there's something fallen behind the vending\nmachine..."
                             ]
                         },
                         {
@@ -11261,7 +10806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>手を入れてみる？"
+                                "\\nc<>Should I reach in and check?"
                             ]
                         },
                         {
@@ -11269,8 +10814,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11335,14 +10880,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>どうやら私の勘違いだったらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何もなかった…"
+                                "\\nc<>It appears I was mistaken. There was nothing there..."
                             ]
                         },
                         {
@@ -11402,7 +10940,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を発見した！"
+                                "\\nc<> Found a can of coffee!"
                             ]
                         },
                         {
@@ -11462,7 +11000,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を発見した！"
+                                "\\nc<> Found a can of coffee!"
                             ]
                         },
                         {
@@ -11522,7 +11060,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶緑茶>を発見した！"
+                                "\\nc<> Found a can of green tea!"
                             ]
                         },
                         {

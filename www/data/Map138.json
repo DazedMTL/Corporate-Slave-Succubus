@@ -6487,14 +6487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "巨根種族のミスマッチ"
+                                "Would you like to view the event? The Mismatch of the Huge\nCock Tribe"
                             ]
                         },
                         {
@@ -6502,8 +6495,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -6738,7 +6731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>今日のお客は……どこだろう？"
+                                "\\nc<Saki>Who is today's client... I wonder where they are?"
                             ]
                         },
                         {
@@ -6972,7 +6965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>咲姫さん、こっちです。お客が待ってます。"
+                                "\\nc<Employee>Saki-san, over here. The client is waiting."
                             ]
                         },
                         {
@@ -7003,14 +6996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ、でもまだ時間はあるんじゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早めに来られたんですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh, but isn't there still time... Did they arrive early?"
                             ]
                         },
                         {
@@ -7041,14 +7027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>早く３番ルームに入ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乱暴な方なので私じゃ手に負えなくて。"
+                                "\\nc<Employee>Please go to room number 3 quickly. They're quite rough, and\nI can't handle them."
                             ]
                         },
                         {
@@ -7079,7 +7058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]その乱暴な方を今から相手しに行くんですけど…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>So I'm going to deal with this rough person now..."
                             ]
                         },
                         {

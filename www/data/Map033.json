@@ -2455,14 +2455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>今、考えごとしてるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話しかけないでくれる？"
+                                "\\nc<Logistics Company Employee>I'm deep in thought right now, so could you please not talk\nto me?"
                             ]
                         },
                         {
@@ -2601,7 +2594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<<物流会社の社員>眠い…コーヒーが必要。"
+                                "\\nc<Logistics Company Employee>I'm sleepy... I need coffee."
                             ]
                         },
                         {
@@ -2740,7 +2733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>今忙しいからあっち行って。"
+                                "\\nc<Logistics Company Employee>I'm busy right now, so please go over there."
                             ]
                         },
                         {
@@ -2888,21 +2881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>はぁ。そういえば今回…から渡された"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実験結果見ました？完全に…ですよ。これでは当初の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目標達成まではもう少し時間が…"
+                                "\\nc<Employee 1>Sigh. By the way, have you seen the experimental results\npassed on from...? It's completely... you know. At this\nrate, it'll take a bit more time to achieve our initial\ngoal..."
                             ]
                         },
                         {
@@ -2928,14 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>…が下した…は確実に…です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ウイルスの…まだ完成段階が…"
+                                "\\nc<Employee 2>The decision made by... is definitely... The virus's... is\nstill not at the completion stage..."
                             ]
                         },
                         {
@@ -2952,14 +2924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>…で納品することにした…も足りなくて問題です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…の研究計画にも支障が…"
+                                "\\nc<Employee 1>We've decided to deliver it through... but the lack of... is\na problem... It's also affecting our research plan..."
                             ]
                         },
                         {
@@ -2976,14 +2941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>…を通しての…はうまくいっているのでご心配なく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままいけば順調に…の前には…の…が…"
+                                "\\nc<Employee 2>The... through... is going well, so don't worry. If we keep\nthis up, we should smoothly reach... before..."
                             ]
                         },
                         {
@@ -3000,14 +2958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>やはり…は必要ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかの…を通してでも…を準備しなければ…"
+                                "\\nc<Employee 1>As expected, we do need.... We have to prepare... through\nother means if necessary..."
                             ]
                         },
                         {
@@ -3044,7 +2995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>特定の単語にノイズがかかっているようで聞きとれない。"
+                                "\\nc<>It seems like certain words are obscured by noise and can't\nbe made out."
                             ]
                         },
                         {
@@ -3117,7 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>…ところで、この…は何ですか？"
+                                "\\nc<Employee 1>By the way, what is this...?"
                             ]
                         },
                         {
@@ -3179,7 +3130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>ああ…私たちの…"
+                                "\\nc<Employee 1>Ah... that's our..."
                             ]
                         },
                         {
@@ -3258,21 +3209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>確かなようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とくに…も我々が意図したことですし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、今後も週末ごとに来られたら…方法を…"
+                                "\\nc<Employee 2>It seems certain. Especially since... is exactly what we\nintended. However, if they keep coming every weekend, we'll\nneed to find a... method..."
                             ]
                         },
                         {
@@ -3289,7 +3226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>ん？　いえ。むしろ好都合かもしれません。"
+                                "\\nc<Employee 1>Hm? No, it might actually be convenient."
                             ]
                         },
                         {
@@ -3368,7 +3305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>…さん。聞いてますよね？　我々は…です。"
+                                "\\nc<Employee 1>...san. You're listening, right? We are..."
                             ]
                         },
                         {
@@ -3394,7 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]……"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>..."
                             ]
                         },
                         {
@@ -3411,14 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>我々からお願いがあるのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恩」を返してくれますよね？"
+                                "\\nc<Employee 1>We have a favor to ask of you, you'll return the 'favor,'\nwon't you?"
                             ]
                         },
                         {
@@ -3449,7 +3379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]……"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>..."
                             ]
                         },
                         {
@@ -3466,14 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>フフ、よろしい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、次は…で…が…すれば…"
+                                "\\nc<Employee 1>Hehe, very well... Then, next time... if... does..., it\nwill..."
                             ]
                         },
                         {
@@ -3499,7 +3422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>そんな方法が？"
+                                "\\nc<Employee 2>Is there such a method?"
                             ]
                         },
                         {
@@ -3516,14 +3439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>…理解しましたよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…が…するのを聞いてください。"
+                                "\\nc<Employee 1>You understand, don't you? Please listen to... doing..."
                             ]
                         },
                         {
@@ -3540,7 +3456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>それが我々に恩を返す方法です。"
+                                "\\nc<Employee 1>That's how you can repay our favor."
                             ]
                         },
                         {
@@ -3632,7 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>いいのですか？"
+                                "\\nc<Employee 2>Is that alright?"
                             ]
                         },
                         {
@@ -3680,14 +3596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>あまりに深く…て、むしろ難しいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも…は伝わったでしょう。"
+                                "\\nc<Employee 1>It's quite deep..., rather difficult. But still, the message\nhas been conveyed, hasn't it?"
                             ]
                         },
                         {
@@ -3744,7 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>うまくやってくれるでしょう。 フフ…"
+                                "\\nc<Employee 1>You'll do well, I'm sure. Hehe..."
                             ]
                         },
                         {
@@ -3894,14 +3803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>はぁ。そういえば今回…から渡された…見ました？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完全に…ですよ。これでは…まではもう少し時間が…"
+                                "\\nc<Employee 1>*sigh* By the way, have you seen the... that was handed over\nfrom... this time? It's completely... you know. At this\nrate, it'll take a bit more time until..."
                             ]
                         },
                         {
@@ -3927,14 +3829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>…で…することにした…も足りなくて問題です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…の…にも支障が…"
+                                "\\nc<Employee 2>...so we decided to... with... but there's not enough... and\nthat's a problem. It's also affecting the... of..."
                             ]
                         },
                         {
@@ -3951,7 +3846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>……"
+                                "\\nc<Employee 1>..."
                             ]
                         },
                         {
@@ -3968,7 +3863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>……"
+                                "\\nc<Employee 2>..."
                             ]
                         },
                         {
@@ -4005,7 +3900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ノイズがさらに強くなった…"
+                                "\\nc<>The noise got even stronger..."
                             ]
                         },
                         {
@@ -4204,7 +4099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><カードキー>を獲得した！"
+                                "\\nc<>You've obtained a [Card Key]!"
                             ]
                         },
                         {
@@ -4502,7 +4397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>給湯室は自由に使っても良いと言われた…"
+                                "\\nc<>I was told that the break room is free for anyone to use..."
                             ]
                         },
                         {
@@ -4519,7 +4414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>冷蔵庫を開けてみる？"
+                                "\\nc<>Should I open the fridge?"
                             ]
                         },
                         {
@@ -4527,8 +4422,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4593,14 +4488,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>この会社もうちと事情は似てるようだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何もなかった。"
+                                "\\nc<>It seems this company has similar circumstances to ours...\nNothing was there."
                             ]
                         },
                         {
@@ -4648,7 +4536,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を獲得した！"
+                                "\\nc<> Gained a [Canned Coffee]!"
                             ]
                         },
                         {
@@ -4696,7 +4584,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を獲得した！"
+                                "\\nc<> Gained a [Canned Coffee]!"
                             ]
                         },
                         {
@@ -4744,14 +4632,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><魔力カプセル(中)>を獲得した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "…なんでこんなところに？"
+                                "\\nc<> Gained a [Magic Capsule (Medium)]!... Why is it even here?"
                             ]
                         },
                         {

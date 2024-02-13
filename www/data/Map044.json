@@ -1486,14 +1486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]データを保存します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "保存されるデータは次のものになります。"
+                                "\\TA[1]Saving data. The following data will be saved:"
                             ]
                         },
                         {
@@ -1510,21 +1503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]スキル及びアイテム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回想室開放度"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クエスト進行率"
+                                "\\TA[1]Skills, items, gallery unlock progress, and quest\nprogression rate"
                             ]
                         },
                         {
@@ -1541,7 +1520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]セーブ画面をロードします。"
+                                "\\TA[1]Loading the save screen."
                             ]
                         },
                         {

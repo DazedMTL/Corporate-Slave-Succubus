@@ -3398,14 +3398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1]どこに隠れよう……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExpression[1, 0]あっ、これは？"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>Where should I hide...? Ah, what's this?"
                             ]
                         },
                         {
@@ -3440,14 +3433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いくらなんでもこれはちょっとね。人としての尊厳とか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蓋を開けたらすぐにバレそうだし。"
+                                "\\nc<Saki>No matter how you look at it, this is a bit much. As a human\nbeing, I have my dignity... Plus, it seems like I'd be found\nout immediately if the lid were opened."
                             ]
                         },
                         {

@@ -4258,7 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ハァッ！！！！"
+                                "\\nc<Saki>Haaah!!!!"
                             ]
                         },
                         {
@@ -4282,14 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ゆ、夢？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今何時…？"
+                                "\\nc<Saki>Y-you, was it a dream? What time is it...?"
                             ]
                         },
                         {
@@ -4650,7 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>わっ、大遅刻！！！！"
+                                "\\nc<Saki>Whoa, I'm super late!!!!"
                             ]
                         },
                         {
@@ -4681,14 +4674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>で、電話…うっ。せ、先輩…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしもし…？"
+                                "\\nc<Saki>And, the phone...ugh. Se-senpai...hello...?"
                             ]
                         },
                         {
@@ -4719,14 +4705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、今期はかなり余裕みたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "評価日なのに顔も見せないで。"
+                                "\\nc<Senpai>Saki, it seems you have quite a bit of leeway this term. You\ndidn't even show your face on evaluation day."
                             ]
                         },
                         {
@@ -4743,14 +4722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そうね～…次の四半期のノルマをちょっと減らそうかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろん私のノルマをね。"
+                                "\\nc<Senpai>Well then... Maybe I should reduce your quota a bit for the\nnext quarter? Of course, I mean my quota."
                             ]
                         },
                         {
@@ -4788,7 +4760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ！？　せ、先輩…それはいくらなんでも私の能力では…"
+                                "\\nc<Saki>Eh!? Se-senpai... that's way beyond my capabilities..."
                             ]
                         },
                         {
@@ -4819,21 +4791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まだ口答えするつもり？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ…今から１分経過するごとに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１％ずつ上昇っていうのはどう？"
+                                "\\nc<Senpai>Still planning to talk back? How about this... for every\nminute from now, your quota will increase by 1%?"
                             ]
                         },
                         {
@@ -4864,7 +4822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>す、すみませんんんんっ！！"
+                                "\\nc<Saki>I-I'm so sorryyyyy!!"
                             ]
                         },
                         {
@@ -5069,7 +5027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そのあと出勤して死ぬほど怒られた…"
+                                "\\nc<>After that, I went to work and got scolded to death..."
                             ]
                         },
                         {
@@ -5122,14 +5080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\TA[1]今期の条件を達成しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔力を回収します。"
+                                "\\TA[1]You have achieved this term's conditions. Magic power will\nbe collected."
                             ]
                         },
                         {
@@ -5146,7 +5097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\TA[1]次期の目標は魔力120,000です。"
+                                "\\TA[1]The target for the next term is 120,000 magic power."
                             ]
                         },
                         {

@@ -4153,14 +4153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備>それでは、四半期ノルマ達成に失敗した方々を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "派遣先へご案内します。"
+                                "\\nc<Security>Now, we will guide those who failed to meet their quarterly\nquotas to their dispatch locations."
                             ]
                         },
                         {
@@ -4205,7 +4198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]……"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -4290,21 +4283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](あっ、来た…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 3]でも私はメアリー先輩がなんとかするって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ったから大丈夫よね…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Ah, they're here...[bustMsgExp[1, 3]] But Meary-senpai said\nshe would take care of it, so I should be fine...)"
                             ]
                         },
                         {
@@ -4733,7 +4712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備>咲姫さん。実績不足で強制派遣対象者です。"
+                                "\\nc<Security>Saki-san. You are a subject for forced dispatch due to\ninsufficient achievements."
                             ]
                         },
                         {
@@ -4818,14 +4797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ええっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょ、ちょっと待ってください！　何かの間違いでは…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>What?! Wait a minute, please! Isn't there some mistake...?"
                             ]
                         },
                         {
@@ -4856,7 +4828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備>いいえ。間違いではありません。"
+                                "\\nc<Security>No, there is no mistake."
                             ]
                         },
                         {
@@ -4882,7 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備２>どうしてみんな同じことを言うのか…"
+                                "\\nc<Guard 2>Why does everyone say the same thing..."
                             ]
                         },
                         {
@@ -4986,14 +4958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>せ、先輩！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いったいどういうことですか？"
+                                "\\nc<Saki>Se, Senpai! What on earth is going on?"
                             ]
                         },
                         {
@@ -5038,21 +5003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]もしも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫が逃げ出してしまったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちも被害に遭うのよね。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>If Saki were to run away, we would all suffer the\nconsequences, you know."
                             ]
                         },
                         {
@@ -5069,21 +5020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>四半期の実績発表日には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "建物全体が封鎖されるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせ逃げられなかったとは思うけど…"
+                                "\\nc<Senpai>The entire building is sealed on the day of the quarterly\nperformance announcement, so I figured you wouldn't be able\nto escape anyway..."
                             ]
                         },
                         {
@@ -5100,7 +5037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 2]もう諦めたら？"
+                                "\\bustMsgExp[2, 2]\\nc<Senpai>Why don't you just give up?"
                             ]
                         },
                         {
@@ -5154,7 +5091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>う、裏切ったんですね、先輩！"
+                                "\\nc<Saki>You... You betrayed me, Senpai!"
                             ]
                         },
                         {
@@ -5208,21 +5145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]咲姫が私を裏切ったんじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は当たり前のように四半期の実績くらいは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こなしてくれると思ってたのよ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>It's not that Saki betrayed me. I just assumed you would\nnaturally handle something as basic as the quarterly\nachievements."
                             ]
                         },
                         {
@@ -5276,7 +5199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]イイィッ、地獄で呪ってやる…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Eeeek, I'll curse you in hell..."
                             ]
                         },
                         {
@@ -5321,14 +5244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>地獄じゃなくて強制派遣でしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこでも元気でやるのよ、咲姫？"
+                                "\\nc<Senpai>It's not hell, it's forced dispatch. You'll do your best\nthere too, won't you, Saki?"
                             ]
                         },
                         {
@@ -6115,7 +6031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]だめ！　離して！　あああっ！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>No! Let go! Aaaaah!"
                             ]
                         },
                         {

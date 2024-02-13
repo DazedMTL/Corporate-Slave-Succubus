@@ -4297,7 +4297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -4491,21 +4491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>もともと週末撮影は慣れてるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回のはちょっと違うからな。週末に休めたの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "久々だったのに…"
+                                "\\nc<Staff>\"I'm used to shooting on weekends, but this time it's a bit\ndifferent. It's been a while since I had a weekend off...\""
                             ]
                         },
                         {
@@ -4522,14 +4508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>上から淫魔第一産業のガイドラインを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "送ってきたのなんの。"
+                                "\\nc<Staff>\"They sent down guidelines from the top brass of the\nSuccubus First Industry, of all things.\""
                             ]
                         },
                         {
@@ -4554,14 +4533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>…何だよ、どうしてお前がそれを？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…って、お前は咲姫ちゃん？"
+                                "\\nc<Staff>\"...What the, why do you have that?... Wait, are you Saki-\nchan?\""
                             ]
                         },
                         {
@@ -4578,21 +4550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>まあ、どうせ淫魔はチンポしか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頭に入ってないバカな種族だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "べつにいいか。"
+                                "\\nc<Staff>\"Well, succubi are a dumb species that only think about dick\nanyway, so I guess it doesn't really matter.\""
                             ]
                         },
                         {
@@ -4609,14 +4567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>はあ…私は急用で打ち上げに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "行けなかったんだよね…あの日はすごかったんだって？"
+                                "\\nc<Staff>\"Sigh... I had urgent matters and couldn't make it to the\nwrap-up party... I heard that day was incredible, wasn't\nit?\""
                             ]
                         },
                         {
@@ -4633,14 +4584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>あ？　ガイドライン？　さあ、よく分からないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そういやこのまえ…あっ。"
+                                "\\nc<Staff>\"Huh? Guidelines? I don't really understand. Oh yeah, the\nother day... Ah.\""
                             ]
                         },
                         {
@@ -4657,14 +4601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>ふふ…だめだよ、咲姫ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ギブアンドテイクなんだから。"
+                                "\\nc<Staff>\"Hehe... No can do, Saki-chan. It's all about give and\ntake.\""
                             ]
                         },
                         {
@@ -4681,7 +4618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>どう？　聞いてみる？"
+                                "\\nc<Staff>\"How about it? Want to give it a listen?\""
                             ]
                         },
                         {
@@ -4689,8 +4626,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 0,
                                 0,
@@ -4720,14 +4657,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<スタッフ>ふふ…いいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "でも、今日は忙しいからだめだし…"
+                                "\\nc<Staff>\"Hehe... That's great. But I'm busy today, so no can do...\""
                             ]
                         },
                         {
@@ -4744,14 +4674,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<スタッフ>今度そっちに行くから、そのときはよろしくね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "淫魔にとってはむしろ好都合なんじゃないか？"
+                                "\\nc<Staff>\"I'll be heading over there next time, so take care of me\nthen. It might actually be more convenient for a succubus,\nright?\""
                             ]
                         },
                         {
@@ -4768,14 +4691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<スタッフ>え？　会社に知られたら大変だって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それは俺の知ったことじゃないな。"
+                                "\\nc<Staff>\"Eh? It'd be trouble if the company found out? That's none\nof my business.\""
                             ]
                         },
                         {
@@ -4792,7 +4708,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<スタッフ>よく考えてみてね。ロビーで待ってるから。"
+                                "\\nc<Staff>\"Think about it carefully. I'll be waiting in the lobby.\""
                             ]
                         },
                         {
@@ -4839,14 +4755,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<スタッフ>嫌だって？　まあ、俺の知ったことじゃないけどさ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "よく考えたほうがいいよ…フフフ…"
+                                "\\nc<Staff>\"You don't like it? Well, it's none of my business... but\nyou better think it over... Heh heh heh...\""
                             ]
                         },
                         {
@@ -4945,14 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>よく考えてみてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "月曜日、ロビーで待ってるから。"
+                                "\\nc<Staff>Think about it carefully. I'll be waiting in the lobby on\nMonday."
                             ]
                         },
                         {
@@ -5031,14 +4933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>何？　今忙しいんだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃん？"
+                                "\\nc<Staff>What? I'm busy right now... Saki-chan?"
                             ]
                         },
                         {
@@ -5055,7 +4950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>はあ…まあ、約束は約束だからね。"
+                                "\\nc<Staff>Sigh... Well, a promise is a promise."
                             ]
                         },
                         {
@@ -5072,14 +4967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>実はこのまえ、控え室でPDと役員が話してるのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "耳にしたんだ。これから淫魔第一産業を支持するんだとか。"
+                                "\\nc<Staff>Actually, I overheard the PD and some executives talking in\nthe green room the other day. They said they're going to\nsupport Succubus First Industries or something."
                             ]
                         },
                         {
@@ -5096,21 +4984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>しかもここだけじゃない、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかのところのお偉いさんの名前まで出てきちゃってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究機関に、物流会社に、その…警備会社まで…"
+                                "\\nc<Staff>And it's not just here, names of big shots from other places\ncame up too. Research institutions, logistics companies, and\neven... security firms..."
                             ]
                         },
                         {
@@ -5127,21 +5001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>なんかやばそうな話をしてる気がして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本能的にその場から離れたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから詳しくは分からないよ。"
+                                "\\nc<Staff>It felt like they were discussing something dangerous, so I\ninstinctively left the area. That's why I don't know the\ndetails."
                             ]
                         },
                         {
@@ -5158,21 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>それにしても、あんなに集めて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何をするつもりなんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "株価の操作でもするのかな？"
+                                "\\nc<Staff>But still, what are they planning to do with such a\ngathering? Maybe manipulate stock prices?"
                             ]
                         },
                         {
@@ -5189,14 +5035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>待てよ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業の株を買っとけば、もしかしたら人生逆転…？"
+                                "\\nc<Staff>Wait a second...? If I buy shares of Succubus First\nIndustries now, maybe I could turn my life around...?"
                             ]
                         },
                         {
@@ -5283,14 +5122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>待てよ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業の株を買っとけば、もしかしたら人生逆転…？"
+                                "\\nc<Staff>Wait a minute...? If I buy stock in the Succubus First\nIndustries, maybe I could turn my life around...?"
                             ]
                         },
                         {
@@ -5378,21 +5210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>最近ネット配信の人気が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だんだんと上がってさ… まあ、俺の給料が安泰なら業界が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうなろうと知ったことじゃないけどね。"
+                                "\\nc<Staff>The popularity of online streaming has been gradually\nincreasing... Well, as long as my salary is secure, I don't\nreally care what happens to the industry."
                             ]
                         },
                         {
@@ -5494,21 +5312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>最近ネット配信の人気が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だんだんと上がってさ… まあ、俺の給料が安泰なら業界が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうなろうと知ったことじゃないけどね。"
+                                "\\nc<Staff>The popularity of online streaming has been rising lately...\nWell, as long as my salary is secure, I don't really care\nwhat happens to the industry."
                             ]
                         },
                         {
@@ -5546,21 +5350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>番組関連の仕事だと楽なんだろうと思ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全然違った。 いっそ畑仕事のほうがこっちより楽かもって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ときどき思っちゃうんだよね。"
+                                "\\nc<Staff>I thought working on a show would be easy, but it's totally\ndifferent. Sometimes I think that farm work might be easier\nthan this."
                             ]
                         },
                         {
@@ -5672,21 +5462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>最近ネット配信の人気が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だんだんと上がってさ… まあ、俺の給料が安泰なら業界が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうなろうと知ったことじゃないけどね。"
+                                "\\nc<Staff>The popularity of online streaming has been rising lately...\nWell, as long as my salary is secure, it's none of my\nbusiness what happens to the industry."
                             ]
                         },
                         {
@@ -5724,21 +5500,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>番組関連の仕事だと楽なんだろうと思ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全然違った。 いっそ畑仕事のほうがこっちより楽かもって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ときどき思っちゃうんだよね。"
+                                "\\nc<Staff>I thought working on a show would be easy, but it's totally\ndifferent. Sometimes I think farming might be easier than\nthis."
                             ]
                         },
                         {
@@ -5776,21 +5538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>半年前に撮影したものの報酬がまだなんだよ！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからって仕事を辞めるわけにもいかないし… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "困ったもんだ。"
+                                "\\nc<Staff>I still haven't been paid for something I shot half a year\nago! But that doesn't mean I can just quit my job... It's\nquite the dilemma."
                             ]
                         },
                         {
@@ -5902,21 +5650,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>最近ネット配信の人気が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だんだんと上がってさ… まあ、俺の給料が安泰なら業界が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうなろうと知ったことじゃないけどね。"
+                                "\\nc<Staff>The popularity of online streaming has been rising lately...\nWell, as long as my paycheck is secure, I don't really care\nwhat happens to the industry."
                             ]
                         },
                         {
@@ -5954,21 +5688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>番組関連の仕事だと楽なんだろうと思ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全然違った。 いっそ畑仕事のほうがこっちより楽かもって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ときどき思っちゃうんだよね。"
+                                "\\nc<Staff>I thought working on a show would be easy, but it's totally\ndifferent. Sometimes I think farming might be easier than\nthis job."
                             ]
                         },
                         {
@@ -6006,21 +5726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>半年前に撮影したものの報酬がまだなんだよ！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからって仕事を辞めるわけにもいかないし… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "困ったもんだ。"
+                                "\\nc<Staff>I still haven't been paid for a shoot from half a year ago!\nBut it's not like I can just quit... It's quite the\npredicament."
                             ]
                         },
                         {
@@ -6058,14 +5764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<スタッフ>このまえ好きな芸能人に会ったんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "写真とは違ってた… 実年齢も30代なのにサバ読んでてさ。"
+                                "\\nc<Staff>I met a celebrity I like recently, but they looked different\nfrom their photos... They're in their 30s but they fudge\ntheir age."
                             ]
                         },
                         {
@@ -6163,14 +5862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>このまえ動物園で撮影したんだけど "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ペリカンに機材を壊されちゃったよ。"
+                                "\\nc<Staff>I was filming at the zoo the other day, but a pelican ended\nup breaking my equipment."
                             ]
                         },
                         {
@@ -6187,21 +5879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>損害保険があってよかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃなきゃ俺が弁償しないといけなかったからな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、そのあと死ぬほど怒られたけどね。"
+                                "\\nc<Staff>Good thing I had insurance. Otherwise, I would have had to\ncompensate for it... Well, I got scolded to death afterwards\nthough."
                             ]
                         },
                         {
@@ -6289,14 +5967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>もっと刺激的な台本が必要かな。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トークショーやクイズ番組じゃあ視聴率高くないんだ。"
+                                "\\nc<Producer>Maybe we need a more stimulating script. Talk shows and quiz\nprograms just aren't getting high ratings."
                             ]
                         },
                         {
@@ -6398,14 +6069,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>もっと刺激的な台本が必要かな。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "トークショーやクイズ番組じゃあ視聴率高くないんだ。"
+                                "\\nc<Producer>Maybe we need a more stimulating script. Talk shows and quiz\nprograms just don't get high ratings."
                             ]
                         },
                         {
@@ -6443,7 +6107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>視聴者ってテレビの内容を鵜呑みにするからな。 "
+                                "\\nc<Producer>After all, viewers tend to take what they see on TV at face\nvalue."
                             ]
                         },
                         {
@@ -6460,14 +6124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>良心が痛まないかって？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなこといちいち考えてたらこの業界じゃ生き残れないよ。"
+                                "\\nc<Producer>Worried about my conscience? If I worried about that all the\ntime, I wouldn't survive in this industry."
                             ]
                         },
                         {
@@ -6579,14 +6236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>もっと刺激的な台本が必要かな。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "トークショーやクイズ番組じゃあ視聴率高くないんだ。"
+                                "\\nc<Producer>Maybe we need a more stimulating script. Talk shows and quiz\nprograms just don't get high ratings."
                             ]
                         },
                         {
@@ -6624,7 +6274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>視聴者ってテレビの内容を鵜呑みにするからな。 "
+                                "\\nc<Producer>Viewers tend to take what they see on TV at face value."
                             ]
                         },
                         {
@@ -6641,14 +6291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>良心が痛まないかって？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなこといちいち考えてたらこの業界じゃ生き残れないよ。"
+                                "\\nc<Producer>Worried about my conscience? If I worried about that all the\ntime, I wouldn't survive in this industry."
                             ]
                         },
                         {
@@ -6686,14 +6329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>番組は全部台本通りに収録するんだ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それを本物だと信じる奴がバカだよ。"
+                                "\\nc<Producer>We record all the programs according to the script. Anyone\nwho believes it's real is a fool."
                             ]
                         },
                         {
@@ -6805,14 +6441,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>もっと刺激的な台本が必要かな。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "トークショーやクイズ番組じゃあ視聴率高くないんだ。"
+                                "\\nc<Producer>Maybe we need a more stimulating script. Talk shows and quiz\nprograms just don't get high ratings."
                             ]
                         },
                         {
@@ -6850,7 +6479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>視聴者ってテレビの内容を鵜呑みにするからな。 "
+                                "\\nc<Producer>Viewers tend to take what they see on TV at face value."
                             ]
                         },
                         {
@@ -6867,14 +6496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>良心が痛まないかって？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなこといちいち考えてたらこの業界じゃ生き残れないよ。"
+                                "\\nc<Producer>Worried about my conscience? If you think about that sort of\nthing all the time, you won't survive in this industry."
                             ]
                         },
                         {
@@ -6912,14 +6534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>番組は全部台本通りに収録するんだ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それを本物だと信じる奴がバカだよ。"
+                                "\\nc<Producer>We record all the programs according to the script. Anyone\nwho believes it's real is a fool."
                             ]
                         },
                         {
@@ -6957,14 +6572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>特集撮影のために作っておいたセットが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "崩れて大損害だよ…"
+                                "\\nc<Producer>The set we built for the special feature collapsed, causing\na huge loss..."
                             ]
                         },
                         {
@@ -7062,14 +6670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>おお、咲姫ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "週末なのに手伝いに来たの？　偉いね。"
+                                "\\nc<Reporter>Oh, Saki-chan. You came to help on the weekend? That's\ncommendable."
                             ]
                         },
                         {
@@ -7077,8 +6678,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7108,14 +6709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<取材者>さすが咲姫ちゃん！　じゃあ遠慮なく頼むね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょうどリハーサル中で、相手役が必要だったんだ。"
+                                "\\nc<Reporter>As expected of Saki-chan! Then I'll ask you without\nhesitation. I was just in the middle of rehearsal and needed\na partner."
                             ]
                         },
                         {
@@ -7180,14 +6774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<取材者>いや～今日はお疲れ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気を付けて帰りなよ。"
+                                "\\nc<Reporter>Whew~ Good work today. Be careful on your way home."
                             ]
                         },
                         {
@@ -7326,21 +6913,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>\\TA[1]魔力\\V[41]獲得！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "経験指数\\V[42]獲得！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "疲労度\\V[43]上昇"
+                                "\\TA[1]\\nc<>Gained \\V[41] M. Power! Gained \\V[42] EXP! Fatigue level\nincreased \\V[43]."
                             ]
                         },
                         {
@@ -7357,14 +6930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>今日は疲れた…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう帰ろう。"
+                                "\\nc<>I'm tired today... Let's go home."
                             ]
                         },
                         {
@@ -7461,7 +7027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<取材者>…ふーん、分かった。"
+                                "\\nc<Reporter>...Hmm, understood."
                             ]
                         },
                         {

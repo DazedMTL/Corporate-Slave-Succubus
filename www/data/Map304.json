@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -3966,7 +3966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あら、早かったわね。"
+                                "\\nc<Senpai>Oh, you're back early."
                             ]
                         },
                         {
@@ -4011,7 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]ただいま戻りました！"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>I'm back now!"
                             ]
                         },
                         {
@@ -4056,7 +4056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>楽しかった？　じゃあ残業の準備してね。"
+                                "\\nc<Senpai>Did you have fun? Then, get ready for overtime."
                             ]
                         },
                         {
@@ -4101,7 +4101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]あの、でもちょっと疲れてて…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>But, I'm a little tired..."
                             ]
                         },
                         {
@@ -4146,7 +4146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]今日、物流会社で何したの？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>What did you do at the logistics company today?"
                             ]
                         },
                         {
@@ -4191,7 +4191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ア、アンケートです。"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>A-A survey."
                             ]
                         },
                         {
@@ -4236,14 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は恩をそうやって返すのね…"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>I see. So that's how Saki repays a favor..."
                             ]
                         },
                         {
@@ -4288,14 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>い、いえ、先輩！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残業ですね！　分かりました！"
+                                "\\nc<Saki>No, Senpai! Overtime, right! Understood!"
                             ]
                         },
                         {
@@ -4312,14 +4298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](うう、なんか変…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "運動不足かな？)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Ugh, something feels off... Maybe I'm just out of shape?)"
                             ]
                         },
                         {

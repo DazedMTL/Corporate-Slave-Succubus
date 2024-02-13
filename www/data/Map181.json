@@ -5359,7 +5359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入らないほうがよさそうだ…"
+                                "It seems better not to enter..."
                             ]
                         },
                         {
@@ -5467,7 +5467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入らないほうがよさそうだ…"
+                                "It seems better not to enter..."
                             ]
                         },
                         {
@@ -5926,14 +5926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>皆さんお集まりでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、今から業務説明を始めます。"
+                                "\\nc<Administrator>Is everyone gathered? Then, let's begin the business\nbriefing now."
                             ]
                         },
                         {
@@ -5981,14 +5974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔１>淫魔第一産業からも派遣に来たんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てか、ここちょっと暑くない？"
+                                "\\nc<Succubus 1>I've been dispatched from the First Succubus Industry too.\nBut isn't it a bit hot in here?"
                             ]
                         },
                         {
@@ -6035,14 +6021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(そう言われると、空気が妙に熱いような…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我慢できないほどではないけど)"
+                                "\\nc<Saki>(Now that she mentions it, the air does feel strangely\nwarm... It's not unbearable, though.)"
                             ]
                         },
                         {
@@ -6104,21 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>今日は皆さん初めて見る顔ぶれですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、簡単に説明いたします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弊社の派遣勤務はノルマに関係なく午後３時に終了します。"
+                                "\\nc<Administrator>Today seems to be a gathering of new faces. Well then, I'll\ngive a brief explanation. Our company's dispatch work ends\nat 3 PM regardless of quotas."
                             ]
                         },
                         {
@@ -6199,7 +6164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>おお♪♬"
+                                "\\nc<Succubi>Oh♪♬"
                             ]
                         },
                         {
@@ -6230,7 +6195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3](わあ、噂通りだ)"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>(Wow, just like the rumors said.)"
                             ]
                         },
                         {
@@ -6261,21 +6226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>では、いくつか重要ではない注意事項だけ説明しますので\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボソボソボソボソ……"
+                                "\\nc<Administrator>Now, I will explain a few unimportant notices, so...mumble\nmumble mumble..."
                             ]
                         },
                         {
@@ -6313,14 +6264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](なんか非効率の極みみたいな説明。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、どうせ定時退勤だから関係ないけど…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(This explanation seems like the epitome of inefficiency.\nWell, it doesn't matter since we're leaving at the fixed\ntime anyway...)"
                             ]
                         },
                         {
@@ -6360,7 +6304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔１>ふああっ…"
+                                "\\nc<Succubus 1>Yawn..."
                             ]
                         },
                         {
@@ -6391,7 +6335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>ボソボソボソボソ……"
+                                "\\nc<Administrator>Mumble mumble mumble..."
                             ]
                         },
                         {
@@ -6429,7 +6373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うう、なんだか眠気が…)"
+                                "\\nc<Saki>(Ugh, I'm getting sleepy...)"
                             ]
                         },
                         {
@@ -6460,7 +6404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>ボソボソ…では、皆さん分かりましたか？"
+                                "\\nc<Administrator>Mumble mumble... So, did everyone understand?"
                             ]
                         },
                         {
@@ -6477,7 +6421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>はぁい…"
+                                "\\nc<Succubi>Yes..."
                             ]
                         },
                         {
@@ -6508,21 +6452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はぁいっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(どうせ同じ営業だし難しいことなんてないはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩たちも簡単だって言ってたし)"
+                                "\\nc<Saki>Yes! (It's supposed to be the same sales job, so there\nshouldn't be anything difficult. The seniors also said it\nwas easy.)"
                             ]
                         },
                         {
@@ -6553,7 +6483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>いいでしょう。では休憩室に移動します。"
+                                "\\nc<Administrator>Very well. Let's move to the break room then."
                             ]
                         },
                         {

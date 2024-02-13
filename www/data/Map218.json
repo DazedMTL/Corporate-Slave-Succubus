@@ -3036,14 +3036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう１回！　偽処女競売"
+                                "Would you like to view the event? Once more! The Fake Virgin\nAuction"
                             ]
                         },
                         {
@@ -3051,8 +3044,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -3243,21 +3236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>みんなよくやってくれてるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この調子ならチーム別の四半期目標達成までは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特に問題なさそうね。"
+                                "\\nc<Senpai>Everyone is doing well. At this rate, it seems we won't have\nany problems achieving our team's quarterly goals."
                             ]
                         },
                         {
@@ -3311,7 +3290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>チームごとにノルマがあるんですか？"
+                                "\\nc<Saki>Does each team have a quota to meet?"
                             ]
                         },
                         {
@@ -3342,14 +3321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>もちろん。ちなみにチームのノルマを達成できなかったら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最悪の場合は団体で工場に派遣されるの。"
+                                "\\nc<Member 1>Of course. By the way, if a team can't meet its quota... in\nthe worst case, we could all be sent to work at the factory\nas a group."
                             ]
                         },
                         {
@@ -3403,7 +3375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ひいいっ…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eeeek..."
                             ]
                         },
                         {
@@ -3448,21 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>不安がる必要はないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分のノルマを達成すると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チームのノルマも自然に満たされるシステムだから。"
+                                "\\nc<Senpai>There's no need to worry. If you meet your individual quota,\nthe team's quota will naturally be fulfilled as well."
                             ]
                         },
                         {
@@ -3507,7 +3465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]ふう、うちの会社にしては正常なシステムですね。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Phew, that's a surprisingly normal system for our company."
                             ]
                         },
                         {
@@ -3538,14 +3496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>うちのチームはメアリー先輩のおかげで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノルマを早く達成するほうでもあるし。"
+                                "\\nc<Member 1>Our team tends to meet the quota early thanks to Meary-\nsenpai."
                             ]
                         },
                         {
@@ -3590,7 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]おおっ…"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>Oh..."
                             ]
                         },
                         {
@@ -3635,7 +3586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>安心するのは早い。それは精気のノルマのことだけだから。"
+                                "\\nc<Senpai>Don't relax just yet. That's only for the energy quota."
                             ]
                         },
                         {
@@ -3680,7 +3631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]…え？　精気のノルマ？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>...Huh? Energy quota?"
                             ]
                         },
                         {
@@ -3725,14 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そう。チームのノルマには精気と別に収益金もあるんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単に言うと、目標の売上高を達成する必要があるの。"
+                                "\\nc<Senpai>Yes. In addition to energy, there's also a revenue quota for\nthe team. Simply put, we need to achieve a target sales\nfigure."
                             ]
                         },
                         {
@@ -3777,7 +3721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]今その話をするっていうことは…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>You're bringing this up now because..."
                             ]
                         },
                         {
@@ -3822,7 +3766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>正解。今期はその収益金のノルマがちょっと危なくてね。"
+                                "\\nc<Senpai>Exactly. This term, the revenue quota is looking a bit\nrisky."
                             ]
                         },
                         {
@@ -3862,7 +3806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>どうしてですか？　咲姫が入って収益金は増えたはずなのに。"
+                                "\\nc<Member 2>Why is that? With Saki joining, our revenue should have\nincreased."
                             ]
                         },
                         {
@@ -3907,14 +3851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]お金になる仕事をそれほどしてないからよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな、宣伝業務に力を入れすぎたかのかしら？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Because we haven't been doing enough work that brings in\nmoney. Maybe everyone's been focusing too much on\npromotional activities?"
                             ]
                         },
                         {
@@ -3931,7 +3868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]目標値を達成するためには少なくても大きい一発が必要ね。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>To achieve our target, we need at least one big hit."
                             ]
                         },
                         {
@@ -3976,7 +3913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>大きい一発って…"
+                                "\\nc<Saki>A big hit...?"
                             ]
                         },
                         {
@@ -4021,14 +3958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[1, 0]みんな、お金の当てはない？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごひいきにしてた常連のお客とか。"
+                                "\\bustMsgExp[1, 0]\\nc<Senpai>Does anyone have a source of money? Like a regular customer\nwho's a big spender."
                             ]
                         },
                         {
@@ -4059,7 +3989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>そろそろ半期末なのに、そんなの残ってないですよ…"
+                                "\\nc<Member 3>It's almost the end of the half-year period, we don't have\nanything like that left..."
                             ]
                         },
                         {
@@ -4158,14 +4088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]もうちょっと頭を柔らかくして考えてみて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫、黙ってないであなたも意見を言ってみなさい。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Think a little more creatively. Saki, don't just stay\nsilent, give us your opinion too."
                             ]
                         },
                         {
@@ -4210,7 +4133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]わ、私ですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Me?"
                             ]
                         },
                         {
@@ -4255,7 +4178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]ええ。新人の意見も聞いてみたいわ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Yes. I want to hear the opinion of a newcomer too."
                             ]
                         },
                         {
@@ -4300,14 +4223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]急にそんなことを言われましても…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その、普段はどういう活動で一番収益金が発生しますか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Suddenly asking me that... um, what kind of activities\nusually generate the most revenue?"
                             ]
                         },
                         {
@@ -4338,7 +4254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>そりゃあ、大半は会社でお客を接待して稼いでるよ。それと…"
+                                "\\nc<Member 1>Well, mostly we earn by entertaining clients at the company.\nAnd..."
                             ]
                         },
                         {
@@ -4383,7 +4299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]処女。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Virginity."
                             ]
                         },
                         {
@@ -4428,7 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]えっ？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Huh?"
                             ]
                         },
                         {
@@ -4473,14 +4389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>淫魔の値段は処女喪失のときが一番高いの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまえ教えたでしょ？"
+                                "\\nc<Senpai>The price of a succubus is highest when she loses her\nvirginity. I told you about this before, didn't I?"
                             ]
                         },
                         {
@@ -4525,21 +4434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あ…そっか。たしかにあの時の収益は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごかったって言ってたっけ)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも私たちのチームにもう処女はいませんよね？"
+                                "\\nc<Saki>(Ah... right. Indeed, they said the revenue from that time\nwas amazing) But there are no more virgins in our team,\nright?"
                             ]
                         },
                         {
@@ -4584,21 +4479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>うん、咲姫が最後だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも、ほとんどの淫魔は処女なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早い段階で捨ててきちゃうから。"
+                                "\\nc<Senpai>Yes, you were the last one. Besides, most succubi lose their\nvirginity at an early stage anyway."
                             ]
                         },
                         {
@@ -4643,7 +4524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]じゃあ、やっぱりこの方法は使えないですね…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>So, this method isn't an option then..."
                             ]
                         },
                         {
@@ -4688,14 +4569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]諦めるには早いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "処女がいないなら作ればいいじゃない？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>It's too early to give up. If we don't have a virgin, we'll\njust have to create one, right?"
                             ]
                         },
                         {
@@ -4771,7 +4645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー>…ええ？"
+                                "\\nc<Member 1>...What?"
                             ]
                         },
                         {
@@ -4816,7 +4690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫の処女をもう一度売るのよ。"
+                                "\\nc<Senpai>We'll sell Saki's virginity again."
                             ]
                         },
                         {
@@ -4861,7 +4735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えええええっ？！　処女をもう一度？　ど、どうやって？？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Whaaat?! Sell my virginity again? How is that even\npossible??"
                             ]
                         },
                         {
@@ -4906,21 +4780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>よく考えてみて。このあいだの処女の競売は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "VIPだけが参加した秘密のイベントだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一般のお客はそういうのがあることすら知らないの。"
+                                "\\nc<Senpai>Think about it. The last virgin auction was a secret event\nonly for VIPs. The general customers don't even know such an\nevent took place."
                             ]
                         },
                         {
@@ -4965,14 +4825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]私はそのあともずっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事してましたよ？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>But I've been working continuously since then!"
                             ]
                         },
                         {
@@ -5017,21 +4870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>だから咲姫のことをよく知らないお客を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手に静かに進めなきゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし成功すれば、目標値達成なんてあっという間よ？"
+                                "\\nc<Senpai>That's why we'll quietly proceed with customers who don't\nknow much about Saki. If it succeeds, we'll reach our target\nin no time!"
                             ]
                         },
                         {
@@ -5071,14 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>それ、いいですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかに代案もないし…"
+                                "\\nc<Member 3>That's a good idea! We don't have any other alternatives..."
                             ]
                         },
                         {
@@ -5104,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>準備は私たちがやるから、咲姫は処女だけ売ってちょうだい。"
+                                "\\nc<Member 2>We'll handle the preparations, so Saki, you just need to\nsell your virginity."
                             ]
                         },
                         {
@@ -5149,21 +4981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]そ、それは詐欺じゃないですか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでみんな、架空の処女を売るのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで本気なんですか！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>That's fraud, isn't it?! Why is everyone so serious about\nselling a fictional virginity!"
                             ]
                         },
                         {
@@ -5208,7 +5026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]咲姫、嫌なの？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Saki, do you dislike the idea?"
                             ]
                         },
                         {
@@ -5253,21 +5071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>嫌に決まってるじゃないですか！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客たちの前で演技するのは私なんですよ！それに、あの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めちゃくちゃなパフォーマンスをもう一度するんですよね？"
+                                "\\nc<Saki>Of course I dislike it! I'm the one who has to act in front\nof the customers! And I have to perform that crazy\nperformance again, right?"
                             ]
                         },
                         {
@@ -5312,14 +5116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]仕方ないわね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなで一緒に工場派遣されましょう～"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>We have no choice! Let's all get sent to work at the factory\ntogether~"
                             ]
                         },
                         {
@@ -5364,7 +5161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あああっ、そんな言い方…"
+                                "\\nc<Saki>Ahhh, don't say it like that..."
                             ]
                         },
                         {
@@ -5395,104 +5192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>咲姫ちゃん、今回だけお願い。"
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(1).scaleTo(0.95, 10);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(2).scaleTo(1, 10);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(1).dim(10)"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(2).light(10)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<先輩>好きなことだけして生きてはいけないでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も幼いときは魔王になりたかったのよ？"
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(2).scaleTo(0.95, 10);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(1).scaleTo(1, 10);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(2).dim(10)"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(1).light(10)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<咲姫>…魔族の世界の大統領みたいな感じですか、それ？"
+                                "\\nc<Member 1>Saki-chan, please, just this time."
                             ]
                         },
                         {
@@ -5537,14 +5237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まあ、そういうとこね。早く連絡を回してみなきゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "資料は適当に再活用しましょう。"
+                                "\\nc<Senpai>You can't just live doing only what you like. When I was\nyoung, I wanted to become a demon lord, you know?"
                             ]
                         },
                         {
@@ -5589,7 +5282,97 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]結局、私に拒否権はないんですね…"
+                                "\\nc<Saki>...Is that like being the president of the demon world or\nsomething?"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(1).scaleTo(0.95, 10);"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).scaleTo(1, 10);"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(1).dim(10)"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light(10)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Senpai>Well, something like that. We need to start contacting\npeople quickly! Let's just reuse the materials as they are."
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).scaleTo(0.95, 10);"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(1).scaleTo(1, 10);"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim(10)"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(1).light(10)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\bustMsgExp[1, 2]\\nc<Saki>In the end, I don't have the right to refuse, do I..."
                             ]
                         },
                         {

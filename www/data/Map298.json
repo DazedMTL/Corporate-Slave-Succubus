@@ -4903,14 +4903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>今日も咲姫ちゃんか…ツイてるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出勤してよかった。"
+                                "\\nc<Security Guard 1>Saki-chan again today... Lucky me. I'm glad I came to work."
                             ]
                         },
                         {
@@ -4936,21 +4929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>元気にしてた？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泥棒に襲われてまた来るとは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よっぽど気に入ったみたいじゃねぇか。"
+                                "\\nc<Security Guard 2>How have you been? To come back after being attacked by a\nthief... You must have really taken a liking to this place,\nhuh?"
                             ]
                         },
                         {
@@ -4981,14 +4960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]会社から言われて来ただけです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とくに用がなければ、仕事始めてもいいですか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>I'm just here because the company told me to come. If\nthere's nothing else, may I start working?"
                             ]
                         },
                         {
@@ -5019,14 +4991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>ひゃあ、今日は冷たいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、それもそれでいいけど。"
+                                "\\nc<Security Guard 1>Hyaah, you're cold today. Well, that's fine too."
                             ]
                         },
                         {
@@ -5057,7 +5022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>……"
+                                "\\nc<Saki>..."
                             ]
                         },
                         {

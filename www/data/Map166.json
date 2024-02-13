@@ -1434,14 +1434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人間対象の感度薬物実験"
+                                "Would you like to view the event? Sensitivity drug\nexperiment on a human subject."
                             ]
                         },
                         {
@@ -1449,8 +1442,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -1688,7 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>今回の取引先の担当は…咲姫！"
+                                "\\nc<Senpai>The person in charge of our client this time is... Saki!"
                             ]
                         },
                         {
@@ -1705,14 +1698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>どうしてまた私なんですか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このあいだは本当に酷い目に遭ったんですよ。"
+                                "\\nc<Saki>Why me again... Last time was truly awful."
                             ]
                         },
                         {
@@ -1729,14 +1715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それは誤解よ。順番に処理してるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(咲姫の場合はとくに変な依頼が多いようだけど)"
+                                "\\nc<Senpai>That's a misunderstanding. We're just going through the\nrotation. (Although Saki seems to get a lot of strange\nrequests)"
                             ]
                         },
                         {
@@ -1753,7 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そうなんですか…"
+                                "\\nc<Saki>Is that so..."
                             ]
                         },
                         {
@@ -1770,7 +1749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どうせ取引先からの依頼は断れないんだから、諦めなさい。"
+                                "\\nc<Senpai>Since we can't refuse requests from clients anyway, just\ngive up."
                             ]
                         },
                         {
@@ -1787,7 +1766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それで、今回はどこに行くんですか？"
+                                "\\nc<Saki>So, where are we going this time?"
                             ]
                         },
                         {
@@ -1804,7 +1783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>何かの研究機関だったような、たぶん？"
+                                "\\nc<Senpai>It seems to be some kind of research institution, probably?"
                             ]
                         },
                         {
@@ -1821,7 +1800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>研究？　何を研究するんですか？"
+                                "\\nc<Saki>Research? What kind of research?"
                             ]
                         },
                         {
@@ -1838,7 +1817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>いろいろあるけど、主に医療系よ。"
+                                "\\nc<Senpai>Various kinds, but mainly medical."
                             ]
                         },
                         {
@@ -1855,14 +1834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>医療実験…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(とうとう実験の被験者までさせられるの？)"
+                                "\\nc<Saki>Medical experiments...(Am I finally going to be a test\nsubject?)"
                             ]
                         },
                         {
@@ -1879,14 +1851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そんなに心配しなくても大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取引先から淫魔の派遣依頼が来たら、要件は１つしかないから。"
+                                "\\nc<Senpai>Don't worry so much. When we get a dispatch request for a\nsuccubus from a client, there's only one thing they want."
                             ]
                         },
                         {
@@ -1903,7 +1868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それは何ですか？"
+                                "\\nc<Saki>And what's that?"
                             ]
                         },
                         {
@@ -1920,7 +1885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>エロいこと。"
+                                "\\nc<Senpai>Erotic stuff."
                             ]
                         },
                         {
@@ -1937,7 +1902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>なおさら嫌です…"
+                                "\\nc<Saki>That makes it even worse..."
                             ]
                         },
                         {
@@ -1954,7 +1919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>さあ着いた。咲姫は実験室に行きなさい。"
+                                "\\nc<Senpai>Here we are. Saki, go to the laboratory."
                             ]
                         },
                         {
@@ -1971,7 +1936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うううっ…"
+                                "\\nc<Saki>Ugh..."
                             ]
                         },
                         {

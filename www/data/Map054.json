@@ -6805,14 +6805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]あなた、あれで誤魔化せると思ったの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなんじゃ誰も騙されないわよ！"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>\"You really thought you could fool anyone with that? No one\nwould be deceived by such a thing!\""
                             ]
                         },
                         {
@@ -6857,7 +6850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ど、どうしてそれを…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"H-How did you...\""
                             ]
                         },
                         {
@@ -6911,14 +6904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>IDが適当すぎるし、５分ごとに書きこんでるじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少なくとも間隔はあけるべきでしょ！？"
+                                "\\nc<Senpai>\"Your ID is too sloppy, and you're posting every 5 minutes!\nYou should at least space them out more, shouldn't you?!\""
                             ]
                         },
                         {
@@ -6935,14 +6921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>クチコミの偽造は最後の切り札なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたのような素人が手を出していいもんじゃないわ！"
+                                "\\nc<Senpai>\"Faking reviews is a last resort. It's not something\namateurs like you should be meddling with!\""
                             ]
                         },
                         {
@@ -6987,7 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]や、やっぱり下手でしたかね…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"Was it really that bad...\""
                             ]
                         },
                         {
@@ -7032,14 +7011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あれがバレたらどうなると思う？　最低でも強制派遣よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなにバカなことをするなんて、呆れるわ！"
+                                "\\nc<Senpai>\"What do you think will happen if you get caught? At the\nvery least, you'll be forced out! I can't believe you'd do\nsomething so stupid!\""
                             ]
                         },
                         {
@@ -7084,14 +7056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](ひ、酷い…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めてこんなに叱られたかも…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"(T-That's harsh... I've never been scolded like this\nbefore...)\""
                             ]
                         },
                         {
@@ -7136,7 +7101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>下手な偽クチコミはすぐに消しなさい。今ならまだ間に合う。"
+                                "\\nc<Senpai>\"Get rid of those poorly made fake reviews immediately.\nThere's still time to fix this.\""
                             ]
                         },
                         {
@@ -7181,14 +7146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]で、でも…さっき聞いたときは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も教えてくれなかったじゃないですか…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"But... you didn't tell me anything when I asked earlier...\""
                             ]
                         },
                         {
@@ -7233,7 +7191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>……"
+                                "\\nc<Senpai>\"...\""
                             ]
                         },
                         {
@@ -7278,7 +7236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]分かりました！\\.\\.\\bustMsgExp[1, 2]全部削除すればいいんですよね…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Understood! \\bustMsgExp[1, 2] I'll delete everything\nthen...\""
                             ]
                         },
                         {
@@ -7323,21 +7281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どうやらあなたには、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんとした説教が必要なようね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "四つん這いになりなさい。"
+                                "\\nc<Senpai>\"It seems you need a proper lecture. Get on all fours.\""
                             ]
                         },
                         {
@@ -7382,14 +7326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]そ、そんな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんなに怒ってる先輩は初めて…とても逆らえる雰囲気じゃない…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Such a thing! (I've never seen Senpai this angry... I can't\npossibly talk back...)\""
                             ]
                         },
                         {
@@ -7418,7 +7355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>こ、こうですか？"
+                                "\\nc<Saki>\"Is this how?\""
                             ]
                         },
                         {
@@ -7435,7 +7372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>脚を大きく開いて、お尻はできるだけ上げるの。"
+                                "\\nc<Senpai>\"Spread your legs wide and raise your butt as high as you\ncan.\""
                             ]
                         },
                         {
@@ -7510,7 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そう。少しでも姿勢を崩したらすぐに告発するわよ。"
+                                "\\nc<Senpai>\"That's right. If you even slightly lose your posture, I'll\nreport you immediately.\""
                             ]
                         },
                         {
@@ -7527,7 +7464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヒィッ、す、すみません、先輩。"
+                                "\\nc<Saki>\"Eek, I-I'm sorry, Senpai.\""
                             ]
                         },
                         {
@@ -7544,14 +7481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>いまさら反省しても遅い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは体で覚えるタイプみたいだから…"
+                                "\\nc<Senpai>\"It's too late for regrets now. You seem to be the type who\nlearns with their body...\""
                             ]
                         },
                         {
@@ -7579,7 +7509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そう言いながら先輩は薄い手袋を着けた。"
+                                "\\nc<>As she said this, Senpai put on thin gloves."
                             ]
                         },
                         {
@@ -7596,14 +7526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>四つん這いになった咲姫はうしろが見えなかったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妙な音に少しビクッとした。"
+                                "\\nc<>On all fours, Saki couldn't see behind her, but she flinched\nat a strange noise."
                             ]
                         },
                         {
@@ -7631,7 +7554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>せ、先輩？　何を…"
+                                "\\nc<Saki>\"S-Senpai? What are you...\""
                             ]
                         },
                         {
@@ -7648,7 +7571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>前回の講習の続きよ。"
+                                "\\nc<Senpai>\"We're continuing the lesson from last time.\""
                             ]
                         },
                         {
@@ -7665,7 +7588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ヒィッ！　も、もう入ってきた！？)"
+                                "\\nc<Saki>\"(Gasp! Is it in already!?)\""
                             ]
                         },
                         {
@@ -7742,7 +7665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩は咲姫の秘部に思いっきり指を突きさした。"
+                                "\\nc<>Senpai thrust her fingers forcefully into Saki's genitals."
                             ]
                         },
                         {
@@ -7770,7 +7693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>手加減はしないから楽しみにしてて。"
+                                "\\nc<Senpai>\"I won't hold back, so look forward to it.\""
                             ]
                         },
                         {
@@ -7787,21 +7710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ぜ、全然見えないせいか圧迫感が…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この姿勢…じゃなきゃだめですか？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、嫌ってわけじゃないんですけど…"
+                                "\\nc<Saki>\"(The pressure feels so strong because I can't see it...) Do\nI have to stay in this position? Not that I dislike it or\nanything...\""
                             ]
                         },
                         {
@@ -7818,7 +7727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>当然でしょ。おかげですんなりと入ったじゃない。\\.\\.ほら。"
+                                "\\nc<Senpai>\"Of course. Thanks to that, it went in smoothly. Look.\""
                             ]
                         },
                         {
@@ -7835,7 +7744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ♥んぎぃ…"
+                                "\\nc<Saki>\"Kuh♥ Nghii...\""
                             ]
                         },
                         {
@@ -7924,7 +7833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ジュポッ…"
+                                "\\nc<>*Squish*, *Slop*..."
                             ]
                         },
                         {
@@ -7941,14 +7850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩の指は、いつの間にか咲姫の秘部を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リズミカルに突いていた。"
+                                "\\nc<>Senpai's fingers were rhythmically thrusting into Saki's\ngenitals before she knew it."
                             ]
                         },
                         {
@@ -7965,14 +7867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は脚をプルプルと震わせながらも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必死で姿勢を保つしかなかった。"
+                                "\\nc<>Saki had no choice but to maintain her posture while her\nlegs trembled."
                             ]
                         },
                         {
@@ -8000,14 +7895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(そ、そこまで届いちゃうの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たしかにまえよりは深く入ってるかも…)"
+                                "\\nc<Saki>\"(Can it reach that far? It does feel deeper than\nbefore...)\""
                             ]
                         },
                         {
@@ -8024,21 +7912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あなた、本当に濡れやすいのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうこんなに濡れちゃって…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃ罰か褒美か分からないわ。"
+                                "\\nc<Senpai>\"You really get wet easily, don't you? You're already this\nsoaked... It's hard to tell if this is punishment or\nreward.\""
                             ]
                         },
                         {
@@ -8055,14 +7929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(そう言われるとすごく恥ずかしい…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひぐっ？　んっ、あ、はあっ…"
+                                "\\nc<Saki>\"(It's so embarrassing when she says that...) Higuu? Nn, ah,\nhaa...\""
                             ]
                         },
                         {
@@ -8090,7 +7957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩に触れられるたびに反応し、なすがままにされる咲姫。"
+                                "\\nc<>Saki reacted every time Senpai touched her, completely at\nher mercy."
                             ]
                         },
                         {
@@ -8107,7 +7974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>中の敏感なところを責められ、まともに抵抗もできない。"
+                                "\\nc<>She was being teased in her sensitive spots inside and\ncouldn't resist properly."
                             ]
                         },
                         {
@@ -8131,14 +7998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩は愛液まみれになった指を抜き、糸を長く伸ばしたあと…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐにアダルトグッズを持ってきた。"
+                                "\\nc<>Senpai pulled out her fingers covered in love juices,\nstretching a long string of it... and then quickly brought\nover some adult toys."
                             ]
                         },
                         {
@@ -8155,7 +8015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そこから１つを手に取り、咲姫の目の前にわざと突きつける。"
+                                "\\nc<>Picking one up from there, she deliberately thrust it in\nfront of Saki's eyes."
                             ]
                         },
                         {
@@ -8183,7 +8043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>これなら奥まで届くでしょうね。"
+                                "\\nc<Senpai>\"This one should reach all the way inside, don't you think?\""
                             ]
                         },
                         {
@@ -8200,14 +8060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええっ！？　ま、待ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは太すぎ…んほおっ♥"
+                                "\\nc<Saki>\"Eeeh!? W-Wait a minute. That's too thick... Nnhoo♥\""
                             ]
                         },
                         {
@@ -8296,14 +8149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>新たな異物感に脚をガクガクと震わせ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お尻を高く突きあげる咲姫。"
+                                "\\nc<>Saki, trembling in her legs and thrusting her butt high up,\nhad no choice but to accept the new foreign sensation."
                             ]
                         },
                         {
@@ -8320,14 +8166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビクビクするお尻を楽しそうに眺めていた先輩が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ディルドをさらに奥まで挿しこむ。"
+                                "\\nc<>Senpai, watching Saki's twitching butt with amusement,\npushed the dildo even deeper."
                             ]
                         },
                         {
@@ -8367,7 +8206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>このまえはあまり触れなかったけど、こことかどう？"
+                                "\\nc<Senpai>\"I didn't touch it much last time, but how about here?\""
                             ]
                         },
                         {
@@ -8384,7 +8223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>おおっ、あああっ！"
+                                "\\nc<Saki>\"Ohh, ahhh!\""
                             ]
                         },
                         {
@@ -8482,7 +8321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュッ、ピュゥッ…"
+                                "\\nc<>Squirt, squirt..."
                             ]
                         },
                         {
@@ -8499,14 +8338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の口からは喘ぎ声しか出なかったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勢いよく吹き出した愛液が答えの代わりになった。"
+                                "\\nc<>No sound but moans escaped from Saki's mouth, but the love\njuices that spurted out vigorously served as her answer."
                             ]
                         },
                         {
@@ -8523,14 +8355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>腹の中で広がる圧迫感に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まともに息ができないくらいだった。"
+                                "\\nc<>The pressure spreading inside her belly was so intense she\ncould hardly breathe."
                             ]
                         },
                         {
@@ -8558,7 +8383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>子宮口まで弱点確定ね。"
+                                "\\nc<Senpai>\"Looks like we've confirmed a weak spot all the way at your\ncervix.\""
                             ]
                         },
                         {
@@ -8575,14 +8400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>性感帯だらけのザコ淫魔の分際で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩に歯向かってんじゃないわよ。"
+                                "\\nc<Senpai>\"You dare defy your senpai when you're just a lowly succubus\nriddled with erogenous zones.\""
                             ]
                         },
                         {
@@ -8599,21 +8417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うう、いつもより言葉が荒い…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はあっ、そこ、そんなに突いちゃ…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ、おおっ、イっ…！"
+                                "\\nc<Saki>\"(Ugh, her words are harsher than usual...haah, don't thrust\nthere so much...) Ohh, I'm...!\""
                             ]
                         },
                         {
@@ -8737,7 +8541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュッ、プシュウゥッ…"
+                                "\\nc<>Squirt, sploosh..."
                             ]
                         },
                         {
@@ -8754,7 +8558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>さきほどよりも簡単に、そして強い勢いで愛液が飛びちる。"
+                                "\\nc<>Love juices flew out more easily and with greater force than\nbefore."
                             ]
                         },
                         {
@@ -8771,14 +8575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>いともあっけなくイってしまった咲姫は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戸惑いと恥ずかしさのあまり下唇を噛んだ。"
+                                "\\nc<>Having come so easily, Saki bit her lower lip in confusion\nand embarrassment."
                             ]
                         },
                         {
@@ -8813,14 +8610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(だめだ…気持ちいいところばっかり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "突かれて全然我慢できない…)"
+                                "\\nc<Saki>\"(It's no use... I can't hold back at all when she hits all\nthe right spots...)\""
                             ]
                         },
                         {
@@ -8837,7 +8627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>クリトリスまで勃たせちゃって。ふん。"
+                                "\\nc<Senpai>\"Even your clit is fully erect. Hmph.\""
                             ]
                         },
                         {
@@ -8854,14 +8644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふうっ！？　い、痛いですっ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに叩いたら…はうっ♥"
+                                "\\nc<Saki>\"Kuhuu!? It hurts! If you hit it that hard...haah♥\""
                             ]
                         },
                         {
@@ -8985,7 +8768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>プュシュッ、ピュウゥ…"
+                                "\\nc<>Squish, squirt..."
                             ]
                         },
                         {
@@ -9002,7 +8785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>立てつづけに激しい絶頂を迎え、少し疲れてしまった咲姫。"
+                                "\\nc<>After facing a series of intense climaxes, Saki felt a bit\ntired."
                             ]
                         },
                         {
@@ -9019,7 +8802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しかし先輩の手は、すでに次のおもちゃを取り出していた。"
+                                "\\nc<>However, Senpai's hand was already reaching for the next\ntoy."
                             ]
                         },
                         {
@@ -9054,7 +8837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お尻をきちんと上げなさい。怒られたいの？"
+                                "\\nc<Senpai>\"Raise your butt properly. Do you want to be scolded?\""
                             ]
                         },
                         {
@@ -9071,21 +8854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>無理です！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脚に力が入らなくて…もう許してください！\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あああっ！？"
+                                "\\nc<Saki>\"I can't! I don't have any strength left in my legs...\nPlease, no more! Aaah!?\""
                             ]
                         },
                         {
@@ -9162,7 +8931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫のお尻に見たことのない形のおもちゃが入りこむ！"
+                                "\\nc<>A toy of an unfamiliar shape entered Saki's butt!"
                             ]
                         },
                         {
@@ -9190,7 +8959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩！　そんなとこ…"
+                                "\\nc<Saki>\"Senpai! Not there...\""
                             ]
                         },
                         {
@@ -9207,7 +8976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>大丈夫よ。淫魔だから綺麗なんだし。"
+                                "\\nc<Senpai>\"It's fine. You're a succubus, so it's all clean there.\""
                             ]
                         },
                         {
@@ -9224,7 +8993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そういう問題じゃ…はぁんっ…"
+                                "\\nc<Saki>\"That's not the problem...haahn...\""
                             ]
                         },
                         {
@@ -9334,7 +9103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>プシュッ、プシュッ！"
+                                "\\nc<>Squish, squish!"
                             ]
                         },
                         {
@@ -9351,14 +9120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>淫魔の肉体は慣れない刺激にもしっかりと絶頂し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫に新しい快感をもたらした。"
+                                "\\nc<>The succubus's body climaxed firmly even to unfamiliar\nstimuli, bringing Saki new pleasures."
                             ]
                         },
                         {
@@ -9375,14 +9137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>連続イキでダラダラと垂れながしになっていた蜜は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつの間にか下に小さな水たまりを作っていた。"
+                                "\\nc<>The honey that had been dripping lazily during her\ncontinuous climaxes had formed a small puddle beneath her\nbefore she knew it."
                             ]
                         },
                         {
@@ -9417,14 +9172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うぐっ、はあっ…♥あうっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(お尻で気持ちよくなるなんて、これ絶対おかしいよ…)"
+                                "\\nc<Saki>\"Uguh, haah...aah...(It's so wrong to feel good in my butt\nlike this...)\""
                             ]
                         },
                         {
@@ -9441,7 +9189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どう？　イきまくるのも結構つらいでしょ？"
+                                "\\nc<Senpai>\"How is it? It's quite tough to keep climaxing, isn't it?\""
                             ]
                         },
                         {
@@ -9458,14 +9206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(本当にこんなことで罰を受けるなんて…うっ、脚痛い…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すみません…もうしませんから、許してくださ…"
+                                "\\nc<Saki>\"(To think I'm actually being punished like this...ugh, my\nlegs hurt...) I'm sorry... I won't do it again, please\nforgive me...\""
                             ]
                         },
                         {
@@ -9482,14 +9223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まだ半人前のくせに、ズルしようなんて甘いのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は徹底的に叩きなおしてあげる。"
+                                "\\nc<Senpai>\"You're still half-baked, thinking you can cheat your way\nout of this. I'll thoroughly retrain you today.\""
                             ]
                         },
                         {
@@ -9506,14 +9240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>こ、これ以上は、ひっく…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ま、また中に引っかかって…ああっ)"
+                                "\\nc<Saki>\"No more, please...hic...♥(It's caught inside again...ahhh)\""
                             ]
                         },
                         {
@@ -9590,7 +9317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>チュポォッ…"
+                                "\\nc<>Chupo..."
                             ]
                         },
                         {
@@ -9607,7 +9334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫のアナルが優しく、しかし絶え間なく弄られる。"
+                                "\\nc<>Saki's anus was being played with gently yet incessantly."
                             ]
                         },
                         {
@@ -9624,14 +9351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ひんやりとしたおもちゃに吸いついたまま"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おもちゃが出入りするたびに、嬉しそうにビクビクする。"
+                                "\\nc<>Each time the cool toy entered and exited, clinging to it,\nshe twitched happily."
                             ]
                         },
                         {
@@ -9666,14 +9386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ、はあ、は、ああん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(もう我慢できな…)"
+                                "\\nc<Saki>\"Kuhu, haa, ha, aahn♥(I can't hold back any...)\""
                             ]
                         },
                         {
@@ -9690,21 +9403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もう慣れちゃったの？　偉いわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次はこのブラシでクリトリスを擦ってあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "柔らかいから安心して。"
+                                "\\nc<Senpai>\"You're used to it already? Good girl. Next, I'll rub your\nclit with this brush. It's soft, so don't worry.\""
                             ]
                         },
                         {
@@ -9721,7 +9420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>い、今それをされたら…ひぎっ♥あ、ああん、あああっ♥"
+                                "\\nc<Saki>\"If you do that now...higyuu♥ Ah, aahn, ahhhh♥\""
                             ]
                         },
                         {
@@ -9831,7 +9530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>プシュッ、プシュッ…ジュポッ、ジュポ、ジュポオッ…"
+                                "\\nc<>Squish, squish...schlick, schlick, schlick..."
                             ]
                         },
                         {
@@ -9848,7 +9547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>色々な音が続き、咲姫の体に快感を刻みこむ。"
+                                "\\nc<>The various sounds continued, etching pleasure into Saki's\nbody."
                             ]
                         },
                         {
@@ -9865,14 +9564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>おかげで自分の下半身がまったく見えない咲姫も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の痴態を確実に知ることができた。"
+                                "\\nc<>Thanks to that, Saki, who couldn't see her lower half at\nall, was able to clearly understand her own lewd state."
                             ]
                         },
                         {
@@ -9916,7 +9608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひぐっ、うっ、んお…"
+                                "\\nc<Saki>Higuu, uhh, nnoo..."
                             ]
                         },
                         {
@@ -9933,14 +9625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あら、もう人の言葉すら言えなくなっちゃった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだこれからなのに、今からこんなのじゃ困るわ。"
+                                "\\nc<Senpai>Oh my, have you already become unable to speak properly? And\nwe're just getting started; this won't do at all."
                             ]
                         },
                         {
@@ -9957,7 +9642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あうっ、おほっ♥"
+                                "\\nc<Saki>Auhh, ohho♥"
                             ]
                         },
                         {
@@ -9985,7 +9670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュポッ、ジュプッ…"
+                                "\\nc<>Schlop, schlop..."
                             ]
                         },
                         {
@@ -10021,7 +9706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そのあとも体罰はしばらく続いた。"
+                                "\\nc<>The corporal punishment continued for a while after that."
                             ]
                         },
                         {

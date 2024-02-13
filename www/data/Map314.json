@@ -8237,7 +8237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>社長は今回のイベントが初めてで？"
+                                "\\nc<Executive Officer>Is this the president's first time at this event?"
                             ]
                         },
                         {
@@ -8254,7 +8254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ああ、はい。まあ…"
+                                "\\nc<Customer>Ah, yes. Well..."
                             ]
                         },
                         {
@@ -8280,7 +8280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>フフフ、どうか存分にお楽しみください。"
+                                "\\nc<Executive Officer>Fufufu, please enjoy yourself to the fullest."
                             ]
                         },
                         {
@@ -8297,14 +8297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>こう見えても弊社のエース揃いですから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずはこの薬を…"
+                                "\\nc<Executive Officer>Despite appearances, we have a lineup of aces here. First,\ntake this medicine..."
                             ]
                         },
                         {
@@ -8422,7 +8415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]くっ…"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>Ugh..."
                             ]
                         },
                         {
@@ -8507,7 +8500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](あっ、私にも来る…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Ah, it's coming to me too...)"
                             ]
                         },
                         {
@@ -8550,7 +8543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]痛っ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ouch..."
                             ]
                         },
                         {
@@ -8588,7 +8581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ほおっ♥"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ohh♥"
                             ]
                         },
                         {
@@ -8628,7 +8621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>おお、いい顔になりましたね。"
+                                "\\nc<Customer>Oh, you've got a good look on your face now."
                             ]
                         },
                         {
@@ -8676,14 +8669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>淫魔ってのはランクが高いほど男に弱いんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生まれつき使いやすいメスといったところですかね。"
+                                "\\nc<Executive Officer>Succubi are weaker to men the higher their rank. They're\nnaturally easy to use females, you could say."
                             ]
                         },
                         {
@@ -8740,7 +8726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ハハッ、それも独自の生存戦略でしょう。"
+                                "\\nc<Customer>Haha, that's also a unique survival strategy, isn't it?"
                             ]
                         },
                         {
@@ -8780,7 +8766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]……"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>..."
                             ]
                         },
                         {
@@ -8797,7 +8783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](うう…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Ugh...)"
                             ]
                         },
                         {
@@ -8814,7 +8800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](頭がグルグルしてまともに考えられない…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(My head is spinning, I can't think straight...)"
                             ]
                         },
                         {
@@ -8845,14 +8831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>ここにいる奴らはそれなりに経験がありますので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうすれば、何をされても抵抗できません。"
+                                "\\nc<Executive Officer>The ones here have a fair amount of experience. With this,\nthey won't be able to resist whatever is done to them."
                             ]
                         },
                         {
@@ -8909,7 +8888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>なあ、メアリーちゃん？"
+                                "\\nc<Executive Officer>Right, Meary-chan?"
                             ]
                         },
                         {
@@ -8949,7 +8928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>え…"
+                                "\\nc<Senpai>Eh..."
                             ]
                         },
                         {
@@ -8966,7 +8945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>はい…"
+                                "\\nc<Senpai>Yes..."
                             ]
                         },
                         {
@@ -8997,7 +8976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>…あまり使いすぎると、すぐに壊れてしまう危険な薬ですが…"
+                                "\\nc<Executive Officer>...Using too much of it can be dangerous as it can break\nthem quickly..."
                             ]
                         },
                         {
@@ -9023,7 +9002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>メアリーちゃんには特別にもう１本打ってやるよ。"
+                                "\\nc<Executive Officer>But for Meary-chan, I'll give you one more shot specially."
                             ]
                         },
                         {
@@ -9072,7 +9051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](え、ちょ、ちょっと！　危険なんじゃないの？　だめ…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Eh, wait a minute! Isn't it dangerous? No...)"
                             ]
                         },
                         {
@@ -9164,7 +9143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 4]ほおおっ♥"
+                                "\\bustMsgExp[2, 4]\\nc<Senpai>Hoooh♥"
                             ]
                         },
                         {
@@ -9218,14 +9197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>このまえ、耳よりな情報を手に入れてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリーてめぇ、役員専用の駐車場で猫を飼ってたそうだな？"
+                                "\\nc<Executive Officer>I've got some juicy information recently. Meary, you've been\nkeeping a cat in the executive parking lot, haven't you?"
                             ]
                         },
                         {
@@ -9242,14 +9214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>けしからん奴め。今までは何とか耐えてきたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日こそ完全に壊してやる。"
+                                "\\nc<Executive Officer>You're a disgraceful one. I've endured it until now, but\ntoday I'll break you completely."
                             ]
                         },
                         {
@@ -9275,7 +9240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>さあ、もう１本追加だ！"
+                                "\\nc<Executive Officer>Now, one more shot!"
                             ]
                         },
                         {
@@ -9315,7 +9280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あっ、あひっ♥"
+                                "\\nc<Senpai>Ah, ahii♥"
                             ]
                         },
                         {
@@ -9332,7 +9297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>だ、だめです。これ以上は…おごっ♥"
+                                "\\nc<Senpai>No, you can't. Not anymore... oh my♥"
                             ]
                         },
                         {
@@ -9433,7 +9398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](な、なんでバレたの！？)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Why, how did it get out?!)"
                             ]
                         },
                         {
@@ -9450,7 +9415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](大変…先輩の体…すごく震えてる！)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(This is bad... Senpai's body... it's shaking so much!)"
                             ]
                         },
                         {
@@ -9521,7 +9486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>こらこら、よそ見をしちゃだめだろ。それ！"
+                                "\\nc<Customer>Hey hey, you shouldn't be looking away. There!"
                             ]
                         },
                         {
@@ -9585,14 +9550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ふああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うわっ、私にもまた１本…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Fuuah♥ (Wow, another shot for me...)"
                             ]
                         },
                         {
@@ -9691,14 +9649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>これはこれは、覚えが早いですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいでしょう。淫魔は所詮、消耗品に過ぎませんから。"
+                                "\\nc<Executive Officer>Well well, you learn fast. That's good. After all, succubi\nare just expendable goods."
                             ]
                         },
                         {
@@ -9738,7 +9689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ひぐっ♥はあん♥"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Higuu♥ Haan♥"
                             ]
                         },
                         {
@@ -9783,7 +9734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](寒い…いや、熱い？　苦しいのはたしかだけど…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Cold... no, hot? I'm definitely in pain but...)"
                             ]
                         },
                         {
@@ -9800,7 +9751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](あうっ、これ、本当に危な…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Ahh, this is really dangerous...)"
                             ]
                         },
                         {
@@ -9831,7 +9782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>好きなだけ使って、いくらでも壊してもいいってことだ！"
+                                "\\nc<Executive Officer>Use them as much as you like, and it's okay to break them as\nmuch as you want!"
                             ]
                         },
                         {
@@ -10500,7 +10451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](か、過激すぎる…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(That's too extreme...)"
                             ]
                         },
                         {
@@ -10517,7 +10468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](あんなふうにしたらすぐ壊れちゃ…あうっ？)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(If you do it like that, they'll break right away... Ahh?)"
                             ]
                         },
                         {
@@ -10593,7 +10544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>さて、メアリーちゃん。ちゃんと謝ってもらおうか。"
+                                "\\nc<Executive Officer>Now then, Meary-chan. Shall we have you apologize properly?"
                             ]
                         },
                         {
@@ -10610,7 +10561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>えへ、あひっ…くふっ♥"
+                                "\\nc<Senpai>Ehe, ahii... kufu♥"
                             ]
                         },
                         {
@@ -10690,7 +10641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>本当に好きなようにしてもいいんですか？"
+                                "\\nc<Customer>Can I really do whatever I like?"
                             ]
                         },
                         {
@@ -10738,14 +10689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>構いませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせその女も処分予定ですので。"
+                                "\\nc<Executive Officer>Don't worry about it. That woman is scheduled to be disposed\nof anyway."
                             ]
                         },
                         {
@@ -10771,14 +10715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>色々と知りすぎてしまったというか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせ実験対象としての価値ももうありませんし。"
+                                "\\nc<Executive Officer>She knows too much... and she's no longer of any value as an\nexperimental subject."
                             ]
                         },
                         {
@@ -10809,7 +10746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](あれっ？　なんか、危険な流れ…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Huh? This is a dangerous turn of events...)"
                             ]
                         },
                         {
@@ -10826,7 +10763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](ひぃっ、今はそんなことより…寒いっ…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Hii, more than that... it's cold...)"
                             ]
                         },
                         {
@@ -10857,7 +10794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>なるほど。ではこちらも早く始めましょう。"
+                                "\\nc<Customer>I see. Then let's get started right away."
                             ]
                         },
                         {
@@ -10949,7 +10886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュポッ、ジュブッ、チュポッ…"
+                                "\\nc<>[Squelching, slurping sounds]"
                             ]
                         },
                         {
@@ -11003,7 +10940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くあっ、ああああんっ♥"
+                                "\\nc<Senpai>Kuaa, aaaaahn♥"
                             ]
                         },
                         {
@@ -11020,7 +10957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>くふふ、こうやってハメられるのがいいのか？"
+                                "\\nc<Executive Officer>Kufufu, do you like being screwed like this?"
                             ]
                         },
                         {
@@ -11053,14 +10990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ひいいっ…メアリー先輩があんな声を出すなんてっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今にも呼吸が止まりそう…)"
+                                "\\nc<Saki>(Hiiii... I can't believe Meary-senpai is making such\nsounds! I feel like I'm going to stop breathing any\nmoment...)"
                             ]
                         },
                         {
@@ -11077,14 +11007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>直接動かすのも面倒くさいし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オイッ。お前が動かしてみろ。"
+                                "\\nc<Customer>It's a hassle to move her myself... Hey you, you move her."
                             ]
                         },
                         {
@@ -11113,7 +11036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あひっ？　うっ、はぁい…ああっ♥"
+                                "\\nc<Saki>Ahi!? Uh, yes... aah♥"
                             ]
                         },
                         {
@@ -11167,7 +11090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>客の上に乗り、一心不乱に腰を動かす咲姫。"
+                                "\\nc<>Saki mounts the customer and moves her hips frantically."
                             ]
                         },
                         {
@@ -11184,14 +11107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>絶対的命令に直面した瞬間、自然と服従心が生まれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全身に幸福感が広がる。"
+                                "\\nc<>The moment she faced the absolute command, a sense of\nobedience naturally arose, spreading a feeling of bliss\nthroughout her body."
                             ]
                         },
                         {
@@ -11235,7 +11151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くひっ、ふあぁっ…♥"
+                                "\\nc<Senpai>Kuh, fuah...♥"
                             ]
                         },
                         {
@@ -11252,7 +11168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>オラッ、オラッ！　お前が好きな猫のように鳴いてみろ！"
+                                "\\nc<Executive Officer>Ora, ora! Cry out like the cat you love so much!"
                             ]
                         },
                         {
@@ -11269,7 +11185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ひぅっ、にゃ、にゃーっ…あああっ♥"
+                                "\\nc<Senpai>Hiuu, nya, nyaa... aaaa♥"
                             ]
                         },
                         {
@@ -11286,14 +11202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くひっ、ふぁっ、はんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ、私、何のためにこんな…"
+                                "\\nc<Saki>Kuh, fah, han♥ Ahh, what am I doing this for..."
                             ]
                         },
                         {
@@ -11310,14 +11219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>おいおい、バテるにはまだ早いぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、頑張ったらこれあげるから。頑張って。"
+                                "\\nc<Customer>Hey hey, it's too early to get tired? Look, if you do well,\nI'll give you this. Keep it up."
                             ]
                         },
                         {
@@ -11372,7 +11274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>へっ？　あああっ！"
+                                "\\nc<Saki>Eh? Aaaaah!"
                             ]
                         },
                         {
@@ -11416,14 +11318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>新しい注射器を見た咲姫の体がブルブルと震え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "再び勢いを取りもどす。"
+                                "\\nc<>Upon seeing the new syringe, Saki's body trembles and she\nregains her momentum."
                             ]
                         },
                         {
@@ -11451,14 +11346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(な、何っ、これ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危険だってことは分かってるのに…)"
+                                "\\nc<Saki>(Wha-what is this... I know it's dangerous but...)"
                             ]
                         },
                         {
@@ -11475,7 +11363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(全身がゾクゾクして止まらない…♥)"
+                                "\\nc<Saki>(My whole body is shivering uncontrollably...♥)"
                             ]
                         },
                         {
@@ -11504,7 +11392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くふぅっ、あぁっ…あんっ♥"
+                                "\\nc<Senpai>Kufuu, aah... ahn♥"
                             ]
                         },
                         {
@@ -11521,14 +11409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>人の言葉を話せなくなったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のほうがよく似合ってるよ。"
+                                "\\nc<Executive Officer>Can't speak human words anymore? This suits you better now."
                             ]
                         },
                         {
@@ -11545,7 +11426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>健気だからもう１本打ってやろうか？"
+                                "\\nc<Executive Officer>You're so diligent, maybe I should give you another shot?"
                             ]
                         },
                         {
@@ -11562,7 +11443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あぁっ、だめぇっ、先輩、このままだとホントに…"
+                                "\\nc<Saki>Aah, noo, senpai, at this rate you'll really..."
                             ]
                         },
                         {
@@ -11621,7 +11502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>にゃ、にゃぁぁっ…♥"
+                                "\\nc<Senpai>Nya, nyaaa...♥"
                             ]
                         },
                         {
@@ -11638,7 +11519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(メアリー先輩、もうおかしくなっちゃたみたいだけど…)"
+                                "\\nc<Saki>(Meary-senpai seems to have gone crazy...)"
                             ]
                         },
                         {
@@ -11655,14 +11536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>プハハッ！　角の生えたペットもなかなかいいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕も猫に愛情を注いでみようかな？　オラッ！"
+                                "\\nc<Executive Officer>Puhaha! A pet with horns is quite nice too. Maybe I should\nshower my affection on a cat as well? Ora!"
                             ]
                         },
                         {
@@ -11690,7 +11564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ちゅうぅっ…"
+                                "\\nc<>[Sucking sound]"
                             ]
                         },
                         {
@@ -11732,7 +11606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くひぃっ…♥"
+                                "\\nc<Senpai>Kuhii...♥"
                             ]
                         },
                         {
@@ -11761,14 +11635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>お前もよそ見するなって言っただろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オラッ！"
+                                "\\nc<Customer>Didn't I tell you not to get distracted? Ora!"
                             ]
                         },
                         {
@@ -11785,7 +11652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くはっ？！　さ、寒いっ…あはっ…♥"
+                                "\\nc<Saki>Kuha?! It's cold... ahah...♥"
                             ]
                         },
                         {
@@ -11839,14 +11706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>２人の女の体がさらに激しく痙攣しはじめると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高らかな笑い声が聞こえてくる…"
+                                "\\nc<>The bodies of the two women begin to convulse even more\nviolently as loud laughter can be heard..."
                             ]
                         },
                         {
@@ -11874,14 +11734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>おおっ、表情がやっと良くなったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は他人の心配してる場合じゃないだろ？"
+                                "\\nc<Customer>Ohh, your expression is finally getting better. Now's not\nthe time to worry about others, right?"
                             ]
                         },
                         {
@@ -11898,7 +11751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あっ…あああっ？　あんっ♥"
+                                "\\nc<Saki>Ah... aaaaah? Ahn♥"
                             ]
                         },
                         {
@@ -11915,7 +11768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あっ、腰を掴まれたっ…逃げられ…んぐぅっ？！)"
+                                "\\nc<Saki>(Ah, my hips are being grabbed... I can't escape... nguuu?!)"
                             ]
                         },
                         {
@@ -11943,7 +11796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>パンッ、パァンッ！"
+                                "\\nc<>[Spanking sounds]"
                             ]
                         },
                         {
@@ -11987,14 +11840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>さあさあ、今から１発出すごとに薬物追加だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く逃げないとお前も廃品行きだぞ？"
+                                "\\nc<Customer>Now then, for every shot you take from here on out, we'll\nadd more drugs. Better escape quickly or you'll end up as\nscrap too?"
                             ]
                         },
                         {
@@ -12011,14 +11857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>く、奥まで入ってきたぁっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま適当にズゴズゴ突かれたら…"
+                                "\\nc<Saki>It's going in so deep... If you keep thrusting randomly like\nthis..."
                             ]
                         },
                         {
@@ -12035,14 +11874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>プッ、下心丸見えじゃないか。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "望み通りにしてやるよ！　オラッ！"
+                                "\\nc<Customer>Hah, your true intentions are showing. I'll do just as you\nwish! Ora!"
                             ]
                         },
                         {
@@ -12085,7 +11917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああああっ♥"
+                                "\\nc<Saki>Aaaaah♥"
                             ]
                         },
                         {
@@ -12155,7 +11987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>獣のような喘ぎ声とともに、潮水を撒きちらす咲姫。"
+                                "\\nc<>With animal-like gasps, Saki sprays like the tide."
                             ]
                         },
                         {
@@ -12172,21 +12004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>危険な崖に果てしなく転がり落ちるような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気分にもかかわらず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔の体はただただ正直で献身的。"
+                                "\\nc<>Despite feeling like she's endlessly tumbling down a\ndangerous cliff, the succubus's body is nothing but honest\nand devoted."
                             ]
                         },
                         {
@@ -12203,14 +12021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>一滴も溢さないように、入り口をギュウッと締めつけ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手の動きに合わせて震える。"
+                                "\\nc<>She tightens the entrance so as not to spill a single drop,\ntrembling in response to her partner's movements."
                             ]
                         },
                         {
@@ -12238,14 +12049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>あれ？　逃げないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく…どうしようもないマゾ体質だね。"
+                                "\\nc<Customer>Huh? Not running away? You really are a hopeless masochist."
                             ]
                         },
                         {
@@ -12262,14 +12066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>だ、だってぇ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな気持ちいいの、ふくっ、はあっ♥勝てるわけが…ああ♥"
+                                "\\nc<Saki>But... it feels so good, I can't possibly... win... Ahh♥"
                             ]
                         },
                         {
@@ -12328,21 +12125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>フフッ、いいこと言った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリーちゃんは僕が飽きるまで性処理用として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飼ってやるから安心して壊れような？"
+                                "\\nc<Executive Officer>Heh, well said. Don't worry, Meary-chan, I'll keep you as my\nsex toy until I get bored of you."
                             ]
                         },
                         {
@@ -12359,7 +12142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あ♥ああっ♥きゃはんっ…♥"
+                                "\\nc<Senpai>Ah♥ Aaah♥ Kyahan...♥"
                             ]
                         },
                         {
@@ -12376,7 +12159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>もっとあからさまに喜べよ！　薬が足りないのか？"
+                                "\\nc<Executive Officer>Show me more obvious pleasure! Do you need more drugs?"
                             ]
                         },
                         {
@@ -12393,7 +12176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ひああっ！　あひっ、はうぅっ♥"
+                                "\\nc<Senpai>Hiaaah! Ahi, hauuu♥"
                             ]
                         },
                         {
@@ -12437,14 +12220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>理性が吹っとんだ状況でも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本能的に薬という言葉を理解して発狂するメアリー。"
+                                "\\nc<>Even in a state where reason has blown away, Meary\ninstinctively understands the word 'drugs' and goes mad."
                             ]
                         },
                         {
@@ -12461,7 +12237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そんな先輩の不憫な姿を見た咲姫の目に、涙が溢れていく。"
+                                "\\nc<>Seeing such a pitiful sight of her senpai, tears begin to\noverflow from Saki's eyes."
                             ]
                         },
                         {
@@ -12489,7 +12265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふっ、ふぅっ…"
+                                "\\nc<Saki>Fuu... Fuu..."
                             ]
                         },
                         {
@@ -12506,14 +12282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(どうして…こんな酷い扱いをされているのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔たちはみんなこうなの？)"
+                                "\\nc<Saki>(Why... despite such cruel treatment... are all succubi like\nthis?)"
                             ]
                         },
                         {
@@ -12530,7 +12299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ホント、淫魔はオナホになるために生まれてきたとしか…"
+                                "\\nc<Customer>Really, succubi are born to become fleshlights..."
                             ]
                         },
                         {
@@ -12547,14 +12316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(だめっ、またクラクラして…気持ちいいのが来ちゃうっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んふぅっ、このままペースに飲まれたくないっ)"
+                                "\\nc<Saki>(No good, I'm getting dizzy again... the pleasure is\ncoming... Nfuuu, I don't want to be swallowed up by this\npace)"
                             ]
                         },
                         {
@@ -12597,14 +12359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(なりたくてこんな体になったんじゃないのにっ…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひあぁんっ…♥"
+                                "\\nc<Saki>(I didn't choose to have this body...) Hiaaan...♥"
                             ]
                         },
                         {
@@ -12621,14 +12376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>あっ、メアリーちゃん、そろそろ限界か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま死んじゃったら申し訳ないけど…仕方ないよな？"
+                                "\\nc<Executive Officer>Ah, Meary-chan, reaching your limit? It would be unfortunate\nif you died now... but it can't be helped, right?"
                             ]
                         },
                         {
@@ -12645,7 +12393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>きゃうっ、はぁっ、んくぅっ…♥"
+                                "\\nc<Senpai>Kyauu, haa, nkuuu...♥"
                             ]
                         },
                         {
@@ -12662,7 +12410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(だ、だめです先輩…ふぅっ、私も、もうこれ以上は…)"
+                                "\\nc<Saki>(No, senpai... fuu, I can't take any more either...)"
                             ]
                         },
                         {
@@ -12679,7 +12427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(……)"
+                                "\\nc<Saki>(...)"
                             ]
                         },
                         {
@@ -12696,7 +12444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(悔しい…私たち淫魔は最後まで搾取される運命なの？)"
+                                "\\nc<Saki>(It's frustrating... Are we succubi fated to be exploited to\nthe end?)"
                             ]
                         },
                         {
@@ -12724,7 +12472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の視界がどんどん暗くなっていく…"
+                                "\\nc<>Saki's vision is getting darker and darker..."
                             ]
                         },
                         {
@@ -13543,7 +13291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>パンッ、パンッ、パァンッ…"
+                                "\\nc<>Spank, Spank, Spannnk..."
                             ]
                         },
                         {
@@ -13571,7 +13319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>うむ、メアリーちゃん、ほとんど動けなくなったね。"
+                                "\\nc<Executive Officer>Hmm, Meary-chan, you can hardly move now."
                             ]
                         },
                         {
@@ -13588,7 +13336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くふっ、はぁっ…♥"
+                                "\\nc<Senpai>Kufu, haa...♥"
                             ]
                         },
                         {
@@ -13616,7 +13364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>役員が腰を動かすたびにか弱くビクつくメアリー。"
+                                "\\nc<>With every movement of the officer's hips, Meary twitches\nweakly."
                             ]
                         },
                         {
@@ -13633,14 +13381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>気力を完全に失ってしまった体は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姿勢を保つのでさえやっと。"
+                                "\\nc<>The body that has completely lost its willpower struggles\neven to maintain its posture."
                             ]
                         },
                         {
@@ -13657,14 +13398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>使いおわった注射器たちが近くに無秩序に散らばっている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "光景は、見るだけでおぞましい。"
+                                "\\nc<>The sight of used syringes scattered chaotically nearby is\nsimply disgusting to behold."
                             ]
                         },
                         {
@@ -13681,14 +13415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ほどなくして役員は先輩に熱が冷めたのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "視線を横に向けた。"
+                                "\\nc<>Before long, the officer seems to lose interest in senpai\nand turns his gaze aside."
                             ]
                         },
                         {
@@ -13716,21 +13443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>ここまできたら、もう使えそうにないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心して廃棄処分できるように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと何本か打とうと思うんだが…ん？"
+                                "\\nc<Executive Officer>At this point, she seems unusable. To ensure she can be\ndisposed of without worry, I'm thinking of injecting a few\nmore... Hm?"
                             ]
                         },
                         {
@@ -13770,7 +13483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ジュポッ…"
+                                "\\nc<>[Sucking sound]"
                             ]
                         },
                         {
@@ -13798,21 +13511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うわぁ、元気いっぱいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだしているとは…ん？"
+                                "\\nc<Executive Officer>Wow, full of energy I see. Still going at it... Hm?"
                             ]
                         },
                         {
@@ -13829,7 +13528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>クッ、はぁっ…"
+                                "\\nc<Customer>Kuh, haa..."
                             ]
                         },
                         {
@@ -13846,7 +13545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>？"
+                                "\\nc<Executive Officer>?"
                             ]
                         },
                         {
@@ -13863,7 +13562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>や、め、助け…はぁっ！"
+                                "\\nc<Customer>No, stop, help... haa!"
                             ]
                         },
                         {
@@ -13891,7 +13590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ジュポッ…"
+                                "\\nc<>[Sucking sound]"
                             ]
                         },
                         {
@@ -13919,7 +13618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふうっ、はあ…"
+                                "\\nc<Saki>Fuu, haa..."
                             ]
                         },
                         {
@@ -13963,14 +13662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>死にかける客とは対照的に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の顔は、どこからか湧いてくる生気で輝いている。"
+                                "\\nc<>In stark contrast to the dying customer, Saki's face is\nradiant with a vitality that seems to spring forth from\nnowhere."
                             ]
                         },
                         {
@@ -13987,14 +13679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>中毒症状などすっかり消えてしまった様子で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきよりうんと大きくなった翼を悠々とはためかせている…"
+                                "\\nc<>Any signs of addiction have completely vanished, and she\nflutters her wings, now much larger than before, with\nease..."
                             ]
                         },
                         {
@@ -14022,14 +13707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>な、何だ？　まだ精気を吸収してるっていうのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほぼ致死量を注射したはずだが…"
+                                "\\nc<Executive Officer>Wh-What? She's still absorbing life force? But I injected\nher with almost a lethal dose..."
                             ]
                         },
                         {
@@ -14053,14 +13731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふぅっ、はあ…あーあ、使えなくなっちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捨ててもいいよね？"
+                                "\\nc<Saki>Fuu, haa... Ah-ah, it's become unusable. It's okay to throw\nit away, right?"
                             ]
                         },
                         {
@@ -14088,7 +13759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>バサッ！"
+                                "\\nc<>[Rustling sound]"
                             ]
                         },
                         {
@@ -14105,7 +13776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>な、何だ、その姿は…"
+                                "\\nc<Executive Officer>Wh-What is that form..."
                             ]
                         },
                         {
@@ -14122,14 +13793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>そんなバカな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女王なんて、ここ数百年は現れたことないっていうのに！"
+                                "\\nc<Executive Officer>Impossible! A queen hasn't appeared for hundreds of years!"
                             ]
                         },
                         {
@@ -14146,7 +13810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(淫魔にも上位種が存在したんだ…)"
+                                "\\nc<Saki>(So there are higher species among succubi...)"
                             ]
                         },
                         {
@@ -14179,7 +13843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふーん？　どうして？"
+                                "\\nc<Saki>Hm? Why is that?"
                             ]
                         },
                         {
@@ -14196,14 +13860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>そりゃあ、淫魔は幼いころから精気に中毒になって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男に服従するように仕込んであるから…"
+                                "\\nc<Executive Officer>Well, succubi are addicted to life force from a young age\nand are trained to be submissive to men..."
                             ]
                         },
                         {
@@ -14220,7 +13877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>はっ！　僕はいったい何てことを言って…"
+                                "\\nc<Executive Officer>Ha! What am I saying..."
                             ]
                         },
                         {
@@ -14237,14 +13894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>なるほど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって、私は人間から淫魔になったんだもん。"
+                                "\\nc<Saki>I see... That's because I became a succubus from a human."
                             ]
                         },
                         {
@@ -14261,14 +13911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あんたたちの策略のせいでね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が知らないとでも思った？"
+                                "\\nc<Saki>Thanks to your schemes! Did you think I didn't know?"
                             ]
                         },
                         {
@@ -14285,14 +13928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>クッ…たかが１年目の小娘が…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真の魔族の力を見せてやろう！"
+                                "\\nc<Executive Officer>Grr... A mere first-year girl dares to... I'll show you the\ntrue power of a demon race!"
                             ]
                         },
                         {
@@ -14309,7 +13945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>私はその１年の間に淫魔のすべての技術を学んだの。"
+                                "\\nc<Saki>I've learned all the techniques of a succubus during that\nyear."
                             ]
                         },
                         {
@@ -14326,21 +13962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>バカな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すべての女たちを淫魔にして人類を支配するという"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々の壮大な夢が…"
+                                "\\nc<Executive Officer>Ridiculous... Our grand dream of turning all women into\nsuccubi and dominating humanity..."
                             ]
                         },
                         {
@@ -14373,7 +13995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>クハッ！"
+                                "\\nc<Executive Officer>Kuhah!"
                             ]
                         },
                         {
@@ -14406,14 +14028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うわっ、手も触れてないのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが淫魔の真の力？"
+                                "\\nc<Saki>Wow, I haven't even touched you... Is this the true power of\na succubus?"
                             ]
                         },
                         {
@@ -14430,7 +14045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲…姫？"
+                                "\\nc<Senpai>Saki...hime?"
                             ]
                         },
                         {
@@ -14463,7 +14078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>安心してください、先輩。もうすべて終わりましたから…"
+                                "\\nc<Saki>Please be at ease, Senpai. Everything is over now..."
                             ]
                         },
                         {

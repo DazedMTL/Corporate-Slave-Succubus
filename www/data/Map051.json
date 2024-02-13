@@ -3756,14 +3756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先輩の体罰時間"
+                                "Would you like to watch the event? It's time for senpai's\npunishment."
                             ]
                         },
                         {
@@ -3771,8 +3764,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -3943,7 +3936,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>\\TA[1]「現場業務」が解放されました！"
+                                "\\TA[1]\\nc<>\"Field Work\" has been unlocked!"
                             ]
                         },
                         {
@@ -4153,7 +4146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]いつ終わるんだろう、この無意味な書類作業…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>When will this meaningless paperwork ever end..."
                             ]
                         },
                         {
@@ -4292,21 +4285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]そうだ、咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客のクチコミも業務評価に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反映されるそうだから気を付けなさい。"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>That's right, Saki. Customer reviews also reflect on our\nperformance evaluations, so be careful."
                             ]
                         },
                         {
@@ -4391,14 +4370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]お客のクチコミも！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしていきなりそんな…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Customer reviews too!? Why all of a sudden..."
                             ]
                         },
                         {
@@ -4443,14 +4415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>知らないわよ。役員の誰かが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変なドキュメンタリーでも観たんじゃない？"
+                                "\\nc<Senpai>I have no idea. Maybe one of the executives watched some\nstrange documentary?"
                             ]
                         },
                         {
@@ -4495,7 +4460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]何ですか、その具体的な例は…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>What do you mean by \"specific examples\"..."
                             ]
                         },
                         {
@@ -4540,21 +4505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>急に社長の誕生日プレゼントを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "買うからってお金を取られたときには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に大変だったの。"
+                                "\\nc<Senpai>Like when we suddenly had to buy a birthday present for the\npresident and everyone was forced to chip in. It was really\ntough."
                             ]
                         },
                         {
@@ -4571,14 +4522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ともかく、咲姫のクチコミはどう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しはあるんじゃない？"
+                                "\\nc<Senpai>Anyway, how are your reviews, Saki? You must have some,\nright?"
                             ]
                         },
                         {
@@ -4654,7 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]すぐに確認します！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>I'll check right away!"
                             ]
                         },
                         {
@@ -4680,7 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]どれどれ…"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Let's see..."
                             ]
                         },
                         {
@@ -4697,14 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]５点満点で平均3.7点！\\.\\. "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これくらいなら悪くないんじゃ？"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>An average of 3.7 out of 5 points! That's not too bad, is\nit?"
                             ]
                         },
                         {
@@ -4721,7 +4658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]そもそもクチコミ自体があまりないんですけど。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>But there aren't many reviews to begin with..."
                             ]
                         },
                         {
@@ -4766,7 +4703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]…低すぎるわね。ちょっと危ないかも。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>...That's too low. It might be a bit risky."
                             ]
                         },
                         {
@@ -4851,7 +4788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]え！？　どうしてですか！？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh!? Why is that!?"
                             ]
                         },
                         {
@@ -4896,21 +4833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>だって業務評価では５点未満は全部同じだもの。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１点だろうが４点だろうが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "５点じゃなければ無価値ってことよ。"
+                                "\\nc<Senpai>Because in the performance evaluation, anything less than 5\npoints is all the same. Whether it's 1 point or 4 points...\nif it's not 5, it's worthless."
                             ]
                         },
                         {
@@ -4955,7 +4878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]そ、それじゃあ評価の意味ないじゃないですか！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Then, that means the evaluation doesn't make any sense!"
                             ]
                         },
                         {
@@ -5000,7 +4923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]いい意見ね。直々に提案してみる？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Good point. Why don't you propose that directly?"
                             ]
                         },
                         {
@@ -5045,21 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うっ…じゃあどうすればいいんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただでさえ厳しいのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなものに足を引っ張られるなんて…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Uh... what should I do then? It's already tough as it is,\nand now this is dragging me down..."
                             ]
                         },
                         {
@@ -5104,14 +5013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まあ、これからは徹底的に管理するしかないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "５点くださいってねだってみれば？"
+                                "\\nc<Senpai>Well, from now on you'll just have to manage it thoroughly.\nMaybe beg for 5 points?"
                             ]
                         },
                         {
@@ -5156,7 +5058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>で、でももう時間が…"
+                                "\\nc<Saki>But, but there's no more time..."
                             ]
                         },
                         {
@@ -5201,7 +5103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふふ、頑張って。"
+                                "\\nc<Senpai>Hehe, good luck."
                             ]
                         },
                         {
@@ -5394,14 +5296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>もう、こういうときは役に立たないんだから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしよう。"
+                                "\\nc<Saki>Ugh, you're no help at times like this... What should I do."
                             ]
                         },
                         {
@@ -5427,14 +5322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]そうだ！　うちの会社って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポータルサイトのIDがあればクチコミを登録できるんだよね？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>That's it! Our company has a portal site where you can post\nreviews if you have an ID, right?"
                             ]
                         },
                         {
@@ -5451,14 +5339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>実際にクチコミを登録してくれるお客はほぼいないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分でIDを作って直接書きこめば…"
+                                "\\nc<Saki>Since almost no customers actually leave reviews, I could\njust create an ID and write them myself..."
                             ]
                         },
                         {
@@ -5475,14 +5356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]ふふふ、我ながら素晴らしいアイデア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クチコミを残さないお客は、実質５点みたいなものでしょ？"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Hehehe, what a brilliant idea I've had. For customers who\ndon't leave a review, it's practically the same as giving 5\npoints, right?"
                             ]
                         },
                         {
@@ -5499,7 +5373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そもそもこんなことで悩ませる会社が悪いんだから…"
+                                "\\nc<Saki>After all, it's the company's fault for stressing me out\nover something like this..."
                             ]
                         },
                         {
@@ -5575,7 +5449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふあああ…そろそろ退勤時間か。"
+                                "\\nc<Saki>Yaaawn... Is it almost time to leave work?"
                             ]
                         },
                         {
@@ -5679,7 +5553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]これだけやったんだから、もう十分だよね。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>I've done enough for today, that should be sufficient."
                             ]
                         },
                         {
@@ -5731,7 +5605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]咲姫、今日の仕事はもう終わった？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Saki, have you finished your work for today?"
                             ]
                         },
                         {
@@ -5807,7 +5681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい！　それじゃあ今日はこれで…"
+                                "\\nc<Saki>Yes! So for today, that's it..."
                             ]
                         },
                         {
@@ -5852,21 +5726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1](ん？　さっきとは雰囲気がまるで違う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくら咲姫がバカだとはいえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "能天気な子ではないはず。まさか…)"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>(Hm? She seems completely different from before. As much as\nSaki can be silly, she's not usually this carefree. Could it\nbe...)"
                             ]
                         },
                         {
@@ -5883,7 +5743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、クチコミはどうなったの？"
+                                "\\nc<Senpai>Saki, how did the reviews go?"
                             ]
                         },
                         {
@@ -5928,7 +5788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]へっ？　ま、まあなんとか…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Huh? Well, somehow..."
                             ]
                         },
                         {
@@ -5973,7 +5833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ちょっと見せて。"
+                                "\\nc<Senpai>Let me see."
                             ]
                         },
                         {
@@ -6018,7 +5878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああっ、先輩！"
+                                "\\nc<Saki>Ahh, Senpai!"
                             ]
                         },
                         {
@@ -6209,7 +6069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あなた…何をしたの？"
+                                "\\nc<Senpai>You... What have you done?"
                             ]
                         },
                         {
@@ -6254,14 +6114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ、な、何のことですか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(まさか、さっそくバレちゃった？)"
+                                "\\nc<Saki>Eh, what do you mean...? (Could it be that she found out\nalready?)"
                             ]
                         },
                         {
@@ -6306,7 +6159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]このバカ！　付いてきなさい！"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>You idiot! Come with me!"
                             ]
                         },
                         {

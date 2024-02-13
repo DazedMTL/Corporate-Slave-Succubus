@@ -4027,7 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うぅっ、二日酔いで死にそう…"
+                                "\\nc<Saki>Ugh, I feel like I'm dying from this hangover..."
                             ]
                         },
                         {
@@ -4134,14 +4134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ベッドじゃなくて床で寝ちゃった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすがに昨日は飲みすぎたか。"
+                                "\\nc<Saki>I ended up sleeping on the floor instead of the bed... I\ndefinitely drank too much last night."
                             ]
                         },
                         {
@@ -4170,55 +4163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>……?"
-                            ]
-                        },
-                        {
-                            "code": 250,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "name": "Miss",
-                                    "volume": 90,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
-                            "code": 250,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "name": "Miss",
-                                    "volume": 90,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]何だろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきからすごく邪魔なんだけど……"
+                                "\\nc<Saki>...?"
                             ]
                         },
                         {
@@ -4259,7 +4204,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>？"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>What's that? It's been really bothering me for a while\nnow..."
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Miss",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Miss",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
                             ]
                         },
                         {
@@ -4276,7 +4245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1]？？？？？？"
+                                "\\nc<Saki>?"
                             ]
                         },
                         {
@@ -4293,7 +4262,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>な、な…\\|\\^"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>??????"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Saki>Wha, wha..."
                             ]
                         },
                         {
@@ -4395,7 +4381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\fs[40]なにこれぇぇぇぇぇぇぇぇ！！！！！\\|\\|\\^"
+                                "\\fs[40]\\nc<Saki>What is thiiiiiiisssssssss!!!!"
                             ]
                         },
                         {
@@ -4698,7 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>い、いったい何これ！？　尻尾！？"
+                                "\\nc<Saki>What on earth is this!? A tail!?"
                             ]
                         },
                         {
@@ -4722,14 +4708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>なんで尻尾が生えてるの！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日みんなにいたずらされた！？"
+                                "\\nc<Saki>Why do I have a tail!? Did everyone play a prank on me\nyesterday!?"
                             ]
                         },
                         {
@@ -4784,7 +4763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]うあっ！\\.\\. \\bustMsgExpression[1, 1]と、取れない！？"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>Ouch! \\bustMsgExpression[1, 1] It won't come off!?"
                             ]
                         },
                         {
@@ -4822,7 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いったいどういうこと……"
+                                "\\nc<Saki>What on earth is going on..."
                             ]
                         },
                         {
@@ -4925,14 +4904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>……そ、そうだ！　病院！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "病院に行かなきゃ！"
+                                "\\nc<Saki>...That's right! The hospital! I have to go to the hospital!"
                             ]
                         },
                         {
@@ -4949,21 +4921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>常識的に考えて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間に尻尾なんて生えるわけがないもんね！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなの何かの間違いよ！！"
+                                "\\nc<Saki>Logically speaking, humans can't just grow tails! This has\nto be some kind of mistake!!"
                             ]
                         },
                         {

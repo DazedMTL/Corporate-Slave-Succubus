@@ -11,12 +11,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "生き残るために必要な資源",
+        "description": "Resources necessary for survival",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 3,
-        "name": "魔力",
+        "name": "Magic Power",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -37,12 +37,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "経験の尺度",
+        "description": "Measure of experience",
         "effects": [],
         "hitType": 0,
         "iconIndex": 4,
         "itypeId": 3,
-        "name": "経験指数",
+        "name": "Experience Index",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -111,7 +111,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "魔術を解く薬草",
+        "name": "Herb for Dispelling Magic",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -144,7 +144,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "促進剤",
+        "name": "Stimulant",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -170,7 +170,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]textupeki@SExCOM.com <br> \\fs[18] \\V[281]",
+        "name": "\\fs[14]textupeki@SExCOM.com <br> \\fs[18] \\V[281]",
         "note": "<SGCategory:警備会社>\n<SGDescription:\n\n\n\\fs[14] 差出人：textupeki@SExCOM.com\n 件名：派遣社員の評価資料をお送りいたします。\n\n\\fs[22]  いつもお世話になっております。SExCOMでございます。\n\n ご紹介いただいた咲姫様に対する弊社での評価は、非常に良好でした。\n\n 咲姫様がいらしてくだされば、残業も辞さないという意見も多々ありました。\n\n 業務実績はもちろん、社員の満足度も上昇したため、とても感謝しております。\n\n 今回のような人選を、今後もぜひともお願いできればと思っております。\n\n それでは、今後ともよろしくお願いいたします。\n>\n",
         "occasion": 0,
         "price": 0,
@@ -196,7 +196,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]textupeki@SExCOM.com <br> \\fs[18] \\V[282]",
+        "name": "\\fs[14]textupeki@SExCOM.com <br> \\fs[18] \\V[282]",
         "note": "<SGCategory:警備会社>\n<SGDescription:\n\n\n\\fs[14] 差出人：textupeki@SExCOM.com\n 件名：派遣社員の評価資料をお送りいたします。\n\n\\fs[22]  いつもお世話になっております。SExCOMでございます。\n\n 最近派遣業務を担当しております咲姫様への評価が非常に高いと見られます。\n\n 福利厚生のためのペット程度の認識でしたが、\n\n 今後の実務処理において評価を再考するべきだという意見がありました。\n\n 素晴らしき人選、心より感謝申しあげます。\n\n 今後ともよろしくお願いいたします。\n>\n",
         "occasion": 0,
         "price": 0,
@@ -222,7 +222,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]textupeki@SExCOM.com <br> \\fs[18] \\V[283]",
+        "name": "\\fs[14]textupeki@SExCOM.com <br> \\fs[18] \\V[283]",
         "note": "<SGCategory:警備会社>\n<SGDescription:\n\n\n\\fs[14] 差出人：textupeki@SExCOM.com\n 件名：派遣社員の評価資料をお送りいたします。\n\n\\fs[22]  いつもお世話になっております。SExCOMでございます。\n\n 派遣業務担当の咲姫ちゃんへの評価が日々向上しております。\n\n 何とお礼を申しあげてよいか、お礼の言葉もございません。福利厚生はやはり淫魔第一産業からの派遣ですね。\n\n 雰囲気に流されやすいチョロさや、どんなプレイでも引きうけてくれる丈夫さが魅力ポイントと言いましょうか。\n\n 肉便器アイドルという名誉あるあだ名まで付いたほどです。\n\n それでは、今後ともよろしくお願いいたします。\n>\n",
         "occasion": 0,
         "price": 0,
@@ -248,7 +248,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]textupeki@SExCOM.com <br> \\fs[18] \\V[284]",
+        "name": "\\fs[14]textupeki@SExCOM.com <br> \\fs[18] \\V[284]",
         "note": "<SGCategory:警備会社>\n<SGDescription:\n\n\n\\fs[14] 差出人：textupeki@SExCOM.com\n 件名：派遣社員の評価資料をお送りいたします。\n\n\\fs[22]  いつもお世話になっております。SExCOMでございます。\n\n 咲姫様の派遣業務において些細なトラブルがあったと存じております。\n\n ほかのチームや他社からの派遣に比べて非常に評価が高いため、\n\n なにとぞ円満な協力関係を維持していきたい所存でございます。\n\n メアリー様には常々お力添えいただいてばかりですので、\n\n ご不明な点などがございましたら、いつでもご連絡ください。\n\n>\n",
         "occasion": 0,
         "price": 0,
@@ -300,7 +300,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]yari_man@dokage_maga.com <br> \\fs[18] \\V[286]",
+        "name": "\\fs[14]yari_man@dokage_maga.com <br> \\fs[18] \\V[286]",
         "note": "<SGCategory:マスコミ>\n<SGDescription:\n\n\n\\fs[14] 差出人：yari_man@dokage_maga.com\n タイトル：【トカゲマガジン】新入社員の撮影企画への派遣依頼\n\n\\fs[22]  お世話になっております。先日は素晴らしい人材を派遣していただき、ありがとうございました。\n\n おかげで良い結果を出すことができました。\n\n 現場での反応も良かったため、末長く一緒にお仕事ができればと思っております。\n\n とくに、あの神経質な取材者が気に入っておりました。\n\n 次の企画においても同じ人材を編成することを前提としておりますので、添付した企画書のご確認をお願いいたします。\n\n 今後ともよろしくお願いいたします。\n>",
         "occasion": 0,
         "price": 0,
@@ -326,7 +326,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]yari_man@dokage_maga.com <br> \\fs[18] \\V[287]",
+        "name": "\\fs[14]yari_man@dokage_maga.com <br> \\fs[18] \\V[287]",
         "note": "<SGCategory:マスコミ>\n<SGDescription:\n\n\n\\fs[14] 差出人：yari_man@dokage_maga.com\n タイトル：【トカゲマガジン】ネット配信企画への人材派遣依頼\n\n\\fs[22]  お世話になっております。先日派遣していただいた人材の件でご連絡いたしました。\n\n 弊社内部でも懐疑的な意見が多かったのですが、メアリー様推進力のおかげで無事企画が通ったこと、あらためて感謝の言葉を申しあげます。\n\n 撮影分が放送されなった件につきましては、別途添付いたしました文書をご確認ください。\n\n 本来なら貴社側に責任がございますが、今後とも良い関係を築いていきたいという弊社の要望に従って、このように処理させていただきました。\n\n 今後ともよろしくお願いいたします。\n>",
         "occasion": 0,
         "price": 0,
@@ -352,7 +352,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]yari_man@dokage_maga.com <br> \\fs[18] \\V[288]",
+        "name": "\\fs[14]yari_man@dokage_maga.com <br> \\fs[18] \\V[288]",
         "note": "<SGCategory:マスコミ>\n<SGDescription:\n\n\n\\fs[14] 差出人：yari_man@dokage_maga.com\n タイトル：【トカゲマガジン】派遣社員の指定依頼\n\n\\fs[22]  お世話になっております。トカゲマガジンの人事担当でございます。\n\n このたびの撮影の打ち上げの際に発生した咲姫様の件について、連絡事項がございますのでお知らせいたします。\n\n 弊社の調べによりますと、咲姫様が倒れたのはただの過剰飲酒によるもので、雰囲気はいつもの打ち上げと変わらなかったかったとのことです。\n\n もちろん派遣社員を管理できなかった弊社の責任もございますので、あらためて謝罪の言葉を申しあげます。\n\n この件が貴社との協力関係に支障をきたしませんよう、なにとぞご理解のほどよろしくお願いいたします。\n>\n",
         "occasion": 0,
         "price": 0,
@@ -378,7 +378,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]yari_man@dokage_maga.com <br> \\fs[18] \\V[289]",
+        "name": "\\fs[14]yari_man@dokage_maga.com <br> \\fs[18] \\V[289]",
         "note": "<SGCategory:マスコミ>\n<SGDescription:\n\n\n\\fs[14] 差出人：yari_man@dokage_maga.com\n タイトル：【トカゲマガジン】新規プラットフォームの宣伝のための人材派遣依頼\n\n\\fs[22]  お世話になっております。トカゲマガジンの人事担当でございます。\n\n まず、いくつかの衝突があったにもかかわらず、弊社の要望に応えてくださったこと、心より感謝申しあげます。\n\n 新規プラットフォームのスタートとして非常にふさわしい人材であったと弊社では判断しており、これに従い、お約束通り収益の一部を貴社と配分することになりました。\n\n 内容に関しましては、添付したファイルをご確認いただけますと幸いです。\n\n 今後ともよろしくお願いいたします。\n\n 重ねてお礼申しあげます。\n\n>\n",
         "occasion": 0,
         "price": 0,
@@ -430,7 +430,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]project_pregnancy@inmalabo.com <br> \\fs[18] \\V[291]",
+        "name": "\\fs[14]project_pregnancy@inmalabo.com <br> \\fs[18] \\V[291]",
         "note": "<SGCategory:研究機関>\n<SGDescription:\n\n\n\\fs[14] 差出人：project_pregnancy@inmalabo.com\n タイトル：【InmaLabo】新規プロジェクトの臨床実験募集について\n\n\\fs[22]  お世話になっております。研究リームのリーダーです。このたび、新規プロジェクトを担当することになりました。\n\n 実験途中、反抗をするという問題がございましたが、先日紹介していただいたとおり\n\n 丈夫で感度も良く、優れた臨床対象であったというのが研究機関の意見です。\n\n 次の臨床実験のご案内と募集要件を別途送付いたしますので、ご確認ならびにご対応のほどよろしくお願いいたします。\n\n 今回の実験結果と連携する項目が多数存在するため、\n\n なるべく同じ対象で実験を進めたいと思っております。\n\n>\n",
         "occasion": 0,
         "price": 0,
@@ -456,7 +456,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]project_pregnancy@inmalabo.com <br> \\fs[18] \\V[292]",
+        "name": "\\fs[14]project_pregnancy@inmalabo.com <br> \\fs[18] \\V[292]",
         "note": "<SGCategory:研究機関>\n<SGDescription:\n\n\n\\fs[14] 差出人：project_pregnancy@inmalabo.com\n タイトル：【InmaLabo】臨床実験に関する内容と次回の実験対象の依頼について\n\n\n\\fs[22]  今回の実験と今後の実験に関する資料を送付いたします。\n\n 次のスケジュールのご案内および派遣社員の勤怠資料をお送りいたします。\n\n 耐久性と感度においては依然として素晴らしい指標を見せているため、\n\n 引き続き素晴らしい臨床対象をお願いする所存でございますが、\n\n 精密な実験結果を収集する場所のため、実験後の衛生管理につきましては十分ご注意いただきますようお願いいたします。\n\n より多くの実験結果が必要になりましたため、\n\n 今回の実験対象に加え、様々な候補群をご紹介いただきたく存じます。\n\n 関連事項は別途送付いたしますので、ご確認のうえ、早急にご対応いただけますと幸いです。\n\n>\n",
         "occasion": 0,
         "price": 0,
@@ -482,7 +482,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]project_pregnancy@inmalabo.com <br> \\fs[18] \\V[293]",
+        "name": "\\fs[14]project_pregnancy@inmalabo.com <br> \\fs[18] \\V[293]",
         "note": "<SGCategory:研究機関>\n<SGDescription:\n\n\n\\fs[14] 差出人：project_pregnancy@inmalabo.com\n タイトル：【InmaLabo】派遣に関する資料および注意事項の送付について\n\n\\fs[22]  次のスケジュールのご案内および関連注意事項を送付いたします。\n\n 実験は順調ですが、臨床対象に本施設を拒む傾向が見られるため\n\n 円滑な実験対象の供給をお願いいたします。\n\n なお、このような実務者への攻撃的な態度は\n\n 貴社の評価反映に不利益をもたらす恐れがありますので、ご注意ください。\n\n 次の実験に関する事項を添付したしますので、ご確認をお願いいたします。\n\n\n>\n",
         "occasion": 0,
         "price": 0,
@@ -508,7 +508,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]project_pregnancy@inmalabo.com <br> \\fs[18] \\V[294]",
+        "name": "\\fs[14]project_pregnancy@inmalabo.com <br> \\fs[18] \\V[294]",
         "note": "<SGCategory:研究機関>\n<SGDescription:\n\n\n\\fs[14] 差出人：project_pregnancy@inmalabo.com\n タイトル：【InmaLabo】今後の実験に関する内容送付について\n\n\\fs[22]  実験終了および今後の予定についてご案内いたします。\n\n ご協力により、このたびの実験は終了いたしました。\n\n 今後の臨床実験に関してましては、スケジュールが決まり次第ご連絡いたします。\n\n ご協力いただきありがとうございました。今後とも、どうぞよろしくお願い申しあげます。\n\n\n>\n",
         "occasion": 0,
         "price": 0,
@@ -560,7 +560,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]saimin@circulation.com <br> \\fs[18] \\V[296]",
+        "name": "\\fs[14]saimin@circulation.com <br> \\fs[18] \\V[296]",
         "note": "<SGCategory:物流会社>\n<SGDescription:\n\n\n\\fs[14] 差出人：saimin@circulation.com\n タイトル：営業アシスタント社員に関する業務評価の送付\n\n\\fs[22]  お世話になっております。ご依頼いただいた派遣社員についての詳細を送付いたします。\n\n 業務に対する熟練度が低い新入社員ではありますが、\n\n 社交性や心構えなど、将来性が期待できるため高く評価しております。\n\n 実務能力を磨けば完璧でしょう。\n\n 未熟な部分はございますが、仕事に誠実に取りくんでおり\n\n 将来も期待できるため、今後も当社員の派遣をお願いしたく存じます。\n\n なにとぞよろしくお願いいたします。\n>\n",
         "occasion": 0,
         "price": 0,
@@ -586,7 +586,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]saimin@circulation.com <br> \\fs[18] \\V[297]",
+        "name": "\\fs[14]saimin@circulation.com <br> \\fs[18] \\V[297]",
         "note": "<SGCategory:物流会社>\n<SGDescription:\n\n\n\\fs[14] 差出人：saimin@circulation.com\n タイトル：派遣社員の業務評価および宣伝効果\n\n\\fs[22]  いつもお世話になっております。 \n\n 最近、派遣を担当されている咲姫社員に対する友好的な評価が多く見られます。\n\n 弊社と高い信頼関係を築いており、\n\n ぶしつけなお願いにもいつも笑顔で対応してくださるところが主な評価ポイントです。\n\n その点に関しましては、心よりお詫び申しあげます。\n\n 誠実かつ積極的な態度で仕事に臨んでくださり、大変助かっております。\n\n 今後もぜひ、この協力関係を保っていきたいと考えております。\n\n 引き続きよろしくお願いいたします。\n>\n",
         "occasion": 0,
         "price": 0,
@@ -612,7 +612,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]saimin@circulation.com <br> \\fs[18] \\V[298]",
+        "name": "\\fs[14]saimin@circulation.com <br> \\fs[18] \\V[298]",
         "note": "<SGCategory:物流会社>\n<SGDescription:\n\n\n\\fs[14] 差出人：saimin@circulation.com\n タイトル：宣伝社員の派遣に関する内容送付\n\n\\fs[22]  いつもお世話になっております。 \n\n 単刀直入に申しますが、社内の盗撮はいくら協力社でも困ります。\n\n お手軽オナホの分際で業務の進行に損害をきたすと大問題になりますので、気を付けてください。\n\n 空気が読めるのは高く評価しますが、接客のときだけでお願いします。\n\n 相互間の損益に関する理解は依然として一致していると考えられますので、\n\n 今までどおり、便利なオナホを提供していただければと存じます。よろしくお願いいたします。\n\n>\n",
         "occasion": 0,
         "price": 0,
@@ -638,7 +638,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "  \\fs[14]saimin@circulation.com <br> \\fs[18] \\V[299]",
+        "name": "\\fs[14]saimin@circulation.com <br> \\fs[18] \\V[299]",
         "note": "<SGCategory:物流会社>\n<SGDescription:\n\n\n\\fs[14] 差出人：saimin@circulation.com\n タイトル：今後の宣伝社員の派遣スケジュールについて\n\n\\fs[22]  いつもお世話になっております。 \n\n 急な依頼にもかかわらず多数の人材を迅速に手配してくださり、大変助かりました。\n\n さすがメアリー様のチーム員といいましょうか。容姿とテクニックはもちろんのうえ、\n\n 催眠にかかりやすかったため、使い勝手が大変良かったです。\n\n ただ、チーム全体の派遣を依頼したのにメアリー様がいらっしゃらなかったのは残念です。\n\n チームメンバーだけでなく、名高いメアリー様ともお会いできる機会がほしいですね。\n\n 色々な言い訳を作って避けておられますが、近いうちにお会いすることになるでしょう。\n\n 引き続きよろしくお願いいたします。\n>\n",
         "occasion": 0,
         "price": 0,
@@ -1361,7 +1361,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]ファンの気持ちが詰まった大切な手紙。\\V[99]\\TA[1]だから、チンポを勃てて襲いかかってくるファンなんて要らないってば…\\V[99]\\TA[1]\\V[99]\\TA[1]取引先の信頼度の獲得量上昇\\TA[0]\\V[99]",
+        "description": "\\TA[1]A precious letter filled with a fan's feelings.\n\\V[99]\\TA[1]That's why I don't need fans who get their dicks hard and\nattack me... \\V[99]\\TA[1]\\V[99]\\TA[1]Increase in trust acquisition\nfrom clients\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1373,7 +1373,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "ファンレター",
+        "name": "Fan Letter",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -1394,7 +1394,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]実験に使われた牛柄ビキニのコスプレ衣装。\\V[99]\\TA[1]マニアックなお客から人気です。\\V[99]\\TA[1]\\V[99]\\TA[1]経験指数の獲得量上昇\\TA[0]\\V[99]",
+        "description": "\\TA[1]A cosplay costume of a cow-patterned bikini used in experiments.\n\\V[99]\\TA[1]Popular among niche customers.\n\\V[99]\\TA[1]\\V[99]\\TA[1]Increase in experience points\ngained\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1406,7 +1406,7 @@
         "hitType": 0,
         "iconIndex": 1,
         "itypeId": 2,
-        "name": "牛柄ビキニ",
+        "name": "Cow Pattern Bikini",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -1427,7 +1427,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]<伝説の販促のプロ>が残した宣伝の秘笈。\\V[99]\\TA[1]こんなのが本当に効果があるのかな…？\\V[99]\\TA[1]\\V[99]\\TA[1]魔力の獲得量わずかに上昇\\TA[0]\\V[99]",
+        "description": "\\TA[1]The secret manual of advertising left by the <Legendary\nPromotion Pro>. \\V[99]\\TA[1]I wonder if something like this really\nworks...? \\V[99]\\TA[1]\\V[99]\\TA[1]Slight increase in magic power\ngained\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1439,7 +1439,7 @@
         "hitType": 0,
         "iconIndex": 2,
         "itypeId": 2,
-        "name": "宣伝の秘笈？",
+        "name": "Promotion Secret Technique?",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -1460,7 +1460,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]<伝説の販促のプロ>が残した宣伝の秘笈。\\V[99]\\TA[1]気付きは自身の中にあり…\\V[99]\\TA[1]\\V[99]\\TA[1]魔力の獲得量少し上昇\\TA[0]\\V[99]",
+        "description": "\\TA[1]The secret manual of advertising left by the <Legendary\nPromotion Pro>. \\V[99]\\TA[1]Realization lies within oneself...\n\\V[99]\\TA[1]\\V[99]\\TA[1]A little increase in magic power\ngained\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1472,7 +1472,7 @@
         "hitType": 0,
         "iconIndex": 3,
         "itypeId": 2,
-        "name": "未完成の宣伝の秘笈",
+        "name": "Incomplete Promotion Secret Technique",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -1493,7 +1493,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]<伝説の販促のプロ>が残した宣伝の秘笈。\\V[99]\\TA[1]教えはただの文字の羅列に過ぎず、\\V[99]\\TA[1]己を信じる者だけが前に進むだろう。\\V[99]\\TA[1]魔力の獲得量上昇\\TA[0]\\V[99]",
+        "description": "\\TA[1]The secret manual of advertising left by the <Legendary\nPromotion Pro>. \\V[99]\\TA[1]Teachings are nothing more than an array\nof characters, \\V[99]\\TA[1]Only those who believe in themselves will\nmove forward. \\V[99]\\TA[1]Increase in magic power gained\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1505,7 +1505,7 @@
         "hitType": 0,
         "iconIndex": 4,
         "itypeId": 2,
-        "name": "宣伝の秘笈",
+        "name": "Promotion Secret Technique",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -1526,7 +1526,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]マッチョ魔族の友情の証。\\V[99]\\TA[1]死でさえも２人を引きはなすことはできないゆえに、\\V[99]\\TA[1]まるで…\\V[99]\\TA[1]スケジュールの疲労度１減少\\TA[0]\\V[99]",
+        "description": "\\TA[1]A token of friendship from the macho demon tribe.\n\\V[99]\\TA[1]Not even death can separate the two, hence,\n\\V[99]\\TA[1]It's like... \\V[99]\\TA[1]Reduction of 1 fatigue in\nschedule\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1538,7 +1538,7 @@
         "hitType": 0,
         "iconIndex": 5,
         "itypeId": 2,
-        "name": "友情の証",
+        "name": "Proof of Friendship",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -1559,7 +1559,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]マッチョ魔族の友人に関する実験報告書。\\V[99]\\TA[1]凄まじい内容が記されている…\\TA[0]\\V[99]",
+        "description": "\\TA[1]An experimental report about a friend from the macho demon\ntribe. \\V[99]\\TA[1]It contains tremendous details... \\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1571,7 +1571,7 @@
         "hitType": 0,
         "iconIndex": 6,
         "itypeId": 2,
-        "name": "実験報告書",
+        "name": "Experiment Report",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -1930,7 +1930,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]淫魔たちの連続失踪事件の内容が載っている記事。\\V[99]\\TA[1]被害者たちに共通点はなく、２か月の間に５人が失踪した。\\V[99]\\TA[1]計画的な犯罪なのか、偶然の一致なのかという疑問のなか\\V[99]\\TA[1]事件は次第に忘れられていった…\\V[99]\\TA[0]\\V[99]\\TA[0]\\V[99]\\TA[0]",
+        "description": "The article details the series of disappearances involving succubi.\nThere are no commonalities among the victims, and five have vanished\nover the course of two months. Whether it's a planned crime or a mere\ncoincidence remains a question as the incident gradually fades into\nobscurity...",
         "effects": [
             {
                 "code": 44,
@@ -1942,7 +1942,7 @@
         "hitType": 0,
         "iconIndex": 16,
         "itypeId": 2,
-        "name": "謎の連続失踪事件の記事",
+        "name": "Article on the Mysterious Series of Disappearances",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -1963,7 +1963,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]新再生可能エネルギーとして淫魔第一産業に高い価値を与え、\\V[99]\\TA[1]未来の国家産業として一般市民たちから全面的な支持を受けるための\\V[99]\\TA[1]礎となるメディアガイドラインである。\\V[99]\\TA[1]発行したところは意図的に破損しているようには見えない...\\TA[0]\\V[99]",
+        "description": "This media guideline serves as the foundation to grant high value to\nthe succubus industry as a new renewable energy source and to garner\nfull support from the general populace as a future national industry.\nThe published guidelines do not appear to be intentionally damaged...",
         "effects": [
             {
                 "code": 44,
@@ -1975,7 +1975,7 @@
         "hitType": 0,
         "iconIndex": 17,
         "itypeId": 2,
-        "name": "淫魔第一産業メディアガイドライン",
+        "name": "Succubus First Industry Media Guidelines",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -1996,7 +1996,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]ゴミ箱に粉々に捨てられていた書類の切れ端だ。\\V[99]\\TA[1]特徴的な文様が刻印されている。\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "These are fragments of documents that were found shredded in the trash\ncan, marked with a distinctive pattern.",
         "effects": [
             {
                 "code": 44,
@@ -2008,7 +2008,7 @@
         "hitType": 0,
         "iconIndex": 18,
         "itypeId": 2,
-        "name": "破れた書類",
+        "name": "Torn Documents",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2029,7 +2029,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]淫魔第一産業のサービスを利用していたお客の死亡記事草稿だ。\\V[99]\\TA[1]メディアガイドラインが発行された時期と重なり、記事の掲載が拒否されたようだ\\V[99]\\TA[1]日付がかなり経っているのに、引き出しの片隅に眠っていた。\\V[99]\\TA[1]その客は精気を吸われすぎて性交死ししたと書かれている。\\TA[0]\\V[99]",
+        "description": "A draft article about the death of a client who used the services of\nthe succubus industry. It coincides with the issuance of the media\nguidelines and seems to have been rejected for publication. Despite\nthe date being quite old, it was found tucked away in a drawer corner.\nIt is written that the client died from having their life force\ndrained excessively during sexual intercourse.",
         "effects": [
             {
                 "code": 44,
@@ -2041,7 +2041,7 @@
         "hitType": 0,
         "iconIndex": 19,
         "itypeId": 2,
-        "name": "淫魔第一産業利用客死亡記事",
+        "name": "Article on the Death of a Client Using Succubus First Industry Services",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2062,7 +2062,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]物流会社の社員から伝達を頼まれた書類だ。\\V[99]\\TA[1]開封してはいけないみたいだ…\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "A document entrusted by an employee of a logistics company for\ntransmission. It seems that it should not be opened...",
         "effects": [
             {
                 "code": 44,
@@ -2074,7 +2074,7 @@
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 2,
-        "name": "頼まれた書類",
+        "name": "Requested Documents",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2095,7 +2095,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]研究機関の社員が着用を指示した器具。\\V[99]\\TA[1]鳥肌が立つくらい、自分の体にカスタマイズされている…\\V[99]\\V[99]\\TA[0]\\V[99]\\V[99]",
+        "description": "An apparatus instructed to be worn by employees at a research\ninstitution. It's so customized to one's body that it gives\ngoosebumps...",
         "effects": [
             {
                 "code": 44,
@@ -2107,7 +2107,7 @@
         "hitType": 0,
         "iconIndex": 33,
         "itypeId": 2,
-        "name": "怪しい器具",
+        "name": "Suspicious Device",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2128,7 +2128,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]研究機関で見つけた報告書。\\V[99]\\TA[1]淫魔は精気への依存度が高くなるほど、\\V[99]\\TA[1]男性への依存度も高くなる。\\V[99]\\TA[1]これは、淫魔が昔から消耗品として使用されてきたためだと考えられる。\\TA[0]\\V[99]",
+        "description": "A report found at a research institution. It suggests that the more\nsuccubi become dependent on vital energy, the more they also become\ndependent on men. This is thought to be because succubi have\nhistorically been used as consumables.",
         "effects": [
             {
                 "code": 44,
@@ -2140,7 +2140,7 @@
         "hitType": 0,
         "iconIndex": 34,
         "itypeId": 2,
-        "name": "淫魔の精気依存分析報告書",
+        "name": "Succubus Essence Dependency Analysis Report",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2161,7 +2161,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]研究機関で交換されたコンピュータから見つかった謎のディスク。\\V[99]\\TA[1]プレーヤーが必要だ。\\V[99]\\TA[1]表面には何も書かれていない。\\V[99]\\TA[0]\\V[99]",
+        "description": "A mysterious disk found in a computer exchanged at a research\ninstitution. A player is needed. There is nothing written on its\nsurface.",
         "effects": [
             {
                 "code": 44,
@@ -2173,7 +2173,7 @@
         "hitType": 0,
         "iconIndex": 35,
         "itypeId": 2,
-        "name": "ディスク",
+        "name": "Disk",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2194,7 +2194,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]生意気な新入社員の告発資料。\\V[99]\\TA[1]淫魔第一産業で受けた不当な扱いについての内容が記されている。\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "Accusation materials for an insolent new employee. It documents the\nunfair treatment they received at the succubus industry.",
         "effects": [
             {
                 "code": 44,
@@ -2206,7 +2206,7 @@
         "hitType": 0,
         "iconIndex": 36,
         "itypeId": 2,
-        "name": "告発資料",
+        "name": "Accusation Materials",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2227,7 +2227,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]？？？\\V[99]\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "???",
         "effects": [
             {
                 "code": 44,
@@ -2239,7 +2239,7 @@
         "hitType": 0,
         "iconIndex": 37,
         "itypeId": 2,
-        "name": "謎のウイルス培養液",
+        "name": "Mysterious Virus Culture Fluid",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2260,7 +2260,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]研究機関で見つけたウイルスが入った箱\\V[99]\\TA[1]その中身は…\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "A box found at a research institution containing a virus... its\ncontents are...",
         "effects": [
             {
                 "code": 44,
@@ -2272,7 +2272,7 @@
         "hitType": 0,
         "iconIndex": 38,
         "itypeId": 2,
-        "name": "ウイルス溶液が入った箱",
+        "name": "Box Containing Virus Solution",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2293,7 +2293,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]生物学的危険の警告が貼られた箱\\V[99]\\TA[1]何と書いてあるかは読めない…\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "A box with a biological hazard warning label attached. What is written\ncannot be read...",
         "effects": [
             {
                 "code": 44,
@@ -2305,7 +2305,7 @@
         "hitType": 0,
         "iconIndex": 48,
         "itypeId": 2,
-        "name": "謎の箱",
+        "name": "Mysterious Box",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2326,7 +2326,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]独特な文様が描かれた鍵だ。\\V[99]\\TA[1]<破れた書類>のような文様が描かれている。\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "A key with a unique pattern engraved on it. It has a pattern similar\nto that on the <torn document>.",
         "effects": [
             {
                 "code": 44,
@@ -2338,7 +2338,7 @@
         "hitType": 0,
         "iconIndex": 49,
         "itypeId": 2,
-        "name": "文様が描かれた鍵",
+        "name": "Key with a Pattern Drawn on It",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2359,7 +2359,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]物流会社で見つけたカードキー\\V[99]\\TA[1]どこに使うのかは分からない。\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "A card key found at a logistics company. Its purpose is unknown.",
         "effects": [
             {
                 "code": 44,
@@ -2371,7 +2371,7 @@
         "hitType": 0,
         "iconIndex": 50,
         "itypeId": 2,
-        "name": "カードキー",
+        "name": "Card Key",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2392,7 +2392,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]街の上水道施設が細かく描かれている地図だ。\\V[99]\\TA[1]こんなものを何に使うのだろうか…？\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "A map detailing the city's water supply facilities. What could this be\nused for...?",
         "effects": [
             {
                 "code": 44,
@@ -2404,7 +2404,7 @@
         "hitType": 0,
         "iconIndex": 51,
         "itypeId": 2,
-        "name": "上水道施設の地図",
+        "name": "Map of the Water Supply Facility",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2425,7 +2425,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]街の上水道施設の設備に関するあらゆる情報が記されている資料だ。\\V[99]\\TA[1]こんなものを何に使うのだろうか…？\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "Documents containing all information regarding the city's water supply\nfacilities' equipment. What could this be used for...?",
         "effects": [
             {
                 "code": 44,
@@ -2437,7 +2437,7 @@
         "hitType": 0,
         "iconIndex": 52,
         "itypeId": 2,
-        "name": "上水道施設の設備資料",
+        "name": "Water Supply Facility Equipment Documents",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2458,7 +2458,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]どこか見覚えのある魔族の名刺だ。\\V[99]\\TA[1]顔に特徴的な傷がある…\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "A business card of a demon race that seems familiar. There is a\ndistinctive scar on the face...",
         "effects": [
             {
                 "code": 44,
@@ -2470,7 +2470,7 @@
         "hitType": 0,
         "iconIndex": 64,
         "itypeId": 2,
-        "name": "見覚えのある魔族の名刺",
+        "name": "Familiar Demon's Business Card",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2491,7 +2491,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]どこか見覚えのある魔族の情報が記された書類だ。\\V[99]\\TA[1]何の内容なのかは詳しく分からないが、\\V[99]\\TA[1]今までしてきたことの経歴が書かれているようだ。\\V[99]\\TA[0]\\V[99]",
+        "description": "Documents containing information about a demon race that seems\nfamiliar. The details are unclear, but it appears to list their past\ndeeds and experiences.",
         "effects": [
             {
                 "code": 44,
@@ -2503,7 +2503,7 @@
         "hitType": 0,
         "iconIndex": 65,
         "itypeId": 2,
-        "name": "見覚えのある魔族の書類",
+        "name": "Familiar Demon's Documents",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2524,7 +2524,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]謎の書類だ。\\V[99]\\TA[1]特定の場所への座標と準備物が不明なシリアルナンバーで記されている。\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "Mysterious documents. They contain coordinates to a specific location\nand list of preparation items with unclear serial numbers.",
         "effects": [
             {
                 "code": 44,
@@ -2536,7 +2536,7 @@
         "hitType": 0,
         "iconIndex": 66,
         "itypeId": 2,
-        "name": "謎の書類",
+        "name": "Mysterious Documents",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2557,7 +2557,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]特定の座標についての座標と準備物が記された書類。\\V[99]\\TA[1]キャビネットで見つけた手錠とロープのシリアルナンバーが書かれている。\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "Documents about specific coordinates and preparation items required.\nThey list serial numbers for handcuffs and rope found in a cabinet.",
         "effects": [
             {
                 "code": 44,
@@ -2569,7 +2569,7 @@
         "hitType": 0,
         "iconIndex": 66,
         "itypeId": 2,
-        "name": "作業指示書類",
+        "name": "Work Instruction Documents",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2590,7 +2590,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]警備会社のキャビネットで見つけた手錠だ。\\V[99]\\TA[1]P337187と書かれている。\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "Handcuffs found in a security company's cabinet. They are marked with\nP337187.",
         "effects": [
             {
                 "code": 44,
@@ -2602,7 +2602,7 @@
         "hitType": 0,
         "iconIndex": 67,
         "itypeId": 2,
-        "name": "手錠",
+        "name": "Handcuffs",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2623,7 +2623,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]警備会社のキャビネットで見つけたロープだ。\\V[99]\\TA[1]P409420と書かれている。\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "A rope found in a security company's cabinet. It is marked with\nP409420.",
         "effects": [
             {
                 "code": 44,
@@ -2635,7 +2635,7 @@
         "hitType": 0,
         "iconIndex": 68,
         "itypeId": 2,
-        "name": "ロープ",
+        "name": "Rope",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2656,7 +2656,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]街の上水道施設の警備体制に関する\\V[99]\\TA[1]詳しい情報が記されている資料だ。\\V[99]\\TA[1]こんなものを何に使うのだろうか…？\\V[99]\\TA[0]\\V[99]",
+        "description": "Detailed information about the security system of the city's water\nsupply facilities is documented here. What could this be used for...?",
         "effects": [
             {
                 "code": 44,
@@ -2668,7 +2668,7 @@
         "hitType": 0,
         "iconIndex": 69,
         "itypeId": 2,
-        "name": "上水道施設の警備体制",
+        "name": "Security System of the Water Supply Facility",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2689,7 +2689,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]研究機関の社員が着用を指示した器具。\\V[99]\\TA[1]データの収集が完了した。\\V[99]\\V[99]\\TA[0]\\V[99]",
+        "description": "An apparatus instructed to be worn by employees at a research\ninstitution. Data collection has been completed.",
         "effects": [
             {
                 "code": 44,
@@ -2701,7 +2701,7 @@
         "hitType": 0,
         "iconIndex": 33,
         "itypeId": 2,
-        "name": "怪しい器具(完了済み)",
+        "name": "Suspicious Device (Completed)",
         "note": "<Menu Category: KeyItems>",
         "occasion": 3,
         "price": 0,
@@ -2748,7 +2748,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]使用すると魔力が5000増加する。\\TA[0]\\V[99]",
+        "description": "Using this will increase magical power by 5000.",
         "effects": [
             {
                 "code": 44,
@@ -2760,7 +2760,7 @@
         "hitType": 0,
         "iconIndex": 80,
         "itypeId": 2,
-        "name": "魔力カプセル(小)",
+        "name": "Magic Power Capsule (Small)",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2781,7 +2781,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]使用すると魔力が20000増加する。\\TA[0]\\V[99]",
+        "description": "Using this will increase magical power by 20000.",
         "effects": [
             {
                 "code": 44,
@@ -2793,7 +2793,7 @@
         "hitType": 0,
         "iconIndex": 81,
         "itypeId": 2,
-        "name": "魔力カプセル(中)",
+        "name": "Magic Power Capsule (Medium)",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2814,7 +2814,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]使用すると魔力が50000増加する。\\TA[0]\\V[99]",
+        "description": "Using this will increase magical power by 50000.",
         "effects": [
             {
                 "code": 44,
@@ -2826,7 +2826,7 @@
         "hitType": 0,
         "iconIndex": 82,
         "itypeId": 2,
-        "name": "魔力カプセル(大)",
+        "name": "Magic Power Capsule (Large)",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2847,7 +2847,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]運動好きなある魔族の願いを込めたプロテイン。\n\\TA[1]自分のすべてを犠牲にしてでも到達したいところがある。\\V[99]\\TA[1]疲労度を10回復する。\\TA[0]\\V[99]",
+        "description": "A protein imbued with the wishes of an exercise-loving demon race\nmember. They are willing to sacrifice everything to reach their\ndesired place. It recovers fatigue by 10 points.",
         "effects": [
             {
                 "code": 44,
@@ -2859,7 +2859,7 @@
         "hitType": 0,
         "iconIndex": 83,
         "itypeId": 2,
-        "name": "改造プロテイン",
+        "name": "Modified Protein",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -2880,7 +2880,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]体力とスタミナを完全回復…させない薬。\\V[99]\\TA[1]副作用は誰も保証できない。\n\\TA[1]疲労度を40回復する。\\TA[0]\\V[99]",
+        "description": "A medicine that fully restores physical strength and stamina... or\ndoes not. No one can guarantee the side effects. It recovers fatigue\nby 40 points.",
         "effects": [
             {
                 "code": 44,
@@ -2892,7 +2892,7 @@
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "現代の秘薬",
+        "name": "Modern Elixir",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -2913,7 +2913,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]会社員の友人。\n\\TA[1]疲労度を10回復する。\\TA[0]\\V[99]",
+        "description": "A friend who is an office worker. It recovers fatigue by 10 points.",
         "effects": [
             {
                 "code": 44,
@@ -2925,7 +2925,7 @@
         "hitType": 0,
         "iconIndex": 85,
         "itypeId": 2,
-        "name": "缶コーヒー",
+        "name": "Canned Coffee",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,
@@ -2946,7 +2946,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]変わった好みの人のためのカフェイン。\n\\TA[1]疲労度を20回復する。\\TA[0]\\V[99]",
+        "description": "Caffeine for those with unusual tastes. It recovers fatigue by 20\npoints.",
         "effects": [
             {
                 "code": 44,
@@ -2958,7 +2958,7 @@
         "hitType": 0,
         "iconIndex": 86,
         "itypeId": 2,
-        "name": "缶緑茶",
+        "name": "Canned Green Tea",
         "note": "<Menu Category: KeyItems>",
         "occasion": 0,
         "price": 0,

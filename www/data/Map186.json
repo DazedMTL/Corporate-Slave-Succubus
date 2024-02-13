@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -2921,14 +2921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふう、早く来てよかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでいいかな？"
+                                "\\nc<Saki>Phew, I'm glad I came early. Is this spot okay?"
                             ]
                         },
                         {
@@ -3884,14 +3877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>咲姫さん、さきにいらしてたんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では今日の業務説明を始めます。"
+                                "\\nc<Administrator>Saki-san, you've arrived early. Then, let's begin today's\nwork briefing."
                             ]
                         },
                         {
@@ -3922,7 +3908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]はーいっ！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Yes, sir!"
                             ]
                         },
                         {
@@ -3981,7 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>物流会社の日課を終えたあと…"
+                                "\\nc<>After finishing the daily routine at the logistics\ncompany..."
                             ]
                         },
                         {

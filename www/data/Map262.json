@@ -1434,14 +1434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "苗床専門種族交配実験"
+                                "Would you like to view the event? Specialized breeding\nexperiment for seedbed species."
                             ]
                         },
                         {
@@ -1449,8 +1442,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -1794,21 +1787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>カップラーメンが１つ50円か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大企業には無料の給湯室があるらしいけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いったいどんなところなんだろう…"
+                                "\\nc<Saki>A cup ramen for 50 yen each, huh? I've heard that big\ncorporations have free hot water rooms, but I wonder what\nthey're like..."
                             ]
                         },
                         {
@@ -1834,7 +1813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]本当にそんな夢みたいなところがあるの？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Is there really such a dreamlike place?"
                             ]
                         },
                         {
@@ -1952,7 +1931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]咲姫。ここで朝食を済ませるの？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Saki, are you having breakfast here?"
                             ]
                         },
                         {
@@ -2028,14 +2007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>今月も生活費がギリギリなんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ節約モードに入らないと…"
+                                "\\nc<Saki>My living expenses are barely making it this month too. I\nneed to start saving soon..."
                             ]
                         },
                         {
@@ -2080,14 +2052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]まあ、それは構わないけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待って。そのカップラーメンの底、ちょっと見せてくれる？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Well, that's fine but... wait. Can you show me the bottom of\nthat cup ramen?"
                             ]
                         },
                         {
@@ -2141,7 +2106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]ん？　底ですか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Huh? The bottom?"
                             ]
                         },
                         {
@@ -2158,14 +2123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]えっ…何これ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして景品でもくれるんですか？"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>Eh... What's this? Are you telling me there's a prize\ninside?"
                             ]
                         },
                         {
@@ -2210,7 +2168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]違う。取引先への出張に当たったの！　それも研究機関！"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>No. You've been selected for a business trip to a client!\nAnd it's a research institution!"
                             ]
                         },
                         {
@@ -2255,14 +2213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]そんな！　よりによって研究機関なんて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこに行けば何をされるのか知ってるじゃないですか！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>No way! Of all places, a research institution! You know what\nthey do there, don't you?"
                             ]
                         },
                         {
@@ -2307,14 +2258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]でも…あなたを苦労させない取引先ってあるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物流会社を除いて。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>But... is there any client that wouldn't be hard on you?\nAside from logistics companies."
                             ]
                         },
                         {
@@ -2377,7 +2321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]くぅ…本当にラインナップ酷くないですか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh... Isn't the lineup just terrible?"
                             ]
                         },
                         {
@@ -2422,14 +2366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]頼んだわ、咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代わりにカップラーメン代は出してあげるから。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>I'm counting on you, Saki. I'll cover your cup ramen cost in\nexchange."
                             ]
                         },
                         {
@@ -2474,7 +2411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>私の価値って…"
+                                "\\nc<Saki>Is that my worth..."
                             ]
                         },
                         {

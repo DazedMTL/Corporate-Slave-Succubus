@@ -3606,7 +3606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>よし…"
+                                "\\nc<Saki>Alright..."
                             ]
                         },
                         {
@@ -3673,14 +3673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>写真はこんな感じでいいかな…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 1]ああっ、これはちょっと露出が多すぎる。顔も隠さなきゃ。"
+                                "\\nc<Saki>I wonder if this photo looks okay...\\bustMsgExp[1, 1]Ah,\nthis one's a bit too revealing. I need to hide my face too."
                             ]
                         },
                         {
@@ -3697,7 +3690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]ほかの写真は…よし。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>The other photos are... good."
                             ]
                         },
                         {
@@ -3714,14 +3707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ちゃんと書こうとすると難しいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩はこういうのスラスラと書いちゃうんだよね。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>It's hard to write properly. Senpai can write this stuff so\neffortlessly."
                             ]
                         },
                         {
@@ -3738,7 +3724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]だいたいこんな感じで編集して…できた。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Edit it roughly like this... and done."
                             ]
                         },
                         {
@@ -3755,14 +3741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]自分で書いたけど本当に恥ずかしい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な人が来たら逃げようっと。"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>I wrote it myself, but it's really embarrassing... If a\nweird person shows up, I'll make a run for it."
                             ]
                         },
                         {

@@ -3317,7 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ど…どうしよう…？"
+                                "\\nc<Saki>What... what should I do...?"
                             ]
                         },
                         {
@@ -3334,14 +3334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああ、そうだ。もうすぐ出勤日だっけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず内定先に連絡しないと…"
+                                "\\nc<Saki>Ah, that's right. My first day of work is coming up soon. I\nneed to contact my employer..."
                             ]
                         },
                         {
@@ -3377,14 +3370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]もしもし？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、園長先生ですか？"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>Hello? Oh, is this the director?"
                             ]
                         },
                         {
@@ -3401,14 +3387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>急な連絡で申し訳ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は私、淫魔になったみたいで…"
+                                "\\nc<Saki>I'm sorry for the sudden call. Actually, it seems I've\nbecome a succubus..."
                             ]
                         },
                         {
@@ -3425,7 +3404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、いや、冗談とかじゃなくて本当なんです。"
+                                "\\nc<Saki>Ah, no, I'm not joking, it's true."
                             ]
                         },
                         {
@@ -3456,7 +3435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<園長>それじゃあ、内定は取り消しということで。"
+                                "\\nc<Director>Then, that means we'll have to rescind your job offer."
                             ]
                         },
                         {
@@ -3487,7 +3466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、\\|\\bustMsgExpression[1, 1]そんな！！"
+                                "\\nc<Saki>\\bustMsgExpression[1, 1]What!!"
                             ]
                         },
                         {
@@ -3518,21 +3497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<園長>淫魔は魔族の中でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変態なことで有名ですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな人にうちの園児たちは任せられません。"
+                                "\\nc<Director>Succubi are known for being perverts among the demon kind. I\ncan't entrust our children to someone like that."
                             ]
                         },
                         {
@@ -3563,7 +3528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええ……"
+                                "\\nc<Saki>Ehh..."
                             ]
                         },
                         {
@@ -3591,7 +3556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>プツッ。"
+                                "\\nc<>Click."
                             ]
                         },
                         {
@@ -3619,14 +3584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>も、もしもし？　もしもし！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嘘でしょ…切れてる！"
+                                "\\nc<Saki>He-Hello? Hello!? You've got to be kidding... The line's\ndead!"
                             ]
                         },
                         {
@@ -3662,7 +3620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>と、とりあえず早く別の就職先を探さないと…"
+                                "\\nc<Saki>I need to find another job quickly..."
                             ]
                         },
                         {

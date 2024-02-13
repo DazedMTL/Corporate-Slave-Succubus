@@ -5401,7 +5401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(えっ？　こ…ここはどこ？)"
+                                "\\nc<Saki>(Huh? Wh...where is this?)"
                             ]
                         },
                         {
@@ -5432,21 +5432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>では、ただいまより特別イベントを始めます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "各自、気に入ったパートナーを選んだら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思う存分お楽しみください！"
+                                "\\nc<Administrator>Now, we will begin the special event! Everyone, please\nchoose a partner you like and enjoy to your heart's content!"
                             ]
                         },
                         {
@@ -5477,7 +5463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ん？　何？　どういうこと…)"
+                                "\\nc<Saki>(Hm? What? What does that mean...)"
                             ]
                         },
                         {
@@ -5508,7 +5494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>フフ。こいつ、本当に僕の好きにしてもいいんだよね？"
+                                "\\nc<Little Demon>Hehe. I can really do whatever I want with this one, right?"
                             ]
                         },
                         {
@@ -5539,14 +5525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ？　えええっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ってか何ここ？　休憩室に入ったはずなのに…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh? Eeeeh? (Wait, where is this? I thought I entered the\nbreak room...)"
                             ]
                         },
                         {
@@ -5586,7 +5565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族の客>安心しろ。魔神教のイベントだ。"
+                                "\\nc<Demon Customer>Relax. It's an event by the Demon God Cult."
                             ]
                         },
                         {
@@ -5612,7 +5591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<人間の客>こんな安っぽい淫魔たちにはもったいないくらいだぜ。"
+                                "\\nc<Human Guest>These cheap succubi aren't even worth it."
                             ]
                         },
                         {
@@ -5638,7 +5617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>エへへ、ご主人様。早く始めてくださいよお。"
+                                "\\nc<Member 2>Ehehe, Master. Please start quickly."
                             ]
                         },
                         {
@@ -5669,21 +5648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あの先輩はもともとお客に全然愛嬌を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "振りまかない人なのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩に何をしたんだろう？)"
+                                "\\nc<Saki>(That senior usually doesn't show any charm to the\ncustomers... What did they do to him?)"
                             ]
                         },
                         {
@@ -5745,7 +5710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族の客>そっちは…常時発情ですか？"
+                                "\\nc<Demon Customer>Is that one... always in heat?"
                             ]
                         },
                         {
@@ -5807,21 +5772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<人間の客>はいっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなふうに火照ってやきもきする姿が堪らないんですよ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちは？"
+                                "\\nc<Human Guest>Yes! It's unbearable to see them so flushed and restless\nlike that. And yours?"
                             ]
                         },
                         {
@@ -5878,7 +5829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>……"
+                                "\\nc<Member 3>..."
                             ]
                         },
                         {
@@ -5895,14 +5846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族の客>こっちは常識改変と認識機能低下です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何をされてるのかも分かってないはずです。ククッ…"
+                                "\\nc<Demon Customer>This one's been altered to have reduced cognitive function\nand common sense. They shouldn't even understand what's\nhappening to them. Kukuku..."
                             ]
                         },
                         {
@@ -5973,14 +5917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(こいつら…私たちに何か変なことしてる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか私も何かされた！？)"
+                                "\\nc<Saki>(These guys... they're doing something weird to us! Could it\nbe that they did something to me too!?)"
                             ]
                         },
                         {
@@ -6020,14 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>咲姫ちゃ～ん。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ僕たちも始めよっか？"
+                                "\\nc<Little Demon>Saki-chan~ Shall we start our fun too?"
                             ]
                         },
                         {
@@ -6058,7 +5988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ？　い、いえ。あの…"
+                                "\\nc<Saki>Eh? N-no. Um..."
                             ]
                         },
                         {
@@ -6098,14 +6028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>んん？　なんだか反応が変だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "社員？　ちょっとこっちに…"
+                                "\\nc<Little Demon>Hm? You're reacting strangely. Staff? Come over here for a\nsecond..."
                             ]
                         },
                         {
@@ -6136,14 +6059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(待って。これって危険な流れじゃない？　もうっ…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、いいえ！　何なりとお申しつけください、ご主人様！"
+                                "\\nc<Saki>(Wait. Isn't this a dangerous situation? Gosh...) No, no!\nPlease command me as you wish, Master!"
                             ]
                         },
                         {
@@ -6174,14 +6090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>いやぁ、よかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対服従の催眠がしっかりかかってるね。"
+                                "\\nc<Little Demon>Ah, good. The absolute obedience hypnosis is working\nperfectly."
                             ]
                         },
                         {
@@ -6212,14 +6121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(絶対服従？　催眠？　そんなことができるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもほかの人たちは本当にかかってるみたいだし…)"
+                                "\\nc<Saki>(Absolute obedience? Hypnosis? Can they really do that? But\nit seems like the others are truly under its effect...)"
                             ]
                         },
                         {
@@ -6236,21 +6138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(もし私だけかかってないことがバレたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何をされるか分からない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとまずここは調子を合わせないと…)"
+                                "\\nc<Saki>(If they find out I'm not under the hypnosis, who knows what\nthey'll do to me! I have to play along for now...)"
                             ]
                         },
                         {
@@ -6281,7 +6169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族の客>淫魔たちは単純だから何でもすぐかかるんだってね。プフフッ。"
+                                "\\nc<Demon Customer>Succubi are simple creatures, they fall for anything easily.\nPffft."
                             ]
                         },
                         {
@@ -6298,7 +6186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<人間の客>男たちに仕えるために作られた劣等種族そのものだよな…"
+                                "\\nc<Human Guest>They're an inferior race created solely to serve men..."
                             ]
                         },
                         {
@@ -6329,7 +6217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](変なことしておいてふざけたことを…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(After doing such weird things, they dare joke about it...)"
                             ]
                         },
                         {
@@ -6430,7 +6318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>さっ、ご主人様、早く早く…"
+                                "\\nc<Member 2>Come on, Master, quickly..."
                             ]
                         },
                         {
@@ -6456,14 +6344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<人間の客>こいつ、俺のズボンを勝手に汚したらだめだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはお仕置きだな。"
+                                "\\nc<Human Guest>You can't just dirty my pants like that. You need to be\npunished."
                             ]
                         },
                         {
@@ -6489,7 +6370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>キャア♥へへッ…"
+                                "\\nc<Member 2>Kyaa♥ Hehe..."
                             ]
                         },
                         {
@@ -6520,7 +6401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](わあっ、本格的に始まった！)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Wow, it's really starting!)"
                             ]
                         },
                         {
@@ -6639,14 +6520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族の客>おっ、奥まで届いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっせえ子宮だな。悪いけど押しつぶさせてもらうぞ？"
+                                "\\nc<Demon Customer>Oh, reached all the way in. Such a tiny womb. Sorry, but I'm\ngoing to crush it."
                             ]
                         },
                         {
@@ -6663,7 +6537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>えっ？　まあ、構わないですけど…くふっ？！"
+                                "\\nc<Member 3>Eh? Well, I don't mind but... kuhh?!"
                             ]
                         },
                         {
@@ -6689,7 +6563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>僕たちも本格的に始めよっか？"
+                                "\\nc<Little Demon>Shall we get started for real?"
                             ]
                         },
                         {
@@ -6758,7 +6632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>キャアッ！"
+                                "\\nc<Saki>Kyaa!"
                             ]
                         },
                         {
@@ -6775,14 +6649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(くっ、勢いよく襲いかかってきた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小さいくせに力はすごく強い！)"
+                                "\\nc<Saki>(Gah, he attacked with such force! Despite being so small,\nhe's incredibly strong!)"
                             ]
                         },
                         {
@@ -6799,21 +6666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>軽いからって見くびってたら後悔するぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こう見えても金玉はずっしりしてるから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ、おっぱいから！"
+                                "\\nc<Little Demon>Don't underestimate me just because I'm light! Despite\nappearances, my balls are heavy... Let's start with your\nbreasts!"
                             ]
                         },
                         {
@@ -6830,21 +6683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(私のおっぱい、手すり代わりに使うな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ伸びるかも…)"
+                                "\\nc<Saki>Fuahh♥ (Don't use my breasts as handrails! They might\nstretch out...)"
                             ]
                         },
                         {
@@ -6861,7 +6700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>この感触、予想通りだ"
+                                "\\nc<Little Demon>This feeling is just as I expected"
                             ]
                         },
                         {
@@ -6878,21 +6717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>僕が選んだ淫魔、大当たり！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに無防備でエロい体は淫魔の中でもかなり珍しいから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま僕のものにしてあげるね！"
+                                "\\nc<Little Demon>The succubus I chose is a jackpot! Such a defenseless and\nerotic body is quite rare among succubi... I'll make you\nmine!"
                             ]
                         },
                         {
@@ -6909,14 +6734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>アハハ、ありがとうございます…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(少しくらいは普通に褒めて！)"
+                                "\\nc<Saki>Ahaha, thank you...(Could you at least praise me normally a\nlittle bit?)"
                             ]
                         },
                         {
@@ -6933,14 +6751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ああっ、こいつ、もう勃起してる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私よりずっと小さいくせにこんな大物が…)"
+                                "\\nc<Saki>(Ahh, he's already erect! He's so much smaller than me but\nhe's got such a big one...)"
                             ]
                         },
                         {
@@ -6984,7 +6795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>想像以上の感触に戸惑う咲姫。"
+                                "\\nc<>A bewildered Saki feels an unexpected sensation."
                             ]
                         },
                         {
@@ -7001,14 +6812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ギンギンに勃起したペニスが咲姫の膣口に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "亀頭を押しあてる。"
+                                "\\nc<>The fully erect penis presses its glans against the entrance\nof Saki's vagina."
                             ]
                         },
                         {
@@ -7036,7 +6840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\ncちび魔族>よしっ！　いくよっ！"
+                                "Little Demon: Alright! Here I go!"
                             ]
                         },
                         {
@@ -7069,21 +6873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええっ？！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかこのまま挿れるつもりじゃ…くあんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こいつ、本当に挿れた♥)"
+                                "\\nc<Saki>Eeh?! You can't mean to insert it just like that... Ahn♥\n(He's really putting it in♥)"
                             ]
                         },
                         {
@@ -7111,14 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の体に猿のようにぶらさがったまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "器用にペニスを突っこむ客。"
+                                "\\nc<>While hanging onto Saki's body like a monkey, the customer\nskillfully thrusts his penis inside."
                             ]
                         },
                         {
@@ -7135,7 +6918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>反射的に振りおとそうと体を震わす咲姫だったが…"
+                                "\\nc<>Reflexively trying to shake him off, Saki trembles her\nbody..."
                             ]
                         },
                         {
@@ -7179,21 +6962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふうっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ふ、振りおとせない…本当に無駄に力だけ強いんだから…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うわっ♥どんどん奥に入ってくるっ♥)"
+                                "\\nc<Saki>Kuhuu?! (I-I can't shake him off... He really is\nunnecessarily strong... Uwah♥ It's going deeper and deeper♥)"
                             ]
                         },
                         {
@@ -7210,7 +6979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>ププッ。もう全身がビクビク震えてるけど、大丈夫？"
+                                "\\nc<Little Demon>Pfft. Your whole body is trembling, but are you okay?"
                             ]
                         },
                         {
@@ -7227,14 +6996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>んはぁっ、少しもキツくなんて…ほおおぉっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひぅっ、そんなふうに子宮口を押しあげちゃ…あああっ♥"
+                                "\\nc<Saki>Nhaa, it's not tight at all... Hoooh♥ Hiuu, don't push up\nagainst my cervix like that... Aaaaah♥"
                             ]
                         },
                         {
@@ -7267,21 +7029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(だめっ、このまま動かないでっ！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャアッ！　おっぱいが捥ぎとられそう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今すぐにでも腕でなんとかしたいけど…)"
+                                "\\nc<Saki>(No good, don't move like that! Kyaa! My breasts feel like\nthey're being torn off... I want to do something with my\narms right now, but...)"
                             ]
                         },
                         {
@@ -7298,14 +7046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>咲姫ちゃーん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "両腕はちゃんと頭のうしろに付けてくれる？"
+                                "\\nc<Little Demon>Saki-chan, can you please put both your arms behind your\nhead?"
                             ]
                         },
                         {
@@ -7322,7 +7063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ、わ、分かりました…あひぃっ♥"
+                                "\\nc<Saki>Kuhu, o-okay... Ahii♥"
                             ]
                         },
                         {
@@ -7350,7 +7091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュポッ、ジュポッ、ジュブッ…"
+                                "\\nc<>Jupo, Jupo, Jubu..."
                             ]
                         },
                         {
@@ -7367,14 +7108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>想像もしていなかった体勢で犯されることになった咲姫は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汗を流しながら不憫に揺れつづける。"
+                                "\\nc<>Saki, being violated in a position she never imagined,\ncontinues to tremble pitifully while sweating."
                             ]
                         },
                         {
@@ -7391,14 +7125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>さりげなく相手を振りおとそうとするが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ客の動きに呼応するザマ…"
+                                "\\nc<>She tries to casually shake off her partner, but instead her\nmovements only complement his..."
                             ]
                         },
                         {
@@ -7426,14 +7153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ふあっ、やっぱり両手を使えないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "振りおとせない…)"
+                                "\\nc<Saki>(Fuaa, I really can't shake him off without using both\nhands...)"
                             ]
                         },
                         {
@@ -7450,7 +7170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>オリャッ。お前、淫魔なら淫魔らしくマンコ締めろよ！"
+                                "\\nc<Little Demon>Orya! If you're a succubus, then tighten up your pussy like\none!"
                             ]
                         },
                         {
@@ -7483,14 +7203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああああっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ここで乳首をつまむなんてっ…どこまで悪魔なの？)"
+                                "\\nc<Saki>Aaaaaah!! (To pinch my nipples at a time like this... How\ndevilish can you get?)"
                             ]
                         },
                         {
@@ -7507,21 +7220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>ウへへッ、ぷにぷにして気持ちいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張れ！　満足させてくれなかったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完全に廃人になる催眠をかけてやるからな！"
+                                "\\nc<Little Demon>Uhehe, it's so squishy and feels good. Keep it up! If you\ndon't satisfy me, I'll put you under a hypnosis that will\nturn you into a complete wreck!"
                             ]
                         },
                         {
@@ -7538,7 +7237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヒイィッ、ゆ、許してください！　へへッ…"
+                                "\\nc<Saki>Hiiii, p-please forgive me! Hehe..."
                             ]
                         },
                         {
@@ -7555,21 +7254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うう、仕方ない…バレないためにはできるだけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "満足させるしか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ、こいつ、もう射精しそう…)"
+                                "\\nc<Saki>(Ugh, no choice... To avoid getting caught, I have to\nsatisfy him as much as possible... Aah, he's about to\nejaculate...)"
                             ]
                         },
                         {
@@ -7586,21 +7271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>うへっ、はあっ、はあっ、はあ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イくよっ、咲姫ちゃん！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番奥にたっぷり出してあげるからねっ…"
+                                "\\nc<Little Demon>Uheh, haa, haa, haa! I'm coming, Saki-chan! I'll fill you up\ndeep inside..."
                             ]
                         },
                         {
@@ -7617,14 +7288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ♥ふうぅっ、イ、イきますっ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にイくから出してくださいっ…あああっ♥"
+                                "\\nc<Saki>Kuhu♥ Fuuuh, I-I'm coming too, let it out together...\nAaaaah♥"
                             ]
                         },
                         {
@@ -7764,7 +7428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュウッ、ビュウウウッ！"
+                                "\\nc<>Pyuuh, Byuuuuu!"
                             ]
                         },
                         {
@@ -7792,14 +7456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ふ、ふああっ…大量じゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな猿みたいな姿勢でよく…)"
+                                "\\nc<Saki>(F-fuaah... That's a lot, isn't it? To think he could do so\nmuch in such a monkey-like position...)"
                             ]
                         },
                         {
@@ -7832,14 +7489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>ふあ、気持ちよかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こう見えても体力には自信あるから続けよう！"
+                                "\\nc<Little Demon>Fua, that felt good. Despite appearances, I'm confident in\nmy stamina, so let's keep going!"
                             ]
                         },
                         {
@@ -7856,7 +7506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族の客>さすが若い奴は違うな。"
+                                "\\nc<Demon Customer>Youngsters really are different."
                             ]
                         },
                         {
@@ -7873,14 +7523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>え、ええっ？　そ、それは嬉しいけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上は立っていられな…"
+                                "\\nc<Saki>E-eh?! That's nice to hear, but I can't stand any more..."
                             ]
                         },
                         {
@@ -7897,14 +7540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>あれれ？　咲姫ちゃん、反抗する気？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりもう一度催眠を…"
+                                "\\nc<Little Demon>Huh? Saki-chan, are you thinking of resisting? Maybe I\nshould put you under hypnosis again..."
                             ]
                         },
                         {
@@ -7921,7 +7557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>は、反抗なんて！　そんなわけ…"
+                                "\\nc<Saki>R-resist? Of course not!"
                             ]
                         },
                         {
@@ -7938,14 +7574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>咲姫ちゃんはバカな淫魔らしく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素直にマンコ差し出してればいいんだよ！"
+                                "\\nc<Little Demon>Saki-chan should just obediently offer up her pussy like the\ndumb succubus she is!"
                             ]
                         },
                         {
@@ -7962,21 +7591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひぃんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(わ…私こう見えても大学出てますけど？　こんな生意気な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちびっこのオナホになるために卒業したんじゃないのに…)"
+                                "\\nc<Saki>Hiin♥ (W-wait... I graduated from college, you know? I\ndidn't graduate just to become a toy for a bratty little\ndemon like this...)"
                             ]
                         },
                         {
@@ -7993,7 +7608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>オリャッ、オリャアッ！"
+                                "\\nc<Little Demon>Orya, Oryaa!"
                             ]
                         },
                         {
@@ -8010,21 +7625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふっ、はあっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(小柄なのに、なんでこんなに大きいのよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上がってくるたびに子宮が潰されて…あああっ♥)"
+                                "\\nc<Saki>Fuu, haa...(He's so small yet why is it so big... Every time\nhe thrusts up my womb feels crushed... Aaaaah♥)"
                             ]
                         },
                         {
@@ -8125,14 +7726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(もうっ、またイっちゃった…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも勢いはちょっと弱くなったような…)"
+                                "\\nc<Saki>(Enough already, I came again... But his momentum seems to\nhave weakened a bit...)"
                             ]
                         },
                         {
@@ -8149,21 +7743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>ああ、咲姫ちゃんはスピードが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "重要なタイプじゃないんだね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それならちょっとゆっくりしてもいいよね。"
+                                "\\nc<Little Demon>Ahh, Saki-chan isn't the type who needs speed, huh? Then we\ncan take it a bit slower."
                             ]
                         },
                         {
@@ -8180,7 +7760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ、えええっ…"
+                                "\\nc<Saki>Eh, eeeh..."
                             ]
                         },
                         {
@@ -8197,14 +7777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>フフ、ザコ淫魔のくせに隠せるとでも思った？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきから気持ちいいところが見え見えなんだよ。"
+                                "\\nc<Little Demon>Heh, did you think you could hide it just because you're a\nlowly succubus? It's been obvious where you feel good from\nthe start."
                             ]
                         },
                         {
@@ -8248,7 +7821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ズゴォッ、ジュブブッ…"
+                                "\\nc<>Zugooh, Jububu..."
                             ]
                         },
                         {
@@ -8265,14 +7838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>客のペニスがゆっくりと抜けると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かろうじて耐えていた咲姫の脚がガクガクと震える。"
+                                "\\nc<>As the customer's penis slowly pulls out, Saki's legs\ntremble barely able to hold on."
                             ]
                         },
                         {
@@ -8300,21 +7866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひいっ、はあっ、はあ、バレちゃいました。ヘヘッ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ふうっ、さっき受けとめた精液がゆっくり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流れてきて気持ち悪い…)"
+                                "\\nc<Saki>Hiih, haa, haa, you've seen through me. Hehe...(Phew, the\nsemen I took in earlier is slowly flowing out and it feels\ngross...)"
                             ]
                         },
                         {
@@ -8331,14 +7883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>ぼうっとしないでキスでもしてみろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでもオナホか？"
+                                "\\nc<Little Demon>Don't space out, try kissing me! Or are you just an onahole\nafter all?"
                             ]
                         },
                         {
@@ -8355,7 +7900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くうっ、申し訳ありません…べエーッ…♥"
+                                "\\nc<Saki>Kuu, I'm sorry... Bleh...♥"
                             ]
                         },
                         {
@@ -8399,14 +7944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>無理矢理頭を下げて舌を突きだした咲姫と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必死で舌を絡ませる客。"
+                                "\\nc<>Forced to lower her head, Saki sticks out her tongue and\ndesperately entwines it with the customer's."
                             ]
                         },
                         {
@@ -8423,7 +7961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>汗でぐっしょりと濡れていた谷間が新しい液体で汚れる…"
+                                "\\nc<>Her cleavage, already drenched in sweat, gets dirtied by a\nnew liquid..."
                             ]
                         },
                         {
@@ -8451,14 +7989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>ペロペロ…んんぷっ、ふあっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気に入った。頑張ったら僕の愛人にしてあげる。"
+                                "\\nc<Little Demon>Purr purr... Mmmph, fuah... I like it. If you work hard, I\nmight make you my lover."
                             ]
                         },
                         {
@@ -8475,14 +8006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ、あ、ありがうございます…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こいつ、ちびっこのくせに何を…)"
+                                "\\nc<Saki>Eh, th-thank you very much...(This little guy, despite being\na kid, what is he...)"
                             ]
                         },
                         {
@@ -8499,14 +8023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>どうせお前ら淫魔はいい男を引っかけて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "搾取することしか考えてないよね？"
+                                "\\nc<Little Demon>After all, you succubi only think about snagging a good man\nand milking him dry, right?"
                             ]
                         },
                         {
@@ -8523,21 +8040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふっ…そ、それはたしかにそうですね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(う、うう…いくら演技でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな言い掛かりまで聞いてられない…)"
+                                "\\nc<Saki>Fufu... That is certainly true...(Ugh, ugh... Even if it's\nan act, I can't stand listening to such accusations...)"
                             ]
                         },
                         {
@@ -8554,14 +8057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<人間の客>まあ、仕方ないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "交配用で脳が退化してしまった奴らなんだから…"
+                                "\\nc<Human Guest>Well, it can't be helped. They're creatures whose brains\nhave degenerated for breeding purposes..."
                             ]
                         },
                         {
@@ -8578,14 +8074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>ええっ、でも…こんなので突かれたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰でもこうなりますよ…へへッ♥"
+                                "\\nc<Member 2>Eeh, but... anyone would end up like this if they were poked\nwith something like that... Hehe♥"
                             ]
                         },
                         {
@@ -8602,14 +8091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うう、みんなおかしくなってる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくり抜くの嫌っ…もう限界…)"
+                                "\\nc<Saki>(Ugh, everyone's going crazy... I hate it when they pull out\nslowly... I'm at my limit...)"
                             ]
                         },
                         {
@@ -8626,7 +8108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>もう一度入れるよっ！　オリャッ！"
+                                "\\nc<Little Demon>I'm going to put it in again! Orya!"
                             ]
                         },
                         {
@@ -8643,14 +8125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あああっ♥きしゅ、きしゅはだめぇっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くふっ、ちゅううっ♥"
+                                "\\nc<Saki>Aaaaah♥ No more, no more please... Kufu, chuuh♥"
                             ]
                         },
                         {
@@ -8667,14 +8142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族の客>みんなラブラブですな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも…本当にそんな単純な催眠で満足するのか？"
+                                "\\nc<Demon Customer>Everyone's so lovey-dovey. But... are you really satisfied\nwith such simple hypnosis?"
                             ]
                         },
                         {
@@ -8691,21 +8159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>ふはっ、悲しいことを…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この女は今、自分が催眠にかかってないって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思いこんでるんだよ？"
+                                "\\nc<Little Demon>Fuhah, sad to say... this woman believes she's not under\nhypnosis right now."
                             ]
                         },
                         {
@@ -8738,7 +8192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ええっ？　またわけの分からないことを…)"
+                                "\\nc<Saki>(Eh? What is he talking about now...)"
                             ]
                         },
                         {
@@ -8755,7 +8209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<人間の客>どういうことだ…？"
+                                "\\nc<Human Guest>What do you mean...?"
                             ]
                         },
                         {
@@ -8772,14 +8226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>僕は嫌いな相手を嫌々服従させるのが好みだからね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この女は僕を騙せてると思ってるはずさ。最高だろ？"
+                                "\\nc<Little Demon>I prefer to make those I dislike submit against their\nwill... This woman thinks she's deceiving me. Isn't it the\nbest?"
                             ]
                         },
                         {
@@ -8796,7 +8243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族の客>フフッ、魔族の幹部の弟子らしい好みで。"
+                                "\\nc<Demon Customer>Fufu, such a preference befitting the disciple of a demon\nclan leader."
                             ]
                         },
                         {
@@ -8813,21 +8260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(何を言ってるのか全然分からない…)"
+                                "\\nc<Saki>??...?(I don't understand what he's saying at all...)"
                             ]
                         },
                         {
@@ -8844,14 +8277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ともかく、ここでバレないためには頑張ってご奉仕しないと…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あふっ、奥まで入ってきたぁっ♥)"
+                                "\\nc<Saki>(Anyway, I have to serve well here so as not to get\ncaught... Ahh, it's going in deep again♥)"
                             ]
                         },
                         {
@@ -8868,14 +8294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>頑張れ、咲姫ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その調子で僕の愛人になれるの？"
+                                "\\nc<Little Demon>Keep it up, Saki-chan! Can you become my lover with that\neffort?"
                             ]
                         },
                         {
@@ -8892,21 +8311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、ハハッ。そ、そうですね！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと頑張りますから…あああっ♥ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少し、いっぱい出してください！"
+                                "\\nc<Saki>Ah, Haha. Yes, of course! I'll try harder... Aaaaah♥ Please\nlet out more!"
                             ]
                         },
                         {
@@ -8923,7 +8328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>よし、またイってしまえっ！"
+                                "\\nc<Little Demon>Good, come again!"
                             ]
                         },
                         {
@@ -9071,21 +8476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふぅっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(だ、大丈夫。これはただの演技だから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はこいつを騙さないといけないから！)"
+                                "\\nc<Saki>Kufuu...(It's okay. This is just an act... I have to deceive\nhim now!)"
                             ]
                         },
                         {
@@ -9129,7 +8520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ズブッ、ジュポッ…"
+                                "\\nc<>Jubu, Zubu, Jupo..."
                             ]
                         },
                         {
@@ -9146,7 +8537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>狂乱の祝祭が慌ただしく続く…"
+                                "\\nc<>The frenzied festival continues hectically..."
                             ]
                         },
                         {
@@ -9174,14 +8565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はあっ、へっ、はあっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(もうこれ以上は本当に無理…)"
+                                "\\nc<Saki>Haa, heh, haa...(I really can't take any more than this...)"
                             ]
                         },
                         {
@@ -9198,21 +8582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>プハハ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イったばかりの敏感なマンコでも容赦はしないからね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうちょっと頑張って受けとめてよ、咲姫ちゃん！"
+                                "\\nc<Little Demon>Puhaha! I won't go easy even on a sensitive pussy that just\ncame! Hang in there a bit more and take it all in, Saki-\nchan!"
                             ]
                         },
                         {
@@ -9229,7 +8599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふあっ、ふうっ、また、またイっちゃうぅっ…！"
+                                "\\nc<Saki>Fuah, fuu, I'm going to come again...!"
                             ]
                         },
                         {
@@ -9362,7 +8732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ドピュッ、\\.\\."
+                                "\\nc<>Dopyu,"
                             ]
                         },
                         {
@@ -9433,7 +8803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ドビュウウッ！！\\.\\."
+                                "\\nc<>Dobyuuuu!!"
                             ]
                         },
                         {
@@ -9450,14 +8820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>巨根に見あった凄まじい射精量を自慢するように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "客の睾丸が揺れる。"
+                                "\\nc<>The customer's testicles sway proudly as if boasting about\nthe tremendous volume of ejaculation befitting his huge\ncock."
                             ]
                         },
                         {
@@ -9474,14 +8837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫はイきながら、自分の中に入ってくる白濁液の激流を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっきりと感じとった。"
+                                "\\nc<>While coming, Saki clearly feels the torrent of cloudy\nliquid entering her."
                             ]
                         },
                         {
@@ -9509,7 +8865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>ふうう…久しぶりに豪快に出しちゃったよ。"
+                                "\\nc<Little Demon>Fuu... It's been a while since I let out so much."
                             ]
                         },
                         {
@@ -9542,14 +8898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>でもまだまだできる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オラッ！"
+                                "\\nc<Little Demon>But I can still go on! Ora!"
                             ]
                         },
                         {
@@ -9566,21 +8915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひゃんっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(やめてっ、もう子宮の中はいっぱいなのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じっとしてるのもやっとなの！)"
+                                "\\nc<Saki>Hyahn...♥(Stop it, my womb is already full... It's hard\nenough just staying still!)"
                             ]
                         },
                         {
@@ -9597,14 +8932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>おっと、残念ですが時間のようです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それではこれにて、今日のイベントを終了します！"
+                                "\\nc<Administrator>Oops, unfortunately it looks like time is up. With that, we\nwill conclude today's event!"
                             ]
                         },
                         {
@@ -9621,7 +8949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<人間の客>ああ、終わりか…"
+                                "\\nc<Human Guest>Ahh, it's over..."
                             ]
                         },
                         {
@@ -9638,14 +8966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族の客>まあ、存分に楽しんだし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この女ももう使えなさそうだし。"
+                                "\\nc<Demon Customer>Well, I had my fill of fun... And this woman seems unusable\nnow anyway."
                             ]
                         },
                         {
@@ -9662,7 +8983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>ひぃっ、はあっ…"
+                                "\\nc<Member 3>Hii, haa..."
                             ]
                         },
                         {
@@ -9679,14 +9000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>情けないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " オリャッ、もっとイけ！　イきながら死ねっ！"
+                                "\\nc<Little Demon>How pathetic. Orya, come more! Die while coming!"
                             ]
                         },
                         {
@@ -9703,14 +9017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひぃんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(も、もういい加減放してよ…)"
+                                "\\nc<Saki>Hiin♥ (Please, just let me go already...)"
                             ]
                         },
                         {
@@ -9727,14 +9034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>おや？　まだ続けていらっしゃるんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "困ります。イベントはもう終わりました。"
+                                "\\nc<Administrator>Oh? Are you still continuing? That's a problem. The event\nhas already ended."
                             ]
                         },
                         {
@@ -9751,7 +9051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>何だと？　僕に指図するな！"
+                                "\\nc<Little Demon>What did you say? Don't order me around!"
                             ]
                         },
                         {
@@ -9768,14 +9068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>ああ…こういう方、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ときどきいらっしゃるんですよね。えいっ！"
+                                "\\nc<Administrator>Ah... We do have guests like you from time to time. Ei!"
                             ]
                         },
                         {

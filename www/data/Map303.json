@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -2630,14 +2630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ふざけんなっ、まだできるんだよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁっ！　はぁ、はぁ…"
+                                "\\nc<Customer>Don't mess with me, I can still do it... Hah! Hah, hah..."
                             ]
                         },
                         {
@@ -2694,21 +2687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>ほら。無理でしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お疲れ様です、咲姫さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はもうシャワーしてお帰りいただいて構いません。"
+                                "\\nc<Employee>See? It's impossible, right? Thank you for your hard work,\nSaki-san. You may go take a shower and head home for today."
                             ]
                         },
                         {
@@ -2739,7 +2718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ？　あ…はいっ、お疲れ様です。"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh? Oh... Yes, thank you for your hard work."
                             ]
                         },
                         {
@@ -2801,7 +2780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>アンケート、退屈だったでしょう？"
+                                "\\nc<Employee>The survey was boring, wasn't it?"
                             ]
                         },
                         {
@@ -2832,14 +2811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>い、いいえ！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なんかちょっと疲れたけど、悪くいはないかも…)"
+                                "\\nc<Saki>N-No! (I'm a bit tired, but it wasn't too bad...)"
                             ]
                         },
                         {
@@ -2856,7 +2828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>では、失礼します！"
+                                "\\nc<Saki>Then, if you'll excuse me!"
                             ]
                         },
                         {

@@ -3756,14 +3756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "引きこもりVIPのためのデリへルサービス"
+                                "Would you like to view the event? Delivery health service\nfor a shut-in VIP."
                             ]
                         },
                         {
@@ -3771,8 +3764,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4001,7 +3994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、今日はお客様の自宅へ派遣よ。"
+                                "\\nc<Senpai>Saki, today you'll be dispatched to a client's home."
                             ]
                         },
                         {
@@ -4046,14 +4039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]自宅に派遣って…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここってそういうこともするんですか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Dispatched to a home... Does our place do that sort of\nthing?"
                             ]
                         },
                         {
@@ -4098,7 +4084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>本来はないんだけど、VIPからの特別要請でね…"
+                                "\\nc<Senpai>Normally we don't, but this is a special request from a\nVIP..."
                             ]
                         },
                         {
@@ -4152,7 +4138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(完全にデリヘルじゃん)"
+                                "\\nc<Saki>(This is totally like call girl service...)"
                             ]
                         },
                         {
@@ -4197,7 +4183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>だから私が咲姫を特別に推奨したの。"
+                                "\\nc<Senpai>That's why I specifically recommended you, Saki."
                             ]
                         },
                         {
@@ -4242,7 +4228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、そこまでしてくださらなくても…"
+                                "\\nc<Saki>You didn't have to go that far for me..."
                             ]
                         },
                         {
@@ -4287,7 +4273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]何か不満でも？　今日はこれだけすれば上がってもいいのに。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Is there something you're dissatisfied with? You can leave\nafter just this job today."
                             ]
                         },
                         {
@@ -4332,14 +4318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]え…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 4]私、この派遣をするために生まれてきたような気がします。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Eh...\\bustMsgExp[1, 4]I feel like I was born to do this\ndispatch job."
                             ]
                         },
                         {
@@ -4384,14 +4363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]いい心構えね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、今回の相手はVIPだから基本NGはないと思って。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>That's the spirit. But remember, since it's a VIP, there are\nbasically no no-gos."
                             ]
                         },
                         {
@@ -4436,14 +4408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]それって…\\.\\.何でもありってことですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2](だから今日はこれだけって言ってたのか…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Does that mean... anything goes?\\bustMsgExp[1, 2](So that's\nwhy she said it's just for today...)"
                             ]
                         },
                         {
@@ -4488,21 +4453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まあ、だからって厄介なことを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言い出したりはしないと思うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ単純かしら。"
+                                "\\nc<Senpai>Well, I don't think they'll bring up anything too\ntroublesome. It might even be simple."
                             ]
                         },
                         {
@@ -4547,21 +4498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]ふう…ならよかったです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(少なくとも、先輩が仕事のことで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嘘をついたことはなかったし…)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Phew... that's a relief. (At least, Senpai has never lied\nabout work-related things...)"
                             ]
                         },
                         {
@@ -4625,14 +4562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>住所は送っておいたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く行ってきなさい。終わったら連絡してね。"
+                                "\\nc<Senpai>I've sent you the address. Go quickly and contact me when\nyou're done."
                             ]
                         },
                         {
@@ -4677,7 +4607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい…行ってきます。"
+                                "\\nc<Saki>Yes... I'm on my way."
                             ]
                         },
                         {

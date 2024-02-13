@@ -3147,21 +3147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>手錠…結局もらってしまった…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出番があるかは分からないけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれかな？"
+                                "\\nc<Saki>Handcuffs... I ended up receiving them after all... I wonder\nif there will be an opportunity to use them. Maybe this?"
                             ]
                         },
                         {
@@ -3293,7 +3279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>鍵で開けて青いボタンを押すんだよね？　えいっ。"
+                                "\\nc<Saki>I need to unlock it and then press the blue button, right?\nHere goes."
                             ]
                         },
                         {
@@ -3395,14 +3381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>この辺は特に問題なさそうだし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとは連絡すれば終わりってこと？"
+                                "\\nc<Saki>There doesn't seem to be any particular problem around\nhere... So I just need to report back and that's it?"
                             ]
                         },
                         {
@@ -3452,7 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>警報装置が止まったな。異常はなかったか？"
+                                "\\nc<Security Guard 1>The alarm has stopped. Was there any trouble?"
                             ]
                         },
                         {
@@ -3483,7 +3462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい、近くには誰もいませんでした…"
+                                "\\nc<Saki>No, there was no one around..."
                             ]
                         },
                         {
@@ -4070,7 +4049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>よし。じゃあ、１回ぐるっと見回りしてこい。"
+                                "\\nc<Security Guard 1>Alright. Then, take a quick patrol around once more."
                             ]
                         },
                         {
@@ -4101,7 +4080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はぁい…"
+                                "\\nc<Saki>Okay..."
                             ]
                         },
                         {
@@ -4167,7 +4146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]わぁっ！　びっくりした…社員の方ですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Wah! You startled me... Are you an employee?"
                             ]
                         },
                         {
@@ -4207,7 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員？１>あ、はい。警備会社からの方ですか？"
+                                "\\nc<Employee 1>Ah, yes. Are you from the security company?"
                             ]
                         },
                         {
@@ -4224,7 +4203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員？２>最近の警備会社は淫魔も雇うんだ…"
+                                "\\nc<Employee?2>So the security companies are hiring succubi now..."
                             ]
                         },
                         {
@@ -4255,14 +4234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]はは、そうですね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ところで、どうして皆さんマスクを被ってるんですか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Haha, it seems so... By the way, why is everyone wearing\nmasks?"
                             ]
                         },
                         {
@@ -4302,14 +4274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>(ゲッ、脱ぐのを忘れてた！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは…ソーシャルディスタンスの一環です。"
+                                "\\nc<Thief 1>(Shoot, I forgot to take it off!) This is... part of our\nsocial distancing measures."
                             ]
                         },
                         {
@@ -4349,14 +4314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]そ、そうだったんですね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ私はこの辺で。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Oh, I see... Well then, I'll be on my way here."
                             ]
                         },
                         {
@@ -4387,7 +4345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>あ、はい。お疲れ様です！"
+                                "\\nc<Thief 1>Ah, yes. Thank you for your hard work!"
                             ]
                         },
                         {
@@ -4511,14 +4469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](早く帰って通報しよう…)\\|\\|\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へっ……！？\\|\\|\\|\\|\\|\\^"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(I need to get back and report this quickly...) Huh...!?"
                             ]
                         },
                         {

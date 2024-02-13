@@ -4366,7 +4366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(よし、早く片づけて帰ろう…)"
+                                "\\nc<Saki>(Alright, let's clean up quickly and head back...)"
                             ]
                         },
                         {
@@ -4415,7 +4415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔１>ん？　何あれ。すごい野次馬…"
+                                "\\nc<Succubus 1>Hm? What's that? Quite a crowd gathering..."
                             ]
                         },
                         {
@@ -4432,14 +4432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔２>まさか公園で宣伝用のイベントを？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業、大胆ね…"
+                                "\\nc<Succubus 2>No way, an event in the park for promotion? Succubus First\nIndustries, that's bold..."
                             ]
                         },
                         {
@@ -4456,14 +4449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔１>こ、こっちも負けてられないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オープン効果で今は注目を浴びてるけど、まだ新規だから…"
+                                "\\nc<Succubus 1>We can't lose to them. We're getting attention now because\nof the opening effect, but we're still new..."
                             ]
                         },
                         {
@@ -4480,14 +4466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔２>よし、せっかくあいつらがお客を集めてくれたんだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちらで奪っちゃいましょ。えいっ！"
+                                "\\nc<Succubus 2>Alright, since they've gathered a crowd for us, let's steal\nit away. Here goes!"
                             ]
                         },
                         {
@@ -4600,14 +4579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]あああっ！　あんなのってアリですか！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩、どうしましょう？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Aaah! Is that even allowed?! Senpai, what should we do?"
                             ]
                         },
                         {
@@ -4683,7 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お疲れ様、咲姫。あとは見てればいいわ。"
+                                "\\nc<Senpai>Good work, Saki. Just watch from here on."
                             ]
                         },
                         {
@@ -4728,7 +4700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ、本当ですか？"
+                                "\\nc<Saki>Eh, really?"
                             ]
                         },
                         {
@@ -4773,7 +4745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ええ。だって向こうは…"
+                                "\\nc<Senpai>Yes. After all, over there..."
                             ]
                         },
                         {
@@ -5271,7 +5243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警察１>そこ、不法宣伝および公然わいせつ罪で逮捕する。"
+                                "\\nc<Police Officer 1>Stop right there, you're under arrest for illegal\nadvertising and public indecency."
                             ]
                         },
                         {
@@ -5288,7 +5260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔１>えええっ！？　あいつらもやったのに、どうしてうちらだけ…"
+                                "\\nc<Succubus 1>Eeeeh!? They did it too, why are we the only ones..."
                             ]
                         },
                         {
@@ -5305,7 +5277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警察２>お前たちはまだ許可をもらってないからな。"
+                                "\\nc<Police Officer 2>You lot haven't received permission yet."
                             ]
                         },
                         {
@@ -5399,14 +5371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>これで一件落着ね。あれなら当分は営業禁止…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オープン効果なんて、その間に全部なくなるわ。"
+                                "\\nc<Senpai>And with that, the matter is settled. They'll be banned from\ndoing business for a while... Any opening effect will be\ngone by then."
                             ]
                         },
                         {
@@ -5451,21 +5416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]まさかこんなことになるとは。\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]それにしても、あの人たち本当に警察だったんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事中に何をしてるのやら…"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>I can't believe this is happening.\\bustMsgExp[1, 2] And to\nthink, those people were really police officers. What they\ndo during work hours..."
                             ]
                         },
                         {
@@ -5510,21 +5461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>取り締まりを口実に見にきたんでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "運がよかったわね。咲姫の潮吹きショーが見れたうえに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "社会の性秩序も守れて…"
+                                "\\nc<Senpai>They probably came under the pretext of enforcement. We were\nlucky. Not only did we get to see Saki's squirting show, but\nwe also preserved social sexual order..."
                             ]
                         },
                         {
@@ -5569,7 +5506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]あああっ！　その話はやめてください…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Aaah! Please stop talking about that..."
                             ]
                         },
                         {
@@ -5614,21 +5551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>恥ずかしがらなくていいのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にすごかったんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま正式なイベントにしたいくらい。"
+                                "\\nc<Senpai>There's no need to be embarrassed. It was truly amazing. I'd\nlike to make it an official event."
                             ]
                         },
                         {
@@ -5673,7 +5596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩！！！！"
+                                "\\nc<Saki>Senpai!!!!!!"
                             ]
                         },
                         {
@@ -5713,7 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そのあと咲姫と先輩は会社に戻った。"
+                                "\\nc<>After that, Saki and her senpai returned to the company."
                             ]
                         },
                         {
@@ -5730,14 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>問題になったライバル社は取り締まりによって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに潰れてしまった…"
+                                "\\nc<>The rival company that caused the problem was shut down\nimmediately due to the crackdown..."
                             ]
                         },
                         {

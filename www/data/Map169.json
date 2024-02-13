@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -4594,14 +4594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]うっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なんだかかなり本格的な雰囲気)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Ugh...(This feels quite professional)"
                             ]
                         },
                         {
@@ -4672,7 +4665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>淫魔第一産業の方ですよね？　こちらへどうぞ。"
+                                "\\nc<Researcher 1>You're from the Succubus First Industries, right? Please,\nthis way."
                             ]
                         },
                         {
@@ -4712,14 +4705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]はいっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(すごく事務的な態度。むしろこっちのほうがマシかも)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Yes! (Their attitude is so businesslike. Maybe that's\nactually better for me.)"
                             ]
                         },
                         {

@@ -2622,7 +2622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](うわっ！　奥さんがいるのに家に淫魔を呼んだの！？)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Whoa! Did he really call a succubus to his house while his\nwife is here!? )"
                             ]
                         },
                         {
@@ -2662,14 +2662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<中年男性>遠路はるばるお越しいただき、ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は息子の相手をしていただきたい。"
+                                "\\nc<Middle-Aged Man>Thank you for coming all this way. Today, I'd like you to\nspend some time with my son."
                             ]
                         },
                         {
@@ -2700,7 +2693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]なるほど…息子さんがいらっしゃるんですね。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>I see... So you have a son."
                             ]
                         },
                         {
@@ -2731,21 +2724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<中年女性>はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恥ずかしいことに、うちの子はずっと部屋に籠ったままで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いわゆる引きこもりというやつです。"
+                                "\\nc<Middle-Aged Woman>Yes. It's quite embarrassing, but our child has been shut\naway in his room... He's what you'd call a shut-in."
                             ]
                         },
                         {
@@ -2776,14 +2755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(困ったな。私はカウンセラーなんかじゃないのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手が幼い子どもならまだしも…)"
+                                "\\nc<Saki>(This is troublesome. I'm not a counselor or anything... It\nwould be one thing if it was a young child, but...)"
                             ]
                         },
                         {
@@ -2814,14 +2786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<中年男性>息子は、学校での人間関係に悩んでいるようでして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し相手していただければと。"
+                                "\\nc<Middle-Aged Man>My son seems to be struggling with social relationships at\nschool. We were hoping you could spend a little time with\nhim."
                             ]
                         },
                         {
@@ -2852,21 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああ、はい。そういうことでしたら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(思ってたのとはだいぶ違うけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "NGはないって先輩も言ってたし…仕方ないか)"
+                                "\\nc<Saki>Ah, yes. If that's the case...(This is quite different from\nwhat I was expecting, but senpai did say nothing was off-\nlimits... I guess it can't be helped)"
                             ]
                         },
                         {
@@ -2897,7 +2848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<中年男子>ありがとうございます。すぐに始められますか？"
+                                "\\nc<Middle-Aged Man>Thank you. Can we start right away?"
                             ]
                         },
                         {
@@ -2928,14 +2879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい！　よろしくお願いします！\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 3](今日は早めに帰れるかも)"
+                                "\\nc<Saki>Yes! Please take care of me! \\bustMsgExp[1, 3](Maybe I can\ngo home early today)"
                             ]
                         },
                         {
@@ -2966,7 +2910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<中年女性>では、こちらへ…"
+                                "\\nc<Middle-Aged Woman>Then, this way please..."
                             ]
                         },
                         {

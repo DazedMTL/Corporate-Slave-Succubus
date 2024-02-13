@@ -4623,14 +4623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ノルマのため！"
+                                "Would you like to view the event? It's for the quota!"
                             ]
                         },
                         {
@@ -4638,8 +4631,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 1,
                                 1,
@@ -5678,7 +5671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先週のある日……"
+                                "\\nc<>One day last week..."
                             ]
                         },
                         {
@@ -5755,14 +5748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしよう…どうしよう…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh... What should I do... What should I do..."
                             ]
                         },
                         {
@@ -5948,7 +5934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]咲姫、暇？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Saki, are you free?"
                             ]
                         },
                         {
@@ -6033,14 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>その逆です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事を覚えるのに精気を使いすぎて、今期のノルマが…"
+                                "\\nc<Saki>Quite the opposite. I've used up so much energy learning the\njob that I'm behind on this period's quota..."
                             ]
                         },
                         {
@@ -6085,7 +6064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まったく、ちゃんと計算して消費しないと。"
+                                "\\nc<Senpai>Honestly, you need to calculate and manage your energy\nconsumption properly."
                             ]
                         },
                         {
@@ -6130,14 +6109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>教育費の名目で精気を奪う先輩の責任も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しはあるんじゃないでしょうか…"
+                                "\\nc<Saki>Isn't there some responsibility on the part of a senpai who\ntakes energy under the guise of training fees..."
                             ]
                         },
                         {
@@ -6182,7 +6154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]へえ。咲姫、本音が漏れたわね。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Oh? Saki, your true feelings are showing."
                             ]
                         },
                         {
@@ -6236,7 +6208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]あっ！\\.\\.せ、せせせ、先輩！\\.\\.誤解です！　今のはその…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Ah! Se-se-senpai! You misunderstand! That was just..."
                             ]
                         },
                         {
@@ -6281,14 +6253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]新鮮ね。面と向かって言われるのは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、今回だけ許してあげる。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>How refreshing. It's rare to be told off to my face. Well,\nI'll let it slide just this once."
                             ]
                         },
                         {
@@ -6342,7 +6307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ふう…あ、ありがとうございます。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Phew... Thank you very much."
                             ]
                         },
                         {
@@ -6387,21 +6352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]正直、精気と引き換えに技術を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えてくれる上司なんて珍しいのよ？ほかのチームの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上司は教えてくれなくて、見よう見まねで覚えるんだから。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Honestly, it's rare to have a boss who teaches you skills in\nexchange for energy. Other teams' bosses don't teach at all,\nand you have to learn by watching."
                             ]
                         },
                         {
@@ -6446,21 +6397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えええっ…そ、そうなんですか！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩の言うとおりです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(たしかに、まったく学べないよりはマシかも…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Whaaat... Is that so?! You're right, Senpai! (Indeed, it's\nbetter than not learning anything at all...)"
                             ]
                         },
                         {
@@ -6477,14 +6414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ともかく、精気が必要です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か大きいイベントはありませんか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Anyway, I need energy. Isn't there any big event coming up?"
                             ]
                         },
                         {
@@ -6529,21 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そう言われてもね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいイベントはほとんど先取りされちゃって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫みたいなケースが１人や２人じゃないの。"
+                                "\\nc<Senpai>Even if you say so... All the good events have mostly been\nsnapped up. There are more than one or two cases like\nSaki's."
                             ]
                         },
                         {
@@ -6588,7 +6504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うううっ。 "
+                                "\\nc<Saki>Ughhh."
                             ]
                         },
                         {
@@ -6633,21 +6549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>大量の精気を得られるイベントといえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乱交イベントくらいだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなのめったにないし。"
+                                "\\nc<Senpai>The only event that could give you a large amount of energy\nwould be an orgy event... but those are rare."
                             ]
                         },
                         {
@@ -6664,14 +6566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]ほとんどのお客は１対１で楽しみたいからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乱交は特別なイベントに属するの。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Most clients prefer one-on-one enjoyment. Orgies are\nconsidered special events."
                             ]
                         },
                         {
@@ -6716,14 +6611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>たしかにそんな感じも…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあほかに方法はないんですか？"
+                                "\\nc<Saki>That does seem to be the case... So there's no other way?"
                             ]
                         },
                         {
@@ -6768,7 +6656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>さあね。今日予約されたお客の中には絶倫のお客はいない。"
+                                "\\nc<Senpai>Who knows. There aren't any insatiable clients among today's\nreservations."
                             ]
                         },
                         {
@@ -6813,7 +6701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うっ、なんで必要なときに限っていないんだろう…)"
+                                "\\nc<Saki>(Ugh, why is it that when I need it the most, there's none\navailable...)"
                             ]
                         },
                         {
@@ -6858,21 +6746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>一般の客はたくさんいるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "限界まで搾りとればいいんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつものように楽しようとしてるわけでもないんだし。"
+                                "\\nc<Senpai>There are plenty of regular clients, so why not milk them\nfor all they're worth? You're not trying to have fun as\nusual anyway."
                             ]
                         },
                         {
@@ -6917,7 +6791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>搾りとるって…"
+                                "\\nc<Saki>Milk them..."
                             ]
                         },
                         {
@@ -6962,21 +6836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>今日の予約は時間制にしてあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客も選りすぐりを手配しておくから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとは自分でうまくやりなさい。"
+                                "\\nc<Senpai>I'll set up today's reservations on a time limit for you.\nI'll arrange a selection of clients... the rest is up to you\nto handle well."
                             ]
                         },
                         {
@@ -7021,7 +6881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう…ありがとうございます、先輩。"
+                                "\\nc<Saki>Ugh... Thank you, Senpai."
                             ]
                         },
                         {

@@ -3756,14 +3756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Bad End...?"
+                                "Would you like to view the event? Bad End...?"
                             ]
                         },
                         {
@@ -3771,8 +3764,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4005,7 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、暇なら接待室の掃除手伝ってきなさい。"
+                                "\\nc<Senpai>Saki, if you're not busy, help clean the reception room."
                             ]
                         },
                         {
@@ -4059,14 +4052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩…接待室の掃除は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "接待を担当した人のお仕事なんじゃ…？"
+                                "\\nc<Saki>Senpai... Isn't cleaning the reception room the job of the\nperson in charge of entertaining...?"
                             ]
                         },
                         {
@@ -4111,14 +4097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]本来ならね。でも、その人が病院に運ばれたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔がセックスで怪我をするなんて、なかなかないんだけど…"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Normally, yes. But that person was taken to the hospital.\nIt's quite rare for a succubus to get injured during sex..."
                             ]
                         },
                         {
@@ -4163,7 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]びょ、病院って…じゃあ仕方ないですね。"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>The hospital... Well, I guess it can't be helped then."
                             ]
                         },
                         {
@@ -4208,14 +4187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]さっさと片づけてきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またこのまえみたいに、ほかの客に連れさられちゃだめよ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Hurry up and get it done. And don't let yourself be taken\naway by another guest like last time."
                             ]
                         },
                         {
@@ -4260,7 +4232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]そんなの、私だって嫌ですよ…行ってきます。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>I don't want that to happen either... I'm going now."
                             ]
                         },
                         {
@@ -4876,7 +4848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>私もここに入社してそんなに経ってないの。"
+                                "\\nc<Lewd Demon Employee>I haven't been with the company for very long either."
                             ]
                         },
                         {
@@ -4893,7 +4865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>１～２か月の差でも先輩は先輩でしょ？"
+                                "\\nc<Lewd Demon Employee>But even a difference of one or two months still makes you a\nsenpai, right?"
                             ]
                         },
                         {
@@ -4981,14 +4953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>はあ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰りたい。"
+                                "\\nc<Lewd Demon Employee>Sigh... I want to go home."
                             ]
                         },
                         {
@@ -5136,14 +5101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>いくらやっても仕事が終わらない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だって？　休日出勤？"
+                                "\\nc<Lewd Demon Employee>\"No matter how much I do, the work never ends... What's\nthat? Working on a holiday?\""
                             ]
                         },
                         {
@@ -5160,14 +5118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>生き残るためには割りきるしか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手当なんて期待もしてないって。"
+                                "\\nc<Lewd Demon Employee>\"To survive, I just have to accept it... I'm not even\nexpecting any extra pay.\""
                             ]
                         },
                         {

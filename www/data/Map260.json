@@ -1434,14 +1434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "新規プラットフォームの宣伝生放送"
+                                "Would you like to watch the event? It's a live broadcast\npromoting a new platform."
                             ]
                         },
                         {
@@ -1449,8 +1442,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -1688,14 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩、このまま行くと取引先なんじゃ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お昼を奢ってくれるんじゃなかったんですか！？"
+                                "\\nc<Saki>Senpai, are we heading to a client's place... Weren't you\nsupposed to treat me to lunch?!"
                             ]
                         },
                         {
@@ -1712,7 +1698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>これは残念。咲姫はまた騙されました。"
+                                "\\nc<Senpai>How unfortunate. Saki has been deceived again."
                             ]
                         },
                         {
@@ -1729,14 +1715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ドキュメンタリーっぽいしゃべり方はやめてください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて行き先くらいは教えてくだ…"
+                                "\\nc<Saki>Please stop talking like it's a documentary! At least tell\nme where we're going..."
                             ]
                         },
                         {
@@ -1753,7 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>安心して。今日はマスコミよ。"
+                                "\\nc<Senpai>Don't worry. Today it's the media."
                             ]
                         },
                         {
@@ -1770,21 +1749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>マスコミなら…まだマシですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当は物流会社のほうがいいですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警備会社や研究機関に比べれば…"
+                                "\\nc<Saki>If it's the media... that's still better, I guess. I'd\nprefer a logistics company, but compared to security firms\nor research institutions..."
                             ]
                         },
                         {
@@ -1801,7 +1766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そう？"
+                                "\\nc<Senpai>Really?"
                             ]
                         },
                         {
@@ -1818,21 +1783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>だって、あのデタラメなインタビューも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "台本は用意してありましたし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのあと打ち上げでごちそうも食べて…"
+                                "\\nc<Saki>Because even that nonsensical interview had a script\nprepared, and afterwards we got treated to a feast..."
                             ]
                         },
                         {
@@ -1849,21 +1800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>無断侵入には本当に呆れたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局は放送されませんでしたから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(これがマシな取引先だなんて…)"
+                                "\\nc<Saki>I was truly appalled by the unauthorized entry, but in the\nend, it wasn't broadcasted! (To think this is considered a\nbetter client...)"
                             ]
                         },
                         {
@@ -1880,14 +1817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>気に入ってくれてよかったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、文句言わずに行ってきなさい。"
+                                "\\nc<Senpai>I'm glad you liked it. Now, go without complaining."
                             ]
                         },
                         {
@@ -1904,14 +1834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それで、今日は何ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまえみたいに自宅への無断侵入でしたら…"
+                                "\\nc<Saki>So, what is it today? If it's another unauthorized entry\ninto a home like last time..."
                             ]
                         },
                         {
@@ -1928,14 +1851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>宣伝のお仕事じゃないかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでも、成人向けプラットフォームを新しく作ったそうよ。"
+                                "\\nc<Senpai>It might be a promotional job. Apparently, they've created a\nnew adult-oriented platform."
                             ]
                         },
                         {
@@ -1952,14 +1868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>よくもまあ飽きもせずにそんなものを…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も会社を辞めて成人向けチャンネルでも作りますかね？"
+                                "\\nc<Saki>How can they never tire of such things... Maybe I should\nquit the company and start an adult channel myself?"
                             ]
                         },
                         {
@@ -1976,14 +1885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>常連はある程度いるのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "四半期のノルマは高くなる一方ですし…"
+                                "\\nc<Saki>Despite having a certain number of regulars, the quarterly\nquotas only get higher..."
                             ]
                         },
                         {
@@ -2000,14 +1902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>無理ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モニターごしじゃ精気は得られないから。"
+                                "\\nc<Senpai>That's impossible. You can't get vitality from just looking\nat a monitor."
                             ]
                         },
                         {
@@ -2024,14 +1919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>だからってオフラインイベントを開いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酷い目にでも遭ったらどうするの？"
+                                "\\nc<Senpai>And what would you do if you hosted an offline event and\nsomething terrible happened?"
                             ]
                         },
                         {
@@ -2048,14 +1936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それもそうですね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "世の中そう甘くないな…"
+                                "\\nc<Saki>That's true too... The world isn't so sweet..."
                             ]
                         },
                         {

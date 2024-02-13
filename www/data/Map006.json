@@ -2380,7 +2380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>すごい豪邸…私もこんなところで暮らしたいな…"
+                                "\\nc<Saki>Such an amazing mansion... I'd love to live in a place like\nthis..."
                             ]
                         },
                         {
@@ -2430,14 +2430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ごめんくださーい。淫魔第一産業から派遣に来ました、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫と申します。"
+                                "\\nc<Saki>Excuse me. I'm Saki, dispatched from the Succubus First\nIndustry."
                             ]
                         },
                         {
@@ -2468,7 +2461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>お待ちしておりました。中へどうぞ。"
+                                "\\nc<???>We've been expecting you. Please come inside."
                             ]
                         },
                         {

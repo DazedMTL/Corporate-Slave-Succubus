@@ -6258,14 +6258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "創立記念日の特別イベント"
+                                "Would you like to view the event? The special event for the\nanniversary of the foundation."
                             ]
                         },
                         {
@@ -6273,8 +6266,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -6610,14 +6603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あれ？　今日はイベント室にブラインドがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついに社員のための福利厚生が…"
+                                "\\nc<Saki>Huh? There are blinds in the event room today. Could it be\nthat they've finally considered welfare benefits for the\nemployees..."
                             ]
                         },
                         {
@@ -6662,21 +6648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そんなわけないでしょ？　お客からの要望で取りつけたのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おじさんたちのお尻なんて誰も見たがらないのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恥ずかしがっちゃって。"
+                                "\\nc<Senpai>As if that's the case. They were installed because of\nrequests from customers. No one wants to see the old men's\nbutts, yet they get all embarrassed about it."
                             ]
                         },
                         {
@@ -6730,7 +6702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustExp[1, 2](そりゃそうだよね…)"
+                                "\\bustExp[1, 2]\\nc<Saki>(Well, that makes sense...)"
                             ]
                         },
                         {
@@ -6829,7 +6801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustExp[2, 1]はあ…めんどくさい。"
+                                "\\bustExp[2, 1]\\nc<Senpai>Sigh... What a hassle."
                             ]
                         },
                         {
@@ -6877,7 +6849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustExp[2, 0]私はほかのところに行ってるから、ちゃんと処理するのよ？"
+                                "\\bustExp[2, 0]\\nc<Senpai>I'll be going somewhere else, so make sure you handle\neverything properly, okay?"
                             ]
                         },
                         {
@@ -7100,21 +7072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0](油でも売りに行くのかな？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まっ、私もキス会のイベントは初めてじゃないし…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりました。"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>(Is she going to sell oil or something? Well, it's not my\nfirst time at a kissing event either...) Understood."
                             ]
                         },
                         {
@@ -7131,7 +7089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]はあ…今日はどんな迷惑客が来るんだろう…"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>Sigh... I wonder what kind of troublesome customers will\ncome today..."
                             ]
                         },
                         {

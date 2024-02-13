@@ -2595,21 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふう、はあ、はぁっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も、もうすぐ来る。どうにかして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脱出する方法を見つけなきゃ…"
+                                "\\nc<Saki>Phew, hah, haa... He's almost here. I have to find some way\nto escape..."
                             ]
                         },
                         {
@@ -2767,7 +2753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>ただいま、咲姫ちゃん。待った？"
+                                "\\nc<Executive Officer>I'm back, Saki-chan. Did you wait for me?"
                             ]
                         },
                         {
@@ -2871,7 +2857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ…あぁっ…"
+                                "\\nc<Saki>Ah... ahh..."
                             ]
                         },
                         {
@@ -2902,7 +2888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>ほかの役員に捕まっちゃってさ…"
+                                "\\nc<Executive Officer>I got caught by the other officers..."
                             ]
                         },
                         {
@@ -2928,14 +2914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>でもおかげでいいものを見てきたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんにも見せてあげたかったな。"
+                                "\\nc<Executive Officer>But thanks to that, I saw something good. I wish I could\nhave shown it to you, Saki-chan."
                             ]
                         },
                         {
@@ -2966,14 +2945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>……\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]い、いい加減放してください。"
+                                "\\nc<Saki>...\\bustMsgExp[1, 2]Please, let me go already."
                             ]
                         },
                         {
@@ -3013,7 +2985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>ん？"
+                                "\\nc<Executive Officer>Hm?"
                             ]
                         },
                         {
@@ -3044,21 +3016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>私、会社に戻りますから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんなら強制派遣されてやりますから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 1]もういい加減放してください！"
+                                "\\nc<Saki>I'll go back to the company... I'll even accept being\ndispatched forcefully! \\bustMsgExp[1, 1]Just let me go\nalready!"
                             ]
                         },
                         {
@@ -3089,14 +3047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>こらこら、だめじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんは僕のおかげで強制派遣を免れたんだぞ。"
+                                "\\nc<Executive Officer>Now now, that won't do. You should be grateful, Saki-chan.\nYou avoided being dispatched forcefully thanks to me."
                             ]
                         },
                         {
@@ -3113,14 +3064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>僕の好きなように躾けて何が悪い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何より…"
+                                "\\nc<Executive Officer>What's wrong with training you the way I like? More\nimportantly..."
                             ]
                         },
                         {
@@ -3200,7 +3144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]あ、あうぅっ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ah, ahh..."
                             ]
                         },
                         {
@@ -3217,14 +3161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あっ…また…それ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上は限界…いやっ…)"
+                                "\\nc<Saki>(Ah... again... that... I can't take it anymore... no...)"
                             ]
                         },
                         {
@@ -3264,21 +3201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>ここには咲姫ちゃんの大好きな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薬があるじゃないか。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だろ？"
+                                "\\nc<Executive Officer>Right here we have the drug you love so much, Saki-chan.\nRight?"
                             ]
                         },
                         {
@@ -3375,7 +3298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ん、あっ…はぁっ…♥"
+                                "\\nc<Saki>Mm, ah... haa...♥"
                             ]
                         },
                         {
@@ -3392,21 +3315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>だめだろ、咲姫ちゃん。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言葉を忘れた姿もかなり可愛いけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんとおねだりしないと。"
+                                "\\nc<Executive Officer>That's not good, Saki-chan. You look quite cute when you\nforget how to speak... but you have to beg properly."
                             ]
                         },
                         {
@@ -3450,7 +3359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ツゥーッ！"
+                                "\\nc<>ツゥ-！"
                             ]
                         },
                         {
@@ -3467,14 +3376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>役員がもう一度注射器の中身を出すと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の態度が積極的に変わる。"
+                                "\\nc<>As the executive officer pushes the contents of the syringe\nagain, Saki's attitude becomes more proactive."
                             ]
                         },
                         {
@@ -3491,14 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ぼんやりとした両目はすでに注射器に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "釘付けになっている。"
+                                "\\nc<>Her vacant eyes are already fixated on the syringe."
                             ]
                         },
                         {
@@ -3542,7 +3437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>う、打ってくださいっ♥"
+                                "\\nc<Saki>Please... inject it♥"
                             ]
                         },
                         {
@@ -3559,14 +3454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>床に捨てるくらいなら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に打ってください…♥"
+                                "\\nc<Saki>If you're going to throw it away... please inject it into\nme...♥"
                             ]
                         },
                         {
@@ -3583,14 +3471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>いや～、すぐに素直になったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に恐ろしい薬だよ。"
+                                "\\nc<Executive Officer>Wow, you became obedient so quickly. It's truly a terrifying\ndrug."
                             ]
                         },
                         {
@@ -3634,21 +3515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>役員は咲姫の前にしゃがみ、半分空になった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "注射器を振ってみせる。咲姫の瞳も注射器に沿って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりと振り子のように揺れうごく。"
+                                "\\nc<>The executive officer squats in front of Saki and shakes the\nhalf-empty syringe. Saki's eyes follow the syringe slowly,\nswaying like a pendulum."
                             ]
                         },
                         {
@@ -3676,14 +3543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>これ以上打ったら本当に言葉を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話せなくなるけど…関係ないよね？"
+                                "\\nc<Executive Officer>If I inject any more, you really won't be able to speak...\nbut that doesn't matter, does it?"
                             ]
                         },
                         {
@@ -3700,14 +3560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はぁい、へへっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(今は…どうにかしてでもあの薬を手に入れないと…)"
+                                "\\nc<Saki>Yes, hehe...♥ (Right now... I must get that drug by any\nmeans...)"
                             ]
                         },
                         {
@@ -3724,21 +3577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>な、生意気なことを言って…申し訳ありませんっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "派遣なんて行きたくないです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで、ご主人様とずっと…薬と一緒に…ヘヘッ♥"
+                                "\\nc<Saki>For saying such insolent things... I'm sorry. I don't want\nto be dispatched. I want to stay here forever with Master...\nwith the drug... Hehe♥"
                             ]
                         },
                         {
@@ -3755,14 +3594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>よしよし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素直になった咲姫にご褒美として１滴…"
+                                "\\nc<Executive Officer>There there, as a reward for becoming obedient, Saki gets\none drop..."
                             ]
                         },
                         {
@@ -3790,7 +3622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>チュウゥッ♥"
+                                "\\nc<>チュウゥ♥"
                             ]
                         },
                         {
@@ -3818,7 +3650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あはぅっ♥んはっ、ひうぅっ…♥"
+                                "\\nc<Saki>Ahauu♥ Nhaa, hiuu...♥"
                             ]
                         },
                         {
@@ -3862,14 +3694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>薬の効果は劇的だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫はすぐさま体をブルブルと震わせ歯を食いしばる。"
+                                "\\nc<>The effect of the drug is dramatic. Saki immediately starts\nto tremble and clenches her teeth."
                             ]
                         },
                         {
@@ -3886,21 +3711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>それが期待と快感によるものなのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐怖によるものなのかなど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうどうでもいい…"
+                                "\\nc<>Whether it's from anticipation and pleasure or fear doesn't\nmatter anymore..."
                             ]
                         },
                         {
@@ -3975,7 +3786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>エへッ、エへへッ、チュブ、チュウッ…♥"
+                                "\\nc<Saki>Eheh, eheheh, chubu, chuu...♥"
                             ]
                         },
                         {
@@ -3992,7 +3803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>いいぞ。今日は最後まで突っ走るぞ。"
+                                "\\nc<Executive Officer>Good. We're going all the way today."
                             ]
                         },
                         {
@@ -4020,7 +3831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>その後、咲姫の姿を見た人は誰１人いなかった…"
+                                "\\nc<>No one saw Saki after that..."
                             ]
                         },
                         {
@@ -4037,7 +3848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]～バッドエンド～"
+                                "\\TA[1]～Bad End～"
                             ]
                         },
                         {

@@ -4719,14 +4719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>早く帰りたいけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とりあえず仕事をしよう。"
+                                "\\nc<>I want to go home early, but... let's get to work for now."
                             ]
                         },
                         {
@@ -4864,7 +4857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -5002,7 +4995,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>休憩室に入りますか？"
+                                "\\nc<>Would you like to enter the rest room?"
                             ]
                         },
                         {
@@ -5010,8 +5003,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -5251,7 +5244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]結局、戻ってきちゃうなんて…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>In the end, I just end up coming back..."
                             ]
                         },
                         {
@@ -5399,7 +5392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員>…なんだ？"
+                                "\\nc<Guard>...What's that?"
                             ]
                         },
                         {
@@ -5487,7 +5480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員>忙しいから話かけるな。"
+                                "\\nc<Guard>I'm busy, so don't talk to me."
                             ]
                         },
                         {
@@ -5575,7 +5568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員>…"
+                                "\\nc<Security Guard>..."
                             ]
                         },
                         {

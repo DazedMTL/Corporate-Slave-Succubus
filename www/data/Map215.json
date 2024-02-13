@@ -2531,7 +2531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>特別に競売にかけてあげるから心配する必要ないわ！"
+                                "\\nc<Senpai>Don't worry, I'll put it up for a special auction just for\nyou!"
                             ]
                         },
                         {
@@ -2576,7 +2576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](ど…どうしてそうなるのっ！)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Wh...Why did it turn out like this?!)"
                             ]
                         },
                         {
@@ -2621,14 +2621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふふ、危うく安価で提供するところだったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えてくれてありがとう。"
+                                "\\nc<Senpai>Fufu, I almost offered it at a low price. Thank you for\nletting me know."
                             ]
                         },
                         {
@@ -2676,7 +2669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それでは…"
+                                "\\nc<Senpai>Now then..."
                             ]
                         },
                         {
@@ -2782,14 +2775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お待たせしました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただいまより、咲姫ちゃんの処女をかけた競売を始めます！"
+                                "\\nc<Senpai>Thank you for waiting! We will now begin the auction for\nSaki-chan's virginity!"
                             ]
                         },
                         {
@@ -2860,14 +2846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP１>特別イベントがあるって言うから来たけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔の処女って言ってもな…"
+                                "\\nc<Vip 1>I came because they said there was a special event, but a\nsuccubus's virginity, huh..."
                             ]
                         },
                         {
@@ -2884,7 +2863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP２>急に国語力を問われる気分だぜ。"
+                                "\\nc<Vip 2>Suddenly feels like my knowledge of language is being\ntested."
                             ]
                         },
                         {
@@ -2946,14 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふふ…皆さまが疑われるのも分かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、咲姫ちゃんは少し前までは人間でした！"
+                                "\\nc<Senpai>Fufu... I understand why you might be skeptical. However,\nSaki-chan was a human until not so long ago!"
                             ]
                         },
                         {
@@ -2993,7 +2965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP１>何？　人間が、淫魔になっただと？"
+                                "\\nc<Vip 1>What? A human turned into a succubus?"
                             ]
                         },
                         {
@@ -3019,7 +2991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP３>たしかにそういうケースがあると聞いたことはあるけど…"
+                                "\\nc<Vip 3>I have heard of such cases before..."
                             ]
                         },
                         {
@@ -3095,7 +3067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>その証拠に咲姫ちゃんの人間時代の写真も公開します！"
+                                "\\nc<Senpai>As proof, we will also reveal photos from Saki-chan's human\ndays!"
                             ]
                         },
                         {
@@ -3395,7 +3367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP３>おおお…"
+                                "\\nc<Vip 3>Oooh..."
                             ]
                         },
                         {
@@ -3440,7 +3412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(えええっ？！　いつそんなものを…)"
+                                "\\nc<Saki>(Eeeeh?! When did they take something like that...)"
                             ]
                         },
                         {
@@ -3516,14 +3488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫ちゃんは淫魔になるまえも、淫魔になったあとも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性と一夜を共にしたことがありません。"
+                                "\\nc<Senpai>Saki-chan has never spent a night with a man, not before\nbecoming a succubus, nor after."
                             ]
                         },
                         {
@@ -3568,14 +3533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](くっ、私が処女なのは事実だけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あそこまで大々的に宣伝されるとすごく恥ずかしい…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Grr, it's true that I'm a virgin, but it's so embarrassing\nto have it announced so publicly...)"
                             ]
                         },
                         {
@@ -3620,7 +3578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>意外ですか？　こんなに可愛いですもんね。"
+                                "\\nc<Senpai>Surprised? She's so cute after all."
                             ]
                         },
                         {
@@ -3682,21 +3640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫ちゃんには未来を約束した恋人がいましたが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんが淫魔になったとたん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女のもとを去ってしまったのです！"
+                                "\\nc<Senpai>Saki-chan had a lover she promised her future to, but... as\nsoon as she became a succubus, he left her!"
                             ]
                         },
                         {
@@ -3741,7 +3685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](も、ものすごい設定！　こんなのただの詐欺じゃない！)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Th-This is such an outrageous setup! It's nothing but a\nscam!)"
                             ]
                         },
                         {
@@ -3772,7 +3716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP１>おおっ、なんかNTRみたいでムラムラするぜ！"
+                                "\\nc<Vip 1>Ohh, this kind of feels like NTR, it's getting me excited!"
                             ]
                         },
                         {
@@ -3817,14 +3761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫ちゃんが愛する王子様に捧げるために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大切に取っておいた処女を…今、この場で競売にかけます！"
+                                "\\nc<Senpai>The virginity that Saki-chan cherished and saved for her\nbeloved prince... will now be auctioned off right here!"
                             ]
                         },
                         {
@@ -3864,7 +3801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP３>うおおっ！　早く始めろ！"
+                                "\\nc<Vip 3>Uooooh! Start it already!"
                             ]
                         },
                         {
@@ -3890,7 +3827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP２>金ならいくらでもあるぞ！"
+                                "\\nc<Vip 2>I've got plenty of money!"
                             ]
                         },
                         {
@@ -3935,14 +3872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(だめ。このままだと大変なことに…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せ、先輩！　ちょっと待ってください！　私できません！"
+                                "\\nc<Saki>(No, this can't be happening...) Senpai, please wait! I\ncan't do this!"
                             ]
                         },
                         {
@@ -4018,7 +3948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]ん？　できない？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Hm? Can't do what?"
                             ]
                         },
                         {
@@ -4063,14 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい、こんなの嘘じゃないですか！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに私、やっぱり本番は…"
+                                "\\nc<Saki>Yes, this is all lies! And besides, I really can't go\nthrough with the main event..."
                             ]
                         },
                         {
@@ -4115,7 +4038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]わがまま言わないの。"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>Don't be selfish."
                             ]
                         },
                         {
@@ -4160,7 +4083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ええっ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Eeh..."
                             ]
                         },
                         {
@@ -4205,7 +4128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>新入りの淫魔の体は最初の本番が一番高いの。 "
+                                "\\nc<Senpai>The body of a new succubus fetches the highest price on its\nfirst time."
                             ]
                         },
                         {
@@ -4222,14 +4145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>高いところからスタートさせてあげるのに嫌なの？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも地獄の底で犯されたい？"
+                                "\\nc<Senpai>Are you saying you don't want to start off high? Or would\nyou rather be defiled in the depths of hell?"
                             ]
                         },
                         {
@@ -4274,7 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ひいいっ？　そ、そういうわけじゃなくて…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eeek?! No, that's not what I mean..."
                             ]
                         },
                         {
@@ -4319,7 +4235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]それならつべこべ言わずに協力して。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Then stop complaining and cooperate."
                             ]
                         },
                         {
@@ -4395,7 +4311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うう…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh..."
                             ]
                         },
                         {
@@ -4435,7 +4351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP１>待てよ、処女ならかえって楽しめないんじゃないか？"
+                                "\\nc<Vip 1>Wait a minute, if she's a virgin, wouldn't that make it less\nenjoyable?"
                             ]
                         },
                         {
@@ -4480,21 +4396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ご心配なく！　処女といってもいちおう淫魔ですので。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落札者にご満足いただけるよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拘束オプションもお付けいたします！"
+                                "\\nc<Senpai>No worries! Even though she's a virgin, she is still a\nsuccubus. We will also include a restraint option to ensure\nthe satisfaction of the buyer!"
                             ]
                         },
                         {
@@ -4539,7 +4441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]こ、拘束？！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>R-Restraints?!"
                             ]
                         },
                         {
@@ -4579,14 +4481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP２>それなら大歓迎だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、むしろ沸いてきたぜ！"
+                                "\\nc<Vip 2>If that's the case, then I'm all for it. No, actually, I'm\ngetting even more excited!"
                             ]
                         },
                         {
@@ -4643,7 +4538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP４>横取りはさせねえ！"
+                                "\\nc<Vip 4>I won't let anyone outbid me!"
                             ]
                         },
                         {
@@ -4728,7 +4623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>今から商品の詳細をお見せします。"
+                                "\\nc<Senpai>Now, let me show you the details of the product."
                             ]
                         },
                         {
@@ -4799,7 +4694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>わああっ！"
+                                "\\nc<Saki>Aaahhh!"
                             ]
                         },
                         {
@@ -4884,7 +4779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ジャ～ン！　どうですか、このまっさらで綺麗な体！"
+                                "\\nc<Senpai>Ta-dah! How about this pristine and beautiful body!"
                             ]
                         },
                         {
@@ -4901,21 +4796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>マンコも乳首もとても鮮やかなピンクで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔の中でも、ここまで綺麗な体は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "非常にまれと言えるでしょう！"
+                                "\\nc<Senpai>Her pussy and nipples are a very vivid pink... Among\nsuccubi, a body this beautiful is extremely rare!"
                             ]
                         },
                         {
@@ -4986,7 +4867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP２>おおおっ！　エロくて綺麗なうえに処女の淫魔とは…"
+                                "\\nc<Vip 2>Ohhh! An erotic and beautiful virgin succubus..."
                             ]
                         },
                         {
@@ -5012,7 +4893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP１>言われてみれば、たしかに素晴らしい商品だ。"
+                                "\\nc<Vip 1>Now that you mention it, it truly is a splendid product."
                             ]
                         },
                         {
@@ -5029,7 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP４>人間だった淫魔か…たしかにまたとない商品だ。"
+                                "\\nc<Vip 4>A succubus that was once human... Indeed, a once-in-a-\nlifetime product."
                             ]
                         },
                         {
@@ -5074,7 +4955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふあっ…"
+                                "\\nc<Saki>Fuaah..."
                             ]
                         },
                         {
@@ -5091,7 +4972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(熱気がすごい…ここまでしなきゃいけないの…？)"
+                                "\\nc<Saki>(The heat is intense... Do I really have to go through with\nthis...?)"
                             ]
                         },
                         {
@@ -5136,7 +5017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それでは競売、スタートです！"
+                                "\\nc<Senpai>Now then, let the auction begin!"
                             ]
                         },
                         {

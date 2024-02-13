@@ -4785,7 +4785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ど、どうも…淫魔第一産業の希和美と申します。"
+                                "\\nc<Saki>Um, hello... My name is Kiwami from the Succubus First\nIndustry."
                             ]
                         },
                         {
@@ -4802,14 +4802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](あれ？　これって私だけ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかに１人や２人はいると思ったのに！）"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Huh? Is it just me here!? I thought there would be at least\none or two other people!)"
                             ]
                         },
                         {
@@ -4826,7 +4819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](うっ、急にプレッシャーが…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Ugh, suddenly feeling the pressure...)"
                             ]
                         },
                         {
@@ -4902,14 +4895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>どうも！　いやぁ、お願いしたとおり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛い方を送ってくれたな。"
+                                "\\nc<Reporter>Hello! Ah, you sent over such a cute person as requested."
                             ]
                         },
                         {
@@ -4940,7 +4926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]あ、あはは…ありがとうございます。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Ah, haha... Thank you very much."
                             ]
                         },
                         {
@@ -4957,21 +4943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](なんだか気持ち悪い目つきだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "インタビューだけだし、大丈夫だよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段とはちょっと違うお仕事だけど、少しはらくできるかも)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(He's got a creepy look in his eyes... but it's just an\ninterview, so it should be fine, right? It's a bit different\nfrom my usual work, but maybe it'll be a bit easier.)"
                             ]
                         },
                         {
@@ -5002,21 +4974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>じゃあ改めて紹介するね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回の番組は「突入、淫魔第一産業！」といって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現場の人からのリアリティ溢れるインタビューが特徴なんだ。"
+                                "\\nc<Reporter>Well then, let me introduce the program again. This time\nit's \"Raid on Succubus First Industry!\" featuring interviews\nbrimming with reality from the people on-site."
                             ]
                         },
                         {
@@ -5047,14 +5005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]はあ…それは楽しそうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(正直、あまりピンと来ないんだけど…)"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Ah... That sounds fun. (Honestly, I don't quite get it\nthough...)"
                             ]
                         },
                         {
@@ -5085,21 +5036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>咲姫ちゃんは台本を読んで、そのまま答えてくれればいいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "台本の内容はカメラ横の画面に表示されるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "難しくはないと思うよ。"
+                                "\\nc<Reporter>Saki-chan just needs to read the script and answer\naccordingly. The content of the script will be displayed on\nthe screen next to the camera, so it shouldn't be too\ndifficult."
                             ]
                         },
                         {
@@ -5130,7 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>紙の台本じゃないんですね。よかった、覚える必要なくて。"
+                                "\\nc<Saki>It's not on paper? That's good, no need to memorize it."
                             ]
                         },
                         {
@@ -5161,14 +5098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>ははは、咲姫ちゃんは頭がいいほうじゃないんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあさっそく始めようか。"
+                                "\\nc<Reporter>Hahaha, Saki-chan isn't the brightest, huh? Let's get\nstarted then."
                             ]
                         },
                         {
@@ -5199,21 +5129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>今、何て…？\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 1]い、いや。台本まだ一度も見せてもらってないんですけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま撮影に入ってもいいんですか？"
+                                "\\nc<Saki>What did you say...?\\bustMsgExp[1, 1] No, wait. I haven't\neven seen the script yet... Is it really okay to start\nfilming like this?"
                             ]
                         },
                         {
@@ -5244,21 +5160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>どうせ録画だから大丈夫だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんも早く終わらせて帰りたいでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "台本は淫魔第一産業のチェック済みだからご心配なく…"
+                                "\\nc<Reporter>It's fine since we're recording. You want to finish up\nquickly and go home too, right? The script has already been\nchecked by Succubus First Industry, so don't worry..."
                             ]
                         },
                         {
@@ -5289,21 +5191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>は、はあ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(みんな忙しいのかな？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、言われたとおりにすればいいんだよね)"
+                                "\\nc<Saki>Yes...(Is everyone just busy? Well, I guess I just have to\ndo as I'm told.)"
                             ]
                         },
                         {
@@ -5365,7 +5253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<カメラマン>撮影の準備、終わりました！"
+                                "\\nc<Cameraman>The preparations for shooting are complete!"
                             ]
                         },
                         {
@@ -5382,14 +5270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>ほら、これでも飲んで落ち着いて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりとやってみよう。"
+                                "\\nc<Reporter>Here, drink this and calm down... Let's take it slow and\ntry."
                             ]
                         },
                         {
@@ -5487,14 +5368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はいっ！\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]ゴクッ、ゴクッ…ふう、ありがとうございます。"
+                                "\\nc<Saki>Yes!\\bustMsgExp[1, 0] Gulp, gulp... Phew, thank you very\nmuch."
                             ]
                         },
                         {
@@ -5511,7 +5385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(本当はすごく緊張するけど…何とかしなきゃ…ふぅーっ…)"
+                                "\\nc<Saki>(I'm actually really nervous... but I have to manage\nsomehow... Phew...)"
                             ]
                         },
                         {
@@ -6064,7 +5938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>とりあえず合図が出るまではそのままでいいから。"
+                                "\\nc<Reporter>Just stay as you are until the signal starts."
                             ]
                         },
                         {
@@ -6135,7 +6009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>は、はい！"
+                                "\\nc<Saki>Yes!"
                             ]
                         },
                         {
@@ -6228,14 +6102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<カメラマン>それじゃあ本番入りまーす！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３…\\|２…\\|１…\\|"
+                                "\\nc<Cameraman>We're going live now! 3...2...1..."
                             ]
                         },
                         {
@@ -6355,14 +6222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>突入、XX産業！　本日は話題の淫魔第一産業について"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "根掘り葉掘り聞いてみようと思います。"
+                                "\\nc<Reporter>Raid on XX Industry! Today we're going to dig deep into the\npopular Succubus First Industry."
                             ]
                         },
                         {
@@ -6379,21 +6239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>気になっている方々もいると思いますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業の魅力について、そしてどうしてこの企業が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今人気なのか…"
+                                "\\nc<Reporter>I'm sure there are people who are curious about the allure\nof Succubus First Industry and why this company is so\npopular right now..."
                             ]
                         },
                         {
@@ -6424,7 +6270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](すごい…やっぱプロはプロなんだ)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(Amazing... Professionals really are different.)"
                             ]
                         },
                         {
@@ -6455,14 +6301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>ここにいるサキヒメちゃんにお話をうかがいたいと思います。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ではサキヒメちゃん、お願いします。"
+                                "\\nc<Reporter>We'd like to hear from Saki-hime here. So Saki-hime, please\ngo ahead."
                             ]
                         },
                         {
@@ -6493,21 +6332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]はいっ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業のサキヒメといいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はよろしくお願いします！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Yes! My name is Saki-hime from Succubus First Industry. I\nlook forward to working with you today!"
                             ]
                         },
                         {
@@ -6557,14 +6382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>ははは、結構気合入ってますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ではまず、サキヒメちゃんのプロフィールを見てみましょう！"
+                                "\\nc<Reporter>Hahaha, you seem quite spirited. Now let's take a look at\nSaki-hime's profile!"
                             ]
                         },
                         {
@@ -6832,7 +6650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](ふう、よかった。本当に大したことないかも…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Phew, that went well. Maybe it's not such a big deal after\nall...)"
                             ]
                         },
                         {
@@ -6863,7 +6681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>入社して１年目なのにすごい活躍ぶりですね。"
+                                "\\nc<Reporter>You've made quite an impact even though it's only your first\nyear."
                             ]
                         },
                         {
@@ -6894,14 +6712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>え…\\.\\.\\bustMsgExp[1, 3]あはは、なんだか恥ずかしいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(すごいって何が？　なんでデタラメな資料を使ってるの？)"
+                                "\\nc<Saki>Eh...\\bustMsgExp[1, 3] Ahaha, that's kind of embarrassing.\n(What's so amazing? Why are they using fake information?)"
                             ]
                         },
                         {
@@ -6932,21 +6743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>ここからはプライベートな質問！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サキヒメちゃんは以前から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業を志望していたんですか？"
+                                "\\nc<Reporter>Now for some personal questions! Saki-hime-chan, did you\nalways aspire to work at Succubus First Industry?"
                             ]
                         },
                         {
@@ -6977,7 +6774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](本当は全然違うけど…ここは「そうです」って答えるべきだよね)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(The truth is completely different... but I should probably\njust say \"Yes\" here.)"
                             ]
                         },
                         {
@@ -6994,7 +6791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](…って、えええ！？　何この内容！？)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(...Wait, what!? What is this content!?)"
                             ]
                         },
                         {
@@ -7025,7 +6822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>…サキヒメちゃん？"
+                                "\\nc<Reporter>...Saki-hime-chan?"
                             ]
                         },
                         {
@@ -7096,7 +6893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>は、はい？"
+                                "\\nc<Saki>Yes?"
                             ]
                         },
                         {
@@ -7127,7 +6924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>ただ読むだけでいいんだけど…だめかな？"
+                                "\\nc<Reporter>You just have to read it... Is that not okay?"
                             ]
                         },
                         {
@@ -7158,7 +6955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]えっ、でも、あれは…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>But, that's..."
                             ]
                         },
                         {
@@ -7189,21 +6986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>でも、じゃないよ。せっかく用意したのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかできないとは言わないよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしもそうなら、この件について御社に報告するしかないよ。"
+                                "\\nc<Reporter>No 'buts'. We went through the trouble of preparing this...\nYou're not going to say you can't do it, right? If that's\nthe case, we'll have no choice but to report this matter to\nyour company."
                             ]
                         },
                         {
@@ -7234,14 +7017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えええ！？　そんな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そんなことされたら、先輩に殺されちゃう！)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>What!? No way!! (If they do that, my senpai will kill me!)"
                             ]
                         },
                         {
@@ -7258,14 +7034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]わ、分かりました！　ちゃんとやりますので…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一度お願いします。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Okay, I understand! I'll do it properly...! Please give me\nanother chance."
                             ]
                         },
                         {
@@ -7327,21 +7096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>それじゃあ、最後のところからやり直すぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３…\\|２…\\|１…\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前から淫魔第一産業を志望していたんですか？"
+                                "\\nc<Reporter>Then, let's redo the last part! 3...2...1...Did you always\naspire to work at Succubus First Industry?"
                             ]
                         },
                         {
@@ -7372,7 +7127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]そ、そうなんです！"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Ye-yes, that's right!"
                             ]
                         },
                         {
@@ -7389,21 +7144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>子どものころから淫魔第一産業一筋でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セックスがメインの仕事だなんて、最高すぎるじゃないですか！\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\BustMsgExp[1, 1](誰だよ、こんなめちゃくちゃな台本書いたのは！！)"
+                                "\\nc<Saki>Ever since I was a child, I've been devoted to Succubus\nFirst Industry. A job where sex is the main focus, isn't\nthat just the best? \\BustMsgExp[1, 1](Who the hell wrote\nthis ridiculous script!!)"
                             ]
                         },
                         {
@@ -7434,14 +7175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>ぷっ…ああ、すみません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幼いころから才能のある淫魔だったのですね"
+                                "\\nc<Reporter>Pfft... Ah, I'm sorry. So you were a talented succubus from\na young age."
                             ]
                         },
                         {
@@ -7472,7 +7206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]あはは…"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Ahaha..."
                             ]
                         },
                         {
@@ -7503,21 +7237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>では、学生時代はどうでしたか？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業を志望するくらいだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し変わってたんじゃないかな。"
+                                "\\nc<Reporter>So, what about your student days? You must have been a bit\nunusual to aspire to work at Succubus First Industry."
                             ]
                         },
                         {
@@ -7548,21 +7268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]学校ですか？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭が悪くて成績は良くなかったんですけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 3]私、学校では有名なビッチでした！"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>School? I wasn't very smart and my grades weren't good...\nbut I was a famous bitch at school!"
                             ]
                         },
                         {
@@ -7612,7 +7318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>出たー！　まさか伝説のビッチだったとか！？"
+                                "\\nc<Reporter>There it is! Could it be that you were the legendary bitch!?"
                             ]
                         },
                         {
@@ -7643,14 +7349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>クラスの男子たちの童貞は全部私がもらっちゃいました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キモオタや気の弱い男子にもきちんとご奉仕して…"
+                                "\\nc<Saki>I took all the virginities of the boys in my class! I\nproperly serviced even the nerds and the timid boys..."
                             ]
                         },
                         {
@@ -7690,21 +7389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>マジかあああ！サキヒメちゃんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな相手にでもご奉仕するんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素晴らしい！これぞまさにプロ！"
+                                "\\nc<Reporter>Seriouslyyyy! Saki-hime-chan services any kind of partner.\nThat's amazing! Truly professional!"
                             ]
                         },
                         {
@@ -7735,21 +7420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]え、えへへ…ほかはともかくおチンポをしゃぶるのと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "股を開くのには自信がありますから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 1](死ね、死ね、あんたら全部死んじゃえ！！)"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Ehehe... Well, aside from everything else, I'm confident in\nsucking cock and spreading my legs. \\bustMsgExp[1, 1](Die,\ndie, all of you just die!!)"
                             ]
                         },
                         {
@@ -7859,7 +7530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>クヒヒ、楽しみだ。俺も収録後にちょっと頼んじゃおっかな～"
+                                "\\nc<Reporter>Kuhuhu, I'm looking forward to it. Maybe I'll ask for a\nlittle favor after the recording~"
                             ]
                         },
                         {
@@ -7897,7 +7568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>じゃあ、こんなのはどう？"
+                                "\\nc<Reporter>So, how about this?"
                             ]
                         },
                         {
@@ -7928,21 +7599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](こんなのインタビューじゃなくて\\"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安っぽい成人向けのバラエティ番組じゃん…)\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 3]きゃっ♥もっと大胆にしてもいいですよ！"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(This isn't an interview, it's like a cheap adult variety\nshow...) \\bustMsgExp[1, 3]Kyaa♥ You can be bolder if you\nwant!"
                             ]
                         },
                         {
@@ -8004,21 +7661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>わはは！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やる気があるのはいいけど、これ以上は放送できなくなるからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事の満足度はどう？　咲姫ちゃんが夢見てきた職場だった？"
+                                "\\nc<Reporter>Wahaha! It's good to be enthusiastic, but we can't broadcast\nanything more than this. How satisfied are you with your\njob? Was it the workplace Saki-chan had always dreamed of?"
                             ]
                         },
                         {
@@ -8049,21 +7692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい！　いつでもどこでもセクハラはもちろん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セックスまでできる職場なんて最高すぎます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素敵なおチンポに囲まれて幸せです。"
+                                "\\nc<Saki>Yes! A workplace where sexual harassment and even sex are\nalways available is just too wonderful. I'm happy surrounded\nby lovely cocks."
                             ]
                         },
                         {

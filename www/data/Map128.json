@@ -5597,21 +5597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<社員>お話はうかがっております、咲姫様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お待ちしておりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モニタールームに向かいますか？"
+                                "\\nc<Employee>We have been informed of your story, Saki-sama. We have been\nwaiting for you. Shall we head to the monitor room?"
                             ]
                         },
                         {
@@ -5619,8 +5605,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5695,7 +5681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<社員>お仕事は中でどうぞ。"
+                                "\\nc<Employee>Please proceed with your work inside."
                             ]
                         },
                         {

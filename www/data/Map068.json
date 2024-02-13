@@ -2406,7 +2406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>今回も内定取り消しかな……"
+                                "\\nc<Saki>Looks like my job offer got revoked again..."
                             ]
                         },
                         {
@@ -2439,14 +2439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>やっぱり専攻を活かして就職するのは難しそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな、私が淫魔になったって聞いたとたんドン引きしてるし。"
+                                "\\nc<Saki>As expected, it's tough to find a job related to my major.\nEveryone freaks out as soon as they hear I've become a\nsuccubus."
                             ]
                         },
                         {
@@ -2535,7 +2528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>でも、１日でも早く仕事を見つけないと……"
+                                "\\nc<Saki>But I need to find a job as soon as possible..."
                             ]
                         },
                         {
@@ -2617,7 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>もう本当に食費が底を突きそう……"
+                                "\\nc<Saki>I'm really about to run out of money for food..."
                             ]
                         },
                         {
@@ -2684,7 +2677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]もしもし？"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>Hello?"
                             ]
                         },
                         {
@@ -2715,14 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警察>あ、希和美さんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先日、通報してくださった件についてですが。"
+                                "\\nc<Police>Ah, is this Kiwami-san? Regarding the incident you reported\nthe other day..."
                             ]
                         },
                         {
@@ -2753,7 +2739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1]ああっ！\\.もしかして犯人が捕まったんですか？"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>Oh! Has the perpetrator been caught?"
                             ]
                         },
                         {
@@ -2784,21 +2770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警察>こちらで防犯カメラを確認してみたところ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "希和実さんにサービスでお酒を提供した魔族は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店長ではありませんでした。"
+                                "\\nc<Police>Upon reviewing the security footage... it appears that the\ndemon who served you alcohol under the guise of service was\nnot the manager."
                             ]
                         },
                         {
@@ -2815,7 +2787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警察>ほかの魔族でした。"
+                                "\\nc<Police>It was another demon."
                             ]
                         },
                         {
@@ -2846,14 +2818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えぇぇぇっ？！　ぜ、全然気付きませんでした！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(魔族はみんな似てるから、分からなかった…)"
+                                "\\nc<Saki>What?! I didn't notice at all! (Demons all look alike, so\nit's hard to tell...)"
                             ]
                         },
                         {
@@ -2884,14 +2849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警察>とりあえず、引き続き捜査はいたしますが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に淫魔になってしまったんですか？"
+                                "\\nc<Police>For now, we will continue the investigation, but... did you\nreally become a succubus?"
                             ]
                         },
                         {
@@ -2922,21 +2880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>このまえ尻尾だって見せたじゃないですか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に犯人を捕まえてください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(事のいきさつを知るためには犯人から捕まえないと…)"
+                                "\\nc<Saki>Didn't I show you my tail last time?! Please catch the\nculprit at all costs! (I need to catch them to understand\nwhat happened...)"
                             ]
                         },
                         {
@@ -2972,7 +2916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]ふう……。"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>Sigh..."
                             ]
                         },
                         {
@@ -2989,7 +2933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いったいどうすればいいの……？"
+                                "\\nc<Saki>What should I do now...?"
                             ]
                         },
                         {
@@ -3155,7 +3099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うぅっ、このままだと本当に飢え死にしちゃう！"
+                                "\\nc<Saki>Ugh, at this rate, I'm really going to starve to death!"
                             ]
                         },
                         {
@@ -3207,7 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]…ん？　面接に……来いって？"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>Hm? An interview... they're asking me to come?"
                             ]
                         },
                         {
@@ -3224,21 +3168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>「淫魔第一産業」って、\\.\\.\\. \\"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExpression[1, 1]めちゃくちゃ有名なブラック企業だよね？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いたことある。"
+                                "\\nc<Saki>\"Succubus First Industries,\" huh? That's a notoriously black\ncompany, isn't it? I've heard of it. \\\\bustMsgExpression[1,\n1]"
                             ]
                         },
                         {
@@ -3255,14 +3185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]淫魔産業か…ちょっと心配だけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかのところは履歴書で落とされてるし…"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>Succubus Industries... It's a bit worrying, but since I'm\ngetting rejected everywhere else based on my resume..."
                             ]
                         },
                         {
@@ -3314,21 +3237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]うぅ、このまま飢え死にしちゃうくらいなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブラック企業の面接でも受けちゃおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はやればできる子なんだから、なんとかなるかなるはず！"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>Ugh, I'd rather face a black company's interview than die of\nhunger. I'm a girl who can do it if I try, so things have to\nwork out somehow!"
                             ]
                         },
                         {
@@ -3480,7 +3389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>お腹……空いたなぁ。\\|\\|\\^"
+                                "\\nc<Saki>My stomach... is so hungry."
                             ]
                         },
                         {

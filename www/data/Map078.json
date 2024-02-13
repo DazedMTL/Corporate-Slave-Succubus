@@ -3505,14 +3505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<先輩>どうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今週のスケジュールを組んでみて。"
+                                "\\nc<Senpai>What's wrong? Try putting together this week's schedule."
                             ]
                         },
                         {
@@ -4331,14 +4324,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<先輩>どうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今週のスケジュールを組んでみて。"
+                                "\\nc<Senpai>What's wrong? Try putting together this week's schedule."
                             ]
                         },
                         {

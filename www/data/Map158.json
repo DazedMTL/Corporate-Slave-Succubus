@@ -3834,14 +3834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "楽しい取引先の会食"
+                                "Would you like to watch the event? A fun dinner with\nbusiness partners."
                             ]
                         },
                         {
@@ -3849,8 +3842,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4218,7 +4211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫と私はマスコミへ出張だから。行ってくるわね。"
+                                "\\nc<Senpai>Saki and I are going on a business trip to the media. We'll\nbe heading out soon."
                             ]
                         },
                         {
@@ -4311,7 +4304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>はい、メアリー先輩。"
+                                "\\nc<Employee 1>Yes, Meary-senpai."
                             ]
                         },
                         {
@@ -4396,7 +4389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]マスコミですか…？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>The media...?"
                             ]
                         },
                         {
@@ -4472,21 +4465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そんなに怖がらなくても大丈夫よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回はただの番組成功記念の打ち上げだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまえのインタビュー、大人気だそうよ。"
+                                "\\nc<Senpai>Don't be so scared, it's okay. This time it's just a\ncelebration for the success of the program. That interview\nfrom before was a big hit, it seems."
                             ]
                         },
                         {
@@ -4531,21 +4510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]あんなデタラメなインタビューが大人気って…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国も終わりですね。(打ち上げか…うちは打ち上げ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どころか飲み会すらないから、ちょっと新鮮かも)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>To think that such a nonsensical interview was a hit... this\ncountry is finished, huh. (A celebration party... We don't\neven have drinking parties at our place, so this feels a bit\nfresh.)"
                             ]
                         },
                         {
@@ -4590,14 +4555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ちょっと用事を済ませてくるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が帰ってくるまでに支度しなさい。"
+                                "\\nc<Senpai>I'm going to take care of some errands, so get ready by the\ntime I come back."
                             ]
                         },
                         {
@@ -4918,14 +4876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>ねえねえ、見た？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまえの番組。"
+                                "\\nc<Employee 2>Hey, hey, did you see? That program from before."
                             ]
                         },
                         {
@@ -4942,14 +4893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>見た見た。マスコミの打ち上げねえ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔の恥さらしのくせに図々しい。"
+                                "\\nc<Employee 1>Yeah, I saw it. A media celebration party, huh... Shameless\nas a succubus, yet so brazen."
                             ]
                         },
                         {
@@ -5003,21 +4947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](うっ、わざと聞こえるように言ってるのかな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごく気まずい。そして悔しい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は台本通りに喋っただけなのに！)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Ugh, are they saying that loud enough on purpose so I can\nhear... It's so awkward. And frustrating! I only spoke\naccording to the script!)"
                             ]
                         },
                         {
@@ -5048,14 +4978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>必死で媚びたんじゃない？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "打ち上げに呼ばれるくらいだし。"
+                                "\\nc<Employee 2>Maybe she flattered them desperately? To be invited to a\ncelebration party like that."
                             ]
                         },
                         {
@@ -5072,7 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>ありえるわね。"
+                                "\\nc<Employee 1>That's possible."
                             ]
                         },
                         {
@@ -5126,7 +5049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うっ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh..."
                             ]
                         },
                         {
@@ -5342,7 +5265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]だったら、今度はあなたたちが行けば？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Then why don't you go next time?"
                             ]
                         },
                         {
@@ -5453,7 +5376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>メ、メアリー先輩…"
+                                "\\nc<Employee 1>Me-Meary-senpai..."
                             ]
                         },
                         {
@@ -5498,21 +5421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]おしゃべりする暇があっていいわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実績もイマイチのくせに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなところで油売ってて大丈夫なの？"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>It must be nice to have time to chat. Are you sure it's okay\nto be slacking off here when your performance is nothing\nspecial?"
                             ]
                         },
                         {
@@ -5543,7 +5452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>あ、いえ…そろそろ仕事に戻ろうと思ってました！"
+                                "\\nc<Employee 1>Ah, no... I was just about to get back to work!"
                             ]
                         },
                         {
@@ -5833,7 +5742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]咲姫、早くして。すぐに向かうわよ。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Saki, hurry up. We're leaving soon."
                             ]
                         },
                         {
@@ -5909,7 +5818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]はい、先輩！"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Yes, senpai!"
                             ]
                         },
                         {

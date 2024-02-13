@@ -1416,21 +1416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ゲームが難しい方のための機能です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この行動は取り消せません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オフィスで飲めるコーヒーを無制限にしますか？"
+                                "\\nc<>This is a feature for those who find the game difficult.\nThis action cannot be undone. Would you like to enable\nunlimited coffee in the office?"
                             ]
                         },
                         {
@@ -1438,8 +1424,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -1478,7 +1464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>コーヒーを無制限に変更しました。"
+                                "\\nc<>The coffee has been changed to unlimited."
                             ]
                         },
                         {

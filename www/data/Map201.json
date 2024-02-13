@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -2890,7 +2890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>なんだ、本当に犯されてたじゃねぇか？"
+                                "\\nc<Security Guard 1>What the, she really got screwed, huh?"
                             ]
                         },
                         {
@@ -2907,7 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>あまりにも帰りが遅いから見に来たら…"
+                                "\\nc<Security Guard 2>We came to check because you were taking too long to\nreturn..."
                             ]
                         },
                         {
@@ -2924,7 +2924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>っしゃ、俺の勝ちだからあとで５千円よこせ。"
+                                "\\nc<Security Guard 1>Hell yeah, I win, so you owe me 5000 yen later."
                             ]
                         },
                         {
@@ -2950,7 +2950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>ひぃぃっ？　な、なんだお前ら！"
+                                "\\nc<Thief 1>Eeeek? Wh-who are you guys?!"
                             ]
                         },
                         {
@@ -2976,7 +2976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>こんなザコ淫魔を探しに来るなんて…"
+                                "\\nc<Thief 2>To think we came looking for such a weak succubus..."
                             ]
                         },
                         {
@@ -3002,14 +3002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>咲姫ちゃんは淫魔第一産業の大事な…\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "備品だ！　早くよこせ！"
+                                "\\nc<Security Guard 1>Saki-chan is an important... piece of equipment for the\nfirst succubus industry! Hand her over quickly!"
                             ]
                         },
                         {
@@ -3049,7 +3042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あんたら私のことをなんだと思って…)"
+                                "\\nc<Saki>(What do they think I am...)"
                             ]
                         },
                         {
@@ -3080,7 +3073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>ええいっ。こうなった以上、俺たちの鬱憤を晴らしてやる！"
+                                "\\nc<Thief 1>Damn it. Now that it's come to this, we'll take out our\nfrustrations on you!"
                             ]
                         },
                         {
@@ -3558,7 +3551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>くぅぅっ、さっき出しすぎちまって力が…"
+                                "\\nc<Thief 1>Grrr, I came too much earlier and now I'm out of strength..."
                             ]
                         },
                         {
@@ -3575,7 +3568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>んだよ。ただのヘタレじゃねぇか。"
+                                "\\nc<Security Guard 1>What's the matter. Just a weakling, aren't you."
                             ]
                         },
                         {
@@ -3811,7 +3804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>お疲れ、咲姫ちゃん。おかげで一件落着だな。"
+                                "\\nc<Security Guard 1>Good work, Saki-chan. Thanks to you, the case is closed."
                             ]
                         },
                         {
@@ -3837,7 +3830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>セックスで泥棒を捕まえるとは。正直、見直したぜ。"
+                                "\\nc<Security Guard 2>Catching a thief with sex. Honestly, I'm impressed."
                             ]
                         },
                         {
@@ -3863,7 +3856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>もはやセックス警察…見た目より才能あるかも？"
+                                "\\nc<Security Guard 1>You're practically a sex cop... Maybe you've got more talent\nthan you look?"
                             ]
                         },
                         {
@@ -3903,7 +3896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そんなこと言わないで早く解いてください！！"
+                                "\\nc<Saki>Don't say things like that, just untie me already!!"
                             ]
                         },
                         {
@@ -3945,14 +3938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>なんとか体を回復させた咲姫は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局定時になってから会社に戻った…"
+                                "\\nc<Saki>Somehow recovering her strength, Saki eventually returned to\nthe company after her shift ended..."
                             ]
                         },
                         {

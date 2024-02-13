@@ -2675,7 +2675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>さあさあ、女連れてきやした。"
+                                "\\nc<Yakuza>Alright, I've brought a girl."
                             ]
                         },
                         {
@@ -2706,7 +2706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ま、待ってください！　１人じゃなかったんですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>W-Wait a minute! Weren't you alone?"
                             ]
                         },
                         {
@@ -2777,7 +2777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>だって…「露出狂」さんは乱交が好きだろ？"
+                                "\\nc<Yakuza>But... you like orgies, don't you, \"Exhibitionist\"?"
                             ]
                         },
                         {
@@ -2803,14 +2803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>この前のイベントで完全に惚れこんじまってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺はファンだぜ。"
+                                "\\nc<Yakuza 2>I totally fell for you at the last event. I'm a fan."
                             ]
                         },
                         {
@@ -2841,14 +2834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](本当に出ちゃった…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見るなりチンポ勃てて襲いかかってくるファン！)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(It really happened... As soon as they see me, fans with\ntheir dicks hard attack me!)"
                             ]
                         },
                         {
@@ -2888,7 +2874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>恥ずかしがるのもいいけどよ、とりあえず脱ごうか。"
+                                "\\nc<Yakuza>It's nice to be shy, but let's get undressed for now."
                             ]
                         },
                         {
@@ -2919,7 +2905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]きゃあっ！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Kyaa!"
                             ]
                         },
                         {
@@ -2999,7 +2985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(結局またこうなってしまった…)"
+                                "\\nc<Saki>(And so it ends up like this again...)"
                             ]
                         },
                         {
@@ -3016,7 +3002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>どうだ？　思ったより可愛いだろ？"
+                                "\\nc<Yakuza>How about that? Cuter than you thought, right?"
                             ]
                         },
                         {
@@ -3033,7 +3019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>顔を隠してたから心配したけど…なんで隠してたんだ？"
+                                "\\nc<Yakuza>I was worried because you were hiding your face... why were\nyou hiding it?"
                             ]
                         },
                         {
@@ -3050,7 +3036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>恥ずかしがり屋なんだな。"
+                                "\\nc<Yakuza>You're a shy one, huh."
                             ]
                         },
                         {
@@ -3067,21 +3053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(チンポで頬をつつきながら褒められても…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふう、こうなったら仕方ない)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なら早く終わらせてください。"
+                                "\\nc<Saki>(Being praised while being poked in the cheek with a dick...\nsigh, there's no helping it now) Please, let's finish this\nquickly."
                             ]
                         },
                         {
@@ -3109,21 +3081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>鼻の奥がツンとするにおいに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐさま発情してしまう淫魔の体。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうそれをいまさら恨む余裕もない。"
+                                "\\nc<>The scent that stings the back of her nose immediately\narouses the succubus's body. There's no room left to resent\nit now."
                             ]
                         },
                         {
@@ -3140,14 +3098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫が唾をポタポタと垂らしていると、硬く長細いペニスが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔面を叩きつける。"
+                                "\\nc<>As Saki drools, a hard and slender penis slaps against her\nface."
                             ]
                         },
                         {
@@ -3175,7 +3126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>待て。始めるまえにちゃんと謝罪しないとな？"
+                                "\\nc<Yakuza>Wait. Before we start, you need to apologize properly,\nright?"
                             ]
                         },
                         {
@@ -3192,7 +3143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ？　謝罪ですか？"
+                                "\\nc<Saki>Eh? Apologize?"
                             ]
                         },
                         {
@@ -3209,14 +3160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>さっき俺に嘘ついただろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと謝罪したら存分にハメてやる。"
+                                "\\nc<Yakuza>You lied to me earlier. Apologize properly and I'll fuck you\nto your heart's content."
                             ]
                         },
                         {
@@ -3233,7 +3177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ううっ…そんなめちゃくちゃな…"
+                                "\\nc<Saki>Ugh... that's so unreasonable..."
                             ]
                         },
                         {
@@ -3261,14 +3205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は非常に困惑したが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周りを取りかこむ男たちの雰囲気が尋常でない。"
+                                "\\nc<>Saki is extremely confused, but the atmosphere of the men\nsurrounding her is far from ordinary."
                             ]
                         },
                         {
@@ -3296,14 +3233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(いまさら帰してくれるわけないよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな意味のない謝罪なんてもう慣れっこ…)"
+                                "\\nc<Saki>(There's no way they'll let me go now, right? Such a\nmeaningless apology... I'm used to it...)"
                             ]
                         },
                         {
@@ -3331,21 +3261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>心の中でため息をついた咲姫は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっそのこと早く終わらせようと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "亀頭に口づけし、謝罪した。"
+                                "\\nc<>With a sigh in her heart, Saki decides to get it over with\nquickly and kisses the glans, apologizing."
                             ]
                         },
                         {
@@ -3434,14 +3350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふぁ…さ、さっきは嘘をついてしまって…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゅっ…申し訳ありませんでした。ちゅっ、ちゅううっ♥"
+                                "\\nc<Saki>Faa... I'm sorry for lying earlier... chu... I apologize.\nChu, chuuu♥"
                             ]
                         },
                         {
@@ -3458,7 +3367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>プハッ！　マジでしたよ。"
+                                "\\nc<Yakuza>Puhah! You really did it."
                             ]
                         },
                         {
@@ -3475,7 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>さすが「露出狂」さんは流儀を理解してる。"
+                                "\\nc<Yakuza 2>As expected of \"Exhibitionist\", you understand the way\nthings are done."
                             ]
                         },
                         {
@@ -3492,7 +3401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ううっ…"
+                                "\\nc<Saki>Ugh..."
                             ]
                         },
                         {
@@ -3520,21 +3429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>男を屈辱的な表情で見あげる咲姫の体は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっくに準備ができていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女の下半身を占領した男が我慢できずに腰を打ちつける。"
+                                "\\nc<>Saki, looking up at the man with a humiliated expression,\nwas already ready. The man occupying her lower half couldn't\nhold back and thrust his hips."
                             ]
                         },
                         {
@@ -3611,7 +3506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>じゃあ、この俺様がさきに…"
+                                "\\nc<Yakuza>Then, I'll be the first..."
                             ]
                         },
                         {
@@ -3640,14 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(はうっ？！　か、かなり奥まで入ってきた…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このチンポすごく長いっ…)"
+                                "\\nc<Saki>(Hauh?! It went in so deep... this dick is incredibly\nlong...)"
                             ]
                         },
                         {
@@ -3664,7 +3552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>すでに目が半分イっちゃってますけど大丈夫ですか？"
+                                "\\nc<Yakuza 2>You're already half gone with pleasure, are you okay?"
                             ]
                         },
                         {
@@ -3681,7 +3569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヌプッ、ジュボッ♥ジュブ、ズゴッ…"
+                                "\\nc<Saki>Nuph, jubo♥ Jup, zugo..."
                             ]
                         },
                         {
@@ -3698,7 +3586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>フフ。フェラで忙しそうですね。"
+                                "\\nc<Yakuza 2>Heh. You seem busy with the blowjob."
                             ]
                         },
                         {
@@ -3726,14 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫はいつのまにかリズムよく腰を動かし上と下の男たちを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同時に満足させていた。"
+                                "\\nc<>Saki was rhythmically moving her hips before she knew it,\nsatisfying both men above and below simultaneously."
                             ]
                         },
                         {
@@ -3750,14 +3631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>太い亀頭が彼女の最も奥深いところを突くたびに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全身が勝手に悦び、ビクビクと震えあがる。"
+                                "\\nc<>The thick glans thrusts into her deepest part with each\nmovement, causing her entire body to involuntarily shudder\nwith pleasure."
                             ]
                         },
                         {
@@ -3785,21 +3659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くぷ、あんっ♥くふっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(このチンポ危険っ…このまま突かれたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子宮が潰されちゃうっ♥)"
+                                "\\nc<Saki>Kuph, ahn♥ Kufh...♥ (This dick is dangerous... If he keeps\nthrusting like this, my womb will be crushed♥)"
                             ]
                         },
                         {
@@ -3816,7 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>ここがいいのか？　こうやってグイグイ擦られるのはどうだ？"
+                                "\\nc<Yakuza>Is this the spot? How does it feel to be rubbed hard like\nthis?"
                             ]
                         },
                         {
@@ -3833,7 +3693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>へうぅっ？！　チュブッ、ズボッ…"
+                                "\\nc<Saki>Heuh?! Chub, zub..."
                             ]
                         },
                         {
@@ -3850,7 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>ウブそうに見えてすげえエロいな。"
+                                "\\nc<Yakuza 2>You look innocent but you're incredibly lewd."
                             ]
                         },
                         {
@@ -3867,7 +3727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ３>俺にも早くかまってくれよ。"
+                                "\\nc<Yakuza 3>Pay attention to me too soon."
                             ]
                         },
                         {
@@ -3895,14 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>男たちに蔑んだ目で見おろされるのも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今ではただの心地よい刺激でしかない。"
+                                "\\nc<>Being looked down upon with contempt by the men is now just\na pleasant stimulus for her."
                             ]
                         },
                         {
@@ -3919,21 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>濃厚で新鮮な精気に酔いしれた咲姫は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後から羞恥心が込みあげてきたが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いまさら引きかえしたところで手遅れだ。"
+                                "\\nc<>The succubus Saki, intoxicated with the rich and fresh\nessence, felt shame welling up inside her afterward... but\nit was too late to turn back now."
                             ]
                         },
                         {
@@ -3961,14 +3800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うう、今日初めて会った男とセックスしてるのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事でもないのに…こんなに気持ちよくなってもいいの？)"
+                                "\\nc<Saki>(Ugh, I'm having sex with a man I met for the first time\ntoday... It's not even for work... Is it okay to feel this\ngood?)"
                             ]
                         },
                         {
@@ -3985,7 +3817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>くっ…やべえぞ、このマンコ…"
+                                "\\nc<Yakuza>Kuh... Damn, this pussy..."
                             ]
                         },
                         {
@@ -4002,14 +3834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>おぉ～、お前がそんなこと言うの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めてじゃねえか？　クフッ！"
+                                "\\nc<Yakuza 2>Ohh~ Is this the first time you're saying something like\nthat? Kufu!"
                             ]
                         },
                         {
@@ -4026,7 +3851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>マジ最高だ。おっぱいも見た目よりでけえし…うっ、イく！"
+                                "\\nc<Yakuza>Seriously the best. Her tits are bigger than they look\ntoo... Ugh, I'm cumming!"
                             ]
                         },
                         {
@@ -4152,7 +3977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビュルルッ…"
+                                "\\nc<>Byurururu..."
                             ]
                         },
                         {
@@ -4169,7 +3994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>体の中で感じる勢いのある射精に、咲姫の体が悦びで震えた。"
+                                "\\nc<>Feeling the vigorous ejaculation inside her, Saki's body\ntrembled with delight."
                             ]
                         },
                         {
@@ -4186,14 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>さっきから執拗に愛撫された淫魔の子宮が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴクゴクと貪りながら、ありがたく精気を受けいれる。"
+                                "\\nc<>The succubus's womb, which had been persistently caressed,\ngreedily and thankfully accepted the essence."
                             ]
                         },
                         {
@@ -4221,7 +4039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ぐほおっ♥ふぅ、ふーっ…"
+                                "\\nc<Saki>Guhoo♥ Fuu, fu-..."
                             ]
                         },
                         {
@@ -4238,7 +4056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>おお、一緒にイってくれたのか？"
+                                "\\nc<Yakuza>Oh, did you cum with me?"
                             ]
                         },
                         {
@@ -4255,7 +4073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>よし、ちょっとコミュニケーションとるか。"
+                                "\\nc<Yakuza 2>Alright, let's have a little communication."
                             ]
                         },
                         {
@@ -4356,14 +4174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の頭をギュッと掴んでいたヤクザも射精すると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "濃厚な液をいっきに飲みこんだ咲姫が荒い息を吐いた。"
+                                "\\nc<>After the yakuza who had been tightly gripping Saki's head\nejaculated, Saki swallowed the thick fluid and gasped for\nbreath."
                             ]
                         },
                         {
@@ -4380,7 +4191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>朦朧と揺れる頭をコンコンと叩きながら、嫌味を言う男たち。"
+                                "\\nc<>As her head swayed dizzily, the men taunted her while\ntapping it lightly."
                             ]
                         },
                         {
@@ -4408,7 +4219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>「露出狂」さん、感謝の言葉は？"
+                                "\\nc<Yakuza 2>\"Exhibitionist\" san, where are your words of gratitude?"
                             ]
                         },
                         {
@@ -4441,14 +4252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ、そ、そういうのは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いくらなんでも仕事中でもないのに、そこまでするとでも？)"
+                                "\\nc<Saki>Eh, that kind of thing is...(Even if it's not during work,\nyou expect me to go that far?)"
                             ]
                         },
                         {
@@ -4476,21 +4280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ちょっぴり不満な気持ちを紛らわせるように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一人前の咲姫の舌が勝手に動きだす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男たちに懸命にねだりながら、精気を乞う。"
+                                "\\nc<>To distract herself from her slight dissatisfaction, Saki's\ntongue moved on its own. She earnestly pleaded with the men\nfor more essence."
                             ]
                         },
                         {
@@ -4518,7 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、ありがとうございますっ…"
+                                "\\nc<Saki>Ah, thank you very much..."
                             ]
                         },
                         {
@@ -4535,14 +4325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>こんな妙なアプリで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺らみたいな純白な男を口説いてもいいのか？"
+                                "\\nc<Yakuza>Is it okay for you to seduce pure white men like us with\nsuch a strange app?"
                             ]
                         },
                         {
@@ -4559,14 +4342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、そんな…申し訳ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしても我慢できないときがあって…"
+                                "\\nc<Saki>Ah, that... I'm sorry. There are times when I just can't\nhelp myself..."
                             ]
                         },
                         {
@@ -4622,7 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>屈辱的な謝罪が続くなか、再び腰を動かしはじめる咲姫。"
+                                "\\nc<>In the midst of her humiliating apology, Saki began to move\nher hips again."
                             ]
                         },
                         {
@@ -4639,7 +4415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>チュポッ、ジュボ、チュポッ…"
+                                "\\nc<>Chupo, juboo, chupo..."
                             ]
                         },
                         {
@@ -4656,7 +4432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>さきにも増して卑猥な音と淫らにまとわりつく熱気。"
+                                "\\nc<>The sounds became even more lewd and the heat clung\nobscenely."
                             ]
                         },
                         {
@@ -4673,7 +4449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>相手が少し喘ぐと、微かに征服感と達成感を感じる。"
+                                "\\nc<>When her partner gasped slightly, she felt a faint sense of\nconquest and accomplishment."
                             ]
                         },
                         {
@@ -4701,7 +4477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>ふうっ、ふーっ…"
+                                "\\nc<Yakuza>Fuu, fu-..."
                             ]
                         },
                         {
@@ -4718,7 +4494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ３>次は俺の番か？"
+                                "\\nc<Yakuza 3>Is it my turn next?"
                             ]
                         },
                         {
@@ -4763,7 +4539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふおおっ！？"
+                                "\\nc<Saki>Fuoo!?"
                             ]
                         },
                         {
@@ -4791,21 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しかし、それも束の間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次の相手におもちゃのように軽く持ちあげられると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっとのことで取りもどした余裕が消える。"
+                                "\\nc<>However, that moment was fleeting. When the next man lifted\nher up as if she were a toy, any composure she had regained\ndisappeared."
                             ]
                         },
                         {
@@ -4822,14 +4584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ほかの男たちも我慢できずにピタリとくっつき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫を好き放題にいじめる。"
+                                "\\nc<>The other men couldn't wait either and clung tightly to\nSaki, doing whatever they pleased with her."
                             ]
                         },
                         {
@@ -4869,7 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ３>俺は今からだってのに何へたってんだ？"
+                                "\\nc<Yakuza 3>What are you hesitating for when it's my turn now?"
                             ]
                         },
                         {
@@ -4886,14 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はあ、この姿勢かなりキツいですね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ううっ、こいつも長いっ！)"
+                                "\\nc<Saki>Haa, this position is quite tough...(Ugh, this one is long\ntoo!)"
                             ]
                         },
                         {
@@ -4910,7 +4658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>こっちもまた挿れるぞ？"
+                                "\\nc<Yakuza>I'm going to insert it again, okay?"
                             ]
                         },
                         {
@@ -4943,7 +4691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ？！　ケホッ、くぷっ♥"
+                                "\\nc<Saki>Kufu?! Keho, kup♥"
                             ]
                         },
                         {
@@ -4971,21 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>いっきに喉の奥まで深く押しこむ行為に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不憫にビクついたのも束の間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は従順に頭を動かしはじめた。"
+                                "\\nc<>The act of being pushed deep into her throat all at once\nmade her twitch in pity for a moment. But soon after, Saki\nobediently began to move her head."
                             ]
                         },
                         {
@@ -5013,7 +4747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ここまでグッグッって圧迫されるのも結構…ううっ♥)"
+                                "\\nc<Saki>(Being pressed down this hard is quite... Ugh♥)"
                             ]
                         },
                         {
@@ -5041,7 +4775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ガッ、ジュブッ、ジュボッ…"
+                                "\\nc<>Gah, jubu, juboo..."
                             ]
                         },
                         {
@@ -5058,7 +4792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ぬるい熱気に溶けた咲姫は、夢中で男たちに奉仕した。"
+                                "\\nc<>Melted by the warm heat, Saki served the men frantically."
                             ]
                         },
                         {
@@ -5075,14 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>乳首をしつこく引っぱられながらも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上下から精気をひたすら吸収する。"
+                                "\\nc<>Even as her nipples were persistently pulled, she absorbed\nessence from both above and below without end."
                             ]
                         },
                         {
@@ -5110,7 +4837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>写真、１枚だけ撮っていいだろ？　俺たちだけで見るからさ…な？"
+                                "\\nc<Yakuza>Can I take just one photo? We'll only look at it amongst\nourselves... okay?"
                             ]
                         },
                         {
@@ -5127,7 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はうっ、んんっ…だ、だめですぅ…"
+                                "\\nc<Saki>Hauu, mmm... No, you can't..."
                             ]
                         },
                         {
@@ -5144,7 +4871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>そう言うなって。撮ろうぜ。オラッ！"
+                                "\\nc<Yakuza>Don't say that. Let's take it. Ora!"
                             ]
                         },
                         {
@@ -5184,7 +4911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>カシャッ！"
+                                "\\nc<>Click!"
                             ]
                         },
                         {
@@ -5212,14 +4939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うわっ…チ、チンポでビンタしながら言わないでくださいぃ！\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、あうっ♥分かりました。撮ってもいいから…"
+                                "\\nc<Saki>Uwah... Please don't slap me with your cock while saying\nthat! Ah, ahh♥ I understand. You can take a picture..."
                             ]
                         },
                         {
@@ -5236,7 +4956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>プハハッ！　マジ？　ありがとう！　扱いやすっ。"
+                                "\\nc<Yakuza>Puhaha! Seriously? Thanks! You're so easy to deal with."
                             ]
                         },
                         {
@@ -5253,7 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう…"
+                                "\\nc<Saki>Uuu..."
                             ]
                         },
                         {
@@ -5281,7 +5001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は自分が何を言っているのかもよく分からなかった。"
+                                "\\nc<>Saki didn't even fully understand what she was saying\nherself."
                             ]
                         },
                         {
@@ -5298,14 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ただ子宮に響く快感と熱い精気を吸収する衝撃に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "徐々にのめりこんでいった…"
+                                "\\nc<>She gradually became immersed in the pleasure resonating in\nher womb and the impact of absorbing the hot essence..."
                             ]
                         },
                         {
@@ -5374,7 +5087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しばらくして…"
+                                "\\nc<>After a while..."
                             ]
                         },
                         {
@@ -5402,7 +5115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>こいつ、もうほとんど反応しねえけど…"
+                                "\\nc<Yakuza 2>This chick's barely reacting anymore..."
                             ]
                         },
                         {
@@ -5419,7 +5132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ３>疲れたんだろ。テキトーにヤって放っておこうぜ。"
+                                "\\nc<Yakuza 3>She's tired, man. Let's just do her as we please and leave\nher be."
                             ]
                         },
                         {
@@ -5478,7 +5191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュルル…"
+                                "\\nc<>Jururu..."
                             ]
                         },
                         {
@@ -5495,21 +5208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>尿意を我慢する気力もないうえに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドクドクと漏れだす水の音に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男たちがクスクスと笑いつづける。"
+                                "\\nc<>Lacking the willpower to hold back her need to urinate, the\nsound of leaking water continued as the men chuckled amongst\nthemselves."
                             ]
                         },
                         {
@@ -5537,14 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>露出狂の姉ちゃん。俺と連絡先交換しねえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポが必要なときは貸してやるからよ…ん？"
+                                "\\nc<Yakuza>Exhibitionist lady, wanna exchange contact info? I'll lend\nyou my cock whenever you need it... huh?"
                             ]
                         },
                         {
@@ -5561,7 +5253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>プハッ。あいつ本気でハマってんじゃん。"
+                                "\\nc<Yakuza 2>Puhah! She's seriously hooked."
                             ]
                         },
                         {
@@ -5578,14 +5270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、それはちょっと…あうっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なんかまえより断りにくい)"
+                                "\\nc<Saki>Th-that's a bit... Ahh♥ (It's somehow harder to refuse than\nbefore)"
                             ]
                         },
                         {
@@ -5602,7 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>オラッ、これでもだめか？"
+                                "\\nc<Yakuza>Ora! How about this then?"
                             ]
                         },
                         {
@@ -5658,14 +5343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>男は再び咲姫の下半身に襲いかかっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰をパンパンと打ちつける。"
+                                "\\nc<>The man once again attacked Saki's lower half, thrusting his\nhips with a slap-slap sound."
                             ]
                         },
                         {
@@ -5682,14 +5360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>分厚い手で腰をギュッと掴まれた咲姫は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上体をじっと起こしているのがやっとだ。"
+                                "\\nc<>With her hips firmly grasped by thick hands, Saki could\nbarely manage to keep her upper body upright."
                             ]
                         },
                         {
@@ -5717,7 +5388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>んあああっ？！　ふぐっ！"
+                                "\\nc<Saki>Naaaah?! Fugh!"
                             ]
                         },
                         {
@@ -5745,21 +5416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>上がるところまで高く持ちあげられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勢いよく落とされると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブルルと震えながら悦んでしまう体。"
+                                "\\nc<>Lifted high up to the point of rising, and then forcefully\ndropped down, her body trembled with delight."
                             ]
                         },
                         {
@@ -5776,14 +5433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>子宮が潰れてしまいそうな快感に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで殴られているかのような喘ぎ声がこぼれる。"
+                                "\\nc<>The pleasure was so intense it felt as if her womb might be\ncrushed, and gasps like those of someone being struck\nspilled out."
                             ]
                         },
                         {
@@ -5811,7 +5461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひゃん！　ああっ！　ふぎゅっ♥"
+                                "\\nc<Saki>Hyahn! Aah! Fugyu♥"
                             ]
                         },
                         {
@@ -5851,7 +5501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>俺ら相性バッチリじゃん。なっ？"
+                                "\\nc<Yakuza>We're a perfect match, aren't we? Right?"
                             ]
                         },
                         {
@@ -5868,7 +5518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう…"
+                                "\\nc<Saki>Uuu..."
                             ]
                         },
                         {
@@ -5885,7 +5535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>よし、もう１回イくぞっ…！"
+                                "\\nc<Yakuza>Alright, I'm gonna make you cum again...!"
                             ]
                         },
                         {
@@ -5974,7 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュウッ。\\.\\."
+                                "\\nc<>Pyuuh."
                             ]
                         },
                         {
@@ -6056,7 +5706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビュルルッ…\\.\\."
+                                "\\nc<>Byururu..."
                             ]
                         },
                         {
@@ -6073,21 +5723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>下のほうで鳴りつづけた音が止まり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰をピタリと密着させたまま"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新鮮な精気が注ぎこまれた。"
+                                "\\nc<>The sound that had been continuing from below stopped, and\nas he pressed his hips firmly against her, fresh essence was\npoured into her."
                             ]
                         },
                         {
@@ -6104,14 +5740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>大きな満足感に酔いしれた咲姫は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぼうっとうなずくことしかできなかった。"
+                                "\\nc<>Intoxicated with a great sense of satisfaction, Saki could\nonly nod off vacantly."
                             ]
                         },
                         {
@@ -6155,7 +5784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>わ、分かりました…セフレになりますから…"
+                                "\\nc<Saki>I-I understand... I'll become your sex friend..."
                             ]
                         },
                         {
@@ -6172,7 +5801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>言ったな？　あとで俺の連絡先やるから連絡しろよ？"
+                                "\\nc<Yakuza>You said it? I'll give you my contact later, so make sure to\ncall me, okay?"
                             ]
                         },
                         {
@@ -6189,14 +5818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はいぃ…だ、だから…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとしてください。テヘッ♥"
+                                "\\nc<Saki>Yes... So, please... do it more. Teehee♥"
                             ]
                         },
                         {
@@ -6213,7 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ２>もっと？　こいつ超エロいじゃねえか…"
+                                "\\nc<Yakuza 2>More? This chick is super erotic..."
                             ]
                         },
                         {
@@ -6241,14 +5863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>欲望に溺れてしまった咲姫の頼みに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかの男たちが再びペニスをムクムクと勃てて襲いかかった。"
+                                "\\nc<>At Saki's request, drowning in desire, the other men once\nagain began to stiffen their penises and attacked her."
                             ]
                         },
                         {

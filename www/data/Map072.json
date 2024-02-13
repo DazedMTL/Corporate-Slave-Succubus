@@ -3880,7 +3880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラック企業の面接は驚くほど適当すぎる…"
+                                "The interviews at black companies are shockingly too\ncasual..."
                             ]
                         },
                         {
@@ -3922,14 +3922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<面接官の魔族>ふむ…では希和美さんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔産業について深くご存じではないんですね？"
+                                "\\nc<Demon Interviewer>Hmm... So, Miss Kiwami, you're not very familiar with the\nsuccubus industry, are you?"
                             ]
                         },
                         {
@@ -3960,14 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]は、はい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExpression[1, 1]でも頑張りますので！"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>Y-Yes...\\bustMsgExpression[1, 1] But I'll do my best!"
                             ]
                         },
                         {
@@ -3998,14 +3984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<面接官の魔族>いやまぁ、それは…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ好都合です。 "
+                                "\\nc<Demon Interviewer>No, well, that's... actually quite convenient."
                             ]
                         },
                         {
@@ -4036,7 +4015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>え？"
+                                "\\nc<Saki>Eh?"
                             ]
                         },
                         {
@@ -4067,21 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<面接官の魔族>本日はお時間をいただき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結果は追ってご連絡します。"
+                                "\\nc<Demon Interviewer>Thank you for your time today. We will contact you later\nwith the results."
                             ]
                         },
                         {
@@ -4112,21 +4077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2](えっ？　もう終わり？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "質問もあまりされてないのに？\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落とすつもりだから適当なのかな？)"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>(Eh? It's over already? They hardly asked any questions. Are\nthey just being casual because they plan to reject me?)"
                             ]
                         },
                         {
@@ -4188,7 +4139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、ありがとうございました…"
+                                "\\nc<Saki>Ah, thank you very much..."
                             ]
                         },
                         {
@@ -4522,7 +4473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(今回もだめか…はぁ…)"
+                                "\\nc<Saki>(Is it no good this time too... sigh...)"
                             ]
                         },
                         {

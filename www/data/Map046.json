@@ -6564,7 +6564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](あれ？　あの子たち、このまえ入ったばかりの…)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(Huh? Aren't those the girls who just joined recently...)"
                             ]
                         },
                         {
@@ -6604,7 +6604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り１>メアリー先輩、酷すぎない？"
+                                "\\nc<Newcomer 1>Meary-senpai, isn't that too harsh?"
                             ]
                         },
                         {
@@ -6630,7 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り２>本当にね。私たち、いつも雑用ばかりだし…"
+                                "\\nc<Newcomer 2>Seriously. We're always stuck doing menial tasks..."
                             ]
                         },
                         {
@@ -6661,7 +6661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](それは新入りだからね…まあ、気持ちは分かるけど)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Well, that's because you're newbies... I get it, but\nstill...)"
                             ]
                         },
                         {
@@ -6692,7 +6692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り１>精気を吸いとれるイベントとかも独り占めしちゃってさ。"
+                                "\\nc<Newcomer 1>And she hogs all the events where you can absorb vital\nenergy."
                             ]
                         },
                         {
@@ -6723,7 +6723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](えっ？)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(What?)"
                             ]
                         },
                         {
@@ -6754,14 +6754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り２>どうせ会社から割り当ててくれるのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恩着せがましいったらありゃしない。"
+                                "\\nc<Newcomer 2>Even though the company assigns them to us, she acts like\nshe's doing us a favor."
                             ]
                         },
                         {
@@ -6792,14 +6785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](え、何のこと…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会社がそんなことしてくれるわけないでしょ！？)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(What are you talking about...? The company doesn't do\nanything like that!)"
                             ]
                         },
                         {
@@ -6816,14 +6802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うちのイベントは全部先輩が一から企画してるんだけど！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会議の時間に何を聞いたの！？)"
+                                "\\nc<Saki>(All our events are planned from scratch by the seniors!\nWhat were you listening to during the meetings!? )"
                             ]
                         },
                         {
@@ -6854,7 +6833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り１>会議ではわけ分からないことばっかり言うし…"
+                                "\\nc<Newcomer 1>All they do is spout nonsense in meetings..."
                             ]
                         },
                         {
@@ -6880,7 +6859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り２>残業もすごいし！"
+                                "\\nc<Newcomer 2>And the overtime is insane!"
                             ]
                         },
                         {
@@ -6911,7 +6890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(四半期のノルマを達成するためには仕方ないよ…)"
+                                "\\nc<Saki>(We have to meet our quarterly targets, so it can't be\nhelped...)"
                             ]
                         },
                         {
@@ -6937,14 +6916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(…って、なんで私、先輩をかばってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番酷い目に遭ったのは私なのに！)"
+                                "\\nc<Saki>(...Why am I defending my senior? I'm the one who's had it\nthe worst!)"
                             ]
                         },
                         {
@@ -6975,14 +6947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り１>あーあ、ノルマ達成に失敗して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く強制派遣されてくれないかな？"
+                                "\\nc<Newcomer 1>Ahh, I wish she'd fail to meet her targets and get sent away\non forced dispatch already."
                             ]
                         },
                         {
@@ -7013,7 +6978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](え…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(What...)"
                             ]
                         },
                         {
@@ -7494,7 +7459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveHome[2, 30]……"
+                                "\\bustMoveHome[2, 30]\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -7525,14 +7490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り２>年寄りの淫魔なんてただのお荷物でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのにまだ会社にしがみついてるなんてダサい…"
+                                "\\nc<Newcomer 2>An old succubus is just dead weight, right? It's so uncool\nthat she's still clinging to the company..."
                             ]
                         },
                         {
@@ -7558,21 +7516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り１>そうそう、これ以上足手まといにならないで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く消えてくれたらいいのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなのがいると、私たち新人が上がれないしね。"
+                                "\\nc<Newcomer 1>Exactly, it'd be better if she just disappeared quickly.\nWith her around, we newcomers can't move up."
                             ]
                         },
                         {
@@ -7603,21 +7547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](…何も知らないくせに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてあんな酷いことを。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩の耳に入りでもしたら…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(...How can they say such awful things without knowing\nanything? If the senior heard this...)"
                             ]
                         },
                         {
@@ -7882,7 +7812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]それくらいにしたら？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>That's enough, don't you think?"
                             ]
                         },
                         {
@@ -7913,7 +7843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り１>あっ、さ、咲姫先輩…"
+                                "\\nc<Newcomer 1>Ah, Sa-Saki-senpai..."
                             ]
                         },
                         {
@@ -7944,21 +7874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4](私も「先輩」って呼ばれるようになったんだ…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]いやいや、うしろでコソコソと人の悪口を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言う奴らに呼ばれてもね！)"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>(So I'm being called 'senpai' now too...\\bustMsgExp[1, 2]No,\nno, being called that by people who gossip behind others'\nbacks isn't great!)"
                             ]
                         },
                         {
@@ -7989,7 +7905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り２>あの、何かご用でしょうか…"
+                                "\\nc<Newcomer 2>Um, do you need something...?"
                             ]
                         },
                         {
@@ -8020,14 +7936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]あなたたち、チームリーダーの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "権限について分かってないんだね。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>You don't understand the authority of a team leader, do you?"
                             ]
                         },
                         {
@@ -8067,7 +7976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り１>えっ？"
+                                "\\nc<Newcomer 1>Huh?"
                             ]
                         },
                         {
@@ -8098,14 +8007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]メアリー先輩のようなチームリーダーはね。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたたち新入りなんか、いくらでも強制派遣できるんだよ。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>A team leader like Meary-senpai can force dispatch any of\nyou newbies as much as she wants."
                             ]
                         },
                         {
@@ -8122,7 +8024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>淫魔とはいえ管理者だからね！"
+                                "\\nc<Saki>She's an administrator, even if she is a succubus!"
                             ]
                         },
                         {
@@ -8162,7 +8064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り２>えええ！？"
+                                "\\nc<Newcomer 2>Whaaat!?"
                             ]
                         },
                         {
@@ -8193,21 +8095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]だから今後は気をつけたほうがいいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特にこんなところでおしゃべりしてると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部聞こえちゃうんだから！"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>So you'd better be careful from now on. Especially when\nchatting in places like this, everything can be heard!"
                             ]
                         },
                         {
@@ -8238,7 +8126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り１>えっ、あ、いや、その…"
+                                "\\nc<Newcomer 1>Uh, well, that..."
                             ]
                         },
                         {
@@ -8255,7 +8143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入り２>すみません！"
+                                "\\nc<Newcomer 2>Sorry!"
                             ]
                         },
                         {
@@ -8724,14 +8612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]まったく、こんなデタラメを信じるなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり何も分かってないんだ。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Honestly, believing such nonsense... You really don't\nunderstand anything."
                             ]
                         },
                         {
@@ -8776,7 +8657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]これで一件落着！　そろそろ戻らないと！"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>That settles that! I should get back soon!"
                             ]
                         },
                         {
@@ -9144,7 +9025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]……"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>..."
                             ]
                         },
                         {

@@ -3998,7 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]VIPの接待、終わりました…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>The VIP reception is over..."
                             ]
                         },
                         {
@@ -4083,7 +4083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お疲れ様、咲姫。馴染みのあるコースだったでしょ？"
+                                "\\nc<Senpai>Good work, Saki. It was a course you're familiar with,\nwasn't it?"
                             ]
                         },
                         {
@@ -4137,7 +4137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい、本当に…"
+                                "\\nc<Saki>Yes, really..."
                             ]
                         },
                         {
@@ -4163,14 +4163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ですが、次からはちゃんと言ってください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少なくとも心の準備くらいはできるように…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>But please tell me properly next time! At least so I can\nprepare myself mentally..."
                             ]
                         },
                         {
@@ -4215,21 +4208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]咲姫がいちいち文句を言わなければね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたがきちんと従ってくれれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もわざわざ遠回しに言う必要はないでしょ？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>If only you wouldn't complain every single time, Saki. If\nyou would just obey properly, I wouldn't need to beat around\nthe bush, right?"
                             ]
                         },
                         {
@@ -4274,7 +4253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>またそんな詭弁を！"
+                                "\\nc<Saki>Not that sophistry again!"
                             ]
                         },
                         {
@@ -4302,7 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は泣きそうな顔でトボトボと帰っていった…"
+                                "\\nc<>Saki walked away with a face that looked like she was about\nto cry..."
                             ]
                         },
                         {

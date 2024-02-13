@@ -6530,14 +6530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>外回りから戻りました。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はあ、疲れた…\\|\\|\\^"
+                                "\\nc<Saki>I'm back from the outside work. Haa, I'm exhausted..."
                             ]
                         },
                         {
@@ -6622,7 +6615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]脚がすごく震えてますね。足元にお気を付けて。"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Your legs are shaking quite a bit. Please be careful with\nyour footing."
                             ]
                         },
                         {
@@ -6653,14 +6646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>ふははっ、ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリーさん、本当に天使…"
+                                "\\nc<Timid Customer>Hahaha, thank you. Meary-san, you're truly an angel..."
                             ]
                         },
                         {
@@ -6691,14 +6677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>魔族にその褒め言葉はちょっと… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あら、咲姫。戻ったのね？"
+                                "\\nc<Senpai>That's a bit of an odd compliment for a demon... Oh, Saki.\nYou're back?"
                             ]
                         },
                         {
@@ -6873,14 +6852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ちょっ、待ってください、先輩！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのお客様、私の常連じゃないですか！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Wait, please, Senpai! Isn't that customer one of my\nregulars?"
                             ]
                         },
                         {
@@ -6925,14 +6897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>でも咲姫は外回りに行ってたじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに今は私のほうがずっといいそうよ？"
+                                "\\nc<Senpai>But Saki, you were out on the outside work. Besides, right\nnow I'm much better suited for him, don't you think?"
                             ]
                         },
                         {
@@ -6977,7 +6942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えええっ？"
+                                "\\nc<Saki>Eeeeh?"
                             ]
                         },
                         {
@@ -7048,7 +7013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>必ずお金を貯めてメインコースを満喫しに来ます…"
+                                "\\nc<Timid Customer>I will definitely save up money to fully enjoy the main\ncourse..."
                             ]
                         },
                         {
@@ -7079,7 +7044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>フフ、お待ちしております♥"
+                                "\\nc<Senpai>Hehe, I'll be waiting for you♥"
                             ]
                         },
                         {
@@ -7141,7 +7106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>ご、ごめん。僕の初恋の人、咲姫さん…"
+                                "\\nc<Timid Customer>So-sorry. My first love, Saki-san..."
                             ]
                         },
                         {
@@ -7583,7 +7548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああああっ！　後輩の常連客を奪うなんて酷すぎませんか？！"
+                                "\\nc<Saki>Aaaaah! Isn't it too cruel to steal a junior's regular\ncustomer?!"
                             ]
                         },
                         {
@@ -7628,14 +7593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ごめん、咲姫。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど奪われるほうが悪いのよ。"
+                                "\\nc<Senpai>Sorry, Saki. But it's the fault of the one who gets stolen\nfrom."
                             ]
                         },
                         {
@@ -7689,7 +7647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うわぁぁん…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Waaaah..."
                             ]
                         },
                         {
@@ -7734,7 +7692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それはそうと、レモンウォーターは買ってきた？"
+                                "\\nc<Senpai>By the way, did you buy the lemon water?"
                             ]
                         },
                         {
@@ -7779,7 +7737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]あ、はい。箱ごとここに…"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Ah, yes. I've got a whole box of it right here..."
                             ]
                         },
                         {
@@ -7878,7 +7836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふう。少し生きかえった。"
+                                "\\nc<Senpai>Phew. I feel a bit revived."
                             ]
                         },
                         {
@@ -7930,7 +7888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]フェラのあとのレモンウォーターは格別ですよね…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Lemon water after a blowjob is truly exceptional, isn't\nit..."
                             ]
                         },
                         {
@@ -7975,7 +7933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>じゃあ、早く運んで帰宅しなさい。"
+                                "\\nc<Senpai>Now, hurry up and carry it and go home."
                             ]
                         },
                         {
@@ -8020,7 +7978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それでもの良心のかけらは残ってるみたいですね…"
+                                "\\nc<Saki>So there is still a shred of conscience left in you..."
                             ]
                         },
                         {
@@ -8575,7 +8533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]常連を奪ってごめんなさいね。私も仕方なかったの。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>I'm sorry for stealing your regular. I had no choice."
                             ]
                         },
                         {

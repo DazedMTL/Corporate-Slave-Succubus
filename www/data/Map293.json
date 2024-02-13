@@ -3176,21 +3176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ふう、今日は早く終わったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "向こうから私に手出さなかったし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリー先輩の嘘が利いてよかった)"
+                                "\\nc<Saki>(Phew, I finished early today. They didn't come at me... I'm\nglad Meary-senpai's lie worked.)"
                             ]
                         },
                         {
@@ -3477,14 +3463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員>咲姫ちゃん、俺の財布見なかった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現金が結構入ってたんだけど…"
+                                "\\nc<Security Guard>Saki-chan, have you seen my wallet? It had quite a bit of\ncash in it..."
                             ]
                         },
                         {
@@ -3555,7 +3534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>財布ですか？　私、入ってきたばかりでよく分からないんですが…"
+                                "\\nc<Saki>Your wallet? I just got here, so I'm not really sure..."
                             ]
                         },
                         {
@@ -3586,14 +3565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>どうも怪しいんだよな。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか、咲姫ちゃんが盗んだとかじゃ…"
+                                "\\nc<Security Guard 2>It's suspicious, though. Don't tell me, Saki-chan, you\ndidn't steal it..."
                             ]
                         },
                         {
@@ -3633,14 +3605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]そ、そんなわけないじゃないですか！　何言ってるんですか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変なこと言うと怒りますよ？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Wha- That's absurd! What are you saying?! If you keep\ntalking nonsense, I'll get angry, you know?"
                             ]
                         },
                         {
@@ -3680,7 +3645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員>おっ、咲姫ちゃんが怒るって？　怖いな。"
+                                "\\nc<Security Guard>Oh? Saki-chan getting angry? That's scary."
                             ]
                         },
                         {
@@ -3711,7 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]くっ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Grr..."
                             ]
                         },
                         {
@@ -3742,7 +3707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員>じゃあさっさとロッカー開けてみようじゃねぇか。"
+                                "\\nc<Security Guard>Then let's hurry up and open your locker."
                             ]
                         },
                         {
@@ -3804,7 +3769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>まったくもう…そんなものが私のロッカーの中にあるわけ…"
+                                "\\nc<Saki>Seriously... As if something like that would be in my\nlocker..."
                             ]
                         },
                         {
@@ -3842,21 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]う、嘘！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(まさか、最初から私のロッカーに隠しておいて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつらの職場だから、やろうと思えば十分にやれるはず…！)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>No way! (Could it be they hid it in my locker from the\nstart... With their control over the workplace, they could\neasily do it...!)"
                             ]
                         },
                         {
@@ -3896,7 +3847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>やっちゃったな…"
+                                "\\nc<Security Guard 2>You've done it now..."
                             ]
                         },
                         {
@@ -3922,7 +3873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員>これはただじゃ済まされねえぞ？"
+                                "\\nc<Security Guard>This isn't something you can just get away with, you know?"
                             ]
                         },
                         {
@@ -4005,14 +3956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うわっ、写真まで撮った！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どうしてこんなことするんですか！"
+                                "\\nc<Saki>(They even took a photo!?) Why would you do something like\nthis?!"
                             ]
                         },
                         {
@@ -4043,14 +3987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>おい、過ちを犯したら謝罪するのが道理だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "土下座すれば許してやらないこともないぜ？"
+                                "\\nc<Security Guard 1>Hey, when you make a mistake, you apologize, right? If you\nprostrate yourself, I might just forgive you."
                             ]
                         },
                         {
@@ -4081,7 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うっ、くぅぅ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh, grrr..."
                             ]
                         },
                         {
@@ -4098,21 +4035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(これは…まずい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな話が上部の耳に入ったら強制派遣されちゃうかも！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にそこまでしないといけないんですか？"
+                                "\\nc<Saki>(This is bad... If the higher-ups hear about this, I might\nbe forcefully dispatched!) Do I really have to go that far?"
                             ]
                         },
                         {
@@ -4143,14 +4066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>土下座１回でなかったことにしてやるって言ってんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌なら本社に連絡入れてやろうか？"
+                                "\\nc<Security Guard 2>I'm saying I'll let it slide with one prostration. If you\ndon't like it, should I contact the head office?"
                             ]
                         },
                         {
@@ -4181,7 +4097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くっ…分かりましたよ！　やればいいじゃないですか！"
+                                "\\nc<Saki>Grr... Fine! If that's what you want, I'll do it!"
                             ]
                         },
                         {
@@ -4221,14 +4137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>おおっ、清々しい答え！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔の鑑、咲姫ちゃん！"
+                                "\\nc<Security Guard 1>Ah, refreshing answer! A true example of a succubus, Saki-\nchan!"
                             ]
                         },
                         {
@@ -4268,7 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](何言ってんのよ！　くぅぅ、本当にやりたくない…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(What is he saying! Grrr, I really don't want to do this...)"
                             ]
                         },
                         {
@@ -4330,7 +4239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>じゃあ、こっちに上がってくれ。"
+                                "\\nc<Security Guard 1>Then come on up here."
                             ]
                         },
                         {
@@ -4401,7 +4310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ええっ？　どうして…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh? Why..."
                             ]
                         },
                         {
@@ -4432,14 +4341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>やっぱ床のほうが好きか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、せっかくの土下座だからちゃんと見とかないととな…"
+                                "\\nc<Security Guard 2>You prefer the floor? But since it's a special prostration,\nwe gotta see it properly..."
                             ]
                         },
                         {
@@ -4470,7 +4372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(どんだけ土下座してほしいの！？)"
+                                "\\nc<Saki>(How much do they want me to prostrate myself!?)"
                             ]
                         },
                         {
@@ -4532,7 +4434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>やってくれるよな？"
+                                "\\nc<Security Guard 1>You'll do it, right?"
                             ]
                         },
                         {
@@ -4563,14 +4465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](くっ、こんなに大きい手で肩を押さえられたら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これって…脅しだよね？)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Grr, with such a large hand pressing down on my shoulder...\nThis is... intimidation, isn't it?)"
                             ]
                         },
                         {
@@ -4587,14 +4482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(力であれ口であれ勝てる相手じゃない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせやるならあとで何か言われないように…)"
+                                "\\nc<Saki>(Whether by force or words, I can't win against them... If I\nhave to do it, I better make sure there's nothing to\ncomplain about later...)"
                             ]
                         },
                         {
@@ -4847,7 +4735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>これでいいんですね。じゃあ始めますよ。"
+                                "\\nc<Saki>This is fine then. I'll start now."
                             ]
                         },
                         {
@@ -4878,14 +4766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>おっと？　服着てやるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "土下座なら、全裸土下座が常識なんだけど…"
+                                "\\nc<Security Guard 1>Oh? You're going to do it with your clothes on? The standard\nfor prostration is to do it naked, you know..."
                             ]
                         },
                         {
@@ -4916,14 +4797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]…常識改編でもされたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、もうっ！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>...Has common sense been rewritten or something? Ahh,\nenough!"
                             ]
                         },
                         {
@@ -4992,7 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>おおっ！　出た！　本気の全裸土下座！"
+                                "\\nc<Security Guard 2>Oh! There it is! A serious naked prostration!"
                             ]
                         },
                         {
@@ -5009,21 +4883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](なんで私がこんなことしなきゃいけないの…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりこんなところ来るんじゃなかった！)このたびは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大変申し訳ございませんでした…どうかこの土下座でお許しを…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Why do I have to do something like this... I shouldn't have\ncome to this place!) I am deeply sorry for what has\nhappened... Please forgive me with this prostration..."
                             ]
                         },
                         {
@@ -5040,7 +4900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>今だっ！"
+                                "\\nc<Security Guard 1>Now!"
                             ]
                         },
                         {
@@ -5057,7 +4917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふぅっ！？"
+                                "\\nc<Saki>Kuhuuh!?"
                             ]
                         },
                         {
@@ -5101,21 +4961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>四つん這いになった咲姫は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警備員に押さえられ立てなくなってしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫のうしろから硬いペニスを押しつける警備員。"
+                                "\\nc<>On all fours, Saki was held down by the security guard and\ncouldn't stand up. The security guard pressed his hard penis\nagainst Saki from behind."
                             ]
                         },
                         {
@@ -5159,7 +5005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>な、な…何するんですか！"
+                                "\\nc<Saki>Wha- What are you doing?!"
                             ]
                         },
                         {
@@ -5176,21 +5022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>咲姫ちゃんがケツ振りながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誘惑してきたからだろ。土下座した時点で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "懲罰セックスぐらいは覚悟してたんじゃねえのか？"
+                                "\\nc<Security Guard 2>It's because Saki-chan was shaking her ass and tempting me.\nYou were prepared for punishment sex when you prostrated\nyourself, weren't you?"
                             ]
                         },
                         {
@@ -5207,7 +5039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふざけないで！　今すぐどいて…あああっ？！"
+                                "\\nc<Saki>Stop joking around! Get off me right now... Ahhh!?!"
                             ]
                         },
                         {
@@ -5247,7 +5079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ずぶぅ…"
+                                "\\nc<>ずぶぅ..."
                             ]
                         },
                         {
@@ -5264,14 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>体内に潜りこむ異物の感触に腰を弾かせる咲姫だったが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男魔族の分厚い体を振りはらうには、力が及ばなかった。"
+                                "\\nc<>The sensation of an intruder slipping inside made Saki's\nhips jerk, but she couldn't shake off the thick body of the\nmale demon pressing against her."
                             ]
                         },
                         {
@@ -5288,7 +5113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>警備員のペニスは、とうとう咲姫の中に入りこんだ。"
+                                "\\nc<>The security guard's penis finally entered Saki."
                             ]
                         },
                         {
@@ -5365,7 +5190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふぅっ？　はぁっ、はあっ♥"
+                                "\\nc<Saki>Kuhuuh? Haa, hah♥"
                             ]
                         },
                         {
@@ -5382,14 +5207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>入ったぁ！　バックだからか、すっげー深く入るな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屈辱の土下座バック…癖になっちゃうんだよな、これが。"
+                                "\\nc<Security Guard 1>It's in! Maybe because it's from behind, it goes in so deep.\nThe humiliation of a prostration from behind... it's\naddicting, this feeling."
                             ]
                         },
                         {
@@ -5406,7 +5224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ぬ、抜いてぇ…おほぉ♥"
+                                "\\nc<Saki>Take it out... ohh♥"
                             ]
                         },
                         {
@@ -5434,7 +5252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>突然挿しこまれたペニスにも敏感に反応してしまう淫魔の体。"
+                                "\\nc<>The body of the succubus reacted sensitively to the penis\nsuddenly thrust inside her."
                             ]
                         },
                         {
@@ -5451,7 +5269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>乳首がビンビンに勃っているのを感じてしまうくらいだ。"
+                                "\\nc<>She could even feel her nipples getting hard."
                             ]
                         },
                         {
@@ -5468,7 +5286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ジュポッ…"
+                                "\\nc<>Jub, jupo..."
                             ]
                         },
                         {
@@ -5512,14 +5330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>奥まで入った…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃん、結構浅いんだね？"
+                                "\\nc<Security Guard 1>It's in all the way... Saki-chan, you're quite shallow,\naren't you?"
                             ]
                         },
                         {
@@ -5536,7 +5347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>おお、俺も早くヤりてぇ！"
+                                "\\nc<Security Guard 2>Oh, I want to do it soon too!"
                             ]
                         },
                         {
@@ -5553,7 +5364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>んぎぃ、はぁ…うっ♥"
+                                "\\nc<Saki>Ngyi, haa... uhh♥"
                             ]
                         },
                         {
@@ -5570,14 +5381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(だめだ、体を押さえられたまま逃げようとしたところで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この人との力の差を感じてしまうだけ)"
+                                "\\nc<Saki>(No good, even if I try to escape while being held down... I\ncan only feel the difference in strength between us.)"
                             ]
                         },
                         {
@@ -5594,14 +5398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>ん？　おとなしくなってきたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥まで届いて、感じはじめたってことか？"
+                                "\\nc<Security Guard 1>Hm? You're getting quiet. Does that mean it's reaching deep\ninside and you're starting to feel it?"
                             ]
                         },
                         {
@@ -5618,21 +5415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ぐぅ、ふうぅっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ううっ…悔しい。私には何の非もないのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ、動きはじめたぁっ♥)"
+                                "\\nc<Saki>Guu, fuuuh...(Ugh... it's frustrating. I've done nothing\nwrong... Ah, he's starting to move♥)"
                             ]
                         },
                         {
@@ -5649,7 +5432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>んじゃ、本気で行くぜ！"
+                                "\\nc<Security Guard 1>Alright then, I'm going to go at it for real!"
                             ]
                         },
                         {
@@ -5738,7 +5521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>パンッ、パァンッ！"
+                                "\\nc<>Pan, paaan!"
                             ]
                         },
                         {
@@ -5766,21 +5549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ぐふっ、はぁっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(やだっ、子宮口バンバン叩かないでぇっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力任せに突いても全然気持ちよくないんだってば！)"
+                                "\\nc<Saki>Guh, hah...(No, don't keep pounding on my cervix... It\ndoesn't feel good at all when you thrust with brute force!)"
                             ]
                         },
                         {
@@ -5808,7 +5577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ズボッ、ジュボッ！"
+                                "\\nc<>Zubo, jubo!"
                             ]
                         },
                         {
@@ -5836,14 +5605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>咲姫ちゃん、痙攣してる～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小さな体がプルプル震えて…めっちゃ気持ちよさそう。"
+                                "\\nc<Security Guard 2>Saki-chan is convulsing~ Her small body is trembling...\nlooks like she's feeling really good."
                             ]
                         },
                         {
@@ -5860,14 +5622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>ふふっ、俺様のテクニックの前じゃ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしようもねぇだろうよ。"
+                                "\\nc<Security Guard 1>Heh, there's nothing you can do against my technique."
                             ]
                         },
                         {
@@ -5884,7 +5639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くはぁっ、おごぉっ♥"
+                                "\\nc<Saki>Kuhaa, ogoo♥"
                             ]
                         },
                         {
@@ -5912,7 +5667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>悲鳴にしか聞こえない喘ぎ声をできる限り抑える咲姫。"
+                                "\\nc<>Saki tried her best to suppress her moans that sounded\nalmost like screams."
                             ]
                         },
                         {
@@ -5929,7 +5684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>熱く火照った子宮口は、亀頭の先が当たるたびにビクビクしてしまう。"
+                                "\\nc<>Her hot cervix twitched every time the tip of the glans\ntouched it."
                             ]
                         },
                         {
@@ -5957,21 +5712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(気持ちよくないっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなふうに無理やりされて気持ちいいわけないじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ううっ、力で押しこむのやめて…壊れるっ♥)"
+                                "\\nc<Saki>(It doesn't feel good... There's no way it would feel good\nbeing forced like this! Ugh, stop pushing with force... I'm\ngoing to break♥)"
                             ]
                         },
                         {
@@ -5988,7 +5729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>声我慢してんの？　偉いね。"
+                                "\\nc<Security Guard 1>Are you trying to hold back your voice? That's admirable."
                             ]
                         },
                         {
@@ -6005,7 +5746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>じゃあここら辺で、咲ちゃんのアヘ顔お披露目！"
+                                "\\nc<Security Guard 2>Then let's show off Saki-chan's ahegao right here!"
                             ]
                         },
                         {
@@ -6049,7 +5790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>警備員の太い手が咲姫の頭を掴み、無理やり持ちあげる。"
+                                "\\nc<>The thick hand of the security guard grabbed Saki's head and\nforcibly lifted it up."
                             ]
                         },
                         {
@@ -6066,14 +5807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>机の上に押さえつけられていた頭が上がり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐちゃぐちゃになった顔が現れる…"
+                                "\\nc<>The head that had been pressed down on the desk was raised,\nrevealing a face messed up..."
                             ]
                         },
                         {
@@ -6101,21 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>おっ♥ごほっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(だ、だめぇ！　無理やりズブズブ犯されてできたアヘ顔…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部見られてる…)"
+                                "\\nc<Saki>Oh♥ Gohh♥ (No, no! My ahegao face made from being\nviolated... everyone can see it...)"
                             ]
                         },
                         {
@@ -6132,14 +5852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>プハッ！　すんげー顔してるじゃねぇか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こりゃ見逃してたら後悔してたぜ！"
+                                "\\nc<Security Guard 1>Puhah! You're making such a face. I would've regretted\nmissing this!"
                             ]
                         },
                         {
@@ -6156,14 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>咲姫ちゃんはとくに反応がいいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "土下座しながらケツを振る時点で分かってたぜ…"
+                                "\\nc<Security Guard 2>Saki-chan especially has good reactions. I knew it from the\nmoment she was shaking her ass while prostrating..."
                             ]
                         },
                         {
@@ -6180,7 +5886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふぇえ…み、みるなぁ♥"
+                                "\\nc<Saki>Feeh... don't look♥"
                             ]
                         },
                         {
@@ -6197,14 +5903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>おいおい、そんな顔見せられたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中に出したくなるじゃねぇか！"
+                                "\\nc<Security Guard 1>Hey hey, if you show me a face like that, I'm gonna want to\ncum inside!"
                             ]
                         },
                         {
@@ -6221,21 +5920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えええっ？　ぎゃふ、はぁっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いやぁっ、このままだとやばいのが来ちゃう…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くふっ、くほっ♥"
+                                "\\nc<Saki>Eeeh? Gyafu, hah♥ (No, something bad is going to happen if\nthis continues...) Kuhu, koho♥"
                             ]
                         },
                         {
@@ -6252,14 +5937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>おっと、また無駄な抵抗をする気か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いまさら逃げようとしても無理だからな。"
+                                "\\nc<Security Guard 2>Oh, thinking of resisting again? It's useless to try to\nescape now."
                             ]
                         },
                         {
@@ -6276,7 +5954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>咲姫ちゃん、さっきから全然体に力が入ってないぜ。"
+                                "\\nc<Security Guard 2>Saki-chan, you haven't been putting any strength into your\nbody since earlier."
                             ]
                         },
                         {
@@ -6293,14 +5971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>お客さん、その姿勢だと下手すると腰痛めますよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうすぐ出してあげますから、せかさないでください。"
+                                "\\nc<Security Guard 1>Ma'am, you might hurt your back in that position? I'll\nfinish soon, so please don't rush me."
                             ]
                         },
                         {
@@ -6317,7 +5988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>さぁさぁ、土下座したまま犯されてイっちまえ！"
+                                "\\nc<Security Guard 1>Now now, cum while being fucked in your prostrating\nposition!"
                             ]
                         },
                         {
@@ -6471,7 +6142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュッ、ピュウウッ！"
+                                "\\nc<>Pew, pewww!"
                             ]
                         },
                         {
@@ -6499,14 +6170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふくぅぅぅ♥あふっ、くあ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(き、来たぁ♥熱くてやばい…おおおっ♥)"
+                                "\\nc<Saki>Fukuuu♥ Ahfu, kua...(It's coming♥ It's so hot... ooooh♥)"
                             ]
                         },
                         {
@@ -6602,7 +6266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ドピュッ、ビュルルルッ！"
+                                "\\nc<>Dopyu, byurururu!"
                             ]
                         },
                         {
@@ -6619,7 +6283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>男の下に敷かれた咲の体が激しく痙攣する。"
+                                "\\nc<>Saki's body, pinned under the man, convulses violently."
                             ]
                         },
                         {
@@ -6636,14 +6300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>耐えられない快感に震える咲姫の体を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男はさらに強く押さえる。"
+                                "\\nc<>The man presses down even harder on Saki's body, which\ntrembles with unbearable pleasure."
                             ]
                         },
                         {
@@ -6671,14 +6328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ふあぁ♥これ、全身が圧迫されて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全然動けない…)"
+                                "\\nc<Saki>(Ahh♥ My whole body is being pressed down... I can't move at\nall...)"
                             ]
                         },
                         {
@@ -6695,21 +6345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>ふぅ、すっきりしたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "射精するときはおとなしくなるなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精子受けのいい体してやがる。"
+                                "\\nc<Security Guard 1>Phew, that was refreshing. You become so docile when I\ncum... You really have a body that's good at receiving\nsperm."
                             ]
                         },
                         {
@@ -6726,7 +6362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>本当に使えそうだな。俺も早く使いたいぜ。"
+                                "\\nc<Security Guard 2>She really seems useful. I want to use her soon too."
                             ]
                         },
                         {
@@ -6743,7 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>分かったよ…今どけるから。おらよっと！"
+                                "\\nc<Security Guard 1>Alright... I'm moving now. Here we go!"
                             ]
                         },
                         {
@@ -6787,14 +6423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>警備員の体が離れると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全身に押しつぶされた跡が赤く残っている。"
+                                "\\nc<>As the security guard's body moves away, red marks from\nbeing crushed remain all over her body."
                             ]
                         },
                         {
@@ -6811,7 +6440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>まだ痙攣中の咲姫の体は、汗まみれになっている。"
+                                "\\nc<>Saki's still-twitching body is drenched in sweat."
                             ]
                         },
                         {
@@ -6839,14 +6468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(お、起きなきゃいけないのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足の力が抜けて…ふあっ！)"
+                                "\\nc<Saki>(I need to get up... but my legs are giving out... Ahh!)"
                             ]
                         },
                         {
@@ -6891,14 +6513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>よし、やっと俺の番だぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと速めにいくぞ？"
+                                "\\nc<Security Guard 2>Alright, finally my turn! I'm gonna go a bit faster, okay?"
                             ]
                         },
                         {
@@ -6938,7 +6553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ジュポッ、ジュポッ！"
+                                "\\nc<>Squish, slurp, slurp!"
                             ]
                         },
                         {
@@ -6966,7 +6581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ごほぉっ♥やめ、やめて！　おごっ♥"
+                                "\\nc<Saki>Gahh♥ Stop, stop it! Ohh♥"
                             ]
                         },
                         {
@@ -6994,14 +6609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の意図とは裏腹に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女の体はすでに最適の角度を探し出した。"
+                                "\\nc<>Contrary to Saki's intentions, her body has already found\nthe optimal angle."
                             ]
                         },
                         {
@@ -7018,21 +6626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>痛みを最小限にするべく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お尻を少し持ちあげる動きに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さらに興奮してしまう男。"
+                                "\\nc<>The man gets even more excited by her movements to slightly\nlift her butt to minimize the pain."
                             ]
                         },
                         {
@@ -7060,7 +6654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>これは…分かったぜ。ちゃんと犯してやるから安心しな！"
+                                "\\nc<Security Guard 2>I see... Don't worry, I'll make sure to fuck you properly!"
                             ]
                         },
                         {
@@ -7077,14 +6671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>おお、もうコツを掴んだのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすが幹部の目に留まったエリート淫魔…"
+                                "\\nc<Security Guard 1>Oh, you've already got the hang of it? As expected of an\nelite demon who caught the eye of our executives..."
                             ]
                         },
                         {
@@ -7117,14 +6704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はうっ、ぎゃはぁっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥ばっかりスリスリするのやめてぇ♥"
+                                "\\nc<Saki>Hauu, gyaha♥ Stop rubbing just the inside♥"
                             ]
                         },
                         {
@@ -7141,14 +6721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>まったく、男を興奮させる方法を知ってるぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オラオラ！"
+                                "\\nc<Security Guard 2>Seriously, you know just how to get a man excited! Come on!"
                             ]
                         },
                         {
@@ -7176,7 +6749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>涙混じりの叫びは、どうやら逆効果だったようだ…"
+                                "\\nc<>Tears mixed with screams seem to have the opposite effect..."
                             ]
                         },
                         {
@@ -7204,21 +6777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(はうっ、はぁっ、これぇ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段はあまり刺激されないところが刺激されて…すごく気持ち悪い♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち悪いはずなのにぃ…♥)"
+                                "\\nc<Saki>(Hauu, haa, this... It's stimulating places that usually\ndon't get stimulated... It feels so bad♥ It's supposed to\nfeel bad but...♥)"
                             ]
                         },
                         {
@@ -7246,7 +6805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>パンッ、パァンッ！"
+                                "\\nc<>Spank, spank!"
                             ]
                         },
                         {
@@ -7274,14 +6833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>１回使われてるのにこの気持ちよさ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こりゃ反則だぜ！"
+                                "\\nc<Security Guard 2>It feels this good even after being used once... That's\ncheating!"
                             ]
                         },
                         {
@@ -7298,7 +6850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>咲姫ちゃんをうちの備品にしたいくらいだ…"
+                                "\\nc<Security Guard 1>I want to make Saki-chan one of our permanent fixtures..."
                             ]
                         },
                         {
@@ -7315,14 +6867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>オラッ、罰だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポで死んじまえ、この淫魔め！"
+                                "\\nc<Security Guard 2>Take this as punishment! Die by my dick, you succubus!"
                             ]
                         },
                         {
@@ -7339,7 +6884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふぅ、はぁっ♥"
+                                "\\nc<Saki>Kufuu, haa♥"
                             ]
                         },
                         {
@@ -7356,7 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>もういっちょ、アヘ顔お披露目！　オラァッ！"
+                                "\\nc<Security Guard 1>Show me that ahegao face one more time! Come on!"
                             ]
                         },
                         {
@@ -7400,7 +6945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>分厚い手がもう一度、頭を無理やり持ちあげる。"
+                                "\\nc<>A thick hand once again forcibly lifts her head."
                             ]
                         },
                         {
@@ -7417,14 +6962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>涙と鼻水でめちゃくちゃになった咲姫の目に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう焦点はない。"
+                                "\\nc<>In Saki's tear and snot-streaked face, there is no longer\nany focus in her eyes."
                             ]
                         },
                         {
@@ -7441,7 +6979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>朦朧としたまま、来るはずのない助けを求めている…"
+                                "\\nc<>She seeks help that will never come, in a daze..."
                             ]
                         },
                         {
@@ -7469,21 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(やだぁっ、もう無理…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理やり犯されてるのにこんなことまで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くぅ、こんな奴ら、喜ばせたくない…)"
+                                "\\nc<Saki>(No way, I can't take it anymore... Even though I'm being\nraped against my will... Kuu, I don't want to please these\nguys...)"
                             ]
                         },
                         {
@@ -7500,14 +7024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>そろそろ俺もイきそうだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回もしっかり搾ってくれよ、咲姫ちゃん？"
+                                "\\nc<Security Guard 2>I'm about to cum too. Make sure to milk me properly again,\nSaki-chan?"
                             ]
                         },
                         {
@@ -7577,7 +7094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>パシッ！"
+                                "\\nc<>Slap!"
                             ]
                         },
                         {
@@ -7605,7 +7122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くはぁっ？！♥"
+                                "\\nc<Saki>Kuhaa?!♥"
                             ]
                         },
                         {
@@ -7633,14 +7150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>丸出しのお尻を強く叩かれると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の内側がヒクヒクと締まる。"
+                                "\\nc<>When her bare butt is slapped hard, Saki's insides clench\nreflexively."
                             ]
                         },
                         {
@@ -7657,14 +7167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>新しい使い道を見つけた男が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きく笑いながら勢いよく精を注ぐ…"
+                                "\\nc<>The man who found a new use for her laughs loudly as he\nvigorously injects his seed..."
                             ]
                         },
                         {
@@ -7692,14 +7195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>うはっ、ケツ叩くと締めやがる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イくぜ…！　ちゃんと受けとめろよ！"
+                                "\\nc<Security Guard 2>Uha, when I slap that ass, she clenches. I'm cumming...!\nMake sure to catch it all!"
                             ]
                         },
                         {
@@ -7872,7 +7368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ドピュッ、ビュルルルッ！"
+                                "\\nc<>Dopyu, byurururu!"
                             ]
                         },
                         {
@@ -7900,7 +7396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あふぅっ、うう、もういっぱいなのに…"
+                                "\\nc<Saki>Ahuu, ugh, it's already too much..."
                             ]
                         },
                         {
@@ -7917,14 +7413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>ふあぁ、咲姫ちゃんマジで気に入った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "返したくないな…"
+                                "\\nc<Security Guard 2>Fuaah, I really like Saki-chan. I don't want to give her\nback..."
                             ]
                         },
                         {
@@ -7941,14 +7430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>残念だけど、そろそろ時間だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃん、楽しかっただろ？　気を付けて帰りな。"
+                                "\\nc<Security Guard 1>Unfortunately, it's about time. Did you have fun, Saki-chan?\nTake care on your way back."
                             ]
                         },
                         {

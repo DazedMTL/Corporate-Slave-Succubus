@@ -3883,7 +3883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>ザワザワ…"
+                                "\\nc<Succubi>Murmurs..."
                             ]
                         },
                         {
@@ -3980,21 +3980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>あ、咲姫！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたがよく派遣に行ってたあの研究機関さ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大変なことになってるって。"
+                                "\\nc<Lewd Demon Employee>Ah, Saki! That research institute you often went to on\ndispatch... there's been a huge incident."
                             ]
                         },
                         {
@@ -4025,7 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]え？　研究機関がどうしたんですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh? What happened to the research institute?"
                             ]
                         },
                         {
@@ -4056,21 +4042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>とある配信者が潜入取材をしたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やばいものが出てきたらしいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの会社もそこに絡んでて、今超雰囲気悪いんだよね。"
+                                "\\nc<Lewd Demon Employee>Apparently, a certain streamer did some undercover reporting\nand uncovered something scandalous. Our company is involved\ntoo, and the atmosphere is really tense right now."
                             ]
                         },
                         {
@@ -4087,14 +4059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>しばらくは派遣勤務もないって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…まぁ、咲姫にとってはいいことなのかな？"
+                                "\\nc<Lewd Demon Employee>There won't be any dispatch work for a while... Well, maybe\nthat's a good thing for you, Saki?"
                             ]
                         },
                         {
@@ -4139,21 +4104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どうせすぐ静まるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなことで潰れる会社だったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも今日まで続かなったでしょう。"
+                                "\\nc<Senpai>It'll quiet down soon enough. If the company was going to\ncollapse over this, it wouldn't have lasted until today."
                             ]
                         },
                         {
@@ -4170,21 +4121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>研究機関が１年にどれだけの投資を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受けてるか知ってる？きっとお偉いさんたちも必死に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠そうとするでしょうね。"
+                                "\\nc<Senpai>Do you know how much investment that research institute\nreceives in a year? I'm sure the bigwigs will try\ndesperately to cover it up."
                             ]
                         },
                         {
@@ -4201,14 +4138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あの配信者もあらゆる罪名を付けられて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "訴えられるはず…可哀相なことね。"
+                                "\\nc<Senpai>That streamer will probably be slapped with all sorts of\ncharges and sued... Poor thing."
                             ]
                         },
                         {
@@ -4253,7 +4183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]そうなんですか…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Is that so..."
                             ]
                         },
                         {
@@ -4329,21 +4259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あなたたちも無駄話せずにさっさと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事に戻りなさい。派遣先が減るってことは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけ搾れるところが減るってことだから。"
+                                "\\nc<Senpai>You all should stop chattering and get back to work. Fewer\ndispatch locations mean fewer places to squeeze profits\nfrom."
                             ]
                         },
                         {
@@ -4494,7 +4410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>はぁい…"
+                                "\\nc<Succubi>Yes ma'am..."
                             ]
                         },
                         {

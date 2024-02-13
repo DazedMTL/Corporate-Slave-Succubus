@@ -4250,14 +4250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>お話はうかがっております、咲姫様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究室は上の階にございます。"
+                                "\\nc<Employee>I have heard about it, Saki-sama. The laboratory is on the\nfloor above."
                             ]
                         },
                         {
@@ -4378,7 +4371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はあ…本当に行きたくない。"
+                                "\\nc<Saki>Sigh... I really don't want to go."
                             ]
                         },
                         {
@@ -4395,7 +4388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>研究室は上の階だっけ？"
+                                "\\nc<Saki>Is the lab on the upper floor?"
                             ]
                         },
                         {

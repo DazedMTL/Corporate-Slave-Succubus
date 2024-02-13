@@ -6685,7 +6685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>咲姫さん、今午前の予約がキャンセルになりました。"
+                                "\\nc<Employee>Saki-san, your appointment for this morning has been\ncanceled."
                             ]
                         },
                         {
@@ -6716,7 +6716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ええっ？　どうして急に？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh? Why all of a sudden?"
                             ]
                         },
                         {
@@ -6747,7 +6747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>さあ。理由は心変わりらしいですが…"
+                                "\\nc<Employee 1>Well, it seems they had a change of heart..."
                             ]
                         },
                         {
@@ -6787,14 +6787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うう、分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代わりを探さなきゃ…\\.\\. \\bustMsgExp[1, 0]んん？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh, understood. I'll have to find a replacement...\n\\bustMsgExp[1, 0]Huh?"
                             ]
                         },
                         {
@@ -7026,14 +7019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(先輩だ…何してるんだろう？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は外回りじゃなかったっけ？)"
+                                "\\nc<Saki>(It's Senpai... What is she doing? Wasn't she supposed to be\nout today?)"
                             ]
                         },
                         {
@@ -7078,7 +7064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]\\bustMsgExp[2, 1]申し訳ありませんが、今日はスケジュールがあるので…"
+                                "\\bustMoveTo[2, -100, 720, 30]\\bustMsgExp[2, 1]\\nc<Senpai>I'm sorry, but I have a schedule to keep today..."
                             ]
                         },
                         {
@@ -7109,7 +7095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>内斗ちゃん、断って大丈夫？"
+                                "\\nc<Executive 1>Naoto-chan, is it okay to turn them down?"
                             ]
                         },
                         {
@@ -7126,7 +7112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>今月のノルマもギリギリなんじゃないのか？"
+                                "\\nc<Executive 2>Aren't you cutting it close with this month's quota?"
                             ]
                         },
                         {
@@ -7157,7 +7143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>…分かりました。"
+                                "\\nc<Senpai>...Understood."
                             ]
                         },
                         {
@@ -7202,14 +7188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(全然聞こえない！　あっ、どこに行くんだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか…)"
+                                "\\nc<Saki>(I can't hear anything! Ah, where is she going? Could it\nbe...)"
                             ]
                         },
                         {
@@ -7513,7 +7492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](ああ…気になる。どうしよう？)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Ah... I'm so curious. What should I do?)"
                             ]
                         },
                         {
@@ -7530,21 +7509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](…付いていこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって先輩はこのまえ私の常連客を奪ったから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私には盗み見する権利がある！)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(...I'm going to follow her! After all, Senpai stole my\nregular customer the other day! I have the right to spy!)"
                             ]
                         },
                         {

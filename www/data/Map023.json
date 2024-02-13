@@ -4250,7 +4250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "退勤する？"
+                                "Leaving work?"
                             ]
                         },
                         {
@@ -4258,8 +4258,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -4501,21 +4501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>ふっふっふっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "予算が増えて検証の幅が広がった…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次はほかの種族の…もっと苗床に特化した…あれ？"
+                                "\\nc<Zealous Researcher>Heh heh heh. With the increased budget, we can expand our\nverification scope... Next, we'll focus on other species...\nmore specialized as seedbeds... Huh?"
                             ]
                         },
                         {
@@ -4532,14 +4518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>あっ、こんにちは。前回の被験者さんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな警戒心の強い目で見ないでください。"
+                                "\\nc<Zealous Researcher>Ah, hello. You're the subject from last time, aren't you?\nPlease don't look at me with such wary eyes."
                             ]
                         },
                         {
@@ -4556,21 +4535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>いつも実験に真摯に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご協力いただきありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげで良い結果を出すことができました。"
+                                "\\nc<Zealous Researcher>Thank you for always cooperating sincerely with our\nexperiments. Thanks to you, we've been able to achieve good\nresults."
                             ]
                         },
                         {
@@ -4587,14 +4552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>それでなんですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１つお願いしたいことがありまして。"
+                                "\\nc<Zealous Researcher>So, there's something I'd like to ask of you."
                             ]
                         },
                         {
@@ -4611,21 +4569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>次の実験に入る前に、もう少し細かい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "データが欲しいんです。誤差が減れば所要時間も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "短くなるので、被験者さんにとっても良いことですよね。"
+                                "\\nc<Zealous Researcher>Before we move on to the next experiment, I'd like to gather\nsome more detailed data. Reducing errors will also shorten\nthe required time, which is good for you as a subject,\nright?"
                             ]
                         },
                         {
@@ -4642,7 +4586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>どうですか？　聞いてみませんか？"
+                                "\\nc<Zealous Researcher>What do you say? Won't you hear me out?"
                             ]
                         },
                         {
@@ -4650,8 +4594,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 0,
                                 0,
@@ -4681,14 +4625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<熱心な研究員>やっぱり受けいれてくれると思いました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ははは、本当に被験者さんのおかげで助かりました。"
+                                "\\nc<Zealous Researcher>I knew you would accept! Hahaha, I really owe it to you,\nsubject."
                             ]
                         },
                         {
@@ -4718,14 +4655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<熱心な研究員>チェッ。残念です…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次の実験では、より幅広いデータのために…"
+                                "\\nc<Zealous Researcher>Tsk. That's disappointing... For the next experiment, in\norder to obtain a wider range of data..."
                             ]
                         },
                         {
@@ -4757,21 +4687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>お願いしたいのは、特定の器具を装着して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時間を過ごすことです。実験対象の状態を正確に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チェックすることで誤差も少なくなります。"
+                                "\\nc<Zealous Researcher>What I'm asking is for you to wear a specific device for a\nperiod of time. This will allow us to check the condition of\nthe experimental subject more accurately and reduce errors."
                             ]
                         },
                         {
@@ -4788,21 +4704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>ああ、心配しないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "データ収集以外の無駄な機能はありませんから。そんな些細な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ことでも予算を節約しないと、実験に集中できないんです。"
+                                "\\nc<Zealous Researcher>Oh, don't worry. There are no unnecessary functions other\nthan data collection. If we don't save on such trivial\nthings, we can't focus on our experiments."
                             ]
                         },
                         {
@@ -4840,7 +4742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><怪しい器具>を獲得した。"
+                                "\\nc<> You've obtained a <Suspicious Device>."
                             ]
                         },
                         {
@@ -4868,21 +4770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>私はいつも廊下の向こう側の回復室に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いるので、データ収集が終わったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでもお気軽にお越しください。"
+                                "\\nc<Zealous Researcher>I'm always in the recovery room across the hallway, so\nplease feel free to come by anytime after you've finished\ncollecting data."
                             ]
                         },
                         {
@@ -5148,14 +5036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>あ、こんにちは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "週末なのに来られたんですね。"
+                                "\\nc<Sadistic Researcher>Ah, hello. You've come even though it's the weekend."
                             ]
                         },
                         {
@@ -5172,21 +5053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>ようやく私たち専用の実験体に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なってくれる気に…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっ、違うんですか？　チッ。"
+                                "\\nc<Sadistic Researcher>So you've finally decided to become our exclusive test\nsubject... Eh, that's not it? Tch."
                             ]
                         },
                         {
@@ -5203,21 +5070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>家には帰らないんですかって？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな必要ありません。食堂、シャワー室、寝室…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すべてが揃っている空間だからです。"
+                                "\\nc<Sadistic Researcher>You're not going home? There's no need for that. We have a\ndining hall, shower room, bedrooms... everything you need is\nright here."
                             ]
                         },
                         {
@@ -5234,14 +5087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>私たちは週末も常駐しているので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご用があれば研究室にお越しください。"
+                                "\\nc<Sadistic Researcher>We are here even on weekends, so if you need anything,\nplease come to the lab."
                             ]
                         },
                         {
@@ -5485,14 +5331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<受付>咲姫さん、こんにちは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究機関へようこそ。"
+                                "\\nc<Receptionist>Saki-san, hello. Welcome to the research institute."
                             ]
                         },
                         {
@@ -5571,14 +5410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<受付>淫魔第一産業から研究機関へ派遣された人ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…さぁ。私の知る限りではいません。"
+                                "\\nc<Receptionist>Are you the person dispatched from the Succubus First\nIndustry to the research institution?... Well, not that I'm\naware of."
                             ]
                         },
                         {
@@ -5595,14 +5427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<受付>お役に立てず申し訳ございません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ですが、あまり探りすぎないようにしてください。上部の方たちが嫌がりますので。"
+                                "\\nc<Receptionist>I apologize for not being able to help... However, please\ntry not to pry too much. The higher-ups don't like it."
                             ]
                         },
                         {
@@ -5670,14 +5495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<受付>咲姫さん、こんにちは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究機関へようこそ。"
+                                "\\nc<Receptionist>Saki-san, hello. Welcome to the research institute."
                             ]
                         },
                         {
@@ -5961,21 +5779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<腹黒い研究員>トロールが実験室を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "めちゃくちゃにするせいで頭が痛いよ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "麻酔を１リットル以上投薬しても眠らないなんて。"
+                                "\\nc<Scheming Researcher>My head hurts because the troll made a mess of the lab. It's\nunbelievable that it won't sleep even after administering\nmore than a liter of anesthetic."
                             ]
                         },
                         {
@@ -6002,7 +5806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<腹黒い研究員>ふふ…ノビノビくん、君には期待してるよ… "
+                                "\\nc<Scheming Researcher>Hehe... Stretchy-kun, I have high expectations for you..."
                             ]
                         },
                         {
@@ -6019,7 +5823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<腹黒い研究員>…栄養剤300ミリ追加投入。"
+                                "\\nc<Scheming Researcher>...Administering an additional 300 milliliters of nutrient\nsolution."
                             ]
                         },
                         {
@@ -6108,14 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<腹黒い研究員>何？　人？　さぁな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行き来してる研究員が多すぎて覚えられないんだ。"
+                                "\\nc<Scheming Researcher>Who? A person? I'm not sure. There are too many researchers\ncoming and going for me to remember."
                             ]
                         },
                         {
@@ -6132,21 +5929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<腹黒い研究員>…待てよ。魔族？　だとしたら…うむ…ふふ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、コホン。とにかく僕は何も知らないから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかをあたって。"
+                                "\\nc<Scheming Researcher>...Wait a second. A demon? If that's the case... Hmm...\nHehe... Ah, cough. Anyway, I don't know anything, so try\nasking someone else."
                             ]
                         },
                         {
@@ -6248,21 +6031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<腹黒い研究員>トロールが実験室を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "めちゃくちゃにするせいで頭が痛いよ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "麻酔を１リットル以上投薬しても眠らないなんて。"
+                                "\\nc<Scheming Researcher>My head hurts because the trolls have made a mess of the\nlab. It's unbelievable that they won't sleep even after\nbeing administered more than a liter of anesthetic."
                             ]
                         },
                         {
@@ -6289,7 +6058,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<腹黒い研究員>ふふ…ノビノビくん、君には期待してるよ… "
+                                "\\nc<Scheming Researcher>Hehe... Stretchy-kun, I have high expectations for you..."
                             ]
                         },
                         {
@@ -6306,7 +6075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<腹黒い研究員>…栄養剤300ミリ追加投入。"
+                                "\\nc<Scheming Researcher>...Administering an additional 300 milliliters of nutrient."
                             ]
                         },
                         {
@@ -6427,21 +6196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<慎重な研究員>淫魔の妊娠条件と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "体温の相関関係を証明するためには "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やはり変数の統制が必要か…"
+                                "\\nc<Cautious Researcher>To prove the correlation between succubi's pregnancy\nconditions and body temperature, we indeed need to control\nthe variables..."
                             ]
                         },
                         {
@@ -6468,14 +6223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<慎重な研究員>SU-034実験体への投薬は、たしかに "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今までの実験体とはまったく違う反応を見せている… "
+                                "\\nc<Cautious Researcher>The administration of drugs to the SU-034 test subject is\ncertainly showing a completely different reaction compared\nto previous subjects..."
                             ]
                         },
                         {
@@ -6492,7 +6240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<慎重な研究員>見落としているものが絶対にあるはずだ。"
+                                "\\nc<Cautious Researcher>There must absolutely be something we're overlooking."
                             ]
                         },
                         {
@@ -6581,14 +6329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<慎重な研究員>淫魔第一産業から転職してきた社員？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…なぜ私に聞くんですか？"
+                                "\\nc<Cautious Researcher>An employee who transferred from the First Succubus\nIndustry?... Why are you asking me?"
                             ]
                         },
                         {
@@ -6605,14 +6346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<慎重な研究員>知りませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知ってたとしても、あなたに教える義務などありませんし。"
+                                "\\nc<Cautious Researcher>I don't know. Even if I did, I'm not obligated to tell you."
                             ]
                         },
                         {
@@ -6714,21 +6448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<慎重な研究員>淫魔の妊娠条件と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "体温の相関関係を証明するためには "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やはり変数の統制が必要か…"
+                                "\\nc<Cautious Researcher>To prove the correlation between succubi's pregnancy\nconditions and body temperature, we indeed need to control\nthe variables..."
                             ]
                         },
                         {
@@ -6755,14 +6475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<慎重な研究員>SU-034実験体への投薬は、たしかに "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今までの実験体とはまったく違う反応を見せている… "
+                                "\\nc<Cautious Researcher>The administration of the drug to the SU-034 subject is\ncertainly showing a completely different reaction compared\nto previous subjects..."
                             ]
                         },
                         {
@@ -6779,7 +6492,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<慎重な研究員>見落としているものが絶対にあるはずだ。"
+                                "\\nc<Cautious Researcher>There must be something we're overlooking."
                             ]
                         },
                         {
@@ -6900,7 +6613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<新入りの淫魔>あはは…週末なのにお疲れ様です。"
+                                "\\nc<New Succubus>Ahaha... Even though it's the weekend, you seem tired."
                             ]
                         },
                         {
@@ -6938,7 +6651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<新入りの淫魔>今日は何のために呼ばれたんだろう…"
+                                "\\nc<New Succubus>I wonder what I've been called for today..."
                             ]
                         },
                         {
@@ -7087,14 +6800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怪しい研究員>あっ、君。まえに何回か会ったよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ないって？　そんなはずないんだけどな。"
+                                "\\nc<Suspicious Researcher>\"Ah, you. We've met a few times before, haven't we? No? That\ncan't be right.\""
                             ]
                         },
                         {
@@ -7111,14 +6817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怪しい研究員>とにかく、今日も頼んだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほらほら、早く食べな。"
+                                "\\nc<Suspicious Researcher>\"Anyway, I'm counting on you again today. Come on, come on,\neat up quickly.\""
                             ]
                         },
                         {
@@ -7126,8 +6825,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "食べる",
-                                    "断る"
+                                    "Eat",
+                                    "Refuse"
                                 ],
                                 1,
                                 0,
@@ -7170,7 +6869,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<怪しい研究員>何？　どうして？"
+                                "\\nc<Suspicious Researcher>\"What? Why?\""
                             ]
                         },
                         {
@@ -7237,21 +6936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怪しい研究員>よしよし。どうだ、いいだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとあげたいところだけど、また来週ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "副作用があったら絶対に言うこと。"
+                                "\\nc<Suspicious Researcher>\"There, there. How is it, good right? I'd like to give you\nmore, but let's wait until next week. If you experience any\nside effects, you must tell me.\""
                             ]
                         },
                         {
@@ -7313,14 +6998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>なんだか目が覚めたような気がする…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "疲労度が５回復した！"
+                                "\\nc<>It feels like I've just woken up... Fatigue has recovered by\n5!"
                             ]
                         },
                         {
@@ -7369,14 +7047,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>痺れるような覚せい剤の感覚が脊椎を走る！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "疲労度が10回復した！"
+                                "\\nc<>A tingling sensation like a stimulant runs down my spine!\nFatigue has recovered by 10!"
                             ]
                         },
                         {
@@ -7425,14 +7096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>得体の知れない感覚が体の隅々まで行きわたる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "疲労度が20回復した！"
+                                "\\nc<>An indescribable sensation spreads to every corner of my\nbody! Fatigue has recovered by 20!"
                             ]
                         },
                         {
@@ -7481,14 +7145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>体に悪寒が走る…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "疲労度が10増加した…"
+                                "\\nc<>A chill runs through my body... Fatigue has increased by\n10..."
                             ]
                         },
                         {
@@ -7608,14 +7265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怪しい研究員>また来週ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "副作用があったら絶対に言うこと。"
+                                "\\nc<Suspicious Researcher>See you next week. Make sure to tell me if there are any\nside effects."
                             ]
                         },
                         {

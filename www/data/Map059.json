@@ -4010,7 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]……."
+                                "\\bustMsgExp[1, 1]\\nc<Saki>..."
                             ]
                         },
                         {
@@ -4055,7 +4055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>…………."
+                                "\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -4100,7 +4100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>………………."
+                                "\\nc<Saki>..."
                             ]
                         },
                         {
@@ -4154,7 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>何のつもり？"
+                                "\\nc<Senpai>What are you trying to do?"
                             ]
                         },
                         {
@@ -4194,7 +4194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>会話の末…"
+                                "\\nc<>At the end of the conversation..."
                             ]
                         },
                         {
@@ -4211,7 +4211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>魔力を少し取られる線で許してもらった…"
+                                "\\nc<>I was forgiven on the condition that I give up a bit of my\nmagical power..."
                             ]
                         },
                         {

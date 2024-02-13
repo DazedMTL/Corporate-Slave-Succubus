@@ -4962,7 +4962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](入らなくてもいいよね…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(I don't really need to go in, do I...)"
                             ]
                         },
                         {
@@ -5218,7 +5218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>おいっ、また来たぞ！"
+                                "\\nc<Security Guard 1>Hey, they're back again!"
                             ]
                         },
                         {
@@ -5275,7 +5275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>あの子が役員の目に留まったっていう…"
+                                "\\nc<Security Guard 2>That girl caught the attention of the board members..."
                             ]
                         },
                         {
@@ -5332,7 +5332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>ああ。だから手が出しづらくてよ。"
+                                "\\nc<Security Guard 1>Yeah, that's why it's hard to lay a hand on her."
                             ]
                         },
                         {
@@ -5363,14 +5363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](おおっ、いつの間に噂が広がったんだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意外に効果あり？)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(Wow, when did the rumors spread? Maybe this is more\neffective than I thought?)"
                             ]
                         },
                         {
@@ -5401,7 +5394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>さて、どうするか…"
+                                "\\nc<Security Guard 1>So, what should we do..."
                             ]
                         },
                         {
@@ -5432,7 +5425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3](よし…今日こそ雑用だけやって帰るぞ！)"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>(Alright... Today I'll just do the chores and go home!)"
                             ]
                         },
                         {
@@ -5591,7 +5584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]わわっ！　い、いきなり何？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Whoa! W-What's going on all of a sudden?"
                             ]
                         },
                         {
@@ -5653,7 +5646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>ああ、またか。"
+                                "\\nc<Security Guard 1>Ah, not this again."
                             ]
                         },
                         {
@@ -5701,7 +5694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>今回はどこだ？　あ、すぐそこか。"
+                                "\\nc<Security Guard 2>Where is it this time? Oh, it's just over there."
                             ]
                         },
                         {
@@ -5732,14 +5725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>何しれっとしてるんですか！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "非常事態なんじゃ？"
+                                "\\nc<Saki>Why are you acting so nonchalant?! Isn't this an emergency?"
                             ]
                         },
                         {
@@ -5841,7 +5827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>いや…たいがいは警報装置の誤作動だからな。"
+                                "\\nc<Security Guard 1>Nah... It's usually just a false alarm from the security\nsystem."
                             ]
                         },
                         {
@@ -5867,7 +5853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>あれ、なぜかよく故障するんだよ。"
+                                "\\nc<Security Guard 2>That thing tends to malfunction quite often."
                             ]
                         },
                         {
@@ -5884,14 +5870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>そもそも真っ昼間なのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泥棒なんて来るわけないだろ？"
+                                "\\nc<Security Guard 1>Besides, it's broad daylight. There's no way a thief would\ncome now, right?"
                             ]
                         },
                         {
@@ -5922,7 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](なるほど。言われてみれば…)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(I see. Now that you mention it...)"
                             ]
                         },
                         {
@@ -5962,14 +5941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>でも警報が鳴ったからには出動しないといけないんだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うーん。今回は咲姫ちゃんが出動ってことで！"
+                                "\\nc<Security Guard 1>But since the alarm has sounded, we have to respond... Hmm.\nThis time, let's have Saki-chan go!"
                             ]
                         },
                         {
@@ -6009,7 +5981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えええっ？！　なんで私が行くんですか！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>What?! Why do I have to go?!"
                             ]
                         },
                         {
@@ -6049,21 +6021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>いいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃん、ちょうど暇そうだし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせ俺たちの手伝いに来たんだろ？"
+                                "\\nc<Security Guard 2>That's great. Saki-chan seems to have some free time... You\ncame to help us out anyway, right?"
                             ]
                         },
                         {
@@ -6080,7 +6038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>警報装置の確認だけ…頼むよ。な？"
+                                "\\nc<Security Guard 1>Just check the alarm system... Please? Okay?"
                             ]
                         },
                         {
@@ -6111,14 +6069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](そもそもあんたたちの仕事でしょうが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よっぽど面倒くさいのね)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(That's your job in the first place... It must be really\nbothersome for you.)"
                             ]
                         },
                         {
@@ -6149,7 +6100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>あれの確認が終わったら帰っていいからさ…"
+                                "\\nc<Security Guard 1>Once you've checked it out, you can go home..."
                             ]
                         },
                         {
@@ -6180,14 +6131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>早く帰れる…？\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 4]うーむ、仕方ないですね。本当に確認だけでいいんですね？"
+                                "\\nc<Saki>I can go home early...?\\bustMsgExp[1, 4]Hmm, I guess I have\nno choice. You're sure I just need to check it and that's\nit?"
                             ]
                         },
                         {
@@ -6218,7 +6162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>そうだよ。どうせ誤作動だから。"
+                                "\\nc<Security Guard 1>That's right. It's probably just a false alarm anyway."
                             ]
                         },
                         {
@@ -6244,7 +6188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員２>無線機あげるから、もし何かあったらこれで連絡してね。"
+                                "\\nc<Security Guard 2>I'll give you a walkie-talkie, so if anything happens,\ncontact us with this."
                             ]
                         },
                         {
@@ -6275,7 +6219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]もっと警備員らしいものはないんですか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Don't you have something more befitting of a security guard?"
                             ]
                         },
                         {
@@ -6306,14 +6250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員１>ああ、俺たちは体でなんとかするタイプだからな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手錠ならあるぞ？"
+                                "\\nc<Security Guard 1>Ah, we're the type to handle things physically... But we do\nhave handcuffs, you know?"
                             ]
                         },
                         {
@@ -6353,7 +6290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]……"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>..."
                             ]
                         },
                         {

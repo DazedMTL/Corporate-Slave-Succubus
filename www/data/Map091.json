@@ -2453,14 +2453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(できた！　これならなんとか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上のほうには本物の備品箱を置いたから大丈夫なはず)"
+                                "\\nc<Saki>(I did it! With this, somehow... I've placed the real supply\nbox up there, so it should be fine.)"
                             ]
                         },
                         {
@@ -2695,7 +2688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>はあ、はあ……とりあえずここで隠れていよう……"
+                                "\\nc<Succubus>*pant* *pant*... For now, let's hide here..."
                             ]
                         },
                         {
@@ -2726,7 +2719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1](こっちに来ませんように！)"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>(Please don't come this way!)"
                             ]
                         },
                         {
@@ -2757,7 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<放送>それではただいまより、かくれんぼのイベントを始めます！"
+                                "\\nc<Broadcast>Now then, we will begin the hide-and-seek event!"
                             ]
                         },
                         {
@@ -2774,21 +2767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<放送>捕まった淫魔の方は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客に必ずクチコミを投稿するよう伝えてください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でないと報酬が出ませんよ。"
+                                "\\nc<Broadcast>If a succubus is caught, please make sure to tell the\ncustomer to post a review! Otherwise, you won't receive your\nreward."
                             ]
                         },
                         {
@@ -2814,7 +2793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>ホント、どこまでブラックなのかしら。"
+                                "\\nc<Succubus>Really, how much more black can this get?"
                             ]
                         },
                         {
@@ -2854,7 +2833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>(ドドドド……)"
+                                "\\nc<>(Thud Thud Thud...)"
                             ]
                         },
                         {
@@ -2894,14 +2873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>うっ、こっちに来てない！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く逃げなきゃ……"
+                                "\\nc<Succubus>Uh, they're not coming this way, right!? I need to escape\nquickly..."
                             ]
                         },
                         {
@@ -3064,7 +3036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ああっ、あそこだ！"
+                                "\\nc<Customer>Aha, over there!"
                             ]
                         },
                         {
@@ -3152,21 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0](通りすぎた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふう、おかげで助かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか、まだ人が残ってるなんて思わないよね)"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>(They passed by! Phew, that was close. They wouldn't think\nthat someone is still here, right?)"
                             ]
                         },
                         {
@@ -3209,7 +3167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>キャァッ、離してくださいぃ……"
+                                "\\nc<Succubus>Kyaa! Let me go, please..."
                             ]
                         },
                         {
@@ -3226,7 +3184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>捕まえたぞ！　ヒヒッ！"
+                                "\\nc<Customer>Gotcha! Heheh!"
                             ]
                         },
                         {
@@ -3283,14 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(本当にすぐにヤっちゃうんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも……私は大丈夫だよね？)"
+                                "\\nc<Saki>(They really do it right away. But... I should be safe,\nright?)"
                             ]
                         },
                         {

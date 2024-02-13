@@ -1474,14 +1474,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>準備はできた？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今日は重要な日だから、ミスしないように。"
+                                "\\nc<???>Are you ready? Today is an important day, so make sure not\nto make any mistakes."
                             ]
                         },
                         {
@@ -1498,7 +1491,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>も、もちろんです先輩…ゴクリ。"
+                                "\\nc<???>O-of course, Senpai... *gulp*"
                             ]
                         },
                         {
@@ -1515,21 +1508,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>緊張することないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まだ一年目にもなってない新人に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お偉いさんたちは興味持たないから。"
+                                "\\nc<???>There's no need to be nervous. The big shots won't be\ninterested in a rookie who hasn't even completed their first\nyear."
                             ]
                         },
                         {
@@ -1546,7 +1525,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>でしょうね…"
+                                "\\nc<???>I suppose so..."
                             ]
                         },
                         {
@@ -1563,7 +1542,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>あ、先輩、あの猫の件は…"
+                                "\\nc<???>Ah, Senpai, about that cat incident..."
                             ]
                         },
                         {
@@ -1580,7 +1559,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>シーっ。誰が聞いたらどうするの？"
+                                "\\nc<???>Shh. What if someone hears you?"
                             ]
                         },
                         {
@@ -1597,14 +1576,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>あの猫、あなたたちを何回も助けたんだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どう、ちゅ〇るでもあげたくなるでしょう？"
+                                "\\nc<???>That cat has helped you out so many times. Don't you feel\nlike giving it some churu as thanks?"
                             ]
                         },
                         {
@@ -1621,7 +1593,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>も、もちろんです！その…"
+                                "\\nc<???>Of course! It's just that..."
                             ]
                         },
                         {
@@ -1638,14 +1610,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>…猫だけじゃなくて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いつも先輩が私のことを見守っていることも…"
+                                "\\nc<???>...Not just the cat, but I'm always grateful for how you're\nalways looking out for me too, Senpai."
                             ]
                         },
                         {
@@ -1662,7 +1627,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>あ、時間になった。入るわよ。"
+                                "\\nc<???>Oh, it's time. Let's go in."
                             ]
                         },
                         {
@@ -1679,7 +1644,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<???>ええ！？　ちょ、ちょっと待って…わあ！"
+                                "\\nc<???>What?! Wait a sec... Ahh!"
                             ]
                         },
                         {

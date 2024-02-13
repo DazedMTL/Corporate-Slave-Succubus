@@ -5443,14 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>ちくしょう、…と思ったら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れてこい！　今すぐだ！"
+                                "\\nc<???>Damn it... just when I thought... bring them here! Right\nnow!"
                             ]
                         },
                         {
@@ -5498,21 +5491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>落ち着いてください。どうせ…なだけです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…チッ。ですが、…がしっかりとできなかったことは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…に報告します。"
+                                "\\nc<???>Please calm down. It's just... anyway... Tch. However, I\nwill report that... was not done properly."
                             ]
                         },
                         {
@@ -5529,14 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>ふう…仕方ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がさきに…する。"
+                                "\\nc<???>Phew... Can't be helped. I'll go ahead and... do it."
                             ]
                         },
                         {
@@ -5903,7 +5875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><文様が描かれた鍵>を奪われた…"
+                                "\\nc<> The key with the pattern was stolen..."
                             ]
                         },
                         {

@@ -3280,21 +3280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]処女卒業おめでとう、咲姫！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたが入社してから一番の実績よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりデビューはこうでないとね！"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Congratulations on losing your virginity, Saki! This is your\ngreatest achievement since joining the company. A debut has\nto be like this, right!"
                             ]
                         },
                         {
@@ -3348,14 +3334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うぅ、先輩…酷いです！　いきなり競売なんて！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は心の準備も全然できてなかったんですから！"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh, Senpai... that's terrible! An auction all of a sudden!\nI wasn't mentally prepared at all!"
                             ]
                         },
                         {
@@ -3400,14 +3379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1](ああ、なだめるの面倒くさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど、今回色々と頑張ったのは事実だから…)"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>(Ah, calming her down is such a hassle. But it's true that\nshe did her best this time...)"
                             ]
                         },
                         {
@@ -3424,21 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]まあ、そう怒らないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高値で売ってあげたじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元カレとのラブストーリー、感動しなかった？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Well, don't be so mad. I sold you for a high price, didn't\nI? Weren't you moved by your love story with your ex?"
                             ]
                         },
                         {
@@ -3483,14 +3441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]どこがですか！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "びっくりしすぎて気絶するところでしたよ！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Moved? I was so shocked I nearly fainted!"
                             ]
                         },
                         {
@@ -3535,14 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ちょっとは元気になった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "掃除はロビーの社員にさせるからシャワーしておいで。"
+                                "\\nc<Senpai>Feeling a bit better now? I'll have the lobby staff do the\ncleaning, so go take a shower."
                             ]
                         },
                         {
@@ -3559,7 +3503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>夕飯食べて残業しなきゃね？"
+                                "\\nc<Senpai>We need to have dinner and then work overtime, right?"
                             ]
                         },
                         {
@@ -3604,7 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]今日も残業か…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Overtime again today..."
                             ]
                         },
                         {
@@ -3665,14 +3609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>なんとか体を起こした咲姫は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フラフラとシャワー室に向かった…"
+                                "\\nc<>Saki somehow managed to get up and staggered towards the\nshower room..."
                             ]
                         },
                         {

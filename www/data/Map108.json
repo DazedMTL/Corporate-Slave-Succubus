@@ -6467,7 +6467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<??>…さん、起きてください。…さん！"
+                                "\\nc<???>...san, please wake up...san!"
                             ]
                         },
                         {
@@ -6484,7 +6484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう…"
+                                "\\nc<Saki>Ugh..."
                             ]
                         },
                         {
@@ -6501,7 +6501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<??>起きません…どうしましょう？"
+                                "\\nc<???>She won't wake up... What should we do?"
                             ]
                         },
                         {
@@ -6518,7 +6518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<??>どうせシャワーするんだから水でもかけなさい。"
+                                "\\nc<???>Since you're going to shower anyway, just splash some water\non her."
                             ]
                         },
                         {
@@ -6535,7 +6535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<??>えっ…分かりました。おりゃ！"
+                                "\\nc<???>Eh... Okay. Here goes!"
                             ]
                         },
                         {
@@ -6575,7 +6575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビシャッ！"
+                                "\\nc<>Splash!"
                             ]
                         },
                         {
@@ -6767,7 +6767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMoveTo[1, 1300, 720, 30]うわああっ！　冷たい！！"
+                                "\\bustMoveTo[1, 1300, 720, 30]\\nc<Saki>Aaah! So cold!!"
                             ]
                         },
                         {
@@ -6812,14 +6812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]咲姫、早く起きて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "管理人さんが困ってるじゃない。"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Saki, wake up already. The manager is having trouble because\nof you."
                             ]
                         },
                         {
@@ -6904,7 +6897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うう、全部終わったんですか？　お客さんは…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh, is everything over? What about the guests..."
                             ]
                         },
                         {
@@ -6949,21 +6942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>とっくに帰ったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "途中で勝手に失神してしまうなんてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クレームが入ってこなかったことに感謝しなさい。"
+                                "\\nc<Senpai>They've long since gone home. To think you fainted on your\nown partway through. Be thankful there were no complaints."
                             ]
                         },
                         {
@@ -7138,14 +7117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>でも、本当に大変だったんですよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなのを勧めた先輩も酷いです！"
+                                "\\nc<Saki>But it was really tough... Senpai, you're terrible for\nrecommending this!"
                             ]
                         },
                         {
@@ -7190,14 +7162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]そんなふうに言わないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "役員のせいで私も仕方なかったんだから。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Don't talk like that. It couldn't be helped because of the\nexecutive."
                             ]
                         },
                         {
@@ -7242,7 +7207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>役員ですか？"
+                                "\\nc<Saki>The executive?"
                             ]
                         },
                         {
@@ -7287,21 +7252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ええ。さっきこのアトラクションを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開発した役員が来たんだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利用者がいないと一日中拗ねて大変で。"
+                                "\\nc<Senpai>Yes. The executive who developed this attraction came by\nearlier... It was a hassle because they sulked all day when\nthere were no users."
                             ]
                         },
                         {
@@ -7346,7 +7297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]……"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>..."
                             ]
                         },
                         {
@@ -7391,14 +7342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、あなたはテストまで担当したから必要だったのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご苦労様。夕飯おごるから早く起きなさい。"
+                                "\\nc<Senpai>Saki, you were needed because you were in charge of the\ntesting too. Good work. I'll treat you to dinner, so get up\nquickly."
                             ]
                         },
                         {
@@ -7443,14 +7387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]夕飯…残業ってことですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕飯じゃなくて退勤させてください…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Dinner... That means overtime, doesn't it? Please let me\nleave work instead of dinner..."
                             ]
                         },
                         {
@@ -7495,21 +7432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>今日はお仕事が多いからだ～め♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきの役員があなたの業務報告書を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待ってるってのもあるし。いいことだけを書くのよ？"
+                                "\\nc<Senpai>There's a lot of work today, so no way♥ The executive is\nalso waiting for your work report. Make sure to write only\nthe good things, okay?"
                             ]
                         },
                         {
@@ -7554,7 +7477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>…はーい。夕飯で満足します。"
+                                "\\nc<Saki>...Yes. I'll be satisfied with dinner."
                             ]
                         },
                         {

@@ -6980,7 +6980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこに行きますか？"
+                                "Where are you going?"
                             ]
                         },
                         {
@@ -6988,10 +6988,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "マスコミ",
-                                    "研究機関",
-                                    "警備会社",
-                                    "物流会社"
+                                    "Mass Media",
+                                    "Research Institution",
+                                    "Security Company",
+                                    "Logistics Company"
                                 ],
                                 -2,
                                 0,
@@ -7353,21 +7353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]つまり、うちのメンバーに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特大サイズの特別客を間違って接待させたっていうこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冗談じゃないわよ！"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>So you're telling me you accidentally entertained a very\nspecial, extra-large client with our team members? This is\nno joke!"
                             ]
                         },
                         {
@@ -7398,7 +7384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>いや、そ、それが…"
+                                "\\nc<Employee 1>No, well, that's..."
                             ]
                         },
                         {
@@ -7429,14 +7415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ちゃんと確認してから入れるべきでしょ！？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一歩間違えれば死んでたかもしれないのよ！"
+                                "\\nc<Senpai>You should have checked properly before letting them in! One\nwrong step and someone could have died, you know!"
                             ]
                         },
                         {
@@ -7453,14 +7432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それにあんた！　何かあったときはすぐに報告しなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのままサボるってどういうこと！？"
+                                "\\nc<Senpai>And you! Report immediately if something happens! What do\nyou mean by slacking off like that!?"
                             ]
                         },
                         {
@@ -7491,7 +7463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>あうう…"
+                                "\\nc<Employee 2>Auuu..."
                             ]
                         },
                         {
@@ -7522,14 +7494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>今回の件はきっちり報告させてもらうからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この部屋はあんたたちで片づけなさい！"
+                                "\\nc<Senpai>I will make sure to report this incident properly. You all\nclean up this room!"
                             ]
                         },
                         {
@@ -7574,14 +7539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うわ、私にだけキツく当たってるんじゃなかったんだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "味方になると結構頼もしいかも)"
+                                "\\nc<Saki>(Wow, she wasn't just being hard on me... She might actually\nbe quite reliable as an ally.)"
                             ]
                         },
                         {
@@ -7626,7 +7584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、いつまで横になってるつもり？　さっさと起きなさい！"
+                                "\\nc<Senpai>Saki, how long do you plan to lie there? Get up already!"
                             ]
                         },
                         {
@@ -7671,7 +7629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ええっ、八つ当たり…？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Ehh, are you taking it out on me...?"
                             ]
                         },
                         {
@@ -7881,14 +7839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]今日は報告書だけ書いたら上がってもいいわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家でしっかり休んで、明日も出社するように。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Just write the report today and then you can go home. Make\nsure to rest well at home and come to work tomorrow."
                             ]
                         },
                         {
@@ -7933,14 +7884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]あ、あの…１日だけ休んじゃいけませんか？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体の中がめちゃくちゃで…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Um... can't I take just one day off? I'm feeling really\nmessed up inside..."
                             ]
                         },
                         {
@@ -7985,14 +7929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]だめよ。明日出社しなかったら強制派遣されると思うことね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちは末端に容赦ないんだから。"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>No way. If you don't show up tomorrow, expect to be sent on\na forced assignment. Our organization is merciless to the\nlower ranks."
                             ]
                         },
                         {
@@ -8037,7 +7974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えええっ！　ひ、酷いです！"
+                                "\\nc<Saki>Eeeh! That's harsh!"
                             ]
                         },
                         {
@@ -8082,21 +8019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>私に言わないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに、あなたは淫魔のなかでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "丈夫な体に生まれてるから平気よ。 "
+                                "\\nc<Senpai>Don't complain to me. Besides, you were born with a sturdy\nbody even among succubi, so you'll be fine."
                             ]
                         },
                         {
@@ -8141,14 +8064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]は、はあ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(淫魔に生まれた覚えはありませんけど…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ha, haah...(I don't remember being born a succubus\nthough...)"
                             ]
                         },
                         {
@@ -8176,7 +8092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は家に着くなり床に倒れこんだ…"
+                                "\\nc<>Saki collapsed on the floor as soon as she got home..."
                             ]
                         },
                         {

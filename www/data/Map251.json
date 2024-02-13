@@ -5928,14 +5928,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先輩の接待"
+                                "Would you like to view the event? Senpai's hospitality."
                             ]
                         },
                         {
@@ -5943,8 +5936,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -6434,7 +6427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]外回りに出るの？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Are you heading out for fieldwork?"
                             ]
                         },
                         {
@@ -6479,14 +6472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMoveTo[1, 1300, 720, 30]はい。宣伝業務の日なので…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰りに何か買ってきましょうか？"
+                                "\\bustMoveTo[1, 1300, 720, 30]\\nc<Saki>Yes. It's a day for promotional activities... Should I buy\nsomething on my way back?"
                             ]
                         },
                         {
@@ -6531,14 +6517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>レモンウォーター！　冷蔵庫にあったのが切れちゃって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "消耗品費で落とすから。"
+                                "\\nc<Senpai>Lemon water! We've run out of it in the fridge. I'll write\nit off as a consumable expense."
                             ]
                         },
                         {
@@ -6583,7 +6562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああ、レモンウォーター…分かりました。"
+                                "\\nc<Saki>Ah, lemon water... Understood."
                             ]
                         },
                         {
@@ -6628,7 +6607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>遅れないようにね。"
+                                "\\nc<Senpai>Make sure you're not late."
                             ]
                         },
                         {
@@ -6804,14 +6783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫も少しは頼もしくなったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見かけによらず我慢強くて何より。"
+                                "\\nc<Senpai>Saki has become somewhat reliable, hasn't she? Surprisingly\npatient despite her appearance, which is good."
                             ]
                         },
                         {
@@ -7301,7 +7273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>メアリーさん！　咲姫さん、外回りに出られたんですか？"
+                                "\\nc<Employee>Meary-san! Has Saki-san gone out on fieldwork?"
                             ]
                         },
                         {
@@ -7363,7 +7335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]そうだけど？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Yes, but why?"
                             ]
                         },
                         {
@@ -7403,14 +7375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>ああっ、どうしよう… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが、咲姫さんの常連客の予約を受けてしまって…"
+                                "\\nc<Employee>Oh no, what should I do... You see, I accidentally took a\nreservation for one of Saki-san's regular clients..."
                             ]
                         },
                         {
@@ -7441,14 +7406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]あら、それは一大事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事に解決できたらいいわね！"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Oh dear, that's quite a predicament. I hope it gets resolved\nsmoothly!"
                             ]
                         },
                         {
@@ -7479,14 +7437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>そんな無責任なこと言わないで助けてくださいよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリーさんのチームじゃないですか！"
+                                "\\nc<Employee>Don't say such irresponsible things, please help me! It's\nyour team, Meary-san!"
                             ]
                         },
                         {
@@ -7503,7 +7454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>簡単なフェラコースですから…"
+                                "\\nc<Employee>It's just a simple blowjob course..."
                             ]
                         },
                         {
@@ -7534,14 +7485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ミスしたのはあなたでしょ？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたがフェラしてあげればいいじゃない。"
+                                "\\nc<Senpai>The mistake was yours, wasn't it? You should be the one to\ngive the blowjob then."
                             ]
                         },
                         {
@@ -7581,14 +7525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>ううっ、そこをどうか。徳を積むと思って…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなりの常連なので、そのままお帰しするのはちょっと。"
+                                "\\nc<Employee>Ugh, please... Think of it as building good karma... He's\nquite a regular, so it wouldn't be right to just send him\naway."
                             ]
                         },
                         {
@@ -7619,7 +7556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]そんなに？　来店頻度は？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Is that so? How often does he visit?"
                             ]
                         },
                         {
@@ -7650,7 +7587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>簡単なコースだけですが今月で３回目…"
+                                "\\nc<Employee>It's just a simple course, but this month it's his third\ntime..."
                             ]
                         },
                         {
@@ -7681,7 +7618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それはもう中毒寸前ね。"
+                                "\\nc<Senpai>That's practically on the verge of addiction."
                             ]
                         },
                         {
@@ -7712,7 +7649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>そ、そうでしょ？　ですからどうか代打を…"
+                                "\\nc<Employee>Right? So please, could you send a substitute..."
                             ]
                         },
                         {
@@ -7743,14 +7680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>…分かった。代打を送るから待機させて。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[2, 2]私に借りを作ったわね？"
+                                "\\nc<Senpai>...Fine. I'll send someone to stand in. Wait\nhere.\\bustMsgExp[2, 2] You owe me one now, okay?"
                             ]
                         },
                         {
@@ -7781,7 +7711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>ありがとうございます、メアリーさん！"
+                                "\\nc<Employee>Thank you so much, Meary-san!"
                             ]
                         },
                         {
@@ -8188,7 +8118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0](ちょっと面倒だけどそれほどの常連なら…)"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>(It's a bit of a hassle, but if he's that much of a\nregular...)"
                             ]
                         },
                         {
@@ -8356,7 +8286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お待たせしました。"
+                                "\\nc<Senpai>Sorry to keep you waiting."
                             ]
                         },
                         {
@@ -8427,7 +8357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>ん？　ぼ、僕は咲姫さんを指名したんですけど…"
+                                "\\nc<Timid Customer>Huh? B-but I requested Saki-san..."
                             ]
                         },
                         {
@@ -8458,14 +8388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1](あいつ、ろくに状況も説明してないわけ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとでお仕置きしてやる…)"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>(That guy didn't explain the situation properly? I'll have\nto punish him later...)"
                             ]
                         },
                         {
@@ -8482,14 +8405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]申し訳ありませんが、咲姫は外回りに出ていまして。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は私が代わりを務めてもよろしいですか？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>My apologies, but Saki is out on fieldwork today. Would it\nbe alright if I take her place?"
                             ]
                         },
                         {
@@ -8520,7 +8436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>えっ？　あ、そ、それは…"
+                                "\\nc<Timid Customer>Eh? Oh, well, that is..."
                             ]
                         },
                         {
@@ -8788,14 +8704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(逃げる隙を作っちゃだめでしょ)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では誠心誠意、ご奉仕いたします。"
+                                "\\nc<Senpai>(Can't give him a chance to escape) Then I shall serve you\nwith all my heart and soul."
                             ]
                         },
                         {
@@ -8826,7 +8735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>いえっ、うわあっ…"
+                                "\\nc<Timid Customer>No, wait—ahh..."
                             ]
                         },
                         {
@@ -8854,7 +8763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スルッ。"
+                                "\\nc<>*Slip*"
                             ]
                         },
                         {
@@ -8871,7 +8780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>長くて綺麗な指でズボンを脱がすと下着がひょいと顔を出す。"
+                                "\\nc<>Long and beautiful fingers slide down the trousers, and the\nunderwear peeks out cheekily."
                             ]
                         },
                         {
@@ -8899,7 +8808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(シャワーはしたようね。マナーあるじゃない)"
+                                "\\nc<Senpai>(Looks like he took a shower. He has manners at least.)"
                             ]
                         },
                         {
@@ -8916,21 +8825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>フフ、脱がさなくても分かるくらい立派なペニスですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はもともと咲姫よりずっと高いんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回は通常料金で行いますけど。"
+                                "\\nc<Senpai>Hehe, even without taking them off, I can tell it's quite a\nsplendid penis. You know, my rate is usually much higher\nthan Saki's. But this time, we'll go with the standard fee."
                             ]
                         },
                         {
@@ -8947,7 +8842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>えっ、そ、それじゃあ…少しくらいなら…"
+                                "\\nc<Timid Customer>Eh, then... maybe just a little bit..."
                             ]
                         },
                         {
@@ -8964,7 +8859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ありがとうございます。ではさっそく…"
+                                "\\nc<Senpai>Thank you. Now let's get started..."
                             ]
                         },
                         {
@@ -8992,7 +8887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スルル。"
+                                "\\nc<>*Slide*"
                             ]
                         },
                         {
@@ -9054,14 +8949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>続けてパンツを脱がすと、なかなかの太さの亀頭が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自己主張するように背伸びする。"
+                                "\\nc<>The pants come off next, and a rather thick glans stretches\nup as if asserting itself."
                             ]
                         },
                         {
@@ -9089,14 +8977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あら、かなり溜まっているようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フウッ…"
+                                "\\nc<Senpai>Oh my, it seems you've been holding back quite a bit. Hoo..."
                             ]
                         },
                         {
@@ -9113,7 +8994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>ほあっ？！"
+                                "\\nc<Timid Customer>Wha—?!"
                             ]
                         },
                         {
@@ -9141,7 +9022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩が息を吹きかけると、体を震わせゾクゾクする客。"
+                                "\\nc<>As Senpai blows gently on it, the client shivers and\ntrembles with excitement."
                             ]
                         },
                         {
@@ -9174,7 +9055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>いっきに勃起したペニスが先輩の頬を優しく擦る。"
+                                "\\nc<>The fully erect penis gently rubs against Senpai's cheek."
                             ]
                         },
                         {
@@ -9191,14 +9072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>初めは先輩がリードしていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が付けば腰をビクつかせ必死に擦りつけている。"
+                                "\\nc<>At first, Senpai was leading, but before long, the client\nwas twitching his hips desperately, rubbing against her."
                             ]
                         },
                         {
@@ -9226,14 +9100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(硬くて熱い。咲姫にはちょっともったいないペニスね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪いけど私がいただくわ)"
+                                "\\nc<Senpai>(It's hard and hot. It's a bit too good for Saki. Sorry, but\nI'll be taking this one.)"
                             ]
                         },
                         {
@@ -9250,14 +9117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふう、はあっ。気ままに楽しんでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が最後までリードしますから。"
+                                "\\nc<Senpai>Phew, haah... Please enjoy yourself at your leisure. I'll\nlead you all the way to the end."
                             ]
                         },
                         {
@@ -9274,7 +9134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>フッ、せっかちなご主人様ですね。えいっ！"
+                                "\\nc<Senpai>Hmph, such an impatient master, aren't you? Ei!"
                             ]
                         },
                         {
@@ -9332,7 +9192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>チュウッ♥"
+                                "\\nc<>*Smooch*♥"
                             ]
                         },
                         {
@@ -9360,7 +9220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>うおおっ！"
+                                "\\nc<Timid Customer>Uooooh!"
                             ]
                         },
                         {
@@ -9388,7 +9248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>バンッ！"
+                                "\\nc<>*Bang!*"
                             ]
                         },
                         {
@@ -9405,7 +9265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>いたずらに軽くキスすると悦びで暴れるペニス。"
+                                "\\nc<>When she playfully kisses it lightly, the penis thrashes\nabout in pleasure."
                             ]
                         },
                         {
@@ -9438,7 +9298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>丁寧に竿を握った先輩が、微笑みながら亀頭に囁く。"
+                                "\\nc<>Senpai, holding the shaft carefully, whispers to the glans\nwith a smile."
                             ]
                         },
                         {
@@ -9466,14 +9326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>こんにちは。内斗メアリーです。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の代打ですが…受けいれてくれてありがとうございます♥"
+                                "\\nc<Senpai>Hello. I'm Mary Senpai. I'm standing in for Saki... Thank\nyou for accepting me♥"
                             ]
                         },
                         {
@@ -9490,7 +9343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>うおっ、なんて刺激的なっ…"
+                                "\\nc<Timid Customer>Uooh, what an exciting..."
                             ]
                         },
                         {
@@ -9507,14 +9360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(ああ、もう。ペニスと会話するなんて笑っちゃう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて扱いやすい客なの？)"
+                                "\\nc<Senpai>(Ahaha, talking to a penis is so funny. What an easy client\nto handle?)"
                             ]
                         },
                         {
@@ -9531,7 +9377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふぅー。"
+                                "\\nc<Senpai>Fuu-."
                             ]
                         },
                         {
@@ -9574,7 +9420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>うぐっ！"
+                                "\\nc<Timid Customer>Uguh!"
                             ]
                         },
                         {
@@ -9591,14 +9437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(長くは持たなさそうね。早く始めなきゃ)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では本格的に始めますね。"
+                                "\\nc<Senpai>(He doesn't seem like he'll last long. We better start\nquickly.) Now, let's begin in earnest."
                             ]
                         },
                         {
@@ -9634,7 +9473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>チュッ、チュウッ♥"
+                                "\\nc<Senpai>*Smooch*, *Smooch*♥"
                             ]
                         },
                         {
@@ -9662,14 +9501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>再び亀頭に激しいキスを浴びせた先輩は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舌をベーッと突きだしそのうえにペニスを乗せた。"
+                                "\\nc<>Senpai showers the glans with intense kisses again and\nsticks out her tongue flatly, placing the penis on top of\nit."
                             ]
                         },
                         {
@@ -9686,14 +9518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>湿っぽいがザラザラで、ぷにぷにとした舌触りに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "激しく動揺する客。"
+                                "\\nc<>The client is violently shaken by the damp yet rough and\nsquishy texture of her tongue."
                             ]
                         },
                         {
@@ -9721,7 +9546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>ふっ、ふう…"
+                                "\\nc<Timid Customer>Huff, hoo..."
                             ]
                         },
                         {
@@ -9738,14 +9563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(咲姫はまだこういうのはできないでしょ？)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰をうしろに引いたらだめですよ。ペロペロ…"
+                                "\\nc<Senpai>(Saki probably can't do this yet, right?) You can't pull\nyour hips back. Lick, lick..."
                             ]
                         },
                         {
@@ -9778,7 +9596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>くおおおっ！"
+                                "\\nc<Timid Customer>Kuooh!"
                             ]
                         },
                         {
@@ -9806,14 +9624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピクピクと震える腰を掴んだまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんどん奥へと入れていく先輩。"
+                                "\\nc<>While holding onto the trembling hips, Senpai pushes deeper\nand deeper inside."
                             ]
                         },
                         {
@@ -9841,7 +9652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>そこまで入れられたら…うわああっ！！"
+                                "\\nc<Timid Customer>If you put it in that far... Uwaaaah!!"
                             ]
                         },
                         {
@@ -9946,14 +9757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>不憫に震えていたペニスは、根元まで口に入るやいないや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに射精してしまった。"
+                                "\\nc<>The pitifully trembling penis ejaculates almost immediately\nas it enters her mouth down to the base."
                             ]
                         },
                         {
@@ -9981,7 +9785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ジュブ、ヌプッ、ジュブ…"
+                                "\\nc<Senpai>Slurp, gulp, slurp..."
                             ]
                         },
                         {
@@ -10021,14 +9825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>濃い白濁液が勢いよく流れでると、先輩はそれを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一滴も溢さず器用に飲みこむ。"
+                                "\\nc<>As the thick white fluid flows out vigorously, Senpai\nskillfully swallows every drop without spilling a single\none."
                             ]
                         },
                         {
@@ -10056,7 +9853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>うわあっ…"
+                                "\\nc<Timid Customer>Uwaaah..."
                             ]
                         },
                         {
@@ -10084,7 +9881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>喉に直接射精するような感覚に、卑猥な喘ぎ声が漏れる。"
+                                "\\nc<>The sensation of ejaculating directly into her throat\nelicits lewd moans."
                             ]
                         },
                         {
@@ -10112,14 +9909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(うーん、やっぱり咲姫にはもったいないペニスね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この際、私の常連にしちゃおうっと)"
+                                "\\nc<Senpai>(Mmm, as I thought, it's too good for Saki. Maybe I should\nmake him my regular from now on.)"
                             ]
                         },
                         {
@@ -10152,7 +9942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あら、思いっきり射精されましたね。"
+                                "\\nc<Senpai>Oh my, you've ejaculated quite a lot, haven't you?"
                             ]
                         },
                         {
@@ -10180,7 +9970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュルジュル…"
+                                "\\nc<>*Slurp slurp...*"
                             ]
                         },
                         {
@@ -10197,21 +9987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>陰嚢を優しく揉みほぐす先輩の手つきに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みるみるうちに硬くなるペニス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩はお決まりの角度で客を見つめる。"
+                                "\\nc<>The penis grows hard again in no time under Senpai's gentle\nkneading of the scrotum. She looks at the client with her\nusual angle."
                             ]
                         },
                         {
@@ -10239,14 +10015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふうぅ…どうされますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだもう少し出そうですが。延長されますか？"
+                                "\\nc<Senpai>Phew... What will you do? It seems like there's still a\nlittle more to come out. Would you like to extend?"
                             ]
                         },
                         {
@@ -10263,14 +10032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>こんなに凛々しいご主人様は久しぶりで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わず力が入ってしまいました。"
+                                "\\nc<Senpai>It's been a while since I've had such a gallant master; I\ncouldn't help but get a bit carried away."
                             ]
                         },
                         {
@@ -10287,7 +10049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>は、はいぃっ、延長、お願いしますっ…はぁ、はぁっ。"
+                                "\\nc<Timid Customer>Ye-yes, please extend... Haah, haah."
                             ]
                         },
                         {
@@ -10320,14 +10082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>わあ、嬉しい。ありがとうございます。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チュウウッ♥"
+                                "\\nc<Senpai>Wow, I'm so happy. Thank you very much. *Smooch*♥"
                             ]
                         },
                         {
@@ -10367,7 +10122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピクッ！"
+                                "\\nc<>*Twitch!*"
                             ]
                         },
                         {
@@ -10391,7 +10146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩の献身的なご奉仕に完全に復活したペニス。"
+                                "\\nc<>The penis is completely revived thanks to Senpai's devoted\nservice."
                             ]
                         },
                         {
@@ -10408,7 +10163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そっと唇を離した彼女が上衣を脱ぐ。"
+                                "\\nc<>Gently parting her lips, she begins to take off her top."
                             ]
                         },
                         {
@@ -10448,14 +10203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>うおおっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは咲姫さん以上の…"
+                                "\\nc<Timid Customer>Whoa! This is even better than Saki-san..."
                             ]
                         },
                         {
@@ -10472,7 +10220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>次は私もすべて受けとめられる自信がないので。ひゃん♥"
+                                "\\nc<Senpai>Next, I'm not sure I can take it all in. Hyahn♥"
                             ]
                         },
                         {
@@ -10528,7 +10276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>チュッ、チュウ♥"
+                                "\\nc<>*Smooch*, *Mwah*♥"
                             ]
                         },
                         {
@@ -10545,14 +10293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>まるで恋人の相手をするように、献身的でねっとりした長いキスが続く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しなやかに曲がった先輩の角が、客の目の前で揺れつづける。"
+                                "\\nc<>Like making love to a sweetheart, a devoted and sticky long\nkiss continues. Senpai's gracefully curved horn sways\ncontinuously in front of the client's eyes."
                             ]
                         },
                         {
@@ -10580,14 +10321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>あっ、これどう見てもハンドルじゃ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、あの、これ掴んでもいいですか？"
+                                "\\nc<Timid Customer>Ah, this definitely looks like a handle... Uh, may I hold\nonto this?"
                             ]
                         },
                         {
@@ -10604,21 +10338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(本当はだめだけど…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お好きなだけ。さあさあ、ご主人様は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キスに集中してください。チュウッ♥"
+                                "\\nc<Senpai>(Actually, that's not allowed...) As you wish. Now, Master,\nplease focus on the kiss. *Smooch*♥"
                             ]
                         },
                         {
@@ -10635,7 +10355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>くふっ！"
+                                "\\nc<Timid Customer>Kufu!"
                             ]
                         },
                         {
@@ -10663,14 +10383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>唇と亀頭の間で長くねっとりと伸びる液体を見せつけた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩の角が客に掴まれる。"
+                                "\\nc<>The liquid stretching long and sticky between the lips and\nthe glans is shown off as Senpai's horn is grasped by the\nclient."
                             ]
                         },
                         {
@@ -10687,14 +10400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>だんだん力を入れ、押さえつけてくる動きに戸惑いながらも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頬をくぼませながら気持ちよく吸いあげる。"
+                                "\\nc<>While confused by the increasingly forceful movements, she\nsucks pleasurably with her cheeks hollowed out."
                             ]
                         },
                         {
@@ -10738,7 +10444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>チュウウッ、チュブ♥"
+                                "\\nc<Senpai>*Suck*, *Slurp*♥"
                             ]
                         },
                         {
@@ -10755,14 +10461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>くふっ、咲姫さん、ごめんなさい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫さんのために集めておいた精気、全部奪われちゃうっ！"
+                                "\\nc<Timid Customer>Kufu, I'm sorry, Saki-san... The vitality I saved for Saki-\nsan, it's all being taken away!"
                             ]
                         },
                         {
@@ -10779,21 +10478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(謝るなら最初からするなっての…んん？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつ、口の中でまた大きくなった…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヌプッ…"
+                                "\\nc<Senpai>(If you're sorry, you shouldn't have done it in the first\nplace... Hnn? This thing got bigger inside my mouth\nagain...) *Slurp*..."
                             ]
                         },
                         {
@@ -10833,7 +10518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ジュポッ、ズゴッ、チュポ…"
+                                "\\nc<>*Slurp*, *Suck*, *Thrust*, *Slop*..."
                             ]
                         },
                         {
@@ -10850,14 +10535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピストン運動が速まり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口から出る音とは思えないほど激しい音が鳴りひびく。"
+                                "\\nc<>The piston movement accelerates, and the sounds coming from\nthe mouth are unbelievably intense."
                             ]
                         },
                         {
@@ -10874,14 +10552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>最初よりさらに硬くなった亀頭が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩の喉を容赦なく突いてくる。"
+                                "\\nc<>The glans, now even harder than before, relentlessly thrusts\ninto Senpai's throat."
                             ]
                         },
                         {
@@ -10898,14 +10569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>涙をこらえながら、客の様子をうかがう先輩だったが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだいっこうに落ち着く気配はない。"
+                                "\\nc<>Senpai watches the client while holding back tears, but\nthere's still no sign of calming down."
                             ]
                         },
                         {
@@ -10922,14 +10586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>角の曲がった部分をギュッと握りしめたまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰をパンパンと打ちつける！"
+                                "\\nc<>Gripping the curved part of the horn tightly, she slams her\nhips down hard!"
                             ]
                         },
                         {
@@ -10957,14 +10614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(やばい、煽りすぎたかな…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くぷ、はうん…♥"
+                                "\\nc<Senpai>(Oh no, did I tease too much?) Kupu, haun...♥"
                             ]
                         },
                         {
@@ -10981,14 +10631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>チンポに話かけながら、おっぱいを揺らして誘惑するなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おりゃぁっ！"
+                                "\\nc<Timid Customer>Talking to the dick while shaking your breasts to tempt\nme... Take this!"
                             ]
                         },
                         {
@@ -11016,7 +10659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ズブ、ジュブ、パンッ、パァン…"
+                                "\\nc<>*Thrust*, *Slurp*, *Bang*, *Pound*..."
                             ]
                         },
                         {
@@ -11033,21 +10676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>プロらしく吐き気を我慢しながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "客の欲望を黙々と受けとめる先輩。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下着から解放された巨乳が激しく揺れて目が眩む。"
+                                "\\nc<>Senpai professionally suppresses her gag reflex while\nsilently taking in the client's desires. Her freed huge\nbreasts sway intensely, dazzling to the eye."
                             ]
                         },
                         {
@@ -11075,7 +10704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>ふあっ、はあっ、イくぅぅっ！！"
+                                "\\nc<Timid Customer>Fuah, hah, I'm cumminggg!!"
                             ]
                         },
                         {
@@ -11208,7 +10837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュビュッ、ピュビュビュビュッ！"
+                                "\\nc<>*Spurt*, *Spurt Spurt Spurt*!"
                             ]
                         },
                         {
@@ -11225,7 +10854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>最初より勢いを増した射精が先輩の喉に注ぎこまれる。"
+                                "\\nc<>The ejaculation, now more vigorous than at first, is poured\ninto Senpai's throat."
                             ]
                         },
                         {
@@ -11296,14 +10925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>目を瞑ったまま、黙々と白濁液を受けとめていた先輩は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "震えが完全に止まってから再び動きだす。"
+                                "\\nc<>With her eyes closed, Senpai silently receives the milky\nliquid and only starts moving again once the trembling has\ncompletely stopped."
                             ]
                         },
                         {
@@ -11348,7 +10970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>液体まみれになった肉棒をゆっくりと抜きとり、丁寧に手にとる。"
+                                "\\nc<>Gently pulling out the drenched penis, she carefully takes\nit in her hand."
                             ]
                         },
                         {
@@ -11376,7 +10998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ぷはぁ…豪快に射精されましたね。"
+                                "\\nc<Senpai>Phew... That was a splendid ejaculation."
                             ]
                         },
                         {
@@ -11393,7 +11015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>あうっ…"
+                                "\\nc<Timid Customer>Auh..."
                             ]
                         },
                         {
@@ -11421,7 +11043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>いつのまにか客は角から手を離していた。"
+                                "\\nc<>Before he knew it, the client had let go of the horn."
                             ]
                         },
                         {
@@ -11438,14 +11060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>あまりに気持ちよく射精したせいで、勃起していたペニスが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クイッと少し曲がった。"
+                                "\\nc<>The penis that was erect has now bent slightly from the\nintense pleasure of ejaculation."
                             ]
                         },
                         {
@@ -11462,7 +11077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>妙な笑みを浮かべた先輩が亀頭の先端に唇づけする。"
+                                "\\nc<>Senpai smiles oddly and places her lips on the tip of the\nglans."
                             ]
                         },
                         {
@@ -11518,7 +11133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ジュルル、チュウウッ♥"
+                                "\\nc<Senpai>Slurp, *Mwah*♥"
                             ]
                         },
                         {
@@ -11535,7 +11150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>あうっ、出してすぐお掃除フェラなんてっ…"
+                                "\\nc<Timid Customer>Auh, a cleanup blowjob right after cumming..."
                             ]
                         },
                         {
@@ -11552,7 +11167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もう一度できますよね？"
+                                "\\nc<Senpai>You can go one more time, right?"
                             ]
                         },
                         {
@@ -11569,7 +11184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>ええっ？！　も、もう精力も財布も限界で…"
+                                "\\nc<Timid Customer>Eeh?! My, my stamina and wallet are both at their limit..."
                             ]
                         },
                         {
@@ -11586,14 +11201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>当店は分割払いもございますのでご心配なく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次は私の胸で思う存分楽しんでください…"
+                                "\\nc<Senpai>Our shop offers installment payments so don't worry. Next\ntime, please enjoy yourself to your heart's content with my\nbreasts..."
                             ]
                         },
                         {
@@ -11610,14 +11218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<弱気な客>くっ、くうぅっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し、します！　もう１回延長！"
+                                "\\nc<Timid Customer>Kuh, kuuuh... I'll do it! Extend one more time!"
                             ]
                         },
                         {
@@ -11634,14 +11235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>はぁい、ありがとうございます♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１回延長入りま～す。"
+                                "\\nc<Senpai>Yes, thank you very much♥ One more extension coming up~"
                             ]
                         },
                         {
@@ -11669,14 +11263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ふくよかな胸を見せつけるように腕を組んでいた先輩が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉しそうに笑う。"
+                                "\\nc<>Senpai smiles happily as she crosses her arms to flaunt her\nvoluptuous breasts."
                             ]
                         },
                         {
@@ -11796,7 +11383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そのあと、客はさらに数回搾りとられた…"
+                                "\\nc<>After that, the client was milked several more times..."
                             ]
                         },
                         {

@@ -3222,7 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究室に入りますか？"
+                                "Will you enter the laboratory?"
                             ]
                         },
                         {
@@ -3230,8 +3230,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -3549,7 +3549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入らないほうがよさそうだ…"
+                                "It seems better not to enter..."
                             ]
                         },
                         {
@@ -3668,7 +3668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入らないほうがよさそうだ…"
+                                "It seems better not to enter..."
                             ]
                         },
                         {
@@ -3902,7 +3902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入らないほうがよさそうだ…"
+                                "It seems better not to enter..."
                             ]
                         },
                         {

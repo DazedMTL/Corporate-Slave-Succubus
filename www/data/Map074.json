@@ -6646,7 +6646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]はあ…"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>*sigh*..."
                             ]
                         },
                         {
@@ -6718,14 +6718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveHome[2, 30]\\bustMsgExpression[2,1]いったい１人のお客を抜くのに何分かかってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次のお客を入れるから早く片づけて。"
+                                "\\bustMoveHome[2, 30]\\bustMsgExpression[2,1]\\nc<Senpai>How many minutes does it take you to finish off a single\ncustomer? Hurry up and clean up, we're bringing in the next\none."
                             ]
                         },
                         {
@@ -6779,7 +6772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1]えっ？　私が片づけるんですか？"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>Eh? I have to clean up?"
                             ]
                         },
                         {
@@ -6824,7 +6817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まだうちの会社のことが分かってないみたいね。"
+                                "\\nc<Senpai>It seems you still don't understand how our company works."
                             ]
                         },
                         {
@@ -6850,14 +6843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 0]社員ができることは社員がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "社員ができないことも社員がする。"
+                                "\\bustMsgExpression[2, 0]\\nc<Senpai>Employees do what they can do. They also do what they can't\ndo."
                             ]
                         },
                         {
@@ -7085,7 +7071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]ふっ、ふうっ…"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>Hah, huff..."
                             ]
                         },
                         {
@@ -7102,7 +7088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(まだ舌がヒリヒリする…)"
+                                "\\nc<Saki>(My tongue still stings...)"
                             ]
                         },
                         {

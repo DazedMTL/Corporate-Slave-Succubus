@@ -4678,7 +4678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>咲姫ちゃん、久しぶり！"
+                                "\\nc<Producer>Saki-chan, long time no see!"
                             ]
                         },
                         {
@@ -4805,21 +4805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>このまえの収録分、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "放送できなくて残念だったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんの熱演のおかげで力作になりそうだったのに…"
+                                "\\nc<Producer>It's a shame we couldn't broadcast the last recording. It\nwas shaping up to be a masterpiece thanks to Saki-chan's\npassionate performance..."
                             ]
                         },
                         {
@@ -4850,7 +4836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]ど、どうも…あはは…"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Th-thank you... ahaha..."
                             ]
                         },
                         {
@@ -4867,21 +4853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うわ、気持ち悪い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人ん家に無断で入りこんだくせに平然としてる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも仕方ないか)"
+                                "\\nc<Saki>(Ugh, this is creepy. He barges into someone's house without\npermission and acts like it's nothing... But I guess there's\nno helping it.)"
                             ]
                         },
                         {
@@ -4912,7 +4884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>今回の件についてはいちおう聞いてるよね？"
+                                "\\nc<Producer>You've been briefed about this job, right?"
                             ]
                         },
                         {
@@ -4943,14 +4915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]はい…だいたいですけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新しい成人向けプラットフォームの宣伝関連だとか…"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Yes... mostly... It's related to promoting a new adult\nplatform or something..."
                             ]
                         },
                         {
@@ -4981,14 +4946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>なんだ、ちゃんと聞いてるじゃないか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は生まれつきエロいから、普段通りにすればいいよ。"
+                                "\\nc<Producer>See, you've been listening! Saki was born to be lewd, so\njust act as you normally would."
                             ]
                         },
                         {
@@ -5112,7 +5070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>はい、これ台本です。"
+                                "\\nc<Staff>Here's the script."
                             ]
                         },
                         {
@@ -5143,7 +5101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、ありがとうございます。えっと…"
+                                "\\nc<Saki>Oh, thank you. Um..."
                             ]
                         },
                         {
@@ -5228,7 +5186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ちょ…何ですか、これ！？"
+                                "\\nc<Saki>Wait... what is this?!"
                             ]
                         },
                         {
@@ -5259,7 +5217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>すごいだろ？　まさにプロの台本ってね。"
+                                "\\nc<Producer>Impressive, right? That's what a professional script looks\nlike."
                             ]
                         },
                         {
@@ -5290,21 +5248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(えええ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなの書いてプロなんて質が低すぎる！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ…これ、やりすぎじゃないですか？"
+                                "\\nc<Saki>(Eeeh? If this is professional, the standards are way too\nlow!) Isn't this... going too far?"
                             ]
                         },
                         {
@@ -5335,21 +5279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>いやいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんは素人だから知らないだろうけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新規プラットフォームをリリースするなら、このくらい派手にいかないと。"
+                                "\\nc<Producer>No, no. You're an amateur, Saki-chan, so you might not know,\nbut when releasing a new platform, you have to go big."
                             ]
                         },
                         {
@@ -5555,14 +5485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(わっ！？　急に…？　これ、100%自分の好みでしょう！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にこのコンセプトでいくんですか…？"
+                                "\\nc<Saki>(Whoa!? Suddenly...? This is 100% his own preference!) Are\nwe really going with this concept...?"
                             ]
                         },
                         {
@@ -5593,21 +5516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>もちろん！　機材は万全だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備ができたら言ってくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "台本も読みやすいように向こうの画面に表示するからさ。"
+                                "\\nc<Producer>Of course! The equipment is all set, so just let me know\nwhen you're ready. The script will be displayed on the\nscreen over there for easy reading."
                             ]
                         },
                         {
@@ -5638,7 +5547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](無駄な配慮だけは抜かりないんだから…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(He's thorough with unnecessary considerations...)"
                             ]
                         },
                         {
@@ -6186,7 +6095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ううう…あの、最後に１つ聞きたいことがあるんですけど。"
+                                "\\nc<Saki>Ugh... um, there's one last thing I want to ask."
                             ]
                         },
                         {
@@ -6217,14 +6126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>何？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ生中継だから今のうちに聞いてくれよ。"
+                                "\\nc<Producer>What? Ask now, we're live."
                             ]
                         },
                         {
@@ -6255,7 +6157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>その…"
+                                "\\nc<Saki>That..."
                             ]
                         },
                         {
@@ -6324,7 +6226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>本当にこの姿勢でやるんですか？"
+                                "\\nc<Saki>Are we really going to do it in this position?"
                             ]
                         },
                         {
@@ -6341,7 +6243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>大丈夫だって！　すごく綺麗に映ってるよ！"
+                                "\\nc<Producer>Don't worry! You look absolutely gorgeous!"
                             ]
                         },
                         {
@@ -6358,14 +6260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(そういうことを聞いたわけじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うう…もう！)"
+                                "\\nc<Saki>(That's not what I was asking! Ugh... never mind!)"
                             ]
                         },
                         {
@@ -6382,7 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>それじゃあ30秒後にスタートね。30、29、28…"
+                                "\\nc<Producer>Alright then, we start in 30 seconds. 30, 29, 28..."
                             ]
                         },
                         {
@@ -6427,14 +6322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(こうなったら仕方ない…！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうも！　ヘンタイTVのサキでーす！"
+                                "\\nc<Saki>(No choice but to go with it now...!) Hello! This is Saki\nfrom Hentai TV!"
                             ]
                         },
                         {
@@ -6451,14 +6339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あはは、ちょっと恥ずかしい姿勢で失礼します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と言っても、ヘンタイTVは私たち淫魔が出演する番組ですからね！"
+                                "\\nc<Saki>Ahaha, excuse my slightly embarrassing pose. But then again,\nHentai TV is a show where we succubi perform!"
                             ]
                         },
                         {
@@ -6475,7 +6356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>いいね、視聴者数がどんどん伸びてるよ"
+                                "\\nc<Producer>Nice, the viewer count is climbing steadily."
                             ]
                         },
                         {
@@ -6492,7 +6373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(こんなの誰にも見られたくないんですけど…)"
+                                "\\nc<Saki>(I don't want anyone to see this...)"
                             ]
                         },
                         {
@@ -6520,14 +6401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は必死に笑みを浮かべ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カメラの横にある画面の文字を読みつづける。"
+                                "\\nc<>Saki continues to smile desperately and reads the text on\nthe screen next to the camera."
                             ]
                         },
                         {
@@ -6555,14 +6429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヘンタイTV最初のテーマは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "{サキお姉さんが教えてあげる！　淫魔の扱い方！}です！"
+                                "\\nc<Saki>The first theme of Hentai TV is... {Saki-oneesan will teach\nyou! How to handle a succubus!}"
                             ]
                         },
                         {
@@ -6579,14 +6446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>おお、女の接し方について教えてくれるって！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは見逃せないな！"
+                                "\\nc<Producer>Oh, you're going to teach us how to deal with women!? Can't\nmiss this!"
                             ]
                         },
                         {
@@ -6603,14 +6463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(やっぱり自分がしたかっただけじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "平然と割りこんできて…)"
+                                "\\nc<Saki>(Just as I thought, he wanted to do this himself. He barges\nin so casually...)"
                             ]
                         },
                         {
@@ -6627,14 +6480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>違います。女ではなく「淫魔」！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔って普通の女性たちとは違いますからね！"
+                                "\\nc<Saki>No, not women—'succubi'! Succubi are different from ordinary\nwomen!"
                             ]
                         },
                         {
@@ -6651,7 +6497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>それじゃあ…こんなこともできたりして？"
+                                "\\nc<Producer>So... can you do things like this?"
                             ]
                         },
                         {
@@ -6679,7 +6525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ギュッ♥"
+                                "\\nc<>Gyuu♥"
                             ]
                         },
                         {
@@ -6712,14 +6558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>プロデューサーの太い指が咲姫のマンコの上を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざとらしく押さえつける。"
+                                "\\nc<>The producer's thick fingers press down exaggeratedly on\nSaki's pussy."
                             ]
                         },
                         {
@@ -6736,7 +6575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>次第に、男の指がぷくっと膨れた陰唇に入りこむ。"
+                                "\\nc<>Gradually, the man's fingers enter the plump labia."
                             ]
                         },
                         {
@@ -6753,14 +6592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は不自然に笑いながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりと台本のセリフを口にする。"
+                                "\\nc<>Saki continues to read the script unnaturally while\nlaughing."
                             ]
                         },
                         {
@@ -6788,7 +6620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>も、もちろんできますよ！　淫魔相手にNGなんてありませんから。"
+                                "\\nc<Saki>Of course you can! There are no NGs when dealing with a\nsuccubus."
                             ]
                         },
                         {
@@ -6805,21 +6637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(はあ…台本が思った以上に低俗すぎ… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが終わったらまたほかの淫魔たちに何か言われそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとで呪いますからね、先輩！)"
+                                "\\nc<Saki>(Sigh... The script is even more vulgar than I thought...\nAfter this is over, I'm sure I'll get comments from the\nother succubi. I'll curse you for this later, senpai!)"
                             ]
                         },
                         {
@@ -6847,7 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ジュポッ…"
+                                "\\nc<>Jubu, jupo..."
                             ]
                         },
                         {
@@ -6892,14 +6710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>男の太い指が咲姫の体の中に入ると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チャットが次々に上がってくる。"
+                                "\\nc<>The man's thick fingers enter Saki's body, and the chat\nstarts to flood with messages."
                             ]
                         },
                         {
@@ -6927,21 +6738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>まずは触り方から教えますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実を言うと、淫魔ってどう触っても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに発情しちゃうんですけどね。"
+                                "\\nc<Saki>First, I'll teach you how to touch. To tell the truth,\nsuccubi get aroused no matter how you touch them."
                             ]
                         },
                         {
@@ -6958,14 +6755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>いやいや、家に連れこむ方法から教えてくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番ハードルの高いところをスルーしちゃだめでしょ。"
+                                "\\nc<Producer>No, no, teach me how to bring one home first. You can't just\nskip over the highest hurdle."
                             ]
                         },
                         {
@@ -7005,7 +6795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ワハハハ！"
+                                "\\nc<>Wahaha!"
                             ]
                         },
                         {
@@ -7022,14 +6812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>派手な効果音が響くと、咲姫の頭から血の気が引いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、それとは別に下腹部は嬉しそうにぷるぷると震えている。"
+                                "\\nc<>As the flashy sound effects ring out, the blood drains from\nSaki's head. However, separately, her lower abdomen trembles\nhappily with excitement."
                             ]
                         },
                         {
@@ -7057,14 +6840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(くっ、触るのだけは上手なんだから…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…って、ええ？　いくらなんでもこのセリフはないんじゃない…？)"
+                                "\\nc<Saki>(Geez, he's only good at touching... but, what? Surely this\nline is too much...?)"
                             ]
                         },
                         {
@@ -7092,14 +6868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>画面を見て、しばしためらっていた咲姫が、スタッフからの催促に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方なく口を開く。"
+                                "\\nc<>Looking at the screen, Saki hesitates for a moment before\nreluctantly opening her mouth at the staff's urging."
                             ]
                         },
                         {
@@ -7127,21 +6896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それなら簡単です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家に押しかけるか、酒に薬を入れて飲ませるか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも淫魔第一産業に来ていただければ…"
+                                "\\nc<Saki>If that's the case, it's easy! You either barge into their\nhome, drug their drink, or you could just come to Succubus\nFirst Industries..."
                             ]
                         },
                         {
@@ -7158,14 +6913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>わはは！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃん、ここでは宣伝禁止だからね。 "
+                                "\\nc<Producer>Wahaha! Saki-chan, no advertising here, okay."
                             ]
                         },
                         {
@@ -7182,7 +6930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あはは、すみません…ふぅっ♥"
+                                "\\nc<Saki>Ahaha, sorry... Phew♥"
                             ]
                         },
                         {
@@ -7199,14 +6947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>おお！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おしゃべりしてる間に反応が良くなったんじゃない？"
+                                "\\nc<Producer>Oh! Hasn't your response gotten better while we've been\ntalking?"
                             ]
                         },
                         {
@@ -7223,21 +6964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>咲姫ちゃん、淫魔のマンコは一般人と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どう違うのかな？もともと人間だった咲姫ちゃんなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰よりもよく知っていると思うけど。"
+                                "\\nc<Producer>Saki-chan, how is a succubus's pussy different from a\nhuman's? Since you were originally human, I think you'd know\nbetter than anyone."
                             ]
                         },
                         {
@@ -7254,7 +6981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>ついでに弱点もよろしくね！"
+                                "\\nc<Producer>And don't forget to tell us your weaknesses!"
                             ]
                         },
                         {
@@ -7294,7 +7021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュボッ、ズブッ…"
+                                "\\nc<>Jubo, zubu..."
                             ]
                         },
                         {
@@ -7327,21 +7054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の秘部からは、いつの間にか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねっとりとした蜜汁が垂れている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "熱くなった肉壁が、男の指をピタリと包みこむ。"
+                                "\\nc<>Sticky honey drips from Saki's genitals; her heated flesh\nwalls tightly envelop the man's fingers."
                             ]
                         },
                         {
@@ -7369,21 +7082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そうですね…私の弱点はずばり子宮口！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それと膣口とGスポットも弱いですね。スポットは個人差があるんだそうですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は感じやすいタイプなんだと思います。"
+                                "\\nc<Saki>Well... my weakness is definitely the cervix! And also the\nvaginal opening and G-spot are sensitive. They say\nsensitivity varies from person to person, but I think I'm\nthe type who feels it easily."
                             ]
                         },
                         {
@@ -7400,14 +7099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>おお、これは貴重な情報だね…って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃん、弱点多すぎない？"
+                                "\\nc<Producer>Oh, this is valuable information... but! Saki-chan, don't\nyou have too many weaknesses?"
                             ]
                         },
                         {
@@ -7424,21 +7116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>し、仕方ないじゃないですか！　淫魔なんですから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間だったころに鈍感だったところも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔になってからはどこも…んあっ♥"
+                                "\\nc<Saki>I can't help it! I'm a succubus! Even the places that were\ninsensitive when I was human are now all... Nn ah♥"
                             ]
                         },
                         {
@@ -7455,7 +7133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>じゃあ、一番好きな体位は？"
+                                "\\nc<Producer>So, what's your favorite sex position?"
                             ]
                         },
                         {
@@ -7472,21 +7150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(え、何この下心丸出しの台本…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ…どの体位も好きなんですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手の下敷きになって挿入されるのがお気に入りっていうか…"
+                                "\\nc<Saki>(What's with this blatantly ulterior-motive-filled\nscript...) Well... I like all positions, but my favorite is\nbeing underneath my partner and getting penetrated..."
                             ]
                         },
                         {
@@ -7514,14 +7178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>放送が進行するに従い、咲姫の子宮は着々と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手を受けいれる準備を整えていく。"
+                                "\\nc<>As the broadcast progresses, Saki's womb steadily prepares\nto accept her partner."
                             ]
                         },
                         {
@@ -7538,14 +7195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>すると、太い指先がやや膨れあがった子宮口を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グイグイと荒く引っ掻きまわす。"
+                                "\\nc<>Then, the thick fingertips roughly scratch and prod at the\nslightly swollen cervix."
                             ]
                         },
                         {
@@ -7601,14 +7251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<(ちょ、ちょっと！　怪我でもしたらどうするの…ふああっ♥)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ♥ほおっ♥"
+                                "\\nc<(Hey, hey! What if you hurt me... Fuaa♥) Oh♥ Hoo♥"
                             ]
                         },
                         {
@@ -7625,7 +7268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc急に喋らなくなったね。そろそろイきそう？"
+                                "\\ncYou've suddenly stopped talking. Are you about to come?"
                             ]
                         },
                         {
@@ -7642,7 +7285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あうっ、そ、そうですね…おおっ…♥"
+                                "\\nc<Saki>Auh, yes... Ooh...♥"
                             ]
                         },
                         {
@@ -7659,14 +7302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\ncプロデューサー>マジかよ…簡単すぎてむしろ安心したよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えいっ！　えいっ！"
+                                "\\ncProducer-> Seriously? That was too easy; it's actually a\nrelief. Ei! Ei!"
                             ]
                         },
                         {
@@ -7683,7 +7319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ…"
+                                "\\nc<Saki>Kufu..."
                             ]
                         },
                         {
@@ -7711,14 +7347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>歯を食いしばった咲姫はダラダラとよだれを垂らしながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プロデューサーからの猛攻を必死で耐える。"
+                                "\\nc<>Biting her lip, Saki drools as she desperately endures the\nproducer's fierce onslaught."
                             ]
                         },
                         {
@@ -7735,7 +7364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>爪による痛みも、今となっては性感の一つ。"
+                                "\\nc<>The pain from his nails has now become one of her sources of\npleasure."
                             ]
                         },
                         {
@@ -7752,7 +7381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュボッ、ジュボオッ…"
+                                "\\nc<>Jubo, juboo..."
                             ]
                         },
                         {
@@ -7780,14 +7409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>そうだ、咲姫ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イったら罰としてすぐ本番に入るからね。"
+                                "\\nc<Producer>That's right, Saki-chan. If you come, as a punishment we'll\ngo straight to the main act."
                             ]
                         },
                         {
@@ -7811,7 +7433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>え？　ちょ、ちょっと。それってどういう…ほおおっ♥"
+                                "\\nc<Saki>Eh? Wait a minute. What do you mean by that... Hooo♥"
                             ]
                         },
                         {
@@ -7935,7 +7557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュルッ…ビュビュッ…"
+                                "\\nc<>Piyuru... Byubyu..."
                             ]
                         },
                         {
@@ -7952,7 +7574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>透明な潮水が勢いよくカメラのレンズに向かって噴き出す。"
+                                "\\nc<>Transparent squirt forcefully jets towards the camera lens."
                             ]
                         },
                         {
@@ -7969,14 +7591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫をあっさり絶頂させたプロデューサーが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざと大げさに振るまう。"
+                                "\\nc<>The producer easily brings Saki to climax and then acts\nexaggeratedly on purpose."
                             ]
                         },
                         {
@@ -8004,14 +7619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>おお、すぐにイっちゃうなんて！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなにしたかった？"
+                                "\\nc<Producer>Oh, coming so quickly! Did you want it that badly?"
                             ]
                         },
                         {
@@ -8028,7 +7636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くひっ、はぐっ…♥"
+                                "\\nc<Saki>Kuhu, hagu...♥"
                             ]
                         },
                         {
@@ -8056,14 +7664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>頭の中が真っ白になった状態でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌悪感と反抗心を抱いた咲姫だったが…"
+                                "\\nc<>Even with her mind gone blank, Saki feels disgust and\ndefiance..."
                             ]
                         },
                         {
@@ -8080,14 +7681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スタッフたちの視線に自暴自棄になりながらも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐさま画面のセリフを読みあげる。"
+                                "\\nc<>But overwhelmed by the staff's gaze, she quickly reads the\nlines on the screen."
                             ]
                         },
                         {
@@ -8115,21 +7709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、そんなこと言われたって仕方ないですよ。ふう、はあ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(でも…本番は無理だよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまえもエロすぎて放送禁止になったって言ってたし)"
+                                "\\nc<Saki>There's nothing I can do about it if you say that. Phew,\nhaa...(But... going all the way is impossible. They said it\nwas too erotic and got banned from broadcasting last time)"
                             ]
                         },
                         {
@@ -8146,14 +7726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>ちなみに、ここからの本番はすべて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リアルな人形を使ってお送りします！"
+                                "\\nc<Producer>By the way, from here on out, we'll be using real dolls for\nthe main act!"
                             ]
                         },
                         {
@@ -8181,14 +7754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>淡い希望を抱いていた咲姫は、プロデューサーの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めちゃくちゃな言い訳に呆れてしまう。"
+                                "\\nc<>Saki, who had been holding onto a faint hope, is dumbfounded\nby the producer's absurd excuse."
                             ]
                         },
                         {
@@ -8217,7 +7783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スッ…"
+                                "\\nc<>...Sss..."
                             ]
                         },
                         {
@@ -8234,14 +7800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>プロデューサーの肉付きのいいお腹が、咲姫の股に触れると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わず驚いて身震いする咲姫。"
+                                "\\nc<>The producer's plump belly touches Saki's crotch, causing\nher to shiver in surprise."
                             ]
                         },
                         {
@@ -8258,14 +7817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しかし、カメラの外では周りのスタッフたちが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫をしっかり掴んでいる。"
+                                "\\nc<>However, outside of the camera's view, the staff firmly\nholds Saki in place."
                             ]
                         },
                         {
@@ -8321,14 +7873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ま、待って！　本当にこのまま…んんあっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(嘘、本当に入ってき…♥)"
+                                "\\nc<Saki>Wa-wait! Are you really going to...nnn ah!? (No way, it's\nreally going in...♥)"
                             ]
                         },
                         {
@@ -8356,21 +7901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>腹の奥から伝わってくる凄まじい圧迫に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫が口をパクパクさせていると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プロデューサーの口元がいやらしく歪む。"
+                                "\\nc<>As Saki's mouth opens and closes from the tremendous\npressure coming from deep within her belly, the producer's\nlips curl into a lewd smile."
                             ]
                         },
                         {
@@ -8398,14 +7929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>あれ？　チンポを入れたとたん、おとなしくなったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが淫魔か…"
+                                "\\nc<Producer>Huh? You've become so quiet as soon as the dick went in. Is\nthis the nature of a succubus..."
                             ]
                         },
                         {
@@ -8434,14 +7958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くひっ、ふあっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(この人、大きすぎ…しかも容赦なく突いてきてっ…)"
+                                "\\nc<Saki>Kuhu, fuah...♥ (This person is too big... and he's thrusting\nwithout mercy...)"
                             ]
                         },
                         {
@@ -8469,7 +7986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>息切れする咲姫の目に、画面の指示文が飛びこんでくる。"
+                                "\\nc<>Saki's breathless eyes catch the instructions on the screen."
                             ]
                         },
                         {
@@ -8497,21 +8014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ふざけないで！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔だからってこんなのまで好きなわけないでしょう！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うっ、くふっ♥"
+                                "\\nc<Saki>(Don't joke with me! Just because I'm a succubus doesn't\nmean I like this sort of thing!) Ugh, kufu♥"
                             ]
                         },
                         {
@@ -8539,21 +8042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>歯を食いしばり必死で我慢するも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プロデューサーが本気で腰を振りはじめると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の口からは、すぐさま快楽に満ちた喘ぎ声が漏れだす。"
+                                "\\nc<>Despite clenching her teeth and desperately trying to\nendure, as soon as the producer starts thrusting in earnest,\nmoans filled with pleasure escape Saki's lips."
                             ]
                         },
                         {
@@ -8593,7 +8082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>おおおっ！？　くはっ♥"
+                                "\\nc<Saki>Oooh!? Kuhah♥"
                             ]
                         },
                         {
@@ -8610,7 +8099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>さっきの弱点の話、本当だったんだね！"
+                                "\\nc<Producer>So the talk about your weak spot was true!"
                             ]
                         },
                         {
@@ -8627,14 +8116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>子宮口が包みこんでくるこの感じ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔だからこそ楽しめるんだよな。"
+                                "\\nc<Producer>This feeling of your cervix enveloping me... it's something\nonly a succubus can enjoy."
                             ]
                         },
                         {
@@ -8651,14 +8133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>んふっ、ああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(だめだ、抵抗できない…)"
+                                "\\nc<Saki>Nfuh, aah♥ (It's no use, I can't resist...)"
                             ]
                         },
                         {
@@ -8675,21 +8150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>おっと、咲姫ちゃん…そんなに気持ちいい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭が空っぽになるのはいいけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撮影には集中してもらわないと。"
+                                "\\nc<Producer>Oops, Saki-chan... feeling that good? It's fine to lose your\nmind, but you need to focus on the shoot."
                             ]
                         },
                         {
@@ -8759,7 +8220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ペシッ！"
+                                "\\nc<>*Slap!*"
                             ]
                         },
                         {
@@ -8776,7 +8237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>男に叩かれ、体をヒクヒクさせる咲姫。"
+                                "\\nc<>Saki twitches as she is slapped by the man."
                             ]
                         },
                         {
@@ -8793,14 +8254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>プロデューサーの大きな体に押しつぶされた咲姫のアヘ顔が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クローズアップされる。"
+                                "\\nc<>Saki's ahegao face, crushed by the producer's large body, is\nzoomed in on."
                             ]
                         },
                         {
@@ -8828,14 +8282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>ほら咲姫ちゃん、しっかりしないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままじゃ勤務時間が伸びちゃうよ。"
+                                "\\nc<Producer>Come on, Saki-chan, get it together. If you don't, your work\nhours are going to extend."
                             ]
                         },
                         {
@@ -8852,7 +8299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>おっ♥ごほっ♥"
+                                "\\nc<Saki>Oh♥ Goh♥"
                             ]
                         },
                         {
@@ -8869,14 +8316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>おお…本当に我を忘れてイっちゃってるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男に押しつぶされるのがそんなに好き？"
+                                "\\nc<Producer>Oh... you're really losing yourself in it. Do you like being\ncrushed by a man that much?"
                             ]
                         },
                         {
@@ -8893,7 +8333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ご、ごほっ♥だって…仕方ないじゃん…"
+                                "\\nc<Saki>Go, goh♥ But... it can't be helped..."
                             ]
                         },
                         {
@@ -8910,7 +8350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>あ？　おい、マイク近づけろ！"
+                                "\\nc<Producer>Huh? Hey, bring the mic closer!"
                             ]
                         },
                         {
@@ -8927,21 +8367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ま、負けました…淫魔は勝てませんっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなにガッツリ押しつぶされて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弱いところを責められたら…んあぁっ♥"
+                                "\\nc<Saki>I've lost... A succubus can't win...♥ When I'm pressed down\nthis firmly and my weak spots are targeted... nnaah♥"
                             ]
                         },
                         {
@@ -8958,14 +8384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>くう～、いいねえ、これ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい、ちゃんと撮ってるよな？"
+                                "\\nc<Producer>Kuu~, this is good. Hey, make sure you're filming this\nproperly, okay?"
                             ]
                         },
                         {
@@ -8982,14 +8401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>淫魔なんだから、仕方ないですよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "べつに私がエッチなわけじゃない…くふっ♥"
+                                "\\nc<Saki>It can't be helped since I'm a succubus... It's not like I'm\nlewd or anything... kufu♥"
                             ]
                         },
                         {
@@ -9006,14 +8418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>いいね、いいね！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺もイくぞ！！"
+                                "\\nc<Producer>Nice, nice! I'm going to cum too!!"
                             ]
                         },
                         {
@@ -9102,7 +8507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ドピュッ、\\.\\."
+                                "\\nc<>*Spurt*"
                             ]
                         },
                         {
@@ -9189,7 +8594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ドピュッ！"
+                                "\\nc<>*Spurt!*"
                             ]
                         },
                         {
@@ -9217,7 +8622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うっ♥ああっ…♥"
+                                "\\nc<Saki>Ugh♥ Ahh...♥"
                             ]
                         },
                         {
@@ -9234,14 +8639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>ふう、気持ちよかったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃん？　意識飛んじゃった？"
+                                "\\nc<Producer>Phew, that felt good. How about you, Saki-chan? Did you lose\nconsciousness?"
                             ]
                         },
                         {
@@ -9258,21 +8656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>さっきも言ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勤務時間が伸びるだけだからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、俺的にはそれも悪くないけど…フフフ…"
+                                "\\nc<Producer>Like I said earlier, all this does is extend your working\nhours. Well, personally, I don't mind that at all...\nHehehe..."
                             ]
                         },
                         {
@@ -9300,21 +8684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>プロデューサーのいやらしい声が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の頭の中で鳴りひびくが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠のく彼女の意識を引きもどすことはできなかった。"
+                                "\\nc<>The producer's sleazy voice echoes in Saki's head but fails\nto bring back her fading consciousness."
                             ]
                         },
                         {
@@ -9331,21 +8701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は、カメラのレンズが目の前で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "輝いているのを見ながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのまま気を失ってしまった…"
+                                "\\nc<>Saki loses consciousness while staring at the camera lens\nshining in front of her..."
                             ]
                         },
                         {

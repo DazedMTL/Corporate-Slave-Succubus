@@ -3164,7 +3164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]みんな、だいたい分かってると思うけど…"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>I think everyone roughly understands, but..."
                             ]
                         },
                         {
@@ -3181,14 +3181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]今年も来てしまったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "VIPと役員を対象にした年末パーティーでの接待。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>It's come again this year. The end-of-year party where we\nentertain VIPs and executives."
                             ]
                         },
                         {
@@ -3283,7 +3276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー>うっ、結局また…"
+                                "\\nc<Member>Ugh, it's happening again..."
                             ]
                         },
                         {
@@ -3323,14 +3316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]な、何ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに酷いんですか…？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Wh-What? Is it really that bad...?"
                             ]
                         },
                         {
@@ -3361,7 +3347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー>まあ、行ってみれば分かるよ。"
+                                "\\nc<Member>Well, you'll understand once we get there."
                             ]
                         },
                         {
@@ -3392,14 +3378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]お偉いさんとVIPが集まるんだから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもみたいにおとなしく過ごすわけないでしょう。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>With all the big shots and VIPs gathering... there's no way\nit'll be a quiet event like usual."
                             ]
                         },
                         {
@@ -3453,14 +3432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ええ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(せ、先輩がああ言うくらいなら…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Yes...(If Senpai says so...)"
                             ]
                         },
                         {
@@ -3505,7 +3477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]咲姫はもう確定だから覚悟しなさい。"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>Saki, it's already decided, so brace yourself."
                             ]
                         },
                         {
@@ -3550,7 +3522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]はい…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Yes..."
                             ]
                         },
                         {
@@ -3795,14 +3767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>年末パーティーの準備が始まりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "選抜されたメンバーは会場に向かってください！"
+                                "\\nc<Employee>The preparations for the end-of-year party have begun.\nMembers who have been selected, please head to the venue!"
                             ]
                         },
                         {
@@ -4061,7 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]もう始まったわね…行きましょう。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>It's started already... Let's go."
                             ]
                         },
                         {
@@ -6492,7 +6457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](うう、なんだか不安…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Ugh, I'm feeling so anxious...)"
                             ]
                         },
                         {

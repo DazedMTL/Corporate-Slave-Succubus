@@ -2622,14 +2622,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "今日は評価日だ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "評価結果を見てから日課を進めよるようにしよう。"
+                                "Today is the evaluation day... Let's proceed with the daily\nroutine after checking the evaluation results."
                             ]
                         },
                         {

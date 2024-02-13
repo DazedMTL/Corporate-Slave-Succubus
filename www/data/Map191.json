@@ -1434,14 +1434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "キャビネットの中にも人がいます"
+                                "Would you like to watch the event? There's also someone\ninside the cabinet."
                             ]
                         },
                         {
@@ -1449,8 +1442,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -1688,7 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うちの会社、出張が多すぎます…今回は警備会社ですか？"
+                                "\\nc<Saki>Our company has too many business trips... Is it a security\ncompany this time?"
                             ]
                         },
                         {
@@ -1705,7 +1698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ええ。とても有望な会社よ。"
+                                "\\nc<Senpai>Yes. It's a very promising company."
                             ]
                         },
                         {
@@ -1722,14 +1715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>でも、いきなり警備会社に行けって言われても…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、警備に関してはさっぱりですよ？"
+                                "\\nc<Saki>But even if you tell me to go to a security company all of a\nsudden... I know nothing about security, you know?"
                             ]
                         },
                         {
@@ -1746,14 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あ、警備といっても主な仕事は警備のサポートよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたには雑用を任せると思うわ。"
+                                "\\nc<Senpai>Oh, but the main job is support for security. I think you'll\nbe assigned to miscellaneous tasks."
                             ]
                         },
                         {
@@ -1770,7 +1749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ただの雑用係じゃないですか…"
+                                "\\nc<Saki>So I'm just a gofer..."
                             ]
                         },
                         {
@@ -1787,7 +1766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>サポートって言ったほうが格好いいでしょ。 "
+                                "\\nc<Senpai>It sounds cooler if you say support, doesn't it?"
                             ]
                         },
                         {
@@ -1804,21 +1783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うう、帰りたい…いや、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考え方を変えればらくな仕事なのかも？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お使いとかを任されるかもしれないし…)"
+                                "\\nc<Saki>(Ugh, I want to go home... But maybe if I change my\nperspective, it could be an easy job? Maybe I'll just be\nrunning errands...)"
                             ]
                         },
                         {
@@ -1835,7 +1800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>着いたわね。じゃあ咲姫、時間になるまで頑張って。"
+                                "\\nc<Senpai>We've arrived. Well then, Saki, do your best until it's\ntime."
                             ]
                         },
                         {
@@ -1852,14 +1817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええええっ？！　先輩、今までそんなふうに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ったことなかったじゃないですか！"
+                                "\\nc<Saki>Whaaat?! Senpai, you've never said anything like that\nbefore!"
                             ]
                         },
                         {
@@ -1876,14 +1834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いったい何が私を待ってるんですか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと！　置いていかないでください！！"
+                                "\\nc<Saki>What exactly is waiting for me?! Hey! Don't leave me\nbehind!!"
                             ]
                         },
                         {
@@ -1900,7 +1851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、無事に帰ってくるのよ？"
+                                "\\nc<Senpai>Saki, make sure you come back safely, okay?"
                             ]
                         },
                         {
@@ -1917,7 +1868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>せんぱぁぁああいっ！！！！"
+                                "\\nc<Saki>Senpaaaiiiii!!"
                             ]
                         },
                         {

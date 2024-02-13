@@ -3715,7 +3715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>今回も失敗か…残念だ。"
+                                "\\nc<Executive 1>Another failure... what a pity."
                             ]
                         },
                         {
@@ -3732,14 +3732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>あそこまで耐えるとは。でも時間の問題って感じだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気ままに楽しむか？"
+                                "\\nc<Executive 2>To think they held out that long. But it's only a matter of\ntime, right? Shall we enjoy ourselves as we please?"
                             ]
                         },
                         {
@@ -3770,7 +3763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](…先輩！)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(...Senpai!)"
                             ]
                         },
                         {

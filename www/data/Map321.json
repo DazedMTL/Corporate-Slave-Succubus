@@ -5377,7 +5377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><上水道施設の地図>を獲得した！"
+                                "\\nc<>Gained the <Water Supply Facility Map>!"
                             ]
                         },
                         {
@@ -5394,7 +5394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><上水道施設の設備資料>を獲得した！"
+                                "\\nc<>Gained the <Water Supply Facility Documents>!"
                             ]
                         },
                         {

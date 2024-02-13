@@ -6258,14 +6258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "連休記念特別イベント"
+                                "Would you like to watch the event? Special event for the\nconsecutive holidays."
                             ]
                         },
                         {
@@ -6273,8 +6266,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -6532,14 +6525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いまさら聞くのもなんですけど… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キス会って何ですか？"
+                                "\\nc<Saki>I know it's a bit late to ask... but what exactly is a \"kiss\nevent\"?"
                             ]
                         },
                         {
@@ -6584,7 +6570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>アイドルの握手会は知ってるわよね？そのキスバージョンよ。"
+                                "\\nc<Senpai>You know what an idol handshake event is, right? It's like\nthat, but with kisses."
                             ]
                         },
                         {
@@ -6638,7 +6624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustExp[1, 1](うわっ、またとんでもないことするはめに…)"
+                                "\\bustExp[1, 1]\\nc<Saki>(Ugh, I'm getting dragged into something outrageous\nagain...)"
                             ]
                         },
                         {
@@ -6692,14 +6678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ルールは簡単。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チケットを受け取って、キスと素股をしてあげる。"
+                                "\\nc<Senpai>The rules are simple. You take the ticket, give them a kiss\nand a thigh-job."
                             ]
                         },
                         {
@@ -6716,7 +6695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お客が１回射精したら終了。どう、簡単でしょ？"
+                                "\\nc<Senpai>Once the customer ejaculates once, it's over. See, simple,\nright?"
                             ]
                         },
                         {
@@ -6761,14 +6740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]キスして終わりじゃないんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素股って肌で…\\|\\bustMsgExpression[1, 1]こ、擦るんですよね？"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>So it's not just kissing. A thigh-job means rubbing them\nwith your... skin, right?"
                             ]
                         },
                         {
@@ -6813,14 +6785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>よく知ってるわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事もそれくらいうまくこなしてくれたらいいんだけど。"
+                                "\\nc<Senpai>You're well-informed. I wish you were just as good at your\njob."
                             ]
                         },
                         {
@@ -6837,14 +6802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>挿入は禁止だからきっちりお断りして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ、始めるわよ？"
+                                "\\nc<Senpai>No penetration allowed, make sure to refuse firmly. Now,\nshall we begin?"
                             ]
                         },
                         {
@@ -6889,14 +6847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]あ、はいっ…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(挿入はやっぱり禁止なんだ。\\.\\.\\bustMsgExpression[1, 3]だったらなんとかなるかも…)"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>Yes, okay...(No penetration, huh. Maybe I can handle\nthis...)"
                             ]
                         },
                         {
@@ -7042,7 +6993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>こちらへどうぞ。"
+                                "\\nc<Senpai>Right this way, please."
                             ]
                         },
                         {
@@ -7124,14 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1](お、大きい…最初のお客から魔族だなんて。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔族はまだちょっと怖いんだけどな…)"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>(Oh, he's big... My first customer is a demon. Demons are\nstill a bit scary to me...)"
                             ]
                         },
                         {
@@ -7258,7 +7202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<オークの客>ほら、チケットだ。"
+                                "\\nc<Orc Customer>Here, take the ticket."
                             ]
                         },
                         {
@@ -7319,7 +7263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 3]あ、はい。確認いたしまし…\\.\\.\\bustMsgExpression[1, 1]たっ？！"
+                                "\\bustMsgExpression[1, 3]\\nc<Saki>Yes, I'll just confirm this and...\\bustMsgExpression[1,\n1]Huh?!"
                             ]
                         },
                         {
@@ -7559,14 +7503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫が小さいチケットを受けとるやいなや、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オークの客が彼女の腰をぐっと抱きよせた。"
+                                "\\nc<>As soon as Saki took the small ticket, the orc customer\npulled her waist towards him forcefully."
                             ]
                         },
                         {
@@ -7622,7 +7559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 3]ギロッ。"
+                                "\\bustMsgExpression[2, 3]\\nc<Senpai>Glare."
                             ]
                         },
                         {
@@ -7650,7 +7587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>部屋の外から先輩が怖い目つきで咲姫を睨みつけている。"
+                                "\\nc<>From outside the room, Senpai glares at Saki with a scary\nlook in her eyes."
                             ]
                         },
                         {
@@ -7706,14 +7643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2](外から全部見えちゃってる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにブラインドもないなんて…)"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>(Can they see everything from outside? And there's no blind\nor anything...)"
                             ]
                         },
                         {
@@ -7816,7 +7746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>オークはパンツを脱ぐと、真っ先に間咲姫の唇を襲った。"
+                                "\\nc<>The orc took off his pants and immediately went for Saki's\nlips."
                             ]
                         },
                         {
@@ -7870,7 +7800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>んむっ！"
+                                "\\nc<Saki>Mmmph!"
                             ]
                         },
                         {
@@ -7912,14 +7842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>上から下へと襲いかかるキス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "唇をむさぼられるような感覚に咲姫の体がくねる。"
+                                "\\nc<>Kisses raining down from above. Saki's body writhes as if\nher lips are being devoured."
                             ]
                         },
                         {
@@ -7948,14 +7871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>だが、オークは彼女の腰を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかり抱きよせたまま放そうとしない。"
+                                "\\nc<>But the orc keeps holding her waist firmly and doesn't let\ngo."
                             ]
                         },
                         {
@@ -7972,7 +7888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>湿っぽくて気持ちの悪い感触が咲姫の唇に触れる。"
+                                "\\nc<>A damp and unpleasant sensation touches Saki's lips."
                             ]
                         },
                         {
@@ -8000,14 +7916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うう。香水はつけてるみたいだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "臭くてまともに息ができな…)"
+                                "\\nc<Saki>(Ugh. He seems to be wearing cologne, but it's so stinky I\ncan hardly breathe...)"
                             ]
                         },
                         {
@@ -8035,14 +7944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>軽々しく彼女の唇を開けたオークが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中に舌を入れて笑う。"
+                                "\\nc<>The orc casually opens her lips and laughs as he slips his\ntongue inside."
                             ]
                         },
                         {
@@ -8077,7 +7979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<オークの客>お嬢ちゃん暇なのか？　まあ、俺はありがたいが…"
+                                "\\nc<Orc Customer>You got some free time, girl? Well, I'm grateful for it..."
                             ]
                         },
                         {
@@ -8094,7 +7996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ああっ、そうだ！　１回射精するまで終わらないんだった)"
+                                "\\nc<Saki>(Ah, that's right! It doesn't end until he ejaculates once.)"
                             ]
                         },
                         {
@@ -8122,14 +8024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>キスだけで射精するはずもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は仕方なくオークのペニスを掴んで太ももの間に挟んだ。"
+                                "\\nc<>Since kissing alone won't make him ejaculate, Saki\nreluctantly grabs the orc's penis and traps it between her\nthighs."
                             ]
                         },
                         {
@@ -8188,7 +8083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>熱く蠢く感触に手が火傷しそうだ…"
+                                "\\nc<>The hot wriggling sensation feels like it could burn her\nhand..."
                             ]
                         },
                         {
@@ -8231,7 +8126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>肉棒を固定している太ももが変にうずく。"
+                                "\\nc<>Her thighs holding the shaft start to throb strangely."
                             ]
                         },
                         {
@@ -8271,7 +8166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふう、ちゅっ、ちゅぷっ…"
+                                "\\nc<Saki>Hoo, chu, chup..."
                             ]
                         },
                         {
@@ -8299,7 +8194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>あっという間に息が荒くなり、苦しそうな喘ぎ声が漏れだした。"
+                                "\\nc<>In no time at all, her breathing becomes ragged and pained\nmoans escape her."
                             ]
                         },
                         {
@@ -8316,7 +8211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>オークは慣れているのか、楽しそうにゆっくりと舌を絡める。"
+                                "\\nc<>The orc seems experienced and intertwines his tongue\nleisurely and with enjoyment."
                             ]
                         },
                         {
@@ -8333,14 +8228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫が涙目で見あげても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オークは彼女の事情などお構いなし。"
+                                "\\nc<>Even as Saki looks up at him with tearful eyes, the orc pays\nno mind to her circumstances."
                             ]
                         },
                         {
@@ -8368,7 +8256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(唇、食べられちゃいそう。それに臭すぎる…)"
+                                "\\nc<Saki>(My lips feel like they're going to be eaten away. And it's\ntoo stinky...)"
                             ]
                         },
                         {
@@ -8396,7 +8284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>絶え間なくビクつく咲姫の尻尾を、オークが軽く引っ張る。"
+                                "\\nc<>The orc lightly pulls on Saki's constantly twitching tail."
                             ]
                         },
                         {
@@ -8466,7 +8354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふぁっ！？"
+                                "\\nc<Saki>Fwaah!?"
                             ]
                         },
                         {
@@ -8494,14 +8382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>彼の胸に閉じ込められた体を動かしてみるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抜け出すことはできない。"
+                                "\\nc<>She tries to move her body that's trapped against his chest\nbut can't escape."
                             ]
                         },
                         {
@@ -8518,7 +8399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>制服から露出した肌に生暖かい体温が触れて不快だ。"
+                                "\\nc<>The lukewarm body heat touching her exposed skin from her\nuniform is uncomfortable."
                             ]
                         },
                         {
@@ -8569,7 +8450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<オークの客>ちゅる、ちゅぱっ…お嬢ちゃん、マジでキス下手だな？"
+                                "\\nc<Orc Customer>Slurp, chup... You really suck at kissing, don't you?"
                             ]
                         },
                         {
@@ -8586,7 +8467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>す、すみません。キス会は今回が初めて…んんっ！"
+                                "\\nc<Saki>S-sorry. This is my first time at a kissing event... Mmm!"
                             ]
                         },
                         {
@@ -8652,14 +8533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>精一杯の笑みで答えた咲姫に再び分厚い舌が入りこんでくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オークの舌は彼女の口の中を要領よく搔きまわす。"
+                                "\\nc<>As Saki answered with her best smile, the orc's thick tongue\ninvaded her mouth again, skillfully swirling around inside."
                             ]
                         },
                         {
@@ -8687,7 +8561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(すごい舌使い。どれだけキス会に通ってるの…)"
+                                "\\nc<Saki>(Such amazing use of tongue. How many times has he been to\nkissing events...)"
                             ]
                         },
                         {
@@ -8715,21 +8589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>早く腰を動かして射精させなければと思った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分がバカに思えるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は正気を保てずにいる。"
+                                "\\nc<>The thought that she had to move her hips quickly to make\nhim ejaculate seemed foolish now. Saki could hardly keep her\nsanity."
                             ]
                         },
                         {
@@ -8746,14 +8606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>どんどん息苦しくなり酸素不足で意識が遠のいていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分が何を考えていたのかすら分からない。"
+                                "\\nc<>It's getting harder to breathe, and the lack of oxygen is\nmaking her consciousness fade. She can't even remember what\nshe was thinking about."
                             ]
                         },
                         {
@@ -8781,7 +8634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ちゅぷ、ちゅぅっ…ちょ、ちょっと待っ…んはっ♥"
+                                "\\nc<Saki>Chup, chu... Wait a moment... Nnh♥"
                             ]
                         },
                         {
@@ -8824,21 +8677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<オークの客>お嬢ちゃん、可愛いのは認めるけどよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと舌を動かさねえと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちは金払ってんだ。"
+                                "\\nc<Orc Customer>Little lady, I admit you're cute but... if you don't move\nyour tongue properly, it's no good. I'm paying good money\nhere."
                             ]
                         },
                         {
@@ -8866,14 +8705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>オークが咲姫のお尻をガッと揉むと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女は反射的に謝ってしまった。"
+                                "\\nc<>When the orc roughly kneaded Saki's butt, she reflexively\napologized."
                             ]
                         },
                         {
@@ -8901,7 +8733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひゃっ♥す、すみませんっ！　んぷっ…"
+                                "\\nc<Saki>Hyah♥ S-sorry! Nmph..."
                             ]
                         },
                         {
@@ -8934,14 +8766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>彼女の謝罪がオークの嗜虐心を刺激したのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろキスはさらに荒くなった。"
+                                "\\nc<>Her apology seemed to stimulate the orc's sadistic side, and\nthe kissing became even rougher."
                             ]
                         },
                         {
@@ -9005,7 +8830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そうしてどのくらいの時間が過ぎただろうか…"
+                                "\\nc<>And so, how much time had passed..."
                             ]
                         },
                         {
@@ -9022,7 +8847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の唇は唾液でグチョグチョになった。"
+                                "\\nc<>Saki's lips were drenched with saliva."
                             ]
                         },
                         {
@@ -9039,21 +8864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>オークが咲姫の体を好き放題触っていると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "廊下で列になって待っている客たちから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不満の声が聞こえてきた。"
+                                "\\nc<>As the orc freely touched Saki's body, voices of discontent\nfrom the customers waiting in line in the hallway could be\nheard."
                             ]
                         },
                         {
@@ -9081,7 +8892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<気の荒い客>おい、俺の番はまだか！？　さっさと済ませろ！"
+                                "\\nc<Rough Customer>Hey, when is it my turn?! Hurry up and finish!"
                             ]
                         },
                         {
@@ -9098,7 +8909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>申し訳ありません。もうしばらくお待ちください。"
+                                "\\nc<Senpai>I apologize. Please wait a little longer."
                             ]
                         },
                         {
@@ -9126,7 +8937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>視野の隅には先輩の怖い笑みが見える。"
+                                "\\nc<>In the corner of her vision, Saki could see Senpai's\nintimidating smile."
                             ]
                         },
                         {
@@ -9166,14 +8977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ぼうっとオークに身を任せていた咲姫は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必死に太ももを締めつけた。"
+                                "\\nc<>As Saki absentmindedly left her body to the orc, she\ndesperately clenched her thighs together."
                             ]
                         },
                         {
@@ -9190,7 +8994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しかし、オークの堅い肉棒はいまだに射精する気配すらない。"
+                                "\\nc<>However, the orc's hard dick showed no signs of ejaculating\nyet."
                             ]
                         },
                         {
@@ -9218,7 +9022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>お、お客様。早く射精していただかないと…"
+                                "\\nc<Saki>C-customer, you need to ejaculate quickly or..."
                             ]
                         },
                         {
@@ -9235,7 +9039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<オークの客>お前の奉仕が生ぬるいから抜けねえんだろ。"
+                                "\\nc<Orc Customer>It's because your service is half-hearted that I can't cum."
                             ]
                         },
                         {
@@ -9252,14 +9056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、そうですね…すみません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(私がなんでこんなことで謝らなきゃいけないのよ…)"
+                                "\\nc<Saki>That's right... I'm sorry. (Why do I have to apologize for\nsomething like this...)"
                             ]
                         },
                         {
@@ -9287,7 +9084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩が目を見開くと、咲姫は再び客に懇願した。"
+                                "\\nc<>When Senpai's eyes widened, Saki pleaded with the customer\nagain."
                             ]
                         },
                         {
@@ -9315,7 +9112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ど、どうすればよろしいでしょうか？"
+                                "\\nc<Saki>W-what should I do?"
                             ]
                         },
                         {
@@ -9332,7 +9129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<オークの客>マジで初心者なのか。ほらよ。"
+                                "\\nc<Orc Customer>Are you really a beginner? Here you go."
                             ]
                         },
                         {
@@ -9414,14 +9211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>オークが長い舌を突きだすと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫はそれを恐る恐る唇で噛んだ。"
+                                "\\nc<>As the orc stuck out his long tongue, Saki timidly bit it\nwith her lips."
                             ]
                         },
                         {
@@ -9438,14 +9228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>分厚くて柔らかいネチッとした舌の感触が咲姫を苦しめるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女はそれを一生懸命に吸いはじめる。"
+                                "\\nc<>The thick, soft, and sticky sensation of his tongue\ntormented Saki, but she began to suck on it earnestly."
                             ]
                         },
                         {
@@ -9473,21 +9256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うっ、臭い。ホント最悪…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キスはもう少し美しいものだと思ってたのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな下品なキスがあったなんて)"
+                                "\\nc<Saki>(Ugh, it smells. This is really the worst... I thought\nkisses were supposed to be more beautiful, not this vulgar.)"
                             ]
                         },
                         {
@@ -9557,14 +9326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>顎が上がり、咲姫は自然にオークを上目遣いで見る姿勢になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オークは唾液を彼女の口の中に流しこみつづける。"
+                                "\\nc<>Her chin lifted, and Saki naturally found herself looking up\nat the orc. The orc continued to pour saliva into her mouth."
                             ]
                         },
                         {
@@ -9581,7 +9343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>とてつもなく屈辱的なキスだった。"
+                                "\\nc<>It was an incredibly humiliating kiss."
                             ]
                         },
                         {
@@ -9598,14 +9360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫がつま先立ちで熱中する間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外から再び客の不満の声が聞こえてきた。"
+                                "\\nc<>While Saki was engrossed on her tiptoes, more voices of\ndissatisfaction from outside could be heard again."
                             ]
                         },
                         {
@@ -9633,14 +9388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<気の荒い客>いつ終わるんだ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこの姉ちゃんが代わりにやってくれよ。"
+                                "\\nc<Rough Customer>When will it end? Hey sister, why don't you take over\ninstead?"
                             ]
                         },
                         {
@@ -9657,14 +9405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>申し訳ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は今回のイベントの担当ではありませんので。"
+                                "\\nc<Senpai>I apologize. I am not in charge of this event."
                             ]
                         },
                         {
@@ -9707,7 +9448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あっ、下から反応が！)"
+                                "\\nc<Saki>(Ah, there's a reaction from below!)"
                             ]
                         },
                         {
@@ -9735,14 +9476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫を満足げに眺めていたオークの肉棒が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちよさそうにうごめいた。"
+                                "\\nc<>The orc, who had been contentedly watching Saki, had his\ndick writhing in pleasure."
                             ]
                         },
                         {
@@ -9759,14 +9493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>もう少しで射精しそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は必死に全身を動かした。"
+                                "\\nc<>He seemed close to ejaculating. Saki desperately moved her\nentire body."
                             ]
                         },
                         {
@@ -9817,7 +9544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>こうでしょうか？"
+                                "\\nc<Saki>Is this how it should be?"
                             ]
                         },
                         {
@@ -9834,14 +9561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<オークの客>客が一つ一つ教えなきゃいけないなんてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだからバカなサキュバスは…"
+                                "\\nc<Orc Customer>Having to teach every little thing to a customer... This is\nwhy stupid succubi are..."
                             ]
                         },
                         {
@@ -9870,7 +9590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふぅん、はぁっ、はぁん♥"
+                                "\\nc<Saki>Fuun, haa, haan♥"
                             ]
                         },
                         {
@@ -9924,14 +9644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の顔が屈辱で歪むと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オークの肉棒が再びうねりはじめる。"
+                                "\\nc<>As Saki's face twisted in humiliation, the orc's dick began\nto writhe again."
                             ]
                         },
                         {
@@ -9959,7 +9672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(このお客、ひょっとして…)"
+                                "\\nc<Saki>(This customer, could it be...)"
                             ]
                         },
                         {
@@ -9987,7 +9700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>彼女は再び謝罪し、彼を刺激した。"
+                                "\\nc<>She apologized again and stimulated him further."
                             ]
                         },
                         {
@@ -10015,14 +9728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>バカなサキュバスで申し訳ありません…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうか思う存分射精してください。"
+                                "\\nc<Saki>I'm sorry for being such a foolish succubus... Please\nejaculate to your heart's content."
                             ]
                         },
                         {
@@ -10039,7 +9745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<オークの客>ふうっ、ふうっ…ちゃんと飲みこめよ。"
+                                "\\nc<Orc Customer>Hoo, huff... Make sure you swallow it all."
                             ]
                         },
                         {
@@ -10067,7 +9773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>オークは咲姫の口に大量の唾液を流しこんだ。"
+                                "\\nc<>The orc poured a large amount of saliva into Saki's mouth."
                             ]
                         },
                         {
@@ -10137,7 +9843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(おえっ…)"
+                                "\\nc<Saki>(Ugh...)"
                             ]
                         },
                         {
@@ -10198,7 +9904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は吐き気がしながらも、やっとのことで飲みこんだ。"
+                                "\\nc<>While feeling nauseous, Saki somehow managed to swallow it."
                             ]
                         },
                         {
@@ -10215,14 +9921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>涙が溢れ、自分がどんな顔をしているのかも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分からなくなった。"
+                                "\\nc<>Tears overflowed, and she no longer knew what kind of face\nshe was making."
                             ]
                         },
                         {
@@ -10250,7 +9949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くぷっ♥ううっ…ゴクン、ゴクン…こ、これでいいですか？　べぇーっ…"
+                                "\\nc<Saki>Kup♥ Ugh... Gulp, gulp... Is this okay? Bleh..."
                             ]
                         },
                         {
@@ -10337,7 +10036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ドピュッ、\\.\\."
+                                "\\nc<>Splurt,"
                             ]
                         },
                         {
@@ -10419,7 +10118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ドピュッ！"
+                                "\\nc<>Splurt!"
                             ]
                         },
                         {
@@ -10436,14 +10135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫が舌を突きだして見せると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついにオークが勢いよく射精した。"
+                                "\\nc<>As Saki stuck out her tongue, the orc finally ejaculated\nvigorously."
                             ]
                         },
                         {
@@ -10460,14 +10152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>太ももの間から感じられる強い振動に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は一瞬、腰が抜けたような錯覚に陥った。"
+                                "\\nc<>The strong vibration felt between her thighs made Saki\nmomentarily feel as if her hips had given out."
                             ]
                         },
                         {
@@ -10484,14 +10169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しばらくの間ぼうっとしていると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビンビンに勃った肉棒が彼女の秘部を強く叩く。"
+                                "\\nc<>As she stood dazed for a while, a rock-hard dick strongly\nthumped against her genitals."
                             ]
                         },
                         {
@@ -10519,14 +10197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(はうっ？！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごい、あんなのを中に挿れられたら…はぁっ♥)"
+                                "\\nc<Saki>(Hau?! Amazing, if he inserts that inside me... Haa♥)"
                             ]
                         },
                         {
@@ -10580,14 +10251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>時間をかけただけに濃厚な精気が咲姫の体に流れこんできた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女は必死で泣き顔を隠した。"
+                                "\\nc<>The dense life force that took time to build up flowed into\nSaki's body. She desperately hid her tear-streaked face."
                             ]
                         },
                         {
@@ -10615,7 +10279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(これならなんとか怒られずに済むよね…)"
+                                "\\nc<Saki>(With this, I should be able to avoid getting scolded...)"
                             ]
                         },
                         {
@@ -10683,7 +10347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビュルッ、ドピュッ！"
+                                "\\nc<>Byur, splurt!"
                             ]
                         },
                         {
@@ -10700,14 +10364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>オークの肉棒の勢いは衰えることなく、精液を撒きちらした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼が二ヤリと笑いながら咲姫の肩を包みこむ。"
+                                "\\nc<>The orc's dick continued to vigorously spray semen without\nlosing momentum. He grinned and wrapped his arm around\nSaki's shoulder."
                             ]
                         },
                         {
@@ -10758,14 +10415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<オークの客>いやあ。バカなサキュバスにしては物分かりがいいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度、２人きりでどうだ？"
+                                "\\nc<Orc Customer>Well, for a stupid succubus, you're pretty understanding.\nHow about it, just the two of us next time?"
                             ]
                         },
                         {
@@ -10782,7 +10432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(お断りします！)"
+                                "\\nc<Saki>(I refuse!)"
                             ]
                         },
                         {
@@ -10810,7 +10460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は必死の作り笑いで彼の提案を断った。"
+                                "\\nc<>With a desperate forced smile, Saki declined his offer."
                             ]
                         },
                         {

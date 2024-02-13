@@ -3841,14 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふーん、思ったより好評じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの役員たちが考えたにしてはいいアイデアね。"
+                                "\\nc<Senpai>Hmm, it's not as well-received as I thought. For something\nour executives came up with, it's a pretty good idea."
                             ]
                         },
                         {
@@ -3865,7 +3858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>これなら正式に採用されるかも。"
+                                "\\nc<Senpai>This might actually get officially adopted."
                             ]
                         },
                         {
@@ -3919,7 +3912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>社員たちからの評価は最悪ですけどね！"
+                                "\\nc<Saki>But the employees' reviews are the worst!"
                             ]
                         },
                         {
@@ -3964,14 +3957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]ププッ。咲姫、そのクチコミは何？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酷い落書き。"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>Pfft. Saki, what's with that feedback? Such terrible\ngraffiti."
                             ]
                         },
                         {
@@ -4016,14 +4002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>最初の人が落書きでクチコミを書いたせいで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかの人もみんな真似してしまって…"
+                                "\\nc<Saki>Because the first person wrote their feedback as graffiti,\neveryone else started imitating them..."
                             ]
                         },
                         {
@@ -4068,14 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]最初のお客が大事ってものね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疲れたでしょうから、早くお風呂に入って休みなさい。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>The first customer is important, after all. You must be\ntired, so go take a bath and rest early."
                             ]
                         },
                         {
@@ -4120,14 +4092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](わわわ、今日はなんだか優しい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]いや、よく考えたらそもそも先輩のためにしたことじゃない)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(Oh my, Senpai is being kind today...[bustMsgExp[1, 2]] No,\nwait, when I think about it, I didn't do it for Senpai in\nthe first place.)"
                             ]
                         },
                         {
@@ -4144,21 +4109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(それなのにこんなことで感動するなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私ったらチョロすぎ！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、それではおさきに失礼します。"
+                                "\\nc<Saki>(And yet I'm moved by something like this. I'm too easy!)\nW-Well then, please excuse me first."
                             ]
                         },
                         {
@@ -4203,21 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>うん。今日も咲姫に任せたおかげで無事に終わったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本来なら私が志願しなきゃいけないところだったけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特別に残業は見逃してあげようかしら？"
+                                "\\nc<Senpai>Yes. Thanks to you, Saki, today ended without a hitch.\nOriginally, I should have been the one to volunteer... but\nmaybe I'll let you off the hook for overtime just this once?"
                             ]
                         },
                         {

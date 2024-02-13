@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -2460,7 +2460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>これは…"
+                                "\\nc<Saki>This is..."
                             ]
                         },
                         {
@@ -2477,14 +2477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>こんなことが本当にありえるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この人たちが私を淫魔にしたってこと…？"
+                                "\\nc<Saki>Can such a thing really be true? That these people turned me\ninto a succubus...?"
                             ]
                         },
                         {
@@ -2510,14 +2503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]はあ…だけど、事実を知ったからって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に何ができるっていうの？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Sigh... But what can I do now that I know the truth?"
                             ]
                         },
                         {
@@ -2543,14 +2529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>マスコミに研究機関、物流会社、警備会社まで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなグルだったのね。"
+                                "\\nc<Saki>The media, research institutions, logistics companies,\nsecurity firms... they were all in on it."
                             ]
                         },
                         {
@@ -2576,14 +2555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>誰？　取引先と関係をうまく築けば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げられるって言った人。"
+                                "\\nc<Saki>Who was it? The person who said that if I build a good\nrelationship with the client, I could escape."
                             ]
                         },
                         {
@@ -2600,14 +2572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]思えば、社員たちは何も知らないみたいだし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの会社の淫魔たちも同じだよね。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Come to think of it, it seems like the employees don't know\nanything... The succubi at our company must be the same,\nright?"
                             ]
                         },
                         {
@@ -2633,14 +2598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]それじゃあみんな被害者ってこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違う。そういう安易な考えじゃ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>So does that make everyone a victim? No, it's not that\nsimple..."
                             ]
                         },
                         {
@@ -2666,14 +2624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>とりあえず寝なきゃ。明日も出勤だから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はあ。前を向いて歩く自信ないな。"
+                                "\\nc<Saki>For now, I have to sleep. I have to go to work tomorrow...\nSigh. I don't have the confidence to face forward and walk."
                             ]
                         },
                         {

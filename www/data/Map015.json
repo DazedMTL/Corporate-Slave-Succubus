@@ -6487,14 +6487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ノルマのための外回り"
+                                "Would you like to view the event? It's for the quota's\noutside rounds."
                             ]
                         },
                         {
@@ -6502,8 +6495,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -6659,14 +6652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(先輩は出張かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決算に備えて精気をもうちょっと集めておきたいんだけど…)"
+                                "\\nc<Saki>(Is senpai on a business trip, I wonder? I'd like to gather\na bit more energy in preparation for the accounting...)"
                             ]
                         },
                         {
@@ -6701,14 +6687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あっ、これってこの前のセックスアプリじゃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ消してなかったんだ…"
+                                "\\nc<Saki>Ah, isn't this that sex app from before? I hadn't deleted it\nyet..."
                             ]
                         },
                         {
@@ -6725,14 +6704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それなりに利用者もいるみたいね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ほとんどが男だけど。"
+                                "\\nc<Saki>It seems to have a fair number of users... though most of\nthem are men."
                             ]
                         },
                         {
@@ -6749,14 +6721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あのイベントはかなりキツかったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精気がかなり集まったし…"
+                                "\\nc<Saki>That event was pretty tough, but I did gather a lot of\nenergy..."
                             ]
                         },
                         {
@@ -6782,21 +6747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ほかの淫魔たちも結構利用してるよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベント会場ではあんなに嫌がってたのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見覚えのある顔ぶれがいっぱい…"
+                                "\\nc<Saki>Other succubi seem to use it quite a bit too, right? Despite\nhow much they disliked it at the event venue, there are so\nmany familiar faces..."
                             ]
                         },
                         {
@@ -6813,7 +6764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>……"
+                                "\\nc<Saki>..."
                             ]
                         },
                         {
@@ -6830,7 +6781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>も、もう１回だけしてみようかな…？"
+                                "\\nc<Saki>Maybe I'll try it just one more time...?"
                             ]
                         },
                         {

@@ -5370,14 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自由に見学してもいいって言ったけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入らないほうがよさそうだ。"
+                                "I said you could look around freely... but it seems better\nnot to enter."
                             ]
                         },
                         {
@@ -5496,14 +5489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自由に見学してもいいって言ったけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入らないほうがよさそうだ。"
+                                "I said you could look around freely... but it seems better\nnot to enter."
                             ]
                         },
                         {
@@ -5696,7 +5682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>よし…行くか。"
+                                "\\nc<Saki>Alright... let's go."
                             ]
                         },
                         {
@@ -5815,7 +5801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>あ、淫魔第一産業の方ですよね？"
+                                "\\nc<Administrator>Ah, you're from the First Demon Industry, right?"
                             ]
                         },
                         {
@@ -5942,7 +5928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、はい…"
+                                "\\nc<Saki>Ah, yes..."
                             ]
                         },
                         {
@@ -5973,14 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>少し早くいらっしゃいましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "業務開始まではまだ時間があります。"
+                                "\\nc<Administrator>You've arrived a bit early. There's still some time before\nwork begins."
                             ]
                         },
                         {
@@ -5997,21 +5976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>本来ならこちらで案内すべきなのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいにく準備で手が足りない状況で。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自由に見学していただいても構いません。"
+                                "\\nc<Administrator>Normally, I would guide you myself, but unfortunately, we're\nshort-staffed with preparations. Feel free to look around on\nyour own."
                             ]
                         },
                         {
@@ -6028,7 +5993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>見学しおえたら、私のところに来てください。"
+                                "\\nc<Administrator>Once you've finished touring, please come see me."
                             ]
                         },
                         {
@@ -6059,14 +6024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(親切…物流会社についての噂は本当みたい)"
+                                "\\nc<Saki>Understood. (How kind... The rumors about the logistics\ncompany seem to be true.)"
                             ]
                         },
                         {
@@ -6181,7 +6139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>ほかにご用はございませんか？"
+                                "\\nc<Administrator>Is there anything else you require?"
                             ]
                         },
                         {
@@ -6189,8 +6147,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "業務を始める",
-                                    "もう少し見学する"
+                                    "Start work",
+                                    "Observe a little longer"
                                 ],
                                 1,
                                 1,

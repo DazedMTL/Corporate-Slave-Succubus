@@ -1434,14 +1434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "トークショーデビュー"
+                                "Would you like to watch the event? Talk Show Debut"
                             ]
                         },
                         {
@@ -1449,8 +1442,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -1688,14 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、今向かってるところが大事な取引先"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってことは知ってるわよね？"
+                                "\\nc<Senpai>Saki, you do know that the place we're heading to is an\nimportant business partner, right?"
                             ]
                         },
                         {
@@ -1712,14 +1698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>へっ？　あ、はい…たしか、うちと連携してる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マスコミだとか。でも、そんなところで私は何をすれば…"
+                                "\\nc<Saki>Eh? Oh, yes... I believe they're a media company that's\ncollaborating with us. But what am I supposed to do there..."
                             ]
                         },
                         {
@@ -1736,21 +1715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そんなに心配しなくていいわよ、ちょっとした"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "インタビューだから。なんでも、淫魔たちの会社での日常を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "題材にした宣伝用の番組なんだって。"
+                                "\\nc<Senpai>You don't need to worry so much, it's just a small\ninterview. Apparently, it's for a promotional program about\nthe daily life of succubi at their company."
                             ]
                         },
                         {
@@ -1767,21 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ！？　インタビュー！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただの宣伝関連のイベントだと思ってたのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に私でいいんですか？"
+                                "\\nc<Saki>What?! An interview?! I thought it was just a regular\npromotional event... Are you sure I'm the right person for\nthis?"
                             ]
                         },
                         {
@@ -1798,7 +1749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ええ。末端社員の話を聞いてみたいんだって。"
+                                "\\nc<Senpai>Yes. They want to hear from a grassroots employee."
                             ]
                         },
                         {
@@ -1815,14 +1766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(淫魔たちの会社での日常って…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなものテレビに流しちゃっていいの？)"
+                                "\\nc<Saki>(The daily life of succubi at their company... Is it really\nokay to broadcast such things on TV?)"
                             ]
                         },
                         {
@@ -1839,21 +1783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あなたのことは信じてるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回はくれぐれも気を付けるように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごく大事な取引先だからね。"
+                                "\\nc<Senpai>I trust you, but please be extra careful this time. It's a\nvery important business partner after all."
                             ]
                         },
                         {
@@ -1870,21 +1800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>本当に自信ないんですけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(最近は連絡もほとんどしてないけど、もしも知り合いに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなのを見られたら…はうう…)"
+                                "\\nc<Saki>I really don't have confidence in this...(I haven't been in\ntouch much recently, but if someone I know saw that...\nugh...)"
                             ]
                         },
                         {
@@ -1901,14 +1817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まあ、言われたとおりにすればいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "台本とかも全部向こうが用意してるみたいだし。"
+                                "\\nc<Senpai>Well, just do as you're told. It seems they've prepared\neverything, including the script."
                             ]
                         },
                         {
@@ -1925,21 +1834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>なるほど！　インタビューって言いつつ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局はヤラセなんですね！裏事情を知っちゃって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレですけど…今回だけは助かります。"
+                                "\\nc<Saki>I see! So even though it's called an interview, it's\nactually all staged! It feels weird knowing the behind-the-\nscenes stuff... but this time, it's a relief."
                             ]
                         },
                         {
@@ -1956,14 +1851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>着いたわ。私は近くで用事があるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたはスタジオに向かって。"
+                                "\\nc<Senpai>We've arrived. I have some business nearby, so you go ahead\nto the studio."
                             ]
                         },
                         {
@@ -1980,14 +1868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>一緒に行くんじゃないんですか…分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "台本通りにすればいいってことだし…"
+                                "\\nc<Saki>Aren't you coming with me...? Understood. As long as I\nfollow the script, it should be fine..."
                             ]
                         },
                         {

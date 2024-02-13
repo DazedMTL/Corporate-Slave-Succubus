@@ -3925,7 +3925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、手紙が届いてるわよ。"
+                                "\\nc<Senpai>Saki, you've received a letter."
                             ]
                         },
                         {
@@ -4001,14 +4001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ？　手紙ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこからですか？"
+                                "\\nc<Saki>Eh? A letter? Who is it from?"
                             ]
                         },
                         {
@@ -4053,21 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>さあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "経営支援部が、個人的な郵便は会社に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "送らないようにって言ってたわ。"
+                                "\\nc<Senpai>Who knows? The Management Support Department said not to\nsend personal mail to the company."
                             ]
                         },
                         {
@@ -4112,7 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ううっ…わ、分かりました。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh... I, I understand."
                             ]
                         },
                         {
@@ -4298,7 +4277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]何の手紙だろう…？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>What could this letter be...?"
                             ]
                         },
                         {
@@ -4398,21 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]はあ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、チンポ勃てて襲いかかってくるファンは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "要らないってば…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Sigh... That's why I don't need fans who get their dicks\nhard and come at me..."
                             ]
                         },
                         {
@@ -4450,7 +4415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><ファンレター>を獲得した！"
+                                "\\nc<> Gained a Fan Letter!"
                             ]
                         },
                         {

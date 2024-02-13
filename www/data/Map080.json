@@ -4375,14 +4375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うう、周りの視線が気持ち悪い…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが淫魔産業だったんだ…)"
+                                "\\nc<Saki>(Ugh, the gazes around me feel so gross... So this is what\nthe succubus industry is like...)"
                             ]
                         },
                         {
@@ -4399,7 +4392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(私、うまくやっていけるかな？)"
+                                "\\nc<Saki>(Can I really make it here?)"
                             ]
                         },
                         {
@@ -5298,7 +5291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一生懸命宣伝業務を行った……"
+                                "She worked hard at the promotional activities..."
                             ]
                         },
                         {
@@ -5315,21 +5308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]魔力1000獲得！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "経験指数1000獲得！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疲労度10上昇"
+                                "\\TA[1]Gained 1000 Magic Power! Gained 1000 EXP! Fatigue increased\nby 10"
                             ]
                         },
                         {

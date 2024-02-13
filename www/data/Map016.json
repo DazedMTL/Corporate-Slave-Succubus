@@ -4030,21 +4030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>来たか。どうやらもう体が熱くなっている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようだが。男性の前に立つだけで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自動的に交尾モードになるようだな。"
+                                "\\nc<Executive Officer>You've arrived. It seems your body is already heating up.\nJust standing in front of a man puts you into mating mode\nautomatically, doesn't it?"
                             ]
                         },
                         {
@@ -4061,14 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>ふう、今すぐにでも楽しみたいのはやまやまだが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残念ながら今回は本当に仕事の話だ。"
+                                "\\nc<Executive Officer>Sigh, I'm very eager to enjoy myself right now... but\nunfortunately, this time it's really about business."
                             ]
                         },
                         {
@@ -4085,21 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>外国人客の接待が必要なんだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "適当な社員がいなくてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君にその仕事を担当してもらいたいんだ。"
+                                "\\nc<Executive Officer>We need to entertain a foreign client, but there's no\nsuitable employee available. I want you to take care of this\njob."
                             ]
                         },
                         {
@@ -4116,21 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>君は俺が今まで出あった女の中で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "５本の指に入るほどの名器だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとその客も満足するはず。"
+                                "\\nc<Executive Officer>You are one of the top five women I've ever met when it\ncomes to your... talents. I'm sure the client will be\nsatisfied."
                             ]
                         },
                         {
@@ -4147,21 +4098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>かなりマニアックな客だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかり準備することだな。フフ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、スケジュールの調整は任せる。"
+                                "\\nc<Executive Officer>The client is quite a maniac, so make sure you prepare\nthoroughly. Heh. I'll leave the schedule adjustment to you."
                             ]
                         },
                         {
@@ -4178,7 +4115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>失敗しないように頑張るんだな。"
+                                "\\nc<Executive Officer>Work hard to make sure you don't fail."
                             ]
                         },
                         {
@@ -4285,21 +4222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>かなりマニアックな客だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかり準備することだな。フフ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、スケジュールの調整は任せる。"
+                                "\\nc<Executive Officer>Since it's quite a maniacal client, make sure to prepare\nthoroughly. Hehe. Then, I'll leave the schedule adjustments\nto you."
                             ]
                         },
                         {
@@ -4478,7 +4401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>…zZ"
+                                "\\nc<Executive Officer>...zZ"
                             ]
                         },
                         {
@@ -4617,7 +4540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><淫魔第一産業利用客死亡記事>を獲得した。"
+                                "\\nc<>Gained \"Succubus First Industry Customer Death Article\"."
                             ]
                         },
                         {

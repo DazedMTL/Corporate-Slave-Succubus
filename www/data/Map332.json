@@ -4012,14 +4012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>もう評価日か…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]ふう。今回もノルマ、ギリギリだけど。大丈夫よね？"
+                                "\\nc<Saki>Is it already evaluation day...[bustMsgExp[1, 2]]sigh. I\nbarely made the quota this time, but it should be okay,\nright?"
                             ]
                         },
                         {
@@ -4138,7 +4131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]咲姫、ちょっといい？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Saki, can I have a moment?"
                             ]
                         },
                         {
@@ -4192,7 +4185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]えっ？　どうしたんですか先輩？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Huh? What's the matter, Senpai?"
                             ]
                         },
                         {
@@ -4253,14 +4246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>いや…それが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんね。今まであなたに強く当たりすぎてたみたい。"
+                                "\\nc<Senpai>Well... about that. I'm sorry. It seems I've been too hard\non you until now."
                             ]
                         },
                         {
@@ -4293,14 +4279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>これからは気を付けるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私があなたを大切に想ってること、知ってるよね？"
+                                "\\nc<Senpai>From now on, I'll be more careful. You know that I care\nabout you deeply, right?"
                             ]
                         },
                         {
@@ -4361,7 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ？　先輩、それはどういう…"
+                                "\\nc<Saki>Huh? Senpai, what do you mean by that..."
                             ]
                         },
                         {
@@ -4652,14 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>みんな集まったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日が評価日ってこと忘れてないよな？"
+                                "\\nc<Demon Tribe Employee>Has everyone gathered? You haven't forgotten that today is\nevaluation day, have you?"
                             ]
                         },
                         {
@@ -4676,14 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>いや…忘れていませんよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は我が社にとって歴史に残る日になることでしょう。"
+                                "\\nc<Demon Tribe Employee>No... you haven't forgotten, right? Today will be a historic\nday for our company."
                             ]
                         },
                         {
@@ -4721,7 +4686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>?"
                             ]
                         },
                         {
@@ -4738,7 +4703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あれ…今日はなんか雰囲気ちょっと違う？)"
+                                "\\nc<Saki>(Huh... The atmosphere is a bit different today?)"
                             ]
                         },
                         {
@@ -4783,14 +4748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>クフッ。突然ですが、社長からの伝言をお伝えします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "内斗メアリー、前に。"
+                                "\\nc<Demon Tribe Employee>Heh. Suddenly, I have a message from the president. Meary,\ncome forward."
                             ]
                         },
                         {
@@ -4828,7 +4786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>はい。"
+                                "\\nc<Senpai>Yes."
                             ]
                         },
                         {
@@ -4963,21 +4921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>あなたは、××××年×××月××日入社以来、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "××××年××月××日以降"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも我が社のために献身し…"
+                                "\\nc<Demon Tribe Employee>Since your entry into the company on [], and especially\nafter [], you have always dedicated yourself to our\ncompany..."
                             ]
                         },
                         {
@@ -5017,14 +4961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(何？　ドッキリイベント？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうのがあるって話は聞いてないけど？)"
+                                "\\nc<Saki>(What? A prank event? I haven't heard anything about this?)"
                             ]
                         },
                         {
@@ -5055,14 +4992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>…し、入社以来、最高の優秀社員を育成した功績を称え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "20泊21日の休暇を許可する…"
+                                "\\nc<Demon Tribe Employee>...and in recognition of your achievements in nurturing the\nbest and most excellent employees since joining, you are\ngranted a vacation of 20 nights and 21 days..."
                             ]
                         },
                         {
@@ -5319,7 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>\\bustMsgExp[1, 1]ええっ！？"
+                                "\\bustMsgExp[1, 1]\\nc<Succubi>What?!?"
                             ]
                         },
                         {
@@ -5350,14 +5280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(20泊21日の休暇って何！？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに何この古臭い話し方？！)"
+                                "\\nc<Saki>(A 20-night, 21-day vacation? What's with this old-fashioned\nspeech?!)"
                             ]
                         },
                         {
@@ -5388,14 +5311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>フム。お前をここまで育ててやったのは俺だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恩を忘れないようにしろ…じゃなくて、しなさい。"
+                                "\\nc<Demon Tribe Employee>Hmm. Remember that it was I who raised you to this point, so\ndon't forget your gratitude... I mean, make sure you don't\nforget."
                             ]
                         },
                         {
@@ -5433,7 +5349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もちろんです。ウフフ…"
+                                "\\nc<Senpai>Of course. Hehe..."
                             ]
                         },
                         {
@@ -5485,7 +5401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(本当に何がなんだか分からない…)"
+                                "\\nc<Saki>(I really don't understand what's going on...)"
                             ]
                         },
                         {
@@ -5516,7 +5432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>さあ次は…咲姫さん、前に。"
+                                "\\nc<Demon Tribe Employee>Now, next... Saki-san, come forward."
                             ]
                         },
                         {
@@ -5608,7 +5524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ？　わ、私ですか？"
+                                "\\nc<Saki>Eh? M-me?"
                             ]
                         },
                         {
@@ -5705,7 +5621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>さあ、早くここに来なさい。"
+                                "\\nc<Senpai>Come on, come here quickly."
                             ]
                         },
                         {
@@ -5750,7 +5666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えぇっ！？！？"
+                                "\\nc<Saki>Eeh?!?!"
                             ]
                         },
                         {
@@ -5894,14 +5810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(な、何？　みんなどうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかドッキリカメラとか？)"
+                                "\\nc<Saki>(What? What's going on with everyone? Could it be a hidden\ncamera prank?)"
                             ]
                         },
                         {
@@ -5946,14 +5855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>あなたは、××××年１月４日に淫魔第一産業に入社し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "優れた能力を発揮したので…"
+                                "\\nc<Demon Tribe Employee>Since joining the First Demon Industry on January 4th of []\nand demonstrating exceptional abilities..."
                             ]
                         },
                         {
@@ -6000,14 +5902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>…ゴクリ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(何が何だかよく分からないけどしっかりしなきゃ…)"
+                                "\\nc<Saki>...gulp. (I don't really understand what's happening, but I\nneed to stay composed...)"
                             ]
                         },
                         {
@@ -6052,14 +5947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……"
+                                "\\nc<Demon Tribe Employee>..."
                             ]
                         },
                         {
@@ -6076,14 +5964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…とし、今月の優秀社員に褒賞を与える。"
+                                "\\nc<Demon Tribe Employee>...thus, you are awarded this month's employee of\nexcellence."
                             ]
                         },
                         {
@@ -6100,14 +5981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>褒賞は２段階の昇進です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "社長の特別命令です。"
+                                "\\nc<Demon Tribe Employee>The reward is a two-step promotion. It's a special order\nfrom the president."
                             ]
                         },
                         {
@@ -6193,7 +6067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>わ、私が今月の優秀社員ですか！？！？"
+                                "\\nc<Saki>Me, the employee of the month?!?!"
                             ]
                         },
                         {
@@ -6284,7 +6158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>うわぁ！！　おめでとうございます、咲姫さん！！\\|\\^"
+                                "\\nc<Succubi>Wow!! Congratulations, Saki-san!!"
                             ]
                         },
                         {
@@ -6349,7 +6223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>最高の社員、咲姫！！\\|\\^"
+                                "\\nc<Succubi>The best employee, Saki!!"
                             ]
                         },
                         {
@@ -6414,7 +6288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>私たちを導いてください、咲姫さん！！！\\|\\^"
+                                "\\nc<Succubi>Please lead us, Saki-san!!!"
                             ]
                         },
                         {
@@ -6479,14 +6353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>淫魔第一産業の伝説！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すべての淫魔たちが羨む女王様！！\\|\\^"
+                                "\\nc<Succubi>The legend of the First Demon Industry! The queen that all\nsuccubi envy!!"
                             ]
                         },
                         {
@@ -6564,7 +6431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、アハハ…"
+                                "\\nc<Saki>Ah, haha..."
                             ]
                         },
                         {
@@ -6588,14 +6455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(なんかよく分からないけど罠ではなさそうだし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の今月の実績、そんなに良かったっけ…？)"
+                                "\\nc<Saki>(I don't quite understand, but it doesn't seem like a\ntrap... Was my performance really that good this month...?)"
                             ]
                         },
                         {
@@ -6718,7 +6578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>おめでとうございます、咲姫さん。"
+                                "\\nc<Senpai>Congratulations, Saki-san."
                             ]
                         },
                         {
@@ -6735,14 +6595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>私たちのなかで誰よりも優れた能力を発揮したので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日からは咲姫さんがチームリーダーです。"
+                                "\\nc<Senpai>Since you have demonstrated superior abilities among us all,\nfrom today on you will be the team leader."
                             ]
                         },
                         {
@@ -6803,14 +6656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>え、ええっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなこと言わないでください先輩…縁起でもない…"
+                                "\\nc<Saki>Eh, what?! Please don't say such things, Senpai... It's bad\nluck..."
                             ]
                         },
                         {
@@ -6848,7 +6694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あれ…？　さっきからアラームみたいな音が…)"
+                                "\\nc<Saki>(Huh...? It sounds like an alarm has been going off...)"
                             ]
                         },
                         {
@@ -6902,21 +6748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>先輩だなんて。とんでもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日から私たちを導いてくださるチームリーダーなんですから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気軽に話してください。"
+                                "\\nc<Senpai>Please, don't call me senpai. From today on, you're the team\nleader who will guide us, so feel free to speak casually."
                             ]
                         },
                         {
@@ -6970,7 +6802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]そ、そうですか？　アハハ…"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Is that so? Ahaha..."
                             ]
                         },
                         {
@@ -7015,7 +6847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もちろんです。ところでチームリーダー…"
+                                "\\nc<Senpai>Of course. By the way, Team Leader..."
                             ]
                         },
                         {
@@ -7048,7 +6880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>出勤時間は…大丈夫ですか？"
+                                "\\nc<Senpai>About your time of arrival at work... is everything okay?"
                             ]
                         },
                         {
@@ -7109,7 +6941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい？"
+                                "\\nc<Saki>Huh?"
                             ]
                         },
                         {
@@ -7164,7 +6996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、あれ…？　私…"
+                                "\\nc<Saki>Oh, what...? Me..."
                             ]
                         },
                         {

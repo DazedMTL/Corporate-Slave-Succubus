@@ -4414,14 +4414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]\\bustMoveTo[1, 1300, 720, 30]ち、遅刻だ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すみません、先輩！"
+                                "\\bustMsgExp[1, 1]\\bustMoveTo[1, 1300, 720, 30]\\nc<Saki>I-I'm late... I'm sorry, Senpai!"
                             ]
                         },
                         {
@@ -4652,14 +4645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]ん？　気にしなくていいわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いらっしゃい。"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Hm? Don't worry about it. Welcome."
                             ]
                         },
                         {
@@ -4704,21 +4690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](あれ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遅刻したのになんで怒られないんだろう？\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 4]先輩ってすごくいい人なんだ！)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(Huh? Why am I not being scolded for being\nlate?\\bustMsgExp[1, 4]Senpai is such a nice person!)"
                             ]
                         },
                         {
@@ -4763,21 +4735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>てっきり逃げたかと思ってたもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遅刻ぐらい許してあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも明日からは容赦しないわよ？"
+                                "\\nc<Senpai>I thought you might have run away. I'll forgive a little\ntardiness. But I won't be so lenient starting tomorrow,\nokay?"
                             ]
                         },
                         {
@@ -4822,7 +4780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](どんだけ退職者が多いんですか……)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(How many people have quit already...)"
                             ]
                         },
                         {
@@ -4850,14 +4808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>許してもらったけど、ちょっと悲しくなった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫であった。"
+                                "\\nc<>Though she was forgiven, Saki felt a little sad."
                             ]
                         },
                         {
@@ -4895,7 +4846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]今期の目標魔力量が20,000に設定されました。"
+                                "\\TA[1]The target magical power for this term has been set to\n20,000."
                             ]
                         },
                         {
@@ -5219,7 +5170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]見てるぞ。新入り。"
+                                "\\TA[1]I'm watching you, newbie."
                             ]
                         },
                         {

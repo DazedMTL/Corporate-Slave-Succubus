@@ -3834,14 +3834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの客との再会は最悪だった"
+                                "Would you like to view the event? That reunion with the\ncustomer was the worst."
                             ]
                         },
                         {
@@ -3849,8 +3842,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4270,7 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]咲姫、VIPの指名よ。"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Saki, you've been nominated by a VIP."
                             ]
                         },
                         {
@@ -4346,7 +4339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ケホッ…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>*cough*..."
                             ]
                         },
                         {
@@ -4391,7 +4384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]どうしたの？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>What's wrong?"
                             ]
                         },
                         {
@@ -4445,14 +4438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]これまでの経験上、VIPが絡めば必ず酷い目に遭ってきたので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこに指名なんて…"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Based on my past experiences, whenever VIPs are involved, it\nalways ends up being a terrible experience. And now a\nnomination..."
                             ]
                         },
                         {
@@ -4497,7 +4483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]その代わり指名料は入ってくるじゃない。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>But on the other hand, you'll get the nomination fee, won't\nyou?"
                             ]
                         },
                         {
@@ -4542,7 +4528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]それ、全部会社が持っていくじゃないですか！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>But the company takes all of that, doesn't it?!"
                             ]
                         },
                         {
@@ -4587,14 +4573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そうだけどチームのノルマも達成できるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫も満足でしょ？"
+                                "\\nc<Senpai>That's true, but it also helps us meet the team's quota, so\nyou'll be satisfied too, right?"
                             ]
                         },
                         {
@@ -4639,14 +4618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]…そ、そうですね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あとで言われても嫌だし我慢しよう…)"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>...Y-Yes, that's true...(I'd hate to be told about it later,\nso I'll just endure it...)"
                             ]
                         },
                         {
@@ -4691,14 +4663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>とっても大切なお客さんが咲姫ちゃんに会いたくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直接いらしゃったのよ？嫌なのは分かるけど、やる気出して。"
+                                "\\nc<Senpai>A very important customer came directly to see you, Saki-\nchan. I know you don't like it, but try to get motivated."
                             ]
                         },
                         {
@@ -4743,7 +4708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そしたら…どうすればいいんですか？"
+                                "\\nc<Saki>Then... what should I do?"
                             ]
                         },
                         {
@@ -4788,7 +4753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>プレイはあなたも慣れてるでしょ。"
+                                "\\nc<Senpai>You're used to playing, aren't you?"
                             ]
                         },
                         {
@@ -4833,7 +4798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]えっ、意外ですね。VIP指名なのに一般のコースなんて。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Eh, that's surprising. A VIP nomination for a regular\ncourse?"
                             ]
                         },
                         {
@@ -4878,14 +4843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>VIPだからといって、みんながみんな変態ではないってこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "余計な心配しないで早く行ってきなさい。"
+                                "\\nc<Senpai>Not all VIPs are perverts just because they're VIPs. Don't\nworry unnecessarily and go quickly."
                             ]
                         },
                         {
@@ -4930,14 +4888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]そ、そうなんですね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行ってきます！"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>I-Is that so... I'm off then!"
                             ]
                         },
                         {
@@ -5259,14 +5210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>今回あなたを指名したVIPは変態だと思うけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫なら大丈夫でしょ。"
+                                "\\nc<Senpai>I think the VIP who nominated you this time is a pervert...\nbut you'll be fine, Saki."
                             ]
                         },
                         {

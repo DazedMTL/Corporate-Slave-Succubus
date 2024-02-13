@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -2700,7 +2700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><破れた書類>を獲得した。"
+                                "\\nc<>Gained <Torn Document>."
                             ]
                         },
                         {

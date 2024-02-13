@@ -3458,7 +3458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ザワザワ…"
+                                "\\nc<>Murmurs..."
                             ]
                         },
                         {
@@ -3518,7 +3518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]うわっ、もうこんなに集まってる。タダだからかな？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Wow, it's already so crowded. Is it because it's free?"
                             ]
                         },
                         {
@@ -3546,7 +3546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]あまり好みの人はいないけど…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>I don't really see anyone I like though..."
                             ]
                         },
                         {
@@ -3563,7 +3563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>タダにつられてくる男だもんね…やっぱり帰ろうかな？"
+                                "\\nc<Saki>It's just guys lured in by freebies... Maybe I should just\ngo home?"
                             ]
                         },
                         {
@@ -3690,7 +3690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>おっ、見つけた。"
+                                "\\nc<???>Oh, found you."
                             ]
                         },
                         {
@@ -3721,7 +3721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]へっ？！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Huh?!"
                             ]
                         },
                         {
@@ -3935,7 +3935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>な、何でしょう？"
+                                "\\nc<Saki>What is it?"
                             ]
                         },
                         {
@@ -3966,14 +3966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>姉ちゃん。姉ちゃんが「露出狂」だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『セックスコネクト』で見たぜ。"
+                                "\\nc<Yakuza>Hey, sis. You're the 'exhibitionist', right? Saw you on \"Sex\nConnect\"."
                             ]
                         },
                         {
@@ -4004,14 +3997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ、ち、違います…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(やばい、すごく苦手なタイプだ…)"
+                                "\\nc<Saki>Eh, no, that's not me...(Oh no, he's exactly the type I\ncan't handle...)"
                             ]
                         },
                         {
@@ -4042,7 +4028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>いやいや、合ってるじゃん。髪も同じだし。"
+                                "\\nc<Yakuza>Nah, it's definitely you. Same hair and everything."
                             ]
                         },
                         {
@@ -4216,7 +4202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>や、やめてください。私、そういう人じゃありませんから…"
+                                "\\nc<Saki>Please stop. I'm not that kind of person..."
                             ]
                         },
                         {
@@ -4247,7 +4233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>ああん？　そういう人って何だよ。"
+                                "\\nc<Yakuza>Oh? What kind of person is that?"
                             ]
                         },
                         {
@@ -4278,7 +4264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いえ。とにかく離してくださ…うわぁっ！"
+                                "\\nc<Saki>No. Just let me go... Ahhh!"
                             ]
                         },
                         {
@@ -4383,14 +4369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>姉ちゃん、淫魔だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お望み通りいっぱい出してやるから、俺とヤろうぜ。なっ？"
+                                "\\nc<Yakuza>Sis, you're a succubus, right? I'll give you plenty as you\nwish, so let's do it. Eh?"
                             ]
                         },
                         {
@@ -4421,14 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(お、大きいっ！　けど、いくらなんでもこんなふうには…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの…本当に困ります。\\.\\.\\bustMsgExp[1, 2]はひいっ？！"
+                                "\\nc<Saki>(Oh, it's big! But no matter what, this isn't right...)\nExcuse me... I'm really in trouble here.\\bustMsgExp[1,\n2]Eek?!"
                             ]
                         },
                         {
@@ -4457,14 +4429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(こ、こいつ…すごく上手い…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま連れていかれたら大変なことになるかも…)"
+                                "\\nc<Saki>(This guy... he's really good... If he takes me away like\nthis, it could be bad...)"
                             ]
                         },
                         {
@@ -4504,14 +4469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>ほら、もう濡れてんじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姉ちゃん、俺と行こう。なっ？　ペロペロ…"
+                                "\\nc<Yakuza>Look, you're already wet. Come with me, sis. Eh? Lick\nlick..."
                             ]
                         },
                         {
@@ -4542,7 +4500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(明らかにそっちのほうが年上でしょうが！)"
+                                "\\nc<Saki>(Clearly you're the older one here!)"
                             ]
                         },
                         {
@@ -4666,7 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<通行人>な、何だ、あれ？　淫魔か…"
+                                "\\nc<Passerby>What's that over there? A succubus...?"
                             ]
                         },
                         {
@@ -4690,7 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>おっと、通報されちまう。早く行くぞ。"
+                                "\\nc<Yakuza>Oops, we'll get reported. Let's get going fast."
                             ]
                         },
                         {
@@ -4721,7 +4679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>……"
+                                "\\nc<Saki>..."
                             ]
                         },
                         {
@@ -4752,7 +4710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヤクザ>フフッ、すぐにヘロヘロになっちまったな？"
+                                "\\nc<Yakuza>Heh, you got all weak so quickly, didn't you?"
                             ]
                         },
                         {
@@ -4783,21 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ち、違います。ちょっと待っ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(どうせ精気を集めに来たんだし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手が誰であろうと関係ないよね？)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>No, that's not it. Just wait...(Since I came to gather life\nenergy... it doesn't matter who the other person is, right?)"
                             ]
                         },
                         {

@@ -4536,7 +4536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うっ…冷たい。この機械は何？　なんか不安…)"
+                                "\\nc<Saki>(Ugh... it's cold. What is this machine? I have a bad\nfeeling...)"
                             ]
                         },
                         {
@@ -4567,21 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>咲姫さん、もう一度確認いたします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もともと人間でしたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "原因不明の薬で淫魔になったケース…でよろしいですか？"
+                                "\\nc<Researcher 1>Saki-san, let me confirm once more. You were originally\nhuman, but due to an unknown drug, you became a succubus...\nis that correct?"
                             ]
                         },
                         {
@@ -4621,7 +4607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ？　よくご存知ですね。そうですけど。"
+                                "\\nc<Saki>Eh? You know quite a lot. Yes, that's right."
                             ]
                         },
                         {
@@ -4652,14 +4638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>珍しいケースですからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弊社が貴社に特別に派遣を依頼しました。"
+                                "\\nc<Researcher 1>It's a rare case, after all. Our company has specially\nrequested your dispatch from your company."
                             ]
                         },
                         {
@@ -4690,14 +4669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]そ、そうだったんですね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(急に嫌な予感が…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>So, that's how it is... (I suddenly have a bad feeling...)"
                             ]
                         },
                         {
@@ -4728,14 +4700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>結果によっては人間に戻ることができるかもしれないので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張りましょう。"
+                                "\\nc<Researcher 1>Depending on the results, you might be able to turn back\ninto a human, so let's do our best."
                             ]
                         },
                         {
@@ -4766,14 +4731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]うわあっ…ほ、本当ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりました！　よろしくお願いします。"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>Wow... r-really? Understood! Please take care of me."
                             ]
                         },
                         {
@@ -4804,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>はい、では…"
+                                "\\nc<Researcher 1>Yes, then..."
                             ]
                         },
                         {
@@ -4856,21 +4814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]な、何ですか？！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いきなり人を拘束するなんて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うっ…は、外れない！ "
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Wh-what?! Why are you suddenly restraining me?! Ugh... it\nwon't come off!"
                             ]
                         },
                         {
@@ -4901,21 +4845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>もしものときのためです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万が一、発作が起きた場合は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手術台から落ちることもありますので。"
+                                "\\nc<Researcher 1>It's just in case. If by any chance you have a seizure, you\ncould fall off the operating table."
                             ]
                         },
                         {
@@ -4946,7 +4876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(そもそも発作が起きるようなことするな！)"
+                                "\\nc<Saki>(First of all, don't do anything that would cause a\nseizure!)"
                             ]
                         },
                         {
@@ -4977,7 +4907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>もしくは全身麻酔をする方法もありますが…どうされますか？ "
+                                "\\nc<Researcher 1>Alternatively, we could use general anesthesia... What would\nyou prefer?"
                             ]
                         },
                         {
@@ -5008,14 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>動けないのは同じじゃないですか！\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]でも全身麻酔なら寝ている間に終わるはずだから楽かも…"
+                                "\\nc<Saki>It's the same if I can't move! \\bustMsgExp[1, 0] But if it's\ngeneral anesthesia, it should be over while I'm asleep, so\nmaybe that's easier..."
                             ]
                         },
                         {
@@ -5046,14 +4969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>ちなみに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全身麻酔のほうは目覚めない確率が20パーセントほど…"
+                                "\\nc<Researcher 1>By the way, there's about a 20 percent chance of not waking\nup from the anesthesia..."
                             ]
                         },
                         {
@@ -5084,7 +5000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]拘束でお願いします！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Please proceed with the restraints!"
                             ]
                         },
                         {
@@ -5124,7 +5040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>分かりました。では始めましょう。"
+                                "\\nc<Researcher 1>Understood. Let's begin then."
                             ]
                         },
                         {
@@ -5193,7 +5109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヒイッ？！"
+                                "\\nc<Saki>Eek?!"
                             ]
                         },
                         {
@@ -5221,14 +5137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は不安で体が震えたが、研究員の視線から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性的な欲望など感じられない。"
+                                "\\nc<>Saki trembled with anxiety, but she could not sense any\nsexual desire from the researcher's gaze."
                             ]
                         },
                         {
@@ -5245,7 +5154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>彼はすぐにブラシと薬液を持ってくる。"
+                                "\\nc<>He quickly brought over a brush and a liquid solution."
                             ]
                         },
                         {
@@ -5273,7 +5182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>では今から実験を始めます。"
+                                "\\nc<Researcher 1>Now we will begin the experiment."
                             ]
                         },
                         {
@@ -5290,7 +5199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>待って待って！　その液体は何ですか？"
+                                "\\nc<Saki>Wait, wait! What is that liquid?"
                             ]
                         },
                         {
@@ -5307,7 +5216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>市販の淫魔用の発情剤です。"
+                                "\\nc<Researcher 1>It's a commercially available aphrodisiac for succubi."
                             ]
                         },
                         {
@@ -5324,7 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>市販の淫魔用の発情剤がどうして必要なんですか…"
+                                "\\nc<Saki>Why do we need a commercially available aphrodisiac for\nsuccubi..."
                             ]
                         },
                         {
@@ -5341,21 +5250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>咲姫さんは一般的なケースではないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申しあげましたよね？ですので、一般の淫魔たちと反応が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じかどうか観察する必要があります。"
+                                "\\nc<Researcher 1>As I mentioned earlier, Saki-san is not a typical case.\nTherefore, we need to observe whether your reactions are the\nsame as those of regular succubi."
                             ]
                         },
                         {
@@ -5372,7 +5267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(そこにどうして発情剤を使うのよ！！)"
+                                "\\nc<Saki>(Why use an aphrodisiac for that!!)"
                             ]
                         },
                         {
@@ -5389,7 +5284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>観察も兼ねて、新製品のテストも行おうかと。"
+                                "\\nc<Researcher 1>We're also considering testing a new product while\nobserving."
                             ]
                         },
                         {
@@ -5406,21 +5301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(やっぱり目的はそっちですか！\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でも…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここじゃないと私の体について調べられるところもなさそうだし…)"
+                                "\\nc<Saki>(So that's the real purpose! But... there's nowhere else\nthat can investigate my body like this...)"
                             ]
                         },
                         {
@@ -5448,14 +5329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫がそう自分に言い聞かせていると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員が淡々とブラシを薬液に浸しはじめる。"
+                                "\\nc<>As Saki tried to convince herself, the researcher began to\ncalmly soak the brush in the solution."
                             ]
                         },
                         {
@@ -5483,21 +5357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>反応を観察しないといけないので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どう感じるのか正直に話してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "協力してくだされば早く終わります。"
+                                "\\nc<Researcher 1>Since we need to observe your reactions, please tell us\nhonestly how you feel. The faster you cooperate, the sooner\nit will be over."
                             ]
                         },
                         {
@@ -5514,14 +5374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>わ、分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひょっとして危険な実験ですか？"
+                                "\\nc<Saki>O-okay. Is this experiment dangerous?"
                             ]
                         },
                         {
@@ -5538,14 +5391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>大丈夫でしょう。淫魔は意外と丈夫ですから。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たぶん…"
+                                "\\nc<Researcher 1>It should be fine. Succubi are surprisingly resilient.\nProbably..."
                             ]
                         },
                         {
@@ -5562,7 +5408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(たぶん？！)"
+                                "\\nc<Saki>(Probably?!)"
                             ]
                         },
                         {
@@ -5639,21 +5485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>拘束された咲姫の股に潜りこんだ研究員が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手術用の手袋を着用した手で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の秘部をパカッと広げる。"
+                                "\\nc<>The researcher who had crawled between the restrained Saki's\nlegs spread her genitals wide open with gloved hands."
                             ]
                         },
                         {
@@ -5670,7 +5502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>研究員の鼻と口はマスクで隠れ、まったく見えない。"
+                                "\\nc<>The researcher's nose and mouth were hidden behind a mask,\ncompletely invisible."
                             ]
                         },
                         {
@@ -5687,21 +5519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の体がビクビクと震えると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブラシを持った研究員が花びらの間をワサッワサッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "叩くように掃く。"
+                                "\\nc<>As Saki's body trembled violently, the researcher with the\nbrush swept through the petals roughly as if slapping them."
                             ]
                         },
                         {
@@ -5790,7 +5608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふぎゃ？！"
+                                "\\nc<Saki>Fugya?!"
                             ]
                         },
                         {
@@ -5818,7 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>硬い毛のブラシと冷たい液体の感触にびっくりする咲姫。"
+                                "\\nc<>Saki was startled by the sensation of the stiff brush\nbristles and the cold liquid."
                             ]
                         },
                         {
@@ -5835,14 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>痛みと言えるほどではないが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全身に嫌な予感が走る。"
+                                "\\nc<>It wasn't painful enough to call it pain... but an\nunpleasant premonition ran through her entire body."
                             ]
                         },
                         {
@@ -5859,21 +5670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫のクリトリスをスーッとなぞったブラシが離れると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アルコールが蒸発するような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひんやりした感触が下半身を襲う。"
+                                "\\nc<>As the brush that had lightly traced Saki's clitoris moved\naway, a cool sensation like evaporating alcohol assaulted\nher lower half."
                             ]
                         },
                         {
@@ -5939,7 +5736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>その直後。咲姫の秘部は熱く火照りはじめた。"
+                                "\\nc<>Immediately after that, Saki's private parts began to burn\nhotly."
                             ]
                         },
                         {
@@ -5967,7 +5764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あうっ？　な、なんかおかしいっ…"
+                                "\\nc<Saki>Aah? Something feels strange..."
                             ]
                         },
                         {
@@ -5984,14 +5781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>すぐに勃起する平均的な大きさのクリトリス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感度は普通。"
+                                "\\nc<Researcher 1>A clitoris of average size that erects quickly. Sensitivity\nappears normal."
                             ]
                         },
                         {
@@ -6008,7 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、それ口に出していちいち言う必要あります？！"
+                                "\\nc<Saki>Do you really need to say that out loud?!"
                             ]
                         },
                         {
@@ -6025,14 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>録画中ですからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "規則ですので咲姫さんも声を出して報告お願いします。"
+                                "\\nc<Researcher 1>We are recording, after all. It's protocol, so please, Saki-\nsan, report out loud as well."
                             ]
                         },
                         {
@@ -6049,7 +5832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>録画？　は、ううっ…"
+                                "\\nc<Saki>Recording? Ah, ugh..."
                             ]
                         },
                         {
@@ -6110,7 +5893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>熱くなったクリトリスから熱気が伝わってくる。"
+                                "\\nc<>Heat emanates from the inflamed clitoris."
                             ]
                         },
                         {
@@ -6127,14 +5910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫が汗を流しながら歯を食いしばっていると…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女の目にずっしりしたサンバイザーがかけられる。"
+                                "\\nc<>As Saki grits her teeth while sweating profusely, a heavy\nvisor is placed over her eyes."
                             ]
                         },
                         {
@@ -6190,7 +5966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えええっ？！　これは…"
+                                "\\nc<Saki>Eeeh?! What is this..."
                             ]
                         },
                         {
@@ -6207,7 +5983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>視覚を遮るのが最善だと思いまして。"
+                                "\\nc<Researcher 1>I thought it best to block your vision."
                             ]
                         },
                         {
@@ -6224,7 +6000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ、はあっ…♥"
+                                "\\nc<Saki>Kuhu, haa...♥"
                             ]
                         },
                         {
@@ -6334,14 +6110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>本格的に薬の効果に苦しみはじめた咲姫は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員の嘲笑にまったく気づかなかった。"
+                                "\\nc<>The effects of the drug begin to torment Saki in earnest,\nand she is completely unaware of the researcher's mocking\nlaughter."
                             ]
                         },
                         {
@@ -6358,7 +6127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>彼はそんな咲姫の横から穏やかな口調で羞恥心を刺激する。"
+                                "\\nc<>He provokes her sense of shame with a calm tone from beside\nher."
                             ]
                         },
                         {
@@ -6386,21 +6155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>薬の反応もここまでは正常のようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリトリスに血が上り、完全に勃起した姿です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凛々しく勃っていますね。"
+                                "\\nc<Researcher 1>The drug's reaction seems normal up to this point. Blood has\nrushed to the clitoris, and it's fully erect. It's standing\nquite valiantly."
                             ]
                         },
                         {
@@ -6417,7 +6172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くあっ♥ああっ、こ、これ、いつまで…"
+                                "\\nc<Saki>Kuaa♥ Aah, how long will this...?"
                             ]
                         },
                         {
@@ -6434,14 +6189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>まだ始まったばかりですので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "続けて報告お願いします。"
+                                "\\nc<Researcher 1>We've only just begun. Please continue to report."
                             ]
                         },
                         {
@@ -6458,14 +6206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、熱いです。何もしてないのにさっきから腰が浮いて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くううっ♥"
+                                "\\nc<Saki>It's hot. My hips have been lifting on their own since\nearlier... kuuu♥"
                             ]
                         },
                         {
@@ -6526,14 +6267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>手足を拘束されたまま小刻みに震える咲姫の秘部から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛液が急速に分泌しはじめる。"
+                                "\\nc<>Saki's restrained body trembles as her genitals begin to\nsecrete love juices rapidly."
                             ]
                         },
                         {
@@ -6550,14 +6284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>非常に速い速度で溢れた液は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっというまに川筋を作りながらドクドクと流れだす。"
+                                "\\nc<>The liquid overflows at an incredibly fast rate, quickly\nforming streams that flow out vigorously."
                             ]
                         },
                         {
@@ -6574,7 +6301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>研究員はそんな咲姫の体を品定めするように平然と言う。"
+                                "\\nc<>The researcher appraises Saki's body with a detached\nexpression."
                             ]
                         },
                         {
@@ -6591,14 +6318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>一見、事務的な対応に見えるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼の口元には胡散臭い笑みが浮かんでいる。"
+                                "\\nc<>At first glance, his approach seems businesslike, but a\ndubious smile plays at the corners of his mouth."
                             ]
                         },
                         {
@@ -6626,21 +6346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>愛液の分泌量も正常…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、平均より少し多いですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "濡れやすくて悪いことはないでしょう。健康状態は良好です。"
+                                "\\nc<Researcher 1>The secretion of love juices is also normal... no, it's a\nbit more than average. Being easily wet isn't a bad thing.\nHer health appears to be in good condition."
                             ]
                         },
                         {
@@ -6657,21 +6363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(そ、それはよかったけど…そろそろ限界っ…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はうっ♥く、くすぐったいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じっと横になってるのに腰がゾクゾクして…"
+                                "\\nc<Saki>(That's good to hear, but... I'm reaching my limit...) Hauu♥\nIt tickles. Even though I'm just lying here, my hips are\ntrembling..."
                             ]
                         },
                         {
@@ -6688,7 +6380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>正常な反応です。続けて報告お願いします。"
+                                "\\nc<Researcher 1>That's a normal reaction. Please continue to report."
                             ]
                         },
                         {
@@ -6705,14 +6397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひいっ♥はあ、はあっ…も、もうすぐでイきそうなのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもさっきからぜんぜんイけなくて…苦しいっ♥"
+                                "\\nc<Saki>Hii♥ Haa, haa... I feel like I'm about to climax... but I\nhaven't been able to at all since earlier... it's agonizing♥"
                             ]
                         },
                         {
@@ -6729,14 +6414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>当然の結果です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現時点で刺激が足りていないのですから。"
+                                "\\nc<Researcher 1>That's to be expected. You haven't received enough\nstimulation at this point."
                             ]
                         },
                         {
@@ -6753,7 +6431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ちょっと、当然もなにも苦しいんだってぇ…くううっ♥)"
+                                "\\nc<Saki>(Hey, it's not just about what's expected, I'm in pain\nhere... kuuu♥)"
                             ]
                         },
                         {
@@ -6814,7 +6492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>サンバイザーの下で苦痛に歪む咲姫の顔。"
+                                "\\nc<>Saki's face twists in pain beneath the visor."
                             ]
                         },
                         {
@@ -6831,14 +6509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>研究員は咲姫の表情をスクリーンごしに鑑賞し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何食わぬ顔で実験を続ける。"
+                                "\\nc<>The researcher watches her expression through the screen and\ncontinues the experiment with an indifferent face."
                             ]
                         },
                         {
@@ -6866,7 +6537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>では、追加で薬を投与します。"
+                                "\\nc<Researcher 1>Now, we will administer an additional dose of the drug."
                             ]
                         },
                         {
@@ -6883,7 +6554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ、ええっ？！　今もかなりキツいのに追加なんて…"
+                                "\\nc<Saki>Eh, what?! It's already quite intense, and you want to add\nmore..."
                             ]
                         },
                         {
@@ -6900,7 +6571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>実験は今やっと始まったばかりですから。"
+                                "\\nc<Researcher 1>The experiment has only just begun."
                             ]
                         },
                         {
@@ -6928,14 +6599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ブラシを薬液容器にたっぷり浸した研究員が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それをゆっくり移動させる。"
+                                "\\nc<>The researcher soaks the brush thoroughly in the container\nof medicinal liquid and begins to move it slowly."
                             ]
                         },
                         {
@@ -6952,14 +6616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>水滴がポタポタと滴りおちるブラシをあえて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の下半身に持っていき予告をしたあと…"
+                                "\\nc<>As droplets fall from the brush, he deliberately brings it\nclose to Saki's lower half and then..."
                             ]
                         },
                         {
@@ -6976,7 +6633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>無理やり広げられた咲姫の膣内にグイグイと突っこむ！"
+                                "\\nc<>He thrusts it forcefully into Saki's forcibly spread vagina!"
                             ]
                         },
                         {
@@ -7077,7 +6734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くひひっ？！　あ、ああああっ♥"
+                                "\\nc<Saki>Kuhii?! Ah, aaaaah♥"
                             ]
                         },
                         {
@@ -7094,14 +6751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>膣内もしっかり濡らさないといけませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隅々までちゃんと届いていますか？"
+                                "\\nc<Researcher 1>We must make sure the vagina is thoroughly wet as well. Is\nit reaching every corner?"
                             ]
                         },
                         {
@@ -7118,14 +6768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>きゃはん♥くああっ♥あ、あひくっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、だめぇっ、奥まで突いたら…あああっ♥"
+                                "\\nc<Saki>Kyahan♥ Kuaa♥ Ah, ahiku... no, it's bad if you poke that\ndeep... aaaaah♥"
                             ]
                         },
                         {
@@ -7284,7 +6927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ブシュッ！！　プシュウウッ…"
+                                "\\nc<>Bushu!! Pshuuuu..."
                             ]
                         },
                         {
@@ -7301,21 +6944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>硬いブラシで子宮を掻きまわされた咲姫は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つま先をモゾモゾさせ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "派手に愛液を撒きちらす！"
+                                "\\nc<>As Saki's womb is stirred with the hard brush, she wriggles\nher toes and splashes love juices extravagantly!"
                             ]
                         },
                         {
@@ -7332,14 +6961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>潮を浴びながらも淡々と作業を終えた研究員は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな彼女に嫌味を言う。"
+                                "\\nc<>Even as he is showered with her squirt, the researcher\nfinishes his task nonchalantly and taunts her."
                             ]
                         },
                         {
@@ -7367,14 +6989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>膣内の薬は効果が少し遅れて現れます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その代わり効果は長続きします。"
+                                "\\nc<Researcher 1>The effects of the medicine inside the vagina will appear a\nbit later. However, once they do, they will last for a long\ntime."
                             ]
                         },
                         {
@@ -7391,7 +7006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふひっ♥はあっ、はあ…うぐぅっ♥"
+                                "\\nc<Saki>Fuhii♥ Haa, haa... uguu♥"
                             ]
                         },
                         {
@@ -7468,14 +7083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>すでに咲姫はサンバイザーの下で半分ほど白目になりながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "涙をポタポタと流している。"
+                                "\\nc<>Already, Saki is rolling her eyes back under the visor,\ntears streaming down her face."
                             ]
                         },
                         {
@@ -7492,7 +7100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しきりに押しよせてくる刺激で舌がもつれてしまう。"
+                                "\\nc<>Her tongue becomes tangled with the relentless onslaught of\nstimulation."
                             ]
                         },
                         {
@@ -7509,14 +7117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>どんどん大きくなっていく欲求が逃げ道を見つけられないまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子宮をぐちゃぐちゃに搔きみだす。"
+                                "\\nc<>The growing desire within her finds no escape, churning her\nwomb into a mess."
                             ]
                         },
                         {
@@ -7533,14 +7134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>さっきと違い、まともな刺激すらないのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちのいい絶頂などできるはずもない。"
+                                "\\nc<>Unlike before, there's no proper stimulation, yet she can't\npossibly reach a satisfying climax."
                             ]
                         },
                         {
@@ -7557,14 +7151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>子宮をクイクイと掻きまわしたブラシの感触が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恋しくなるほど。"
+                                "\\nc<>She finds herself longing for the sensation of the brush\nstirring her womb."
                             ]
                         },
                         {
@@ -7592,21 +7179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(いったいいつまで耐えたらいいのっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままだと本当に頭がおかしくなるかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっそのこと思いっきりイければ…)"
+                                "\\nc<Saki>(How long must I endure this... If it goes on like this, I\nmight really lose my mind. If only I could just climax with\nall my might...)"
                             ]
                         },
                         {
@@ -7656,14 +7229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>だめです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きちんと体の状態を報告していただかないと。"
+                                "\\nc<Researcher 1>No, that won't do. You need to report your body's condition\nproperly."
                             ]
                         },
                         {
@@ -7680,14 +7246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>も、もう、限界ですぅっ♥くふっ、あ、あっ♥終わらせて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早くぅ、終わら…ひぐっ♥"
+                                "\\nc<Saki>I-I'm at my limit♥ Kufu, ah, ah♥ Please end it... Hurry up\nand finish... higu♥"
                             ]
                         },
                         {
@@ -7704,7 +7263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>被験者の反応は極めて正常であると思われます。"
+                                "\\nc<Researcher 1>The subject's response seems to be extremely normal."
                             ]
                         },
                         {
@@ -7721,14 +7280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>念のため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと２時間ほどゆっくり観察してみましょうか？"
+                                "\\nc<Researcher 2>Just to be sure, shall we observe for about two more hours?"
                             ]
                         },
                         {
@@ -7745,7 +7297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>そうですね。特殊なケースですから。"
+                                "\\nc<Researcher 1>Yes, that would be prudent. This is a special case, after\nall."
                             ]
                         },
                         {
@@ -7762,7 +7314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>２…時間？　いやっ、あああっ♥"
+                                "\\nc<Saki>T-Two hours? Nooo, aaaaah♥"
                             ]
                         },
                         {
@@ -7839,21 +7391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>一心不乱に腰を震わせていた咲姫は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まともな判断ができない頭で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必死で解決策を考える。"
+                                "\\nc<>Feverishly shaking her hips, Saki desperately tries to think\nof a solution with her clouded mind."
                             ]
                         },
                         {
@@ -7870,14 +7408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しばらくして彼女の口から出た内容は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分でも信じがたいものだった。"
+                                "\\nc<>What she eventually says is something even she can hardly\nbelieve."
                             ]
                         },
                         {
@@ -7905,7 +7436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>使って…くださいっ…"
+                                "\\nc<Saki>Please use me..."
                             ]
                         },
                         {
@@ -7922,7 +7453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>はいぃっ？"
+                                "\\nc<Researcher 1>Excuse me?"
                             ]
                         },
                         {
@@ -7939,7 +7470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>私のマンコ、存分に使ってください…♥"
+                                "\\nc<Saki>Use my pussy to your heart's content...♥"
                             ]
                         },
                         {
@@ -7967,7 +7498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>腰をくねらせ、もつれる舌で必死に訴える咲姫。"
+                                "\\nc<>Wriggling her hips and with her tongue in knots, Saki pleads\ndesperately."
                             ]
                         },
                         {
@@ -7995,14 +7526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc私、かなりの名器みたいなので…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おチンポでパンパン突いてください♥ねえぇっ？"
+                                "Saki: I'm told I have quite the exquisite pussy... please\npound it with your cock♥ Pleaseee?"
                             ]
                         },
                         {
@@ -8030,7 +7554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の言葉に呆れて笑いだす研究員たち。"
+                                "\\nc<>The researchers burst into laughter at Saki's words."
                             ]
                         },
                         {
@@ -8047,7 +7571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>彼らの顔は満足感に満ちあふれている。"
+                                "\\nc<>Their faces are filled with satisfaction."
                             ]
                         },
                         {
@@ -8075,7 +7599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>いけません。そういう実験ではありませんので。"
+                                "\\nc<Researcher 1>That's not possible. This isn't that kind of experiment."
                             ]
                         },
                         {
@@ -8092,14 +7616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふうっ、はあっ、で、でもぉっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきからぜんぜんイけなくて…"
+                                "\\nc<Saki>Fuu, haa, but...♥ I haven't been able to climax at all since\nearlier..."
                             ]
                         },
                         {
@@ -8116,7 +7633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>ふむ。"
+                                "\\nc<Researcher 1>Hmm."
                             ]
                         },
                         {
@@ -8149,21 +7666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>お願いです！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "発情剤でトロトロになったマンコ…絶対に気持ちいいですよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひっくぅっ♥いつでも使用可能ですから！！"
+                                "\\nc<Saki>Please! My pussy is dripping from the aphrodisiac... It will\ndefinitely feel good!! Hiccup♥ It's ready for use anytime!!"
                             ]
                         },
                         {
@@ -8180,7 +7683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>そう言われましても…"
+                                "\\nc<Researcher 1>Even so..."
                             ]
                         },
                         {
@@ -8197,21 +7700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>濃いメスのにおい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "被験者は興奮したら体臭が強くなるようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "換気でもしたいくらいです。"
+                                "\\nc<Researcher 2>That strong female scent... The subject seems to emit a\nstronger body odor when excited. It makes one want to\nventilate the room."
                             ]
                         },
                         {
@@ -8228,14 +7717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>クリトリスの薬液が乾いたようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また補充しましょう。"
+                                "\\nc<Researcher 1>It seems the medicinal liquid on the clitoris has dried up.\nLet's replenish it."
                             ]
                         },
                         {
@@ -8303,7 +7785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>研究員の言葉に咲姫の体が発作のように震える。"
+                                "\\nc<>At the researcher's words, Saki's body trembles as if having\na seizure."
                             ]
                         },
                         {
@@ -8331,7 +7813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>だめぇっ！　しないで！　やめ、やめてぇっ♥"
+                                "\\nc<Saki>Nooo! Don't do it! Stop, stop it♥"
                             ]
                         },
                         {
@@ -8348,14 +7830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>ああっ、暴れてはいけません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、拘束してよかったでしょう？"
+                                "\\nc<Researcher 1>Ahh, you mustn't thrash about. See, it's good that we\nrestrained you?"
                             ]
                         },
                         {
@@ -8372,14 +7847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ、くふっ♥あああっ♥許さない、絶対に許しませんから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(で、でも…さっきみたいにブラシで擦られたらイけるかも…)"
+                                "\\nc<Saki>Kufu, kufu♥ Aaaaah♥ I won't forgive you, I'll never forgive\nyou! (But... maybe if he rubs me with the brush like\nearlier, I might be able to climax...)"
                             ]
                         },
                         {
@@ -8396,14 +7864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>待て。この辺からは被験者に加える刺激は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最小限にする必要があります。"
+                                "\\nc<Researcher 2>Wait. From this point on, we need to minimize the stimuli\napplied to the subject."
                             ]
                         },
                         {
@@ -8420,7 +7881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええっ？"
+                                "\\nc<Saki>Eeh?"
                             ]
                         },
                         {
@@ -8437,7 +7898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>なるほど。"
+                                "\\nc<Researcher 1>I see."
                             ]
                         },
                         {
@@ -8465,14 +7926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>同僚の言葉にすんなり納得した研究員が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薬液に浸したブラシを咲姫の体の上に持っていくと…"
+                                "\\nc<>Convinced by his colleague's words, the researcher takes the\nbrush soaked in medicinal liquid over Saki's body and..."
                             ]
                         },
                         {
@@ -8505,7 +7959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>それを擦らずに、ゆっくりと一滴ずつポタポタと垂らしていく。"
+                                "\\nc<>Instead of rubbing it, he slowly lets drops fall one by one."
                             ]
                         },
                         {
@@ -8522,14 +7976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫はクリトリスに直撃した薬の滴る感覚に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく状況を把握する。"
+                                "\\nc<>Saki finally grasps the situation as droplets of medicine\nhit her clitoris directly."
                             ]
                         },
                         {
@@ -8590,7 +8037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>きゃあっ？！　い、いやっ…あっ♥ああっ♥"
+                                "\\nc<Saki>Kyaa?! No, stop... Ahh♥ Aaah♥"
                             ]
                         },
                         {
@@ -8721,14 +8168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>今の咲姫はそれくらいの刺激でも十分だというように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薬液の雫が落ちるたびに愛液をピュッピュッと飛ばす。"
+                                "\\nc<>As if to say that such a stimulus was enough for the current\nSaki, her love juices squirt out every time a droplet of the\nmedicinal liquid falls."
                             ]
                         },
                         {
@@ -8756,14 +8196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>うむ、今回の潮吹きは７メートルまで飛びました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新記録ですよ。"
+                                "\\nc<Researcher 1>Hmm, this time the squirting reached up to 7 meters. It's a\nnew record."
                             ]
                         },
                         {
@@ -8780,14 +8213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(これ本当に実験なの？)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くふっ、ひぐぅっ…♥"
+                                "\\nc<Saki>(Is this really an experiment?) Kufu, higuu...♥"
                             ]
                         },
                         {
@@ -8804,21 +8230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>最初はやる気に満ちていましたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局汚らしく涙と鼻水を流しながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慈悲を乞うザマとは…"
+                                "\\nc<Researcher 2>She was full of eagerness at first, but in the end, she's\npathetically begging for mercy with tears and snot running\ndown..."
                             ]
                         },
                         {
@@ -8835,14 +8247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>本当に模範とすべき淫魔ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔とまったく変わりません。"
+                                "\\nc<Researcher 2>Truly a model succubus. She's no different from a real one."
                             ]
                         },
                         {
@@ -8859,21 +8264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(やる気に満ちていた！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなふうに拘束して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いじめられたら誰だって私みたいになるでしょ！)"
+                                "\\nc<Saki>(Full of eagerness?! Anyone would end up like me if they\nwere restrained and tormented like this!)"
                             ]
                         },
                         {
@@ -8890,7 +8281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>これ、外して！　放してえぇっ！！"
+                                "\\nc<Saki>Take this off! Let me gooo!!"
                             ]
                         },
                         {
@@ -8907,7 +8298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>被験者、落ち着きなさい。"
+                                "\\nc<Researcher 1>Subject, calm down."
                             ]
                         },
                         {
@@ -8924,7 +8315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>落ち着きそうにありませんね。処置が必要です。"
+                                "\\nc<Researcher 2>She doesn't seem likely to calm down. We need to proceed\nwith the treatment."
                             ]
                         },
                         {
@@ -8952,14 +8343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>必死にバタバタする咲姫の子宮にブラシを持っていく研究員。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを知らない咲姫はひたすらわめきつづける。"
+                                "\\nc<>As Saki desperately flails about, the researcher approaches\nher womb with the brush. Unaware of this, Saki continues to\nscream incessantly."
                             ]
                         },
                         {
@@ -8987,7 +8371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>やめて！　ごめんなさい。お願いだから放してよっ！"
+                                "\\nc<Saki>Stop it! I'm sorry. Please, just let me go!"
                             ]
                         },
                         {
@@ -9004,7 +8388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>オリャッ！"
+                                "\\nc<Researcher 1>Orya!"
                             ]
                         },
                         {
@@ -9081,7 +8465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ズブッ！"
+                                "\\nc<>Zubu!"
                             ]
                         },
                         {
@@ -9098,7 +8482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ブラシの硬い部分が咲姫の子宮に直撃する。"
+                                "\\nc<>The hard part of the brush strikes directly against Saki's\nwomb."
                             ]
                         },
                         {
@@ -9126,7 +8510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ…？ "
+                                "\\nc<Saki>Eh...?"
                             ]
                         },
                         {
@@ -9290,14 +8674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は拘束具が許す範囲で腰を海老反りにし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ものすごい勢いで絶頂を迎える！"
+                                "\\nc<>Saki arches her back within the limits of the restraints and\nclimaxes with incredible intensity!"
                             ]
                         },
                         {
@@ -9325,7 +8702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふうううっ？！　ふぐっ♥くあああっ♥♥"
+                                "\\nc<Saki>Kufuuuu?! Fugu♥ Kuaaaa♥♥"
                             ]
                         },
                         {
@@ -9342,7 +8719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>ふう。落ち着いたな。"
+                                "\\nc<Researcher 1>Phew. She's calmed down now."
                             ]
                         },
                         {
@@ -9359,7 +8736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>あとで淫魔第一産業に清掃費用を請求しなければいけませんね。"
+                                "\\nc<Researcher 2>We'll have to bill the Succubus First Industry for the\ncleaning costs later."
                             ]
                         },
                         {
@@ -9376,7 +8753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>それは酷いですよ。掃除は本人にさせましょう。"
+                                "\\nc<Researcher 1>That's harsh. Let's have her clean it up herself."
                             ]
                         },
                         {
@@ -9393,7 +8770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ♥ふう、ふうっ…"
+                                "\\nc<Saki>Kufu♥ Whew, whew..."
                             ]
                         },
                         {
@@ -9437,7 +8814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>豪快に愛液を撒きちらした咲姫の体は、死体のようにぐったりしている。"
+                                "\\nc<>Saki's body, which had extravagantly sprayed love juices,\nnow lies limp like a corpse."
                             ]
                         },
                         {
@@ -9454,14 +8831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>研究員たちはそんな咲姫の体をグイグイと突きながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無意識に現れる反応を楽しみながら実験を続ける。"
+                                "\\nc<>The researchers continue the experiment while enjoying the\nunconscious reactions as they prod Saki's body vigorously."
                             ]
                         },
                         {
@@ -9489,7 +8859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>完全に失神しましたね。まさに淫魔の鑑です。"
+                                "\\nc<Researcher 1>She's completely passed out. A true example of a succubus."
                             ]
                         },
                         {
@@ -9506,7 +8876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>実験成功。時間が残っているので、もう少しいじめてみましょう。"
+                                "\\nc<Researcher 2>The experiment is a success. Since we have time left, let's\ntorment her a bit more."
                             ]
                         },
                         {
@@ -9523,7 +8893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くひっ、ふえっ♥"
+                                "\\nc<Saki>Kuh, fue♥"
                             ]
                         },
                         {
@@ -9551,14 +8921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>サンバイザーの下で意識を失ってしまった咲姫は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幾度も痙攣する。"
+                                "\\nc<>Underneath the visor, Saki, who has lost consciousness,\nconvulses repeatedly."
                             ]
                         },
                         {
@@ -9699,14 +9062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>汗でビッショリと濡れた体は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのあともずっとおもちゃのように扱われた…"
+                                "\\nc<>Her body, drenched in sweat, continues to be treated like a\ntoy long after..."
                             ]
                         },
                         {

@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -2926,7 +2926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]咲姫、大丈夫？　早く起きなさい。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Saki, are you okay? Wake up quickly."
                             ]
                         },
                         {
@@ -2971,7 +2971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うぅ…"
+                                "\\nc<Saki>Ugh..."
                             ]
                         },
                         {
@@ -3016,14 +3016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]もうだめね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうなったら咲姫は廃棄処分ってことで…"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>It's no use. At this rate, Saki will be considered for\ndisposal..."
                             ]
                         },
                         {
@@ -3068,7 +3061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いくらなんでも酷すぎじゃないですか…？"
+                                "\\nc<Saki>Isn't that a bit too harsh...?"
                             ]
                         },
                         {
@@ -3113,21 +3106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>先輩に手間をかけさせるあなたが悪いのよ…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[2, 0]と言いたいところだけど、今回ばかりは許してあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に大変だったみたいだしね。"
+                                "\\nc<Senpai>You're the one at fault for causing your senpai such\ntrouble...\\bustMsgExp[2, 0] But I suppose I'll forgive you\njust this once. It seems like you really had a tough time."
                             ]
                         },
                         {
@@ -3172,7 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あの、会員さんたちは…？"
+                                "\\nc<Saki>Um, what about the members...?"
                             ]
                         },
                         {
@@ -3217,21 +3196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>みんな満足して帰ったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントが終わってから２時間は経ったかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、私たちもさっさと帰りましょう。そろそろ退勤時間よ。"
+                                "\\nc<Senpai>Everyone left satisfied. It's been about two hours since the\nevent ended. Come on, let's hurry up and go home. It's\nalmost time to clock out."
                             ]
                         },
                         {
@@ -3285,14 +3250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]私、２時間もここに放置されてたんですか！？\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]淫魔の待遇がここまで悪いとは…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>I was left here for two hours!?\\bustMsgExp[1, 2] I didn't\nknow the treatment of a succubus could be this bad..."
                             ]
                         },
                         {
@@ -3337,7 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>早くしないと置いていくわよ。"
+                                "\\nc<Senpai>If you don't hurry up, I'll leave you behind."
                             ]
                         },
                         {
@@ -3444,7 +3402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]あっ、待ってください！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Ah, wait for me, please!"
                             ]
                         },
                         {

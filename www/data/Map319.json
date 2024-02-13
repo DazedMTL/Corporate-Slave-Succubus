@@ -4865,14 +4865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveHome[2, 30]咲姫。今日が評価日って知ってるよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノルマは大丈夫？"
+                                "\\bustMoveHome[2, 30]\\nc<Senpai>Saki, you know today is evaluation day, right? Are you okay\nwith the quota?"
                             ]
                         },
                         {
@@ -5022,14 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ギリギリですけどね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱ宣伝業務だけじゃちょっと難しいですね。"
+                                "\\nc<Saki>It's a close call... but it's a bit difficult with just\npromotional activities."
                             ]
                         },
                         {
@@ -5074,14 +5060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>私が時間を割いて教えたんだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それぐらいはしてもらわないとね。"
+                                "\\nc<Senpai>I took the time to teach you, so I expect at least that much\nfrom you."
                             ]
                         },
                         {
@@ -5453,14 +5432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>全員集まったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日が評価日って知ってるよな？"
+                                "\\nc<Demon Tribe Employee>Has everyone gathered? You all know today is evaluation day,\nright?"
                             ]
                         },
                         {
@@ -5590,7 +5562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>このチームは…今回も隙がないな。"
+                                "\\nc<Demon Tribe Employee>This team... there are no gaps this time either."
                             ]
                         },
                         {
@@ -5681,7 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(先輩…笑ってるけどなんか表情が怖い)"
+                                "\\nc<Saki>(Senpai is smiling... but somehow her expression is scary)"
                             ]
                         },
                         {
@@ -5775,14 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>内斗メアリー…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前はチームリーダーでありながら、まだこんなもんなのか？"
+                                "\\nc<Demon Tribe Employee>Meary of the internal strife... even as a team leader, is\nthis all you can do?"
                             ]
                         },
                         {
@@ -5860,21 +5825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>\\bustMsgExp[1, 1]今期には最低でも10％の超過分を作れと命令したはずだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "笑わせてるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつまでチームリーダーやれると思ってるんだ？"
+                                "\\bustMsgExp[1, 1]\\nc<Demon Tribe Employee>I ordered at least a 10% surplus for this term. Are you\ntrying to make me laugh? How long do you think you can stay\nas a team leader?"
                             ]
                         },
                         {
@@ -5914,7 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]申し訳ございません。新人の教育がございまして。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>My apologies. There has been some training for the\nnewcomers."
                             ]
                         },
                         {
@@ -5954,14 +5905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>また言い訳か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後で俺のところまで来い。ちょっと話が必要そうだ。"
+                                "\\nc<Demon Tribe Employee>Excuses again? Come to my place later. We need to have a\ntalk."
                             ]
                         },
                         {
@@ -6001,7 +5945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>かしこまりました。"
+                                "\\nc<Senpai>Understood."
                             ]
                         },
                         {
@@ -6041,7 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族社員>まったく…言うことは聞かないし、困ったものだ。"
+                                "\\nc<Demon Tribe Employee>Really... they never listen, what a pain."
                             ]
                         },
                         {
@@ -6286,14 +6230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>お疲れ様です、先輩。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつは役員にゴマをするくせに…"
+                                "\\nc<Lewd Demon Employee>Good work, Senpai. That one always sucks up to the\nexecutives..."
                             ]
                         },
                         {
@@ -6324,14 +6261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>いいわ。あなたも分かってるんでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、今期も全員ご苦労様。"
+                                "\\nc<Senpai>It's fine. You understand, don't you? Yes, good work to\neveryone for this term."
                             ]
                         },
                         {
@@ -6355,21 +6285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次期のノルマは後で教えるから綿密に計画を練るように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも言うけど、派遣されたら自己責任だから。分かった？"
+                                "\\nc<Senpai>I'll inform you about the next term's quota later, so make\nsure to plan meticulously. As I always say, if you're\ndispatched, it's your own responsibility. Got it?"
                             ]
                         },
                         {
@@ -6489,7 +6405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>お…お許しを！ちょっとだけ足りないだけなのに！"
+                                "\\nc<???>Please... forgive me! I'm just a little short!"
                             ]
                         },
                         {
@@ -6506,7 +6422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員>うるさい。黙ってついてこい。"
+                                "\\nc<Security Guard>Quiet. Just follow me without saying a word."
                             ]
                         },
                         {
@@ -6523,14 +6439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>か、貸しがあるんです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それさえ返してもらえれば…"
+                                "\\nc<???>But, I have a favor owed to me! If only that could be\nrepaid..."
                             ]
                         },
                         {
@@ -6547,7 +6456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員>貸し？誰に貸したんだ？"
+                                "\\nc<Security Guard>A favor? Who owes you?"
                             ]
                         },
                         {
@@ -6564,21 +6473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備員>それに、万が一貸があるとしても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人がおとなしく返してくれると思ってるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は終わったから、おとなしくついてこい！"
+                                "\\nc<Security Guard>Besides, even if there was a favor owed, do you think that\nperson would just quietly return it? You're finished here,\nso just follow me quietly!"
                             ]
                         },
                         {
@@ -6605,14 +6500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<???>い、いやぁぁぁぁ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃあああああ！"
+                                "\\nc<???>Noooo!!!! Aaaahhhhh!"
                             ]
                         },
                         {
@@ -6680,7 +6568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>な、な、何が起きてるんですか？"
+                                "\\nc<Saki>Wh-what's happening?"
                             ]
                         },
                         {
@@ -6782,14 +6670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>気にしないで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつものことだから。"
+                                "\\nc<Lewd Demon Employee>Don't worry about it... it's business as usual."
                             ]
                         },
                         {
@@ -6846,7 +6727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>むしろ私たちのチームが非常に生存率が高いほうね…"
+                                "\\nc<Lewd Demon Employee>In fact, our team has a very high survival rate..."
                             ]
                         },
                         {
@@ -6886,7 +6767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>じゃ、じゃあ私が初めて出勤した日に連れていかれた人は…？"
+                                "\\nc<Saki>Then, the person who was taken away on my first day of work\nwas...?"
                             ]
                         },
                         {
@@ -6926,7 +6807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>あ。あの人は…"
+                                "\\nc<Lewd Demon Employee>That person..."
                             ]
                         },
                         {
@@ -6983,7 +6864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>先輩の言うことも聞かずに意地を張ってたら…"
+                                "\\nc<Lewd Demon Employee>She wouldn't listen to the Senpai and was stubborn..."
                             ]
                         },
                         {
@@ -7071,7 +6952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>結局ノルマを50％も達成できなかったっけ？"
+                                "\\nc<Lewd Demon Employee>In the end, she couldn't even achieve 50% of her quota,\nright?"
                             ]
                         },
                         {
@@ -7097,14 +6978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>通報するだのなんだの言ってたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通報されるくらいならこの会社、今まで続いてないわ。"
+                                "\\nc<Lewd Demon Employee>She kept saying she'd report us and all that, but if reports\nwere an issue, this company wouldn't have lasted till now."
                             ]
                         },
                         {
@@ -7144,7 +7018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええ…"
+                                "\\nc<Saki>Yes..."
                             ]
                         },
                         {
@@ -7184,7 +7058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>とにかく、咲姫、あなたも気を付けるのよ。"
+                                "\\nc<Lewd Demon Employee>Anyway, Saki, you be careful too."
                             ]
                         },
                         {
@@ -7255,14 +7129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]雑談はそこまでにして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも何、雑談する余裕でもあるの？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Enough chit-chat. Or what, do you have the luxury to chat?"
                             ]
                         },
                         {
@@ -7688,7 +7555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あ、咲姫は今週の金曜日から取引先の出張があるから。"
+                                "\\nc<Senpai>Oh, Saki has a business trip to a client starting this\nFriday."
                             ]
                         },
                         {
@@ -7788,14 +7655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええっ！？　出張ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ心の準備が…"
+                                "\\nc<Saki>Eh?! A business trip? I'm not mentally prepared yet..."
                             ]
                         },
                         {
@@ -7856,14 +7716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>３か月もやったら１人前の仕事はやってもらわないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつまでチラシ配るつもり？"
+                                "\\nc<Senpai>After three months of work, you should be able to handle a\njob on your own. How long do you plan to just distribute\nflyers?"
                             ]
                         },
                         {
@@ -7880,14 +7733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>今期からはノルマも他のみんなと同じようにするから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚悟するように。"
+                                "\\nc<Senpai>From this term on, your quota will be the same as everyone\nelse's. Be prepared for that."
                             ]
                         },
                         {
@@ -7948,7 +7794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい…"
+                                "\\nc<Saki>Yes..."
                             ]
                         },
                         {
@@ -8184,7 +8030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(取引先への出張？あそこで何をするんだ？)"
+                                "\\nc<Saki>(A business trip to the client? What am I supposed to do\nthere?)"
                             ]
                         },
                         {
@@ -8243,14 +8089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\TA[1]今期の条件を達成しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔力を回収します。"
+                                "\\TA[1]We have achieved this term's conditions. Magical power will\nbe collected."
                             ]
                         },
                         {
@@ -8267,7 +8106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\TA[1]次期の目標は魔力40,000です。"
+                                "\\TA[1]The target for the next term is 40,000 magical power."
                             ]
                         },
                         {
@@ -8296,7 +8135,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\TA[1]「取引先」システムが解放されました。"
+                                "\\TA[1]The \"Client\" system has been unlocked."
                             ]
                         },
                         {
@@ -8325,7 +8164,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\TA[1]「自己啓発」業務が解放されました。"
+                                "\\TA[1]The \"Self-Improvement\" tasks have been unlocked."
                             ]
                         },
                         {

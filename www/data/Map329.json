@@ -6300,7 +6300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<先輩>'書類作業'と '宣伝業務'を取得してみて。"
+                                "\\nc<Senpai>\"Try to acquire 'Document Work' and 'Promotional\nActivities'.\""
                             ]
                         },
                         {
@@ -7580,7 +7580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>よくやったわ。このくらいなら早いほうよ。"
+                                "\\nc<Senpai>\"Well done. That was quite fast.\""
                             ]
                         },
                         {
@@ -8337,7 +8337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {
@@ -9064,7 +9064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {
@@ -9773,7 +9773,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {
@@ -12031,7 +12031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もうこんなにできたの？　もう全部任せちゃっていいかも～"
+                                "\\nc<Senpai>You've already done this much? Maybe I can leave everything\nto you~"
                             ]
                         },
                         {
@@ -12794,7 +12794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {
@@ -13507,7 +13507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {
@@ -14221,7 +14221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {
@@ -14930,7 +14930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {
@@ -15645,7 +15645,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {
@@ -16354,7 +16354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {
@@ -17101,7 +17101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {
@@ -17822,7 +17822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>スキル取得のための資源が足りません。"
+                                "\\nc<>You don't have enough resources to acquire the skill."
                             ]
                         },
                         {

@@ -2478,14 +2478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]うわっ！　今日もめちゃくちゃ…\\.\\. "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]精気はしっかり集められたけど、髪と脇まで…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Ugh! Today was a total mess... \\bustMsgExp[1, 2]I managed to\ngather plenty of energy, but it's all over my hair and\nunderarms..."
                             ]
                         },
                         {
@@ -2523,14 +2516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>今度は何？　不在着信？\\bustMsgExp[1, 0]\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 1]…先輩から３件も来てる！！　もしもし？"
+                                "\\nc<Saki>What now? Missed calls? \\bustMsgExp[1, 0]\\bustMsgExp[1, 1]...Three from Senpai!! Hello?"
                             ]
                         },
                         {
@@ -2571,7 +2557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>いったいどこで何してるの！？\\|"
+                                "\\nc<Senpai>Where on earth are you and what are you doing!?"
                             ]
                         },
                         {
@@ -2602,7 +2588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヒイイッ！　す、すみません。ちょっと外回りに出てます。"
+                                "\\nc<Saki>Eek! I-I'm sorry. I just stepped out for a bit."
                             ]
                         },
                         {
@@ -2633,14 +2619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>外回り？　どうやら精気はちゃんと集められたようね？\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…分かった。早く戻ってきて。"
+                                "\\nc<Senpai>Stepped out? It seems like you've collected the energy just\nfine... Alright. Come back quickly."
                             ]
                         },
                         {
@@ -2671,7 +2650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふう。早くシャワーして戻らなきゃ…ん？　これは…"
+                                "\\nc<Saki>Phew. I need to take a quick shower and get back... Huh?\nWhat's this..."
                             ]
                         },
                         {
@@ -2688,7 +2667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]なっ…こいつら、また勝手に写真撮って！"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Wha... These guys, they took photos without permission\nagain!"
                             ]
                         },
                         {

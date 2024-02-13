@@ -2427,14 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はぁ…何だろう、この気分。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "週末の朝だっていうのに。"
+                                "\\nc<Saki>Sigh... What's this feeling? Even though it's a weekend\nmorning."
                             ]
                         },
                         {
@@ -2451,14 +2444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>なんだか体がだるい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起きられそうにないよ…"
+                                "\\nc<Saki>I feel so sluggish... I don't think I can get up..."
                             ]
                         },
                         {
@@ -2475,14 +2461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]今日はちょっと休もうかな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "週末くらいはいいよね。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Maybe I should take a break today... It's fine on the\nweekend, right?"
                             ]
                         },
                         {
@@ -2548,7 +2527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい、希和美です。"
+                                "\\nc<Saki>Yes, this is Kiwami."
                             ]
                         },
                         {
@@ -2579,21 +2558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫？　悪いけど、すぐに会社に来てもらえる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたのお客から「咲姫じゃないとだめ」って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強く言われてね。"
+                                "\\nc<Senpai>Saki? Sorry to bother you, but can you come to the office\nright away? A client insisted that they 'need Saki\nspecifically.'"
                             ]
                         },
                         {
@@ -2624,7 +2589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ…い、今からですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh... R-right now?"
                             ]
                         },
                         {
@@ -2655,14 +2620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>夕飯は奢ってあげるから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれくらいかかりそう？"
+                                "\\nc<Senpai>I'll treat you to dinner. How long do you think it will\ntake?"
                             ]
                         },
                         {
@@ -2693,14 +2651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、それが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケホ！　ケホ！"
+                                "\\nc<Saki>Well, about that... Cough! Cough!"
                             ]
                         },
                         {
@@ -2731,7 +2682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>え？"
+                                "\\nc<Senpai>Huh?"
                             ]
                         },
                         {
@@ -2771,21 +2722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]その…私、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風邪をひいたみたいで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケホ！　ケホ！"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>It's just... I think I've caught a cold... Cough! Cough!"
                             ]
                         },
                         {
@@ -2802,14 +2739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>お客さんには申し訳ないですが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はどうも出勤できそうになくて。"
+                                "\\nc<Saki>I'm really sorry to the client... but it seems I really\ncan't make it to work today."
                             ]
                         },
                         {
@@ -2840,7 +2770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>…"
+                                "\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -2857,7 +2787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>はぁ。分かったわ。"
+                                "\\nc<Senpai>Sigh. Understood."
                             ]
                         },
                         {
@@ -2874,14 +2804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>週末だし、今回だけは大目に見てあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、次はないわよ。"
+                                "\\nc<Senpai>It's the weekend, so I'll let it slide this time. But there\nwon't be a next time."
                             ]
                         },
                         {
@@ -2945,7 +2868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]ふぅ…なんとか誤魔化せたかな。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Phew... Did I manage to deceive her?"
                             ]
                         },
                         {
@@ -2962,7 +2885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>まさかバレてはない…よね？"
+                                "\\nc<Saki>She couldn't have noticed... right?"
                             ]
                         },
                         {
@@ -3076,7 +2999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>\\TA[1]疲労度が40回復した。"
+                                "\\TA[1]\\nc<>Fatigue has been restored by 40."
                             ]
                         },
                         {

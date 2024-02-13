@@ -5370,14 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自由に見学してもいいって言ったけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入らないほうがよさそうだ。"
+                                "I said you could look around freely... but it seems better\nnot to enter."
                             ]
                         },
                         {
@@ -5496,7 +5489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "休憩室に入りますか？"
+                                "Would you like to enter the rest room?"
                             ]
                         },
                         {
@@ -5504,8 +5497,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,

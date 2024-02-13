@@ -3940,7 +3940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふう…今期も何とかなった。"
+                                "\\nc<Saki>Phew... somehow managed to get through this term as well."
                             ]
                         },
                         {
@@ -4064,7 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveHome[2, 30]咲姫。先週頼んだ仕事はもうできた？"
+                                "\\bustMoveHome[2, 30]\\nc<Senpai>Saki, have you finished the work I asked for last week?"
                             ]
                         },
                         {
@@ -4177,21 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]あっ、ちょっと待ってくださいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっと、その…\\.\\.\\bustMsgExpression[1, 1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…あれ？"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>Ah, just a moment please. Um, that...\\bustMsgExpression[1,\n1]...huh?"
                             ]
                         },
                         {
@@ -4245,7 +4231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]どうしたの？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>What's wrong?"
                             ]
                         },
                         {
@@ -4299,14 +4285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>パソコンに電源が入らないんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大変だ、バックアップは１か月前が最後なのに…"
+                                "\\nc<Saki>The computer won't turn on. This is bad, the last backup was\na month ago..."
                             ]
                         },
                         {
@@ -4360,7 +4339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それで、私が頼んだのは？"
+                                "\\nc<Senpai>So, what about the task I requested?"
                             ]
                         },
                         {
@@ -4414,14 +4393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ちょ、ちょっと待ってくださいね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その…\\.\\.\\bustMsgExp[1, 0] あっ、電源入った。"
+                                "\\nc<Saki>Just, just a second please! That...\\bustMsgExp[1, 0] Ah,\nit's powered on."
                             ]
                         },
                         {
@@ -4486,14 +4458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]な、なにこれ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "資料を復旧したければ、ミートコインを送るように…だと？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>What is this?! If you want to recover the files, send\nMeatcoin... what?"
                             ]
                         },
                         {
@@ -4538,21 +4503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]ああ、またなの？　たまにあるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "内部網にセキュリティがほぼかかってないので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなふうにハッキングされるの。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Oh, not again? It happens from time to time. The internal\nnetwork has almost no security, so it gets hacked like this."
                             ]
                         },
                         {
@@ -4637,14 +4588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、私の資料は…"
+                                "\\nc<Saki>Eh? Then, my files are..."
                             ]
                         },
                         {
@@ -4698,14 +4642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>諦めるしかないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "資料の復旧のために、会社がお金を出してくれると思う？"
+                                "\\nc<Senpai>There's no choice but to give up. Do you think the company\nwill pay to recover the files?"
                             ]
                         },
                         {
@@ -4759,14 +4696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]そ、そんな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か方法はないんですか？！"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>No way... Isn't there anything we can do?!"
                             ]
                         },
                         {
@@ -4820,21 +4750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]１か月前のバックアップが最後って言ったよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "資料をまた作成するのが早いか、それともハッキングを学ぶ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "のが早いか、よく考えてみなさい。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>You said the last backup was a month ago, right? It would be\nfaster to recreate the documents than to learn hacking at\nthis point."
                             ]
                         },
                         {
@@ -4888,7 +4804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ううっ…分かりました。"
+                                "\\nc<Saki>Ugh... I understand."
                             ]
                         },
                         {
@@ -4933,21 +4849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]メッセンジャーで送ったファイルは残ってるはずだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何とか集めてみて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、１か月過ぎると廃棄されるんだっけ？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>The files you sent via messenger should still be there, so\ntry to collect them. Oh, they get discarded after a month,\ndon't they?"
                             ]
                         },
                         {
@@ -4964,14 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>他のチームに送ったものがあるか、確認してみなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何とか頼めば、向こうから送ってくれるかもよ。"
+                                "\\nc<Senpai>Check if there's anything you sent to other teams. If you\nask them nicely, maybe they'll send it back to you."
                             ]
                         },
                         {
@@ -5025,14 +4920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はぁい…ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっと、じゃあ頼まれた仕事は…"
+                                "\\nc<Saki>Yes... Thank you very much. So, about the work I was asked\nto do..."
                             ]
                         },
                         {
@@ -5084,14 +4972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>可哀相だし、今回だけ許してあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が頼んだものは今日の退勤前までに処理して送っといて。"
+                                "\\nc<Senpai>I feel sorry for you, so I'll let it slide just this once.\nMake sure to process and send what I asked for by the end of\nwork today."
                             ]
                         },
                         {
@@ -5117,7 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>だから、終わったらすぐ送るようにと言ったのに。"
+                                "\\nc<Senpai>That's why I told you to send it as soon as you're done."
                             ]
                         },
                         {
@@ -5171,7 +5052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>だって先輩、週末に送ると怒るじゃないですか…"
+                                "\\nc<Saki>But Senpai, you get mad if I send it over the weekend..."
                             ]
                         },
                         {
@@ -5225,7 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]何か言った？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Did you say something?"
                             ]
                         },
                         {
@@ -5352,7 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]な、なんでもないです！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>No, nothing at all!"
                             ]
                         },
                         {
@@ -5500,7 +5381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はぁ、また１からやり直さないといけないのか…"
+                                "\\nc<Saki>Sigh... Do I have to start all over again..."
                             ]
                         },
                         {
@@ -5564,14 +5445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\TA[1]今期の条件を達成しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔力を回収します。"
+                                "\\TA[1]We have achieved this term's conditions. Collecting magical\npower now."
                             ]
                         },
                         {
@@ -5588,7 +5462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\TA[1]次期の目標は魔力60,000です。"
+                                "\\TA[1]The target for the next term is 60,000 magical power."
                             ]
                         },
                         {
@@ -5617,7 +5491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\TA[1]'分析業務'が解放されました。"
+                                "\\TA[1]'Analysis Work' has been unlocked."
                             ]
                         },
                         {

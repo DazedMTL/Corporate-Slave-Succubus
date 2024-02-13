@@ -2506,14 +2506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>おっ、咲姫ちゃん。いらっしゃい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どう？　変わりない？"
+                                "\\nc<Producer>Oh, Saki-chan. Welcome. How are you? No changes?"
                             ]
                         },
                         {
@@ -2530,14 +2523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>あのさ、このあいだの奴覚えてるよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、仕事で僕と一緒に咲姫ちゃんの家に寄った奴。"
+                                "\\nc<Producer>You remember the other day, right? You know, when you\nstopped by Saki-chan's house with me for work."
                             ]
                         },
                         {
@@ -2554,14 +2540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>あの日の撮影分がかなり気に入ったみたいでさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局、完全に成人向け番組に乗りかえるんだって。"
+                                "\\nc<Producer>It seems they really liked the footage from that day. In the\nend, they decided to switch completely to adult programming."
                             ]
                         },
                         {
@@ -2578,14 +2557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>あいつが目標を見つけたのも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部咲姫ちゃんのおかげだよ！"
+                                "\\nc<Producer>He found his goal, all thanks to you, Saki-chan!"
                             ]
                         },
                         {
@@ -2602,14 +2574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>ん？　どうしたの？　そんな顔して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ～もしかして体が恋しいとか？　ハハハッ！"
+                                "\\nc<Producer>Hm? What's wrong? You're making that face. Ah~ could it be\nyou're missing some physical affection? Hahaha!"
                             ]
                         },
                         {
@@ -2626,21 +2591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>そういうことなら心配しないで。　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はあいつのことで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんに頼みがあって呼んだんだ。"
+                                "\\nc<Producer>If that's the case, don't worry. Actually, I called you here\nbecause I have a favor to ask about him."
                             ]
                         },
                         {
@@ -2657,21 +2608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>プラットフォームを移したのはいいけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジャンルが変わっちゃって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新規登録者を集めるのに苦労してるみたいでね。"
+                                "\\nc<Producer>It's good that we moved platforms, but since the genre\nchanged, it seems we're struggling to gather new\nsubscribers."
                             ]
                         },
                         {
@@ -2688,21 +2625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>そこで思いついたのが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんってわけ。どう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕のお願い、聞いてくれる？　報酬はしっかり払うからさ。"
+                                "\\nc<Producer>That's where I thought of you, Saki-chan. What do you say?\nWill you listen to my request? I'll pay you properly."
                             ]
                         },
                         {
@@ -2710,8 +2633,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 0,
                                 0,
@@ -2741,14 +2664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>くぅ…そうこなくっちゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "咲姫ちゃんなら引きうけてくれると思ったよ！"
+                                "\\nc<Producer>Kuu... I knew it would come to this! I thought Saki-chan\nwould take on the job!"
                             ]
                         },
                         {
@@ -2765,14 +2681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>誰が何と言おうと不法侵入にも興奮する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "真の変態マゾ淫魔だからね！"
+                                "\\nc<Producer>After all, you're a true perverted masochistic succubus who\ngets excited even by illegal entry!"
                             ]
                         },
                         {
@@ -2789,21 +2698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>頼みは簡単。淫魔第一産業で宣伝活動してるよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのとき、こっそりうちの社員の名刺も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一緒にばら撒いてほしいんだ。"
+                                "\\nc<Producer>The favor is simple. You're doing promotional activities for\nthe First Succubus Industry, right? During that, I want you\nto secretly spread our employee's business cards as well."
                             ]
                         },
                         {
@@ -2820,14 +2715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>バレたら大変なことになるって？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大丈夫、大丈夫。僕が言っておくから。"
+                                "\\nc<Producer>Worried about getting caught? No worries, no worries. I'll\ntake care of it."
                             ]
                         },
                         {
@@ -2844,14 +2732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>僕たちは咲姫ちゃんの輝く才能を見ちゃったのさ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほかの淫魔に任せるよりは咲姫ちゃんが確実だから！"
+                                "\\nc<Producer>We've seen Saki-chan's shining talent... You're more\nreliable than leaving it to other succubi!"
                             ]
                         },
                         {
@@ -2868,7 +2749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>それじゃあ頼んだよ。"
+                                "\\nc<Producer>So, I'm counting on you."
                             ]
                         },
                         {
@@ -2920,14 +2801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>そう？　うむ…いい案だと思ったんだけどな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "残念…"
+                                "\\nc<Producer>Is that so? Hmm... I thought it was a good idea. That's too\nbad..."
                             ]
                         },
                         {
@@ -2944,7 +2818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<プロデューサー>気が変わったらいつでもおいで。"
+                                "\\nc<Producer>If you change your mind, come by anytime."
                             ]
                         },
                         {
@@ -3033,7 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<プロデューサー>宣伝活動、よろしく頼むよ。"
+                                "\\nc<Producer>Please take care of the promotional activities."
                             ]
                         },
                         {
@@ -3274,7 +3148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><謎の連続失踪事件の記事>を獲得した。"
+                                "\\nc<>Gained the article on the mysterious string of\ndisappearances."
                             ]
                         },
                         {
@@ -3533,7 +3407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><淫魔第一産業メディアガイドライン>を獲得した。"
+                                "\\nc<>Gained the \"Succubus First Industry Media Guidelines\"."
                             ]
                         },
                         {

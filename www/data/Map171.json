@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -4400,7 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、派遣の仕事終わったわ。早く掃除して戻ろう。"
+                                "\\nc<Senpai>Saki, we've finished our dispatch work. Let's clean up\nquickly and head back."
                             ]
                         },
                         {
@@ -4445,7 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]せ、先輩…うあああん！\\.\\.\\bustMsgExp[1, 2]いたっ！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Se...Senpai... uwaahhhn!\\bustMsgExp[1, 2]Ouch!"
                             ]
                         },
                         {
@@ -4499,14 +4499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>かなり盛大にやられたみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、泣きわめいても誰も助けてくれないの！"
+                                "\\nc<Senpai>It looks like you took quite a beating. But crying about it\nwon't make anyone come to save you!"
                             ]
                         },
                         {
@@ -4560,14 +4553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひ…酷いです、先輩。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとくらい慰めてくれてもいいじゃないですか。"
+                                "\\nc<Saki>H...How mean, Senpai. Couldn't you at least comfort me a\nlittle?"
                             ]
                         },
                         {
@@ -4612,7 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そんなことばかり言うなら置いていくわよ？"
+                                "\\nc<Senpai>If you keep talking like that, I'll leave you behind, okay?"
                             ]
                         },
                         {
@@ -4666,14 +4652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ああっ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今掃除しますから少しだけ待ってください！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Ahh! I'll clean up right now, so please just wait a little\nbit!"
                             ]
                         },
                         {

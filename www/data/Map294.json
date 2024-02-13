@@ -3316,21 +3316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふうっ、はぁっ、はあ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くうぅ、帰らなきゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに残ってたら、また何されるか分からない…"
+                                "\\nc<Saki>Phew, haah, haa... ugh, I have to get back. If I stay here,\nwho knows what will happen again..."
                             ]
                         },
                         {
@@ -3358,14 +3344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は満身創痍になった体をやっとのことで起こし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会社に帰った…"
+                                "\\nc<>Saki managed to get her battered body up and returned to the\ncompany..."
                             ]
                         },
                         {

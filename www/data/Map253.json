@@ -3036,14 +3036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先輩の役員接待"
+                                "Would you like to watch the event? Senpai's executive\nentertainment."
                             ]
                         },
                         {
@@ -3051,8 +3044,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -3243,7 +3236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>じゃあ今日も無事に終えられるよう頑張るわよ。"
+                                "\\nc<Senpai>Then, let's work hard to finish today without any issues as\nwell."
                             ]
                         },
                         {
@@ -3319,7 +3312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員たち>\\bustMsgExp[1, 3]はい！"
+                                "\\bustMsgExp[1, 3]\\nc<Employees>Yes!"
                             ]
                         },
                         {
@@ -3739,7 +3732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>今週もかなりキツい…"
+                                "\\nc<Employee 1>This week is pretty tough too..."
                             ]
                         },
                         {
@@ -3765,14 +3758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>まあ、でもうちらはマシなほうだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チームリーダーが均等に仕事を振りわけてくれるから…"
+                                "\\nc<Employee 1>Well, but we're on the better side. The team leader\ndistributes the work evenly..."
                             ]
                         },
                         {
@@ -3803,7 +3789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ノルマをギリギリ達成できるくらいにね。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Just enough to barely meet our quotas."
                             ]
                         },
                         {
@@ -3843,21 +3829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員３>咲姫ったら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノルマを超えすぎると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来期のノルマが３倍ずつ増えるかもよ？"
+                                "\\nc<Employee 3>Saki... if you exceed the quota too much, next term's quota\nmight triple, you know?"
                             ]
                         },
                         {
@@ -3888,14 +3860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ケホッ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば、私のノルマも新人のときとは桁が違うような。"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>*cough* Now that you mention it, my quota is on a different\nscale than when I was a newbie."
                             ]
                         },
                         {
@@ -3935,21 +3900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>ホント、勝手に増やすんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のチームリーダーじゃなかったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっくに強制派遣されてたよ。"
+                                "\\nc<Employee 2>Really, they increase it arbitrarily. If it weren't for our\ncurrent team leader, we would have been sent on forced\ndispatch long ago."
                             ]
                         },
                         {
@@ -3980,21 +3931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](そういえばメアリー先輩のノルマは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とんでもないレベルだっけ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやって満たすんだろう？)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(Come to think of it, Meary-senpai's quota is at an\nunbelievable level... How does she manage to meet it?)"
                             ]
                         },
                         {

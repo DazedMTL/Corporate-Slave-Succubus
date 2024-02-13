@@ -7401,7 +7401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、次の仕事はキスフェラよ。"
+                                "\\nc<Senpai>Saki, your next job is a kiss and blowjob."
                             ]
                         },
                         {
@@ -7418,21 +7418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>きちんとご奉仕するように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきも言ったけど、この程度の仕事もできない淫魔には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も任せられないわ。"
+                                "\\nc<Senpai>Make sure to serve properly. As I said before, if you can't\neven do this much, I can't entrust you with anything else as\na succubus."
                             ]
                         },
                         {
@@ -7477,14 +7463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1](うっ…すごいプレッシャー…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "肝に銘じます。"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>(Ugh... such pressure...) I'll take it to heart."
                             ]
                         },
                         {
@@ -7529,14 +7508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1](初めから嫌がられても困るし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回の相手は慎重に選んであげようかしら…)"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>(I don't want to start off with someone who's reluctant, so\nmaybe I should choose the partner carefully this time...)"
                             ]
                         },
                         {
@@ -7746,7 +7718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]そうね、あのお客がいいかも。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Right, that client might be a good choice."
                             ]
                         },
                         {
@@ -7763,7 +7735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>キスフェラ以外はすべてNG。"
+                                "\\nc<Senpai>Everything but the kiss and blowjob is off-limits."
                             ]
                         },
                         {
@@ -7780,14 +7752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>頭に触れるくらいはいいけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的にお客はあなたに手を出せない。"
+                                "\\nc<Senpai>It's okay if they touch your head, but basically, the client\nis not allowed to lay hands on you."
                             ]
                         },
                         {
@@ -7804,7 +7769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もし触られそうになったらきっぱりと断って。いいわね？"
+                                "\\nc<Senpai>If they try to touch you, refuse firmly. Okay?"
                             ]
                         },
                         {
@@ -7849,21 +7814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]はい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(それならちょっと安心かな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに…なんだか気が弱そうな人)"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>Yes...(That's a bit reassuring. And... he seems like a timid\nperson.)"
                             ]
                         },
                         {
@@ -7908,14 +7859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それじゃあ頑張りなさい。私はここで待ってるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別途の指示がなければ、１発抜いてくるだけでいいから。"
+                                "\\nc<Senpai>Then do your best. I'll be waiting here. Unless there are\nother instructions, just make him cum once and that's it."
                             ]
                         },
                         {
@@ -7960,7 +7904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 3]分かりました！　やってみます！"
+                                "\\bustMsgExpression[1, 3]\\nc<Saki>Understood! I'll give it a try!"
                             ]
                         },
                         {

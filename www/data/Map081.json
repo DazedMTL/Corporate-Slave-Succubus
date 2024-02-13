@@ -3046,14 +3046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>死にたい……初日からこんなにつらいなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう何もできない……"
+                                "\\nc<Saki>I want to die... It's so hard from the very first day. I\ncan't do anything anymore..."
                             ]
                         },
                         {
@@ -3070,7 +3063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>これからうまくやっていけるかな……"
+                                "\\nc<Saki>I wonder if I can manage from now on..."
                             ]
                         },
                         {
@@ -3158,7 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>グー、グー…"
+                                "\\nc<Saki>Gr-, Gr-..."
                             ]
                         },
                         {

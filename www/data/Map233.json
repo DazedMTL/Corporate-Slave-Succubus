@@ -3991,7 +3991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]ただいま戻りました！"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>I'm back now!"
                             ]
                         },
                         {
@@ -4067,7 +4067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]\\bustMsgExp[2, 1]咲姫…こっそりチップをもらったようね？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\bustMsgExp[2, 1]\\nc<Senpai>Saki... you secretly received a tip, didn't you?"
                             ]
                         },
                         {
@@ -4121,7 +4121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えええっ？！　どうして分かったんですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Whaaat?! How did you know?"
                             ]
                         },
                         {
@@ -4166,14 +4166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]さっきは死にそうな顔してたのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はニコニコしてるんだもん。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>You had a near-death look on your face before, but now\nyou're all smiles."
                             ]
                         },
                         {
@@ -4190,14 +4183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]無鉄砲すぎる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会社が送った忍びだったらどうするつもり？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>That's too reckless. What if it was a spy sent by the\ncompany?"
                             ]
                         },
                         {
@@ -4251,14 +4237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>忍び？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなのもあるんですか？"
+                                "\\nc<Saki>A spy?! Is that even a thing?"
                             ]
                         },
                         {
@@ -4303,14 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>淫魔が会社に秘密でアフターをしたりチップを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受けとったりしないか監視する役割を忍びって言うの。"
+                                "\\nc<Senpai>They're called spies. It's their role to monitor whether\nsuccubi secretly go on after-hours dates or accept tips\nwithout the company knowing."
                             ]
                         },
                         {
@@ -4355,7 +4327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うちの会社…なんでそういうところはやけに厳しいんですか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Our company... why are they so strict about that kind of\nthing?"
                             ]
                         },
                         {
@@ -4400,7 +4372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]そりゃあ社員をいじめるのが楽しいからでしょ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Well, it's probably because they find it fun to bully their\nemployees."
                             ]
                         },
                         {
@@ -4445,14 +4417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>私、今からでもチップを返してきます！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それか会社に上納を…"
+                                "\\nc<Saki>I'll return the tip right now! Or maybe I should offer it to\nthe company..."
                             ]
                         },
                         {
@@ -4497,21 +4462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]バカ、今回だけこっそり受けとりなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのお客は私の常連だから忍びじゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは私がよく知ってるから。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Idiot, just accept it secretly this time. That customer is a\nregular of mine, so he's not a spy. I know that for sure."
                             ]
                         },
                         {
@@ -4556,14 +4507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]そ、そうなんですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヘヘッ、ありがとうございます先輩。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Is that so?! Hehe, thank you, Senpai."
                             ]
                         },
                         {
@@ -4617,7 +4561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 2]代わりに今日のお昼は咲姫のおごりよ？"
+                                "\\bustMsgExp[2, 2]\\nc<Senpai>In exchange, you're treating me to lunch today, Saki."
                             ]
                         },
                         {
@@ -4662,7 +4606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ええっ、酷いです！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>What, that's terrible!"
                             ]
                         },
                         {
@@ -4707,14 +4651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]私のおかげでチップもらったじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日のお昼はお寿司にする？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Thanks to me, you got a tip. Shall we have sushi for lunch\ntoday?"
                             ]
                         },
                         {
@@ -4768,7 +4705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>もう先輩ったら！"
+                                "\\nc<Saki>Oh, Senpai, you're too much!"
                             ]
                         },
                         {
@@ -4796,7 +4733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>結局、先輩に昼食をおごった…"
+                                "\\nc<>In the end, I treated Senpai to lunch..."
                             ]
                         },
                         {

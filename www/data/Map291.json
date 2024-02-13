@@ -5960,7 +5960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そこまで。"
+                                "\\nc<Senpai>That's enough."
                             ]
                         },
                         {
@@ -6057,7 +6057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>派遣時間は終わったから、今すぐ咲姫を放しなさい！"
+                                "\\nc<Senpai>The dispatch time is over, release Saki immediately!"
                             ]
                         },
                         {
@@ -6074,7 +6074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>何だって？　そんなはずが…"
+                                "\\nc<Researcher 1>What? That can't be..."
                             ]
                         },
                         {
@@ -6105,21 +6105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]ある！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "派遣の書類に２時間短縮して書いておいたもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まともに読んでもないでしょう？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>It is! I wrote a two-hour reduction on the dispatch\ndocuments. You didn't even read them properly, did you?"
                             ]
                         },
                         {
@@ -6181,7 +6167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>いけません！　まだ実験が…"
+                                "\\nc<Researcher 2>That's not acceptable! The experiment is still..."
                             ]
                         },
                         {
@@ -6472,14 +6458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それじゃあの子が怪我しても構わないってことね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が拘束具を外すわよ？"
+                                "\\nc<Senpai>So you don't mind if she gets hurt? I'll remove the\nrestraints myself then."
                             ]
                         },
                         {
@@ -6519,7 +6498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>クッ…あの被験者は借りものだから…"
+                                "\\nc<Researcher 1>Grr... That subject is only on loan..."
                             ]
                         },
                         {
@@ -6536,14 +6515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>仕方ないですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し早いですが結果を確認しましょうか…"
+                                "\\nc<Researcher 2>Can't be helped. It's a bit early, but let's check the\nresults..."
                             ]
                         },
                         {
@@ -6687,7 +6659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふえっ、はぁっ…."
+                                "\\nc<Saki>Fueh, hah..."
                             ]
                         },
                         {
@@ -6727,14 +6699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>妊娠の前兆は…なし。実験失敗のようです。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残念…"
+                                "\\nc<Researcher 1>Signs of pregnancy... none. It seems the experiment has\nfailed. What a pity..."
                             ]
                         },
                         {
@@ -6779,7 +6744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]残念ね。それじゃあすぐに連れて帰るわ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Pity indeed. Then I'll take her back right away."
                             ]
                         },
                         {
@@ -6810,7 +6775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>ああっ…"
+                                "\\nc<Researcher 2>Ahh..."
                             ]
                         },
                         {
@@ -6917,7 +6882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩…"
+                                "\\nc<Saki>Senpai..."
                             ]
                         },
                         {
@@ -6962,14 +6927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お疲れ。戻ろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫がいないと退屈でしょうがないの。"
+                                "\\nc<Senpai>You must be tired. Let's go back. It's unbearably boring\nwithout you, Saki."
                             ]
                         },
                         {
@@ -7014,7 +6972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう、せんぱぁぁぁいっ…"
+                                "\\nc<Saki>Uuh, senpaaiii..."
                             ]
                         },
                         {

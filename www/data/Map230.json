@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -3791,7 +3791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そのお客、かなりのマゾ男だから乱暴に扱ってね。"
+                                "\\nc<Senpai>That customer is quite the masochist, so don't hesitate to\nbe rough with him."
                             ]
                         },
                         {
@@ -3845,14 +3845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えええっ…マゾって、SMのですか？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、そういうのやったことないんですけど…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eeeeh... Masochist, as in S&M? I've never done anything like\nthat before..."
                             ]
                         },
                         {
@@ -3897,21 +3890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あ、大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暴力って言っても言葉の暴力がほとんどだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それほど気難しいお客でもないし。"
+                                "\\nc<Senpai>Oh, it's fine. When I say violence, I mostly mean verbal\nabuse. He's not that difficult a customer."
                             ]
                         },
                         {
@@ -3956,7 +3935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええっ…"
+                                "\\nc<Saki>Eeeh..."
                             ]
                         },
                         {
@@ -4001,14 +3980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>罵れば罵るほど興奮するから、頑張って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "日頃のストレスを発散する機会だと思いなさい。"
+                                "\\nc<Senpai>The more you insult him, the more excited he gets, so give\nit your best. Think of it as an opportunity to vent your\ndaily stress."
                             ]
                         },
                         {
@@ -4062,7 +4034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]私、本当に自信ないんですけど…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>I really don't have confidence in this though..."
                             ]
                         },
                         {

@@ -6651,7 +6651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>こんにちは。"
+                                "\\nc<???>Hello."
                             ]
                         },
                         {
@@ -6722,7 +6722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あっ、まだイベント開始前ですが…"
+                                "\\nc<Saki>Ah, the event hasn't started yet..."
                             ]
                         },
                         {
@@ -6753,14 +6753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>５分前じゃないですか。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいでしょ？"
+                                "\\nc<???>Isn't it five minutes before? It's fine, right?"
                             ]
                         },
                         {
@@ -6800,7 +6793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>分かりました。ではチケットを確認しますね。"
+                                "\\nc<Saki>Understood. Then I'll check your ticket."
                             ]
                         },
                         {
@@ -6856,7 +6849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>はい、特別クーポン。"
+                                "\\nc<???>Yes, a special coupon."
                             ]
                         },
                         {
@@ -6894,21 +6887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(特別クーポン？　そんなの聞いたことないけど…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]先輩はもう行っちゃたのかな？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よりによってこんなときに席を外すなんて…)"
+                                "\\nc<Saki>(A special coupon? I've never heard of such a\nthing...[bustMsgExp[1, 2]]Has senpai already left? To leave\nhis seat at a time like this...)"
                             ]
                         },
                         {
@@ -6948,7 +6927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>てか…もしかして「咲姫」？"
+                                "\\nc<???>By the way... could you be \"Saki\"?"
                             ]
                         },
                         {
@@ -6979,7 +6958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustExp[1, 1]ええっ？　私をご存知ですか？"
+                                "\\bustExp[1, 1]\\nc<Saki>Eh? You know me?"
                             ]
                         },
                         {
@@ -7010,7 +6989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>これはこれは…プフッ。"
+                                "\\nc<???>Oh my... Pfft."
                             ]
                         },
                         {
@@ -7226,7 +7205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あっ、あんた…\\.\\.安田？！"
+                                "\\nc<Saki>Ah, you... Yasuda?!"
                             ]
                         },
                         {
@@ -7257,14 +7236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>久しぶりだな、咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかお前がサキュバスになってたとは…"
+                                "\\nc<Yasuda-San>Long time no see, Saki. I never imagined you'd become a\nsuccubus..."
                             ]
                         },
                         {
@@ -7295,7 +7267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(こいつ、大学の同期の…)"
+                                "\\nc<Saki>(This guy, he's my college classmate...)"
                             ]
                         },
                         {
@@ -7353,7 +7325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>幼児教育科に入学して１学期も通わずに中退した男、安田。"
+                                "\\nc<>Yasuda-San: The man who enrolled in the Early Childhood\nEducation department and dropped out after just one\nsemester, Yasuda."
                             ]
                         },
                         {
@@ -7370,21 +7342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>女だらけの幼児教育科にハーレムを狙って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入ってきたみたいだったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが露骨になりすぎたせいで…"
+                                "\\nc<>Yasuda-San: It seemed like he entered aiming for a harem in\nthe female-dominated Early Childhood Education department,\nbut because he was too blatant about it..."
                             ]
                         },
                         {
@@ -7401,7 +7359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>彼を待っていたのは、同期からの嫌悪と軽蔑だった。"
+                                "\\nc<>Yasuda-San: What awaited him was disdain and contempt from\nhis peers."
                             ]
                         },
                         {
@@ -7450,21 +7408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(きっと、いろんな同期にちょっかいを出したあげく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌われて追い出されたんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかここで会うことになるとは…)"
+                                "\\nc<Saki>(Surely, after messing around with various classmates, he\nwas disliked and driven out. I never thought I'd meet him\nhere...)"
                             ]
                         },
                         {
@@ -7481,7 +7425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustExp[1, 2](私もそこに加わってなかったとは言えないけど…)"
+                                "\\bustExp[1, 2]\\nc<Saki>(I can't say I wasn't part of that either...)"
                             ]
                         },
                         {
@@ -7498,14 +7442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustExp[1, 1](そもそもハーレムなんかを狙って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幼児教育科に志願したのが間違いなのよ！)"
+                                "\\bustExp[1, 1]\\nc<Saki>(First of all, it was a mistake to apply for the Early\nChildhood Education department aiming for a harem!)"
                             ]
                         },
                         {
@@ -7585,14 +7522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>人間がサキュバスになるなんてな…実際に見たのは初めてだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと奇病かなんかのせいだったんだろ？　よかったな。"
+                                "\\nc<Yasuda-San>A human becoming a succubus, huh... This is my first time\nseeing it for real. It must have been some strange disease\nor something, right? Good for you."
                             ]
                         },
                         {
@@ -7623,7 +7553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustExp[1, 2]なっ…！　その…ほ、ほかの社員と変わってあげようか？"
+                                "\\bustExp[1, 2]\\nc<Saki>Wha...! That... shall I switch with another employee?"
                             ]
                         },
                         {
@@ -7654,7 +7584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>いや、俺はこのままでも構わない。さっさと始めようぜ。"
+                                "\\nc<Yasuda-San>No, I don't mind continuing as is. Let's get started\nquickly."
                             ]
                         },
                         {
@@ -7685,21 +7615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustExp[1, 1](ありえない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大学時代の知り合いとこんなことをするはめになるなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、こいつは知り合いでもなんでもないけど！)"
+                                "\\bustExp[1, 1]\\nc<Saki>(Unbelievable. To think I'd have to do this with an\nacquaintance from college... Well, he's not really an\nacquaintance or anything!)"
                             ]
                         },
                         {
@@ -7730,7 +7646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>お客を待たせるつもりか？　クレーム入れるぞ？"
+                                "\\nc<Yasuda-San>Are you planning to keep the customer waiting? I'll file a\ncomplaint, you know?"
                             ]
                         },
                         {
@@ -7761,14 +7677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustExp[1, 2]ううっ…わ、分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(やっぱり嫌な顔)"
+                                "\\bustExp[1, 2]\\nc<Saki>Ugh... o-okay, I understand. (She clearly has a disgusted\nface.)"
                             ]
                         },
                         {
@@ -7869,7 +7778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は安田の肉棒を太ももの間に挟んで顔を近づけた。"
+                                "\\nc<>Saki: Saki sandwiched Yasuda's dick between her thighs and\nleaned her face closer."
                             ]
                         },
                         {
@@ -7897,7 +7806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(こんな嫌な奴、早く射精させて帰らせないと…)"
+                                "\\nc<Saki>(I need to make this unpleasant guy ejaculate quickly and\nsend him away...)"
                             ]
                         },
                         {
@@ -7925,7 +7834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>安田は遠慮なく咲姫の体をさっと抱きよせる。"
+                                "\\nc<>Yasuda-San: Yasuda unhesitatingly pulled Saki's body close\nto him."
                             ]
                         },
                         {
@@ -7953,7 +7862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>いつまで待たせるつもりだ？"
+                                "\\nc<Yasuda-San>How long do you intend to keep me waiting?"
                             ]
                         },
                         {
@@ -7970,7 +7879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>で、ではキス会のイベントを始めます…"
+                                "\\nc<Saki>Th-then, let's start the kissing event..."
                             ]
                         },
                         {
@@ -8010,14 +7919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>イベントの開始音が鳴ると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は目をぎゅっと閉じ、安田に唇を近づけた。"
+                                "\\nc<>Saki: As the event start sound rang out, Saki tightly closed\nher eyes and brought her lips close to Yasuda."
                             ]
                         },
                         {
@@ -8034,14 +7936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そうして咲姫が覚悟を決めた瞬間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安田はいきなり咲姫の下衣の中に手を入れた。"
+                                "\\nc<>Yasuda-San: And just as Saki steeled herself, Yasuda\nsuddenly slipped his hand into her underwear."
                             ]
                         },
                         {
@@ -8123,7 +8018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うわっ？！　ちょ、ちょっと！　ちょっと待って！"
+                                "\\nc<Saki>Whoa?! Hey, wait a minute! Just wait!"
                             ]
                         },
                         {
@@ -8140,21 +8035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(これって大丈夫なの？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかのお客もさりげなく触ってはいたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに露骨に触るなんて…)"
+                                "\\nc<Saki>(Is this really okay? Other customers touched me subtly, but\nto touch so blatantly...)"
                             ]
                         },
                         {
@@ -8171,7 +8052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>何してんだよ。俺は特別クーポンを使ったんだぜ。"
+                                "\\nc<Yasuda-San>What are you doing? I used a special coupon."
                             ]
                         },
                         {
@@ -8188,14 +8069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(そ、そうなの？　特別クーポンを使えば触ってもいいの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのクーポン、ちょっと雑だったけど…)"
+                                "\\nc<Saki>(Is that so? If you use a special coupon, it's okay to\ntouch? That coupon looked a bit shoddy though...)"
                             ]
                         },
                         {
@@ -8223,14 +8097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の会社でそういうクーポンを売っていないとは断言できない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今までの経験から可能性は十分にある。"
+                                "\\nc<>Saki: It can't be said for certain that Saki's company\ndoesn't sell such coupons. From past experience, there's\ndefinitely a possibility."
                             ]
                         },
                         {
@@ -8258,7 +8125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>分かったなら続けようぜ。"
+                                "\\nc<Yasuda-San>If you understand, then let's continue."
                             ]
                         },
                         {
@@ -8314,7 +8181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>安田は咲姫の花びらを指でくすぐりはじめた。"
+                                "\\nc<>Yasuda-San: Yasuda began to tickle Saki's petals with his\nfinger."
                             ]
                         },
                         {
@@ -8331,7 +8198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は必死に安田に口づけをし、太ももを締めるが…"
+                                "\\nc<>Saki: Saki desperately kissed Yasuda and squeezed her thighs\ntogether, but..."
                             ]
                         },
                         {
@@ -8348,7 +8215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>股をくすぐる手のせいでなかなか集中できない。"
+                                "\\nc<>Saki: The hand tickling her crotch made it hard for her to\nconcentrate."
                             ]
                         },
                         {
@@ -8376,14 +8243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(やっとキス会に慣れてきたのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなことをされるなんて…)"
+                                "\\nc<Saki>(Just when I was getting used to the kissing event, to have\nthis done to me...)"
                             ]
                         },
                         {
@@ -8411,7 +8271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>男の荒い指が彼女の花びらをぱっくりと半分に割いた。"
+                                "\\nc<>The man's rough fingers split her petals wide open."
                             ]
                         },
                         {
@@ -8428,7 +8288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>続けて襲いかかる異物感に、咲姫は体をブルブルと震わせた。"
+                                "\\nc<>Continuing to be assaulted by the foreign sensation, Saki's\nbody shivered violently."
                             ]
                         },
                         {
@@ -8482,7 +8342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ひいっ！　は、入ってきた？！)"
+                                "\\nc<Saki>(Eek! Is it... going in?!)"
                             ]
                         },
                         {
@@ -8499,14 +8359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>クフフ、意外と可愛い反応だな？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サキュバスになってそんなに経ってないみたいだけど？"
+                                "\\nc<Yasuda-San>Kufufu, what a surprisingly cute reaction. You haven't been\na succubus for long, have you?"
                             ]
                         },
                         {
@@ -8523,14 +8376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(も…もお…私もオナニーくらいはしたことあるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは…)"
+                                "\\nc<Saki>(I... I've masturbated before, but this is...)"
                             ]
                         },
                         {
@@ -8572,14 +8418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>本人の意思とは関係なく好き勝手に動く指に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり動揺する咲姫。"
+                                "\\nc<>Saki was considerably disturbed by the fingers moving on\ntheir own, regardless of her will."
                             ]
                         },
                         {
@@ -8596,7 +8435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>安田はそんな彼女の舌を巧みに奪った。"
+                                "\\nc<>Yasuda skillfully stole her tongue."
                             ]
                         },
                         {
@@ -8636,14 +8475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>ふうっ、ちゅぷ…ちゃんとお仕えしろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺はキス会の常連だぞ。"
+                                "\\nc<Yasuda-San>Fuu, chup... Make sure you serve me properly. I'm a regular\nat the kissing event."
                             ]
                         },
                         {
@@ -8660,7 +8492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(さっきから偉そうに…)"
+                                "\\nc<Saki>(He's been acting so high and mighty since a while ago...)"
                             ]
                         },
                         {
@@ -8684,21 +8516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>お前の同期たちは知ってんのか？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや～、同期がサキュバスなんてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとでみんなに自慢しないと。"
+                                "\\nc<Yasuda-San>Do your peers know? Wow, having a succubus as a colleague.\nI'll have to brag about this later."
                             ]
                         },
                         {
@@ -8727,7 +8545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>へっ？　だ、だめえっ…はうん？！"
+                                "\\nc<Saki>Huh? No, wait... Hauhn?!"
                             ]
                         },
                         {
@@ -8804,14 +8622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>羞恥心のせいだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の体は普段よりも早く火照りだした。"
+                                "\\nc<>Perhaps due to her shame, Saki's body heated up faster than\nusual."
                             ]
                         },
                         {
@@ -8828,14 +8639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>一番長い中指を真っ直ぐに伸ばし、咲姫の蜜壺に突っこむと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安田はまるで彼女を征服したかのようにニヤリと笑った。"
+                                "\\nc<>Yasuda stretched out his longest middle finger straight into\nSaki's honey pot and grinned as if he had conquered her."
                             ]
                         },
                         {
@@ -8870,7 +8674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>全部入ったぞ。ヒヒッ。ちゅうっ、ちゅっ…"
+                                "\\nc<Yasuda-San>It's all in. Heheh. Chu, chup..."
                             ]
                         },
                         {
@@ -8898,7 +8702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>安田がキスに集中すると、嫌な顔が目の前に迫ってきた。"
+                                "\\nc<>As Yasuda focused on the kiss, an unpleasant face loomed\nbefore her."
                             ]
                         },
                         {
@@ -8915,7 +8719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は羞恥心と屈辱で涙を流しながらもがいた。"
+                                "\\nc<>Saki struggled while shedding tears of shame and\nhumiliation."
                             ]
                         },
                         {
@@ -8943,14 +8747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(安田なんかに好き放題ヤられるなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりキモいし無理)"
+                                "\\nc<Saki>(To be done as he pleases by someone like Yasuda... It's\nreally gross and unbearable.)"
                             ]
                         },
                         {
@@ -8978,14 +8775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>安田は咲姫の嫌がる顔をむしろ楽しみながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指をフックのように曲げた。"
+                                "\\nc<>Yasuda bent his finger like a hook, seemingly enjoying\nSaki's disgusted face even more."
                             ]
                         },
                         {
@@ -9002,14 +8792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>すると咲姫の腰がガクガクと震え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体が言うことを聞かなくなった。"
+                                "\\nc<>Then Saki's hips shook violently, and her body stopped\nresponding."
                             ]
                         },
                         {
@@ -9063,7 +8846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はぁっ、うっ！？　クプッ、チュプッ…"
+                                "\\nc<Saki>Hah, ugh! Kup, chup..."
                             ]
                         },
                         {
@@ -9080,14 +8863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>咲姫はここが弱いんだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よしよし。こうやって挿れられるのが好き？"
+                                "\\nc<Yasuda-San>So this is your weak spot, Saki? There there. Do you like\nbeing penetrated like this?"
                             ]
                         },
                         {
@@ -9115,7 +8891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>チュポッ、チュポッ…"
+                                "\\nc<>Chupo, chupo..."
                             ]
                         },
                         {
@@ -9132,7 +8908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の秘部は安田の指をギュッと咥えている。"
+                                "\\nc<>Saki's genitals tightly clenched around Yasuda's finger."
                             ]
                         },
                         {
@@ -9175,7 +8951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>太ももに挟んだ肉棒が気味悪く蠢く。"
+                                "\\nc<>The cock sandwiched between her thighs writhed creepily."
                             ]
                         },
                         {
@@ -9192,7 +8968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は遅れて太ももを擦りつけたが安田は耐えきった。"
+                                "\\nc<>Saki rubbed her thighs together belatedly, but Yasuda\nendured it."
                             ]
                         },
                         {
@@ -9220,14 +8996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ま、まったく効いてない！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ、だめ、何かが出ちゃうっ…)"
+                                "\\nc<Saki>(It's not working at all! Ah, no, something's coming out...)"
                             ]
                         },
                         {
@@ -9344,7 +9113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュッ、ピュウッ…"
+                                "\\nc<>Pew, pew..."
                             ]
                         },
                         {
@@ -9361,14 +9130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>たまたまなのか、それともサキュバスの特性なのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は情けないほどあっさりイってしまった。"
+                                "\\nc<>Whether by chance or a succubus trait, Saki came\nembarrassingly easily."
                             ]
                         },
                         {
@@ -9385,7 +9147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>衣装の股が蜜汁でどんどん濡れていく。"
+                                "\\nc<>The crotch of her costume became increasingly wet with honey\njuice."
                             ]
                         },
                         {
@@ -9413,7 +9175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>おおっ、イった。イったんだよな？"
+                                "\\nc<Yasuda-San>Ohh, you came. You did come, right?"
                             ]
                         },
                         {
@@ -9430,14 +9192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ちがいましゅっ、あうっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひぐっ、まだイってる途中なのに動いたら…♥"
+                                "\\nc<Saki>That's not true, ahh♥ Higu, I'm still in the middle of\ncoming... if you move...♥"
                             ]
                         },
                         {
@@ -9465,7 +9220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>激しく攻め続ける安田。"
+                                "\\nc<>Yasuda continued to attack fiercely."
                             ]
                         },
                         {
@@ -9482,7 +9237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫はまともに喋ることもできず一方的に犯されてしまった。"
+                                "\\nc<>Saki couldn't speak properly and was unilaterally violated."
                             ]
                         },
                         {
@@ -9517,14 +9272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>何してんだ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く終わらせたかったらちゃんと動かさねえと。"
+                                "\\nc<Yasuda-San>What are you doing? If you want to finish quickly, you\nbetter move properly."
                             ]
                         },
                         {
@@ -9541,7 +9289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふぎゅ、はうん、ちゅぷ、ぐふっ？！"
+                                "\\nc<Saki>Fugyu, haun, chup, gufu?!"
                             ]
                         },
                         {
@@ -9583,14 +9331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>くだらないと嫌悪感を抱いていた相手の手遊びに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いちいち感じてしまう女体。"
+                                "\\nc<>The female body, which felt every touch of the hand she\ndespised as trivial, reacted to each one."
                             ]
                         },
                         {
@@ -9607,7 +9348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は両目をぎゅっと閉じたが、何の効果もなかった。"
+                                "\\nc<>Saki tightly closed both eyes, but it had no effect\nwhatsoever."
                             ]
                         },
                         {
@@ -9624,14 +9365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>安田は咲姫の下手なキスを楽しみながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女の肉壁を隅々まで掻きみだした。"
+                                "\\nc<>Yasuda enjoyed Saki's poor kissing while scraping every\ncorner of her flesh walls."
                             ]
                         },
                         {
@@ -9659,14 +9393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>ここも敏感だし…ひょっとしてここも？\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ、当たり！"
+                                "\\nc<Yasuda-San>This spot is sensitive too... Maybe this one as well? Oh,\njackpot!"
                             ]
                         },
                         {
@@ -9697,14 +9424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(くぅっ…こんな奴にイかされたくないのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サキュバスの体はなんでこんなに弱いの？)"
+                                "\\nc<Saki>(Kuu... I don't want to be made to come by someone like\nhim... Why is a succubus's body so weak?)"
                             ]
                         },
                         {
@@ -9721,21 +9441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>咲姫。幼稚園の先生より"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サキュバスのほうがよく似合ってるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見かけによらず素質がある。"
+                                "\\nc<Yasuda-San>Saki, you're more suited to be a succubus than a\nkindergarten teacher. You have more potential than you look."
                             ]
                         },
                         {
@@ -9764,7 +9470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>な、何を言って…ああっ…そこ擦っちゃだめええっ♥"
+                                "\\nc<Saki>Wh-what are you saying... Ahh... don't rub thereee♥"
                             ]
                         },
                         {
@@ -9888,7 +9594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュッ、プシュウウッ！"
+                                "\\nc<>Squirt, sploosh!"
                             ]
                         },
                         {
@@ -9905,7 +9611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>壊れた蛇口のように愛液を撒きちらす秘部。"
+                                "\\nc<>Her genitals sprayed love juices like a broken faucet."
                             ]
                         },
                         {
@@ -9922,7 +9628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>屈辱と快感が入りまざり、咲姫の頭の中が真っ白になる。"
+                                "\\nc<>Humiliation and pleasure mixed together, turning Saki's mind\ncompletely blank."
                             ]
                         },
                         {
@@ -9939,7 +9645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>もう２つの区別がまともにつかないくらい。"
+                                "\\nc<>She could no longer properly distinguish between the two."
                             ]
                         },
                         {
@@ -9967,14 +9673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>おいおい、簡単すぎじゃねえか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このザコサキュバスが…"
+                                "\\nc<Yasuda-San>Hey hey, isn't this too easy? This weak succubus..."
                             ]
                         },
                         {
@@ -10003,7 +9702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ちがううっ、私はザコサキュバスじゃ…\\.\\.ひいいっ？！"
+                                "\\nc<Saki>That's not it, I'm not a weak succubus... Hiiii?!"
                             ]
                         },
                         {
@@ -10045,7 +9744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュウ、ジュワッ…チュポチュポッ…"
+                                "\\nc<>Slosh, squelch... Suck, suck..."
                             ]
                         },
                         {
@@ -10062,7 +9761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>淫らな水音が上下からめまぐるしく混ざりあう。"
+                                "\\nc<>The lewd sounds of water mixed chaotically from above and\nbelow."
                             ]
                         },
                         {
@@ -10079,7 +9778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は反抗するどころか立っているのがやっとだ。"
+                                "\\nc<>Saki could hardly stand, let alone resist."
                             ]
                         },
                         {
@@ -10122,14 +9821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>安田はその隙を狙ってスマホを取り出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝手に写真まで撮ってしまった。"
+                                "\\nc<>Yasuda took the opportunity to take out his smartphone and\neven snapped photos without permission."
                             ]
                         },
                         {
@@ -10146,7 +9838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>急なシャッター音に咲姫の理性がやっと戻った。"
+                                "\\nc<>The sudden sound of the shutter finally brought Saki's\nreason back."
                             ]
                         },
                         {
@@ -10209,7 +9901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>だ、だめ！　何を勝手に…"
+                                "\\nc<Saki>No, don't! What are you doing without permission..."
                             ]
                         },
                         {
@@ -10226,14 +9918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>これ、友達にばら撒いたら面白そうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次はお前を狙ってた連中、みんな連れてきて犯してやるよ。"
+                                "\\nc<Yasuda-San>This would be fun to spread around to friends. Next time,\nI'll bring all the guys who were after you and have them\nviolate you too."
                             ]
                         },
                         {
@@ -10262,7 +9947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>や、やだあっ…そんなことしないでえ、あうっ…"
+                                "\\nc<Saki>No, don't... please don't do that, ahh..."
                             ]
                         },
                         {
@@ -10293,7 +9978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>プハッ、好き勝手に手マンされながら頼みこむザマとは。"
+                                "\\nc<Yasuda-San>Puhah, begging while being fingered at will, what a sight."
                             ]
                         },
                         {
@@ -10321,14 +10006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の腕が遅れて安田を振りはらおうとするが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まともに力が入らない。"
+                                "\\nc<>Saki's arms belatedly tried to shake Yasuda off, but they\ncouldn't muster any strength."
                             ]
                         },
                         {
@@ -10345,7 +10023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>安田は写真をさらに何枚か撮り、咲姫をからかった。"
+                                "\\nc<>Yasuda took several more photos and teased Saki."
                             ]
                         },
                         {
@@ -10373,7 +10051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>服を脱いで裸で謝罪すれば許してやる。どうだ？"
+                                "\\nc<Yasuda-San>Strip naked and apologize, then I'll forgive you. How about\nit?"
                             ]
                         },
                         {
@@ -10390,7 +10068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふ、ふざけたこと言わないで…はうっ！"
+                                "\\nc<Saki>Don't say such ridiculous things... Hauu!"
                             ]
                         },
                         {
@@ -10421,14 +10099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>クッ。そんなに締めつけられたら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イ、イく…！"
+                                "\\nc<Yasuda-San>Kuh. If you squeeze me like that... I-I'm going to come...!"
                             ]
                         },
                         {
@@ -10540,7 +10211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュッ！\\.\\."
+                                "\\nc<>Squirt!"
                             ]
                         },
                         {
@@ -10622,7 +10293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ドピュッ…"
+                                "\\nc<>Spurt..."
                             ]
                         },
                         {
@@ -10639,14 +10310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫が羞恥心から太ももをギュッと締めると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安田の肉棒が前触れもなく射精しはじめた。"
+                                "\\nc<>As Saki clenched her thighs out of shame, Yasuda's penis\nbegan to ejaculate without warning."
                             ]
                         },
                         {
@@ -10717,14 +10381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>かなり長い間思う存分射精した彼は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強い脱力感に襲われ体をふらつかせた。"
+                                "\\nc<>After ejaculating to his heart's content for quite a long\ntime, he was struck by a strong sense of exhaustion and his\nbody staggered."
                             ]
                         },
                         {
@@ -10780,7 +10437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、あう…"
+                                "\\nc<Saki>A-ahh..."
                             ]
                         },
                         {
@@ -10834,7 +10491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>カシャ！"
+                                "\\nc<>Click!"
                             ]
                         },
                         {
@@ -10851,14 +10508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ぐちゃぐちゃになった咲姫の顔を再び撮影した安田は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫が気を取りもどすまえに、そそくさと出ていった。"
+                                "\\nc<>Yasuda took another photo of Saki's messed-up face and\nquickly left before she could regain her composure."
                             ]
                         },
                         {

@@ -3613,21 +3613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](やっぱりおかしいよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなのが本当に放送されるなんて…生放送だからチェックが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入らなかったの？宣伝目的だから、そのまま流したとか？)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(This is definitely strange... How could something like that\nactually be broadcasted... Was it because it was live that\nthere was no check? Or did they let it air as it was for\npromotional purposes?)"
                             ]
                         },
                         {
@@ -3676,7 +3662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>やだー、本当に図々しいわ。"
+                                "\\nc<Employee 1>Ugh, that's really shameless."
                             ]
                         },
                         {
@@ -3702,21 +3688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>もともと淫魔でもないくせに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近あの子のせいで恥ずかしくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "堂々と歩けないんだから。"
+                                "\\nc<Employee 2>And she's not even a succubus by nature... Because of her,\nI've been too embarrassed to walk around with my head held\nhigh lately."
                             ]
                         },
                         {
@@ -3756,7 +3728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うっ…やっぱりこうなるんだ…)"
+                                "\\nc<Saki>(Ugh... I knew it would come to this...)"
                             ]
                         },
                         {
@@ -4609,14 +4581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]みんなおはよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は今すぐ接待室に向かって。"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Good morning, everyone. Saki, head to the reception room\nright now."
                             ]
                         },
                         {
@@ -4670,14 +4635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]え、ええっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会議、参加しなくていいんですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh, what? I don't need to attend the meeting?"
                             ]
                         },
                         {
@@ -4722,21 +4680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ええ。このまえの番組を観たお客たちが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "列を作って待ってたわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く行きなさい。"
+                                "\\nc<Senpai>Yes. The guests who saw the program the other day are lined\nup waiting. Hurry on over."
                             ]
                         },
                         {
@@ -4790,7 +4734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]に、逃げたい…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>I-I want to escape..."
                             ]
                         },
                         {
@@ -4830,7 +4774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>……"
+                                "\\nc<Employee 1>..."
                             ]
                         },
                         {
@@ -4861,21 +4805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]あなたたちも、くだらないこと言ってないで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "客引きでもしてきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも、咲姫のお客を少し分けてもらう？"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>You all stop chatting about nonsense and go do some customer\nsoliciting. Or would you like to take some of Saki's\nclients?"
                             ]
                         },
                         {
@@ -4906,14 +4836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>あ、はい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ありがとう、咲姫さん。"
+                                "\\nc<Employee 1>Oh, yes... Thank you, Saki-san."
                             ]
                         },
                         {
@@ -4970,7 +4893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc＜社員２>わ、私も…"
+                                "\\nc＜Employee 2> I-I also..."
                             ]
                         },
                         {
@@ -5001,14 +4924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]えっ、あ、あはは…いえいえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私１人じゃ接待しきれませんから。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Eh, ah, haha... No, no. I couldn't possibly entertain them\nall by myself."
                             ]
                         },
                         {

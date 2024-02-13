@@ -3008,7 +3008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>大変お伝えしにくいのですが…"
+                                "\\nc<Doctor>I'm afraid I have some difficult news to convey..."
                             ]
                         },
                         {
@@ -3025,7 +3025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>どうやら種族が変わってしまったようです。"
+                                "\\nc<Doctor>It seems that your race has changed."
                             ]
                         },
                         {
@@ -3125,7 +3125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1]ええっ？"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>What?"
                             ]
                         },
                         {
@@ -3142,7 +3142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、そんなことがありえるんですか？"
+                                "\\nc<Saki>Is... is such a thing even possible?"
                             ]
                         },
                         {
@@ -3173,7 +3173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>ですが、現に変わっています。"
+                                "\\nc<Doctor>However, the change has indeed occurred."
                             ]
                         },
                         {
@@ -3190,14 +3190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>あなたの体は完全に魔族……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それも淫魔になっています。"
+                                "\\nc<Doctor>Your body has completely transformed into that of a demon...\nspecifically, a succubus."
                             ]
                         },
                         {
@@ -3247,7 +3240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]そ、それじゃあ……もとに戻る方法は…？"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>Then... is there a way to change back...?"
                             ]
                         },
                         {
@@ -3278,14 +3271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>今まで魔族が人間に変わった事例は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報告されていません。もちろんその逆もです。"
+                                "\\nc<Doctor>There have been no reported cases of a demon turning into a\nhuman. Of course, the reverse is also true."
                             ]
                         },
                         {
@@ -3302,14 +3288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>申し訳ありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当院でできることは何もございません。"
+                                "\\nc<Doctor>I'm sorry, but there is nothing our facility can do for you."
                             ]
                         },
                         {
@@ -3340,14 +3319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]うぅ……分かりました……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し……失礼します。"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>Ugh... I understand... Excuse me then."
                             ]
                         },
                         {

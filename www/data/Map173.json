@@ -1434,14 +1434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人間対象の促進薬物実験"
+                                "Would you like to view the event? Human subject drug\nenhancement experiment"
                             ]
                         },
                         {
@@ -1449,8 +1442,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -1688,14 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩…今回の研究機関の派遣、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に行かないといけませんか？"
+                                "\\nc<Saki>Senpai... Do I absolutely have to go to the research\ninstitute this time?"
                             ]
                         },
                         {
@@ -1712,7 +1698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どうしたの咲姫？　最近静かだったのに。"
+                                "\\nc<Senpai>What's wrong, Saki? You've been so quiet lately."
                             ]
                         },
                         {
@@ -1729,21 +1715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あの人たち、普通じゃないんですもん！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと私のような被験者をいじめて楽しんでるに違いないです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう正気じゃないんです！"
+                                "\\nc<Saki>Those people are not normal! I'm sure they enjoy bullying\nsubjects like me. They're insane!"
                             ]
                         },
                         {
@@ -1760,14 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>今回は特別指名だから無理。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前回の咲姫の反応が気に入ったみたいね。"
+                                "\\nc<Senpai>It's a special request this time, so it's impossible to\nrefuse. They seem to have liked your reaction last time."
                             ]
                         },
                         {
@@ -1784,7 +1749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>私はどうしていつも変な奴にモテるんでしょうか？"
+                                "\\nc<Saki>Why do I always attract weirdos?"
                             ]
                         },
                         {
@@ -1801,21 +1766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>肯定的に考えなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつか研究機関に就職できるかもしれないわよ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "被験者としてだけど…"
+                                "\\nc<Senpai>Think of it positively. Maybe one day you could work at the\nresearch institute. As a subject, though..."
                             ]
                         },
                         {
@@ -1832,14 +1783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>できることならめちゃくちゃにしてやりたいですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすることもできない実験っていうのが問題ですけど。"
+                                "\\nc<Saki>If I could, I'd love to mess them up. But that's the problem\nwith experiments where you can't do that."
                             ]
                         },
                         {
@@ -1856,14 +1800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>でも名目が実験なんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前回と同じことはしないと思うけど？"
+                                "\\nc<Senpai>But since it's officially an experiment, I don't think\nthey'll do the same thing as last time, right?"
                             ]
                         },
                         {
@@ -1880,14 +1817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>い、言われてみるとそうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前回が最悪だったからそれ以上の最悪なんてないはず…"
+                                "\\nc<Saki>Now that you mention it, that's true. Last time was the\nworst, so there can't be anything worse than that..."
                             ]
                         },
                         {
@@ -1904,7 +1834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>楽しみね。終わったら必ずどんな実験だったか教えて。"
+                                "\\nc<Senpai>I'm looking forward to it. Make sure you tell me what kind\nof experiment it was afterwards."
                             ]
                         },
                         {
@@ -1921,7 +1851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>やっぱり帰りましょう。引きかえしてください。"
+                                "\\nc<Saki>Let's just go back. Please, let's turn back."
                             ]
                         },
                         {
@@ -1938,7 +1868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もう着いたわ。"
+                                "\\nc<Senpai>We've already arrived."
                             ]
                         },
                         {

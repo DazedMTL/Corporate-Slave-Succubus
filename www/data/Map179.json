@@ -3018,14 +3018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "健康食品の販促業務"
+                                "Would you like to view the event? Promotional activities for\nhealth food products."
                             ]
                         },
                         {
@@ -3033,8 +3026,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -3340,14 +3333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>物流会社か…今回の取引先はほかのところより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "規模が小さそうですね。"
+                                "\\nc<Saki>A logistics company, huh... This client seems to be smaller\nin scale compared to others."
                             ]
                         },
                         {
@@ -3392,7 +3378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>マスコミや研究機関に比べるとかなり小さい。"
+                                "\\nc<Senpai>It's considerably smaller compared to media companies and\nresearch institutions."
                             ]
                         },
                         {
@@ -3463,7 +3449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>あっ、今回の物流会社の派遣は咲姫が行くのか…"
+                                "\\nc<Member 1>Oh, is Saki going to the logistics company this time..."
                             ]
                         },
                         {
@@ -3489,7 +3475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>いいなぁ。今週も私が行きたかったなぁ。"
+                                "\\nc<Member 2>Lucky. I wanted to go this week too."
                             ]
                         },
                         {
@@ -3546,7 +3532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>あんたは先週も行ったでしょ。"
+                                "\\nc<Member 1>But you went last week, didn't you?"
                             ]
                         },
                         {
@@ -3591,14 +3577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(みんなが派遣先に行きたがるのは初めてかも。)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物流会社の派遣勤務…みんな好きなんですか？"
+                                "\\nc<Saki>(It might be the first time everyone wants to go to a\ndispatch destination.) Dispatch work at a logistics\ncompany... Does everyone like it?"
                             ]
                         },
                         {
@@ -3669,7 +3648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>そりゃあ、仕事も簡単だし人も親切だから。"
+                                "\\nc<Member 1>Of course, the work is easy and the people are kind."
                             ]
                         },
                         {
@@ -3714,7 +3693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>どんな仕事なんですか？"
+                                "\\nc<Saki>What kind of work is it?"
                             ]
                         },
                         {
@@ -3745,7 +3724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>普通は営業。ここでしたことと似てる。"
+                                "\\nc<Member 1>Usually sales. It's similar to what we do here."
                             ]
                         },
                         {
@@ -3771,7 +3750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>メアリー先輩。私が代わりに行っちゃだめですか？"
+                                "\\nc<Member 2>Meary-senpai. Is it okay if I go instead?"
                             ]
                         },
                         {
@@ -3887,7 +3866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あなたは前回、私の順番まで譲ってあげたでしょ？"
+                                "\\nc<Senpai>Didn't you give up your turn for me last time?"
                             ]
                         },
                         {
@@ -3932,21 +3911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>（えっ…譲る？　先輩の性格上、いいものは絶対に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "譲らないタイプなのに？ノルマがギリギリなのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩のノルマはとんでもないレベルだから…)"
+                                "\\nc<Saki>(Eh... Give up? Senpai's personality is such that she would\nnever give up something good. Is she barely meeting her\nquota? Senpai's quota is ridiculously high...)"
                             ]
                         },
                         {
@@ -4022,14 +3987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、早く行きなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物流会社は近いから１人で行けるでしょ？"
+                                "\\nc<Senpai>Saki, hurry up and go. The logistics company is close by,\nyou can go alone, right?"
                             ]
                         },
                         {
@@ -4074,21 +4032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はいっ！　行ってきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(車に乗せてもらえないのは残念だけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽そうな会社でよかった)"
+                                "\\nc<Saki>Yes! I'm on my way. (It's a shame I can't get a ride... but\nit's good that the company seems easygoing.)"
                             ]
                         },
                         {
@@ -4439,7 +4383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]. \\.\\.. \\.\\.."
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>. . ."
                             ]
                         },
                         {
@@ -4479,7 +4423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>どうしたんですか？"
+                                "\\nc<Member 1>What's wrong?"
                             ]
                         },
                         {
@@ -4524,21 +4468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]いや、じゃあ次は…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(もう、咲姫ったら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの系列でホワイトな会社があるはずないじゃない)"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>No, well, next time...(Geez, Saki. There's no way there's a\nwhite company in our group.)"
                             ]
                         },
                         {

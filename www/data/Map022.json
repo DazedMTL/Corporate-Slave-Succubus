@@ -2444,7 +2444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>データ収集は順調ですか？"
+                                "\\nc<Zealous Researcher>Is the data collection going smoothly?"
                             ]
                         },
                         {
@@ -2452,8 +2452,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "報告する",
-                                    "やめる"
+                                    "Report",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -2512,7 +2512,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><怪しい器具>を渡した。"
+                                "\\nc<><怪しい器具>を渡した."
                             ]
                         },
                         {
@@ -2539,14 +2539,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<熱心な研究員>まだデータが足りないようですが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もっと時間が経ってから来てください。"
+                                "\\nc<Zealous Researcher>It seems we still don't have enough data? Please come back\nafter some more time has passed."
                             ]
                         },
                         {
@@ -2617,14 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>ああ。ついに完成しましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ。じゃあ、これをすぐに研究室に持って行って…"
+                                "\\nc<Zealous Researcher>Ah, it's finally complete, isn't it? Hehehe. Then, take this\nto the lab immediately..."
                             ]
                         },
                         {
@@ -2641,7 +2627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>ああ、本当にありがとうございます。ではまた。"
+                                "\\nc<Zealous Researcher>Ah, thank you very much. Until next time."
                             ]
                         },
                         {
@@ -2773,7 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><淫魔の定期依存分析レポート>を取得した。"
+                                "\\nc<> Acquired the <Demon's Regular Dependency Analysis Report>."
                             ]
                         },
                         {
@@ -2971,14 +2957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>研究員の視線が痛い…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むやみに探らないようにしよう。"
+                                "\\nc<>The researcher's gaze is piercing... I should try not to\nsearch around carelessly."
                             ]
                         },
                         {
@@ -3057,7 +3036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><実験報告書>を獲得した！"
+                                "\\nc<>Acquired the <Experiment Report>!"
                             ]
                         },
                         {

@@ -3570,14 +3570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]ううっ…今回もとんだ目に遭ったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だんだん荒くなってきたし。"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>Ugh... I've had quite the ordeal this time. It's getting\nrougher and rougher."
                             ]
                         },
                         {
@@ -3634,14 +3627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]ん？　あいつらがこんなのを置いていくはずが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか！"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Hm? There's no way they would leave something like this\nbehind... Could it be?!"
                             ]
                         },
                         {

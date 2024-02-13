@@ -5503,7 +5503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>あ、あれ？"
+                                "\\nc<Little Demon>Huh, what?"
                             ]
                         },
                         {
@@ -5587,7 +5587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>ああ…そうか。仕方ないな。"
+                                "\\nc<Little Demon>Ah... I see. Can't be helped then."
                             ]
                         },
                         {
@@ -5618,14 +5618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふうっ、はあ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なんだかよく分からないけど…もう終わったのかな？)"
+                                "\\nc<Saki>*sigh*... (I'm not quite sure what's going on... Is it all\nover now?)"
                             ]
                         },
                         {
@@ -5696,14 +5689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>おかげで思いっきり楽しめたし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次は魔神教を手伝う番だな。"
+                                "\\nc<Little Demon>Thanks to you, I had a great time... Now it's my turn to\nhelp the Demon Cult."
                             ]
                         },
                         {
@@ -5791,14 +5777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<魔族の客>だよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔神教があれば次もまたこういうのを楽しめるだろ？"
+                                "\\nc<Demon Customer>Right? If we have the Demon Cult, we can enjoy this kind of\nthing again next time, right?"
                             ]
                         },
                         {
@@ -5829,7 +5808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あれ、こいつらも言ってることが…)"
+                                "\\nc<Saki>(Huh, what they're saying is...)"
                             ]
                         },
                         {
@@ -5931,7 +5910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<人間の客>まあ、魔神教の言うことなら聞いてやるよ。"
+                                "\\nc<Human Guest>Well, if it's what the Demon Cult says, I'll listen."
                             ]
                         },
                         {
@@ -5948,7 +5927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>…何か手伝うことでもある？"
+                                "\\nc<Little Demon>...Is there anything else I can help with?"
                             ]
                         },
                         {
@@ -5965,14 +5944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>今はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ではもうお帰りください。"
+                                "\\nc<Administrator>Not at the moment. Please feel free to leave now."
                             ]
                         },
                         {
@@ -6043,7 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ちび魔族>分かった。魔神教に忠誠を…"
+                                "\\nc<Little Demon>Understood. Loyalty to the Demon Cult..."
                             ]
                         },
                         {
@@ -6096,7 +6068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客たち>魔神教に忠誠を…"
+                                "\\nc<Customers>Loyalty to the Demon Cult..."
                             ]
                         },
                         {
@@ -8281,7 +8253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>終わった…"
+                                "\\nc<Administrator>It's over..."
                             ]
                         },
                         {
@@ -8307,14 +8279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>待てよ。こいつら、みんな記憶消去の催眠はかけたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し変わった催眠要求があったような気がするけど…"
+                                "\\nc<Administrator>Wait a second. Did all these guys get the memory erasure\nhypnosis? I feel like there was a slightly unusual hypnosis\nrequest..."
                             ]
                         },
                         {
@@ -8345,14 +8310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(えっ？　今度はまた何の話？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "記憶消去？　ま、まさか…)"
+                                "\\nc<Saki>(Eh? What are they talking about now? Memory erasure? No\nway...)"
                             ]
                         },
                         {
@@ -8383,7 +8341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>ああっ、知らない。時間もないし。"
+                                "\\nc<Administrator>Ahh, I don't know. There's no time."
                             ]
                         },
                         {
@@ -8810,7 +8768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>……"
+                                "\\nc<Saki>..."
                             ]
                         },
                         {

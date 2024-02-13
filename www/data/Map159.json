@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -1444,7 +1444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あの、先輩…ありがとうございます。"
+                                "\\nc<Saki>Um, senpai... thank you very much."
                             ]
                         },
                         {
@@ -1461,14 +1461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あんなの気にすることないわ。あのインタビューは誰が行ったって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じことになってたはずだから。"
+                                "\\nc<Senpai>Don't worry about it. That interview would have turned out\nthe same no matter who conducted it."
                             ]
                         },
                         {
@@ -1485,14 +1478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>で、ですよね！　打ち上げは初めてなので楽しみです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちのチームは打ち上げどころか、飲み会もありませんからね。"
+                                "\\nc<Saki>Right! It's my first time at a wrap-up party, so I'm looking\nforward to it. Our team doesn't even have drinking parties,\nlet alone wrap-ups."
                             ]
                         },
                         {
@@ -1509,7 +1495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>だって私が嫌いだからよ。"
+                                "\\nc<Senpai>That's because I hate them."
                             ]
                         },
                         {
@@ -1526,7 +1512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ…飲み会、嫌いなんですか？"
+                                "\\nc<Saki>Eh... you hate drinking parties?"
                             ]
                         },
                         {
@@ -1543,21 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>いつも会社で16時間も働いてるのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことする必要ある？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなノルマで忙しいのに、時間取られたら迷惑でしょ？"
+                                "\\nc<Senpai>Why bother when we're already working 16 hours a day at the\ncompany? Everyone's busy with their quotas, it would be a\nnuisance to take up more of their time, right?"
                             ]
                         },
                         {
@@ -1574,14 +1546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>で、ですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たしかにうちの会社とは合わないかも…あはは…"
+                                "\\nc<Saki>That's true. Maybe it really doesn't suit our company...\nahaha..."
                             ]
                         },
                         {
@@ -1598,7 +1563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>……"
+                                "\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -1615,7 +1580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩？　急にどうしたんですか？"
+                                "\\nc<Saki>Senpai? What's wrong all of a sudden?"
                             ]
                         },
                         {
@@ -1632,7 +1597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>何でもないわ。"
+                                "\\nc<Senpai>It's nothing."
                             ]
                         },
                         {
@@ -1649,21 +1614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんな真っ昼間から打ち上げをして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこに咲姫まで招いたってのがちょっと怪しいけど…)"
+                                "\\nc<Senpai>...(Having a wrap-up party in broad daylight and inviting\nSaki to it seems a bit suspicious...)"
                             ]
                         },
                         {
@@ -1680,14 +1631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(べつに証拠があるわけでもないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫はこのまま知らないほうがいいかも…)"
+                                "\\nc<Senpai>(There's no evidence anyway, and maybe it's better for Saki\nnot to know...)"
                             ]
                         },
                         {
@@ -1704,14 +1648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>私は先方に挨拶してくるから、終わったら連絡しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遅くなりそうだったら適当なタイミングで帰ること。"
+                                "\\nc<Senpai>I'm going to greet the other party, so contact me when\nyou're done. If it gets late, find an appropriate time to\nleave."
                             ]
                         },
                         {
@@ -1728,7 +1665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい！　無茶しないように気を付けます。"
+                                "\\nc<Saki>Yes! I'll be careful not to overdo it."
                             ]
                         },
                         {
@@ -1745,14 +1682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あなたが無茶をしようがしまいが私には関係ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど、勢いに乗って変なことを口にしないで。いい？"
+                                "\\nc<Senpai>Whether you overdo it or not is none of my concern. But\ndon't get carried away and blurt out something strange,\nokay?"
                             ]
                         },
                         {
@@ -1769,14 +1699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ご安心を！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせ外に言えるような秘密は何も知らないので！"
+                                "\\nc<Saki>Rest assured! After all, I don't know any secrets worth\nmentioning outside!"
                             ]
                         },
                         {
@@ -1793,14 +1716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まあいいでしょう…着いたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ、あとでね。"
+                                "\\nc<Senpai>Well, that's fine... We've arrived. See you later then."
                             ]
                         },
                         {

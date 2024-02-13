@@ -2449,14 +2449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>それでは、「突入、淫魔第一産業！」の成功を記念して…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乾杯！"
+                                "\\nc<Reporter>\"Then, in celebration of the success of 'Storming into the\nSuccubus First Industry!'... Cheers!\""
                             ]
                         },
                         {
@@ -2527,7 +2520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ一同>乾杯！！"
+                                "\\nc<All The Staff>\"Cheers!!\""
                             ]
                         },
                         {
@@ -2567,21 +2560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>乾杯～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(せっかくだから、美味しいものたくさん食べなきゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にはその資格があるんだから！)"
+                                "\\nc<Saki>\"Cheers~ (Since I'm here, I've got to eat lots of delicious\nfood! I deserve it after all!)\""
                             ]
                         },
                         {
@@ -2643,14 +2622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>咲姫ちゃん、番組出演って本当に初めて？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごく上手でビックリしたよ。"
+                                "\\nc<Reporter>\"Saki-chan, is this really your first time on a show? You\nwere so good, it surprised me.\""
                             ]
                         },
                         {
@@ -2681,21 +2653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>い、いえ。私はまだ…\\|\\bustMsgExp[1, 2](まあ、あんたらの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクハラのほうが上手かったけど…番組のコンセプト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったみたいだし、スルーしたほうがいいよね)"
+                                "\\nc<Saki>\"N-no, I'm still...[bustMsgExp[1, 2]](Well, you guys were\nbetter at sexual harassment... It seemed to be the concept\nof the show, so I guess I should just let it slide, right?)\""
                             ]
                         },
                         {
@@ -2735,7 +2693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>ささ、いっぱい飲んで。これ、結構いい酒なんだ。"
+                                "\\nc<Reporter>\"Come on, drink up. This is quite a good liquor.\""
                             ]
                         },
                         {
@@ -2766,14 +2724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](お酒にいい思い出はないけど、１杯くらいはいいよね…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うっ、これってウィスキーですか？　かなり強いですね。 "
+                                "\\bustMsgExp[1, 0]\\nc<Saki>\"(I don't have good memories with alcohol, but one drink\nshould be fine...) Uh, is this whiskey? It's quite strong.\""
                             ]
                         },
                         {
@@ -2804,7 +2755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>ああっ、無理して飲まなくていいんだよ。"
+                                "\\nc<Reporter>\"Ah, you don't have to force yourself to drink.\""
                             ]
                         },
                         {
@@ -2835,21 +2786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]あはは、ありがとうございます。じゃあノンアルコールで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(強要はしないのかな。まあ、時代が時代だしね！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当はみんないい人なのかも！)"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>\"Ahaha, thank you. Then I'll have a non-alcoholic...(They're\nnot forcing me to drink. Well, it's the times we live in!\nMaybe everyone is actually nice!)\""
                             ]
                         },
                         {

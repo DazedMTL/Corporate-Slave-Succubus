@@ -3222,7 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -3555,7 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -3749,7 +3749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -4058,7 +4058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -4303,14 +4303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>研究機関は、たまに外回りで来るんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、外回りって言っても簡単なお使いなんだけど…"
+                                "\\nc<Logistics Company Employee>The research institute sometimes sends us out on errands.\nWell, when I say errands, they're just simple tasks..."
                             ]
                         },
                         {
@@ -4327,21 +4320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>お前、淫魔第一産業だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんで分かったのかって？　ナメめてもらっちゃ困るぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それくらい制服を見ｔりゃ分かるよ。"
+                                "\\nc<Logistics Company Employee>You're from the Succubus First Industry, right? How did I\nknow? Don't take me lightly. I can tell just by looking at\nthe uniform."
                             ]
                         },
                         {
@@ -4358,7 +4337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>……"
+                                "\\nc<Logistics Company Employee>..."
                             ]
                         },
                         {
@@ -4375,21 +4354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>１つお願いがあるんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいかな？まあ、お前にとって損はないと思うぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単なおつかい程度だから。"
+                                "\\nc<Logistics Company Employee>I have a favor to ask, is that okay? I don't think it'll be\na loss for you. It's just a simple errand."
                             ]
                         },
                         {
@@ -4397,8 +4362,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 0,
                                 0,
@@ -4441,14 +4406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<物流会社の社員>そうか。残念だけど仕方ないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だけど、お前…俺たちに借りがあるの、忘れてないよな？"
+                                "\\nc<Logistics Company Employee>I see. That's too bad, but it can't be helped. But you...\nyou haven't forgotten that you owe us one, right?"
                             ]
                         },
                         {
@@ -4489,14 +4447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>よしよし。ちゃんと覚えてたんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "偉いぞ。この書類を淫魔第一産業の受付まで届けてくれ。"
+                                "\\nc<Logistics Company Employee>Good, good. You remembered. That's commendable. Please\ndeliver these documents to the reception desk of Succubus\nFirst Industry."
                             ]
                         },
                         {
@@ -4513,21 +4464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>本来なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来週の月曜に寄る予定だったんだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげで余裕ができたよ。ありがとう。"
+                                "\\nc<Logistics Company Employee>Originally, I was planning to stop by next Monday... Thanks\nto you, I've got some free time now. Thank you."
                             ]
                         },
                         {
@@ -4544,7 +4481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>借り、きちんと返してくれよ。"
+                                "\\nc<Logistics Company Employee>Make sure you pay back what you owe, alright?"
                             ]
                         },
                         {
@@ -4632,21 +4569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>この書類を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業の受付まで届けてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼んだぞ。"
+                                "\\nc<Logistics Company Employee>Please deliver these documents to the reception desk of the\nSuccubus First Industries. I'm counting on you."
                             ]
                         },
                         {
@@ -4725,14 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>研究機関は、たまに外回りで来るんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、外回りって言っても簡単なお使いなんだけど…"
+                                "\\nc<Logistics Company Employee>\"The research institute sometimes comes around for errands.\nWell, even if I say errands, it's just simple tasks...\""
                             ]
                         },
                         {
@@ -4811,14 +4727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>研究機関は、たまに外回りで来るんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、外回りって言っても簡単なお使いなんだけど…"
+                                "\\nc<Logistics Company Employee>The research institute sometimes comes around for errands.\nWell, when I say errands, they're just simple tasks..."
                             ]
                         },
                         {
@@ -4835,14 +4744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>ああ、このまえの淫魔か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうした？"
+                                "\\nc<Logistics Company Employee>Ah, the succubus from the other day. What's up?"
                             ]
                         },
                         {
@@ -4859,7 +4761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>人の説得？　それなら俺に任せろ。"
+                                "\\nc<Logistics Company Employee>Persuading someone? Leave that to me."
                             ]
                         },
                         {
@@ -4876,14 +4778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>何？　説得してほしい人がいるって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新入りの淫魔に実験に参加するように、ねえ…"
+                                "\\nc<Logistics Company Employee>What? You want me to persuade someone? To get the new\nsuccubus to participate in the experiment, huh..."
                             ]
                         },
                         {
@@ -4900,14 +4795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>このまえ手伝ってもらったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その程度ならいいよ。そのぶん借りが増えるの、忘れるなよ。"
+                                "\\nc<Logistics Company Employee>You helped me out before, so I guess that's fine. But don't\nforget, this adds to your debt."
                             ]
                         },
                         {
@@ -4924,21 +4812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>平日に客としてそっちに行くから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その新入りと一緒に応対してくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スケジュールは…お前に任せる。"
+                                "\\nc<Logistics Company Employee>I'll be coming over as a customer on a weekday, so take care\nof me along with the newbie. As for the schedule... I'll\nleave that to you."
                             ]
                         },
                         {
@@ -5045,21 +4919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>平日に客としてそっちに行くから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その新入りと一緒に応対してくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スケジュールは…お前に任せる。"
+                                "\\nc<Logistics Company Employee>I'll be coming over as a customer during the weekdays, so\nplease take care of me with the newbie. The schedule... I'll\nleave it up to you."
                             ]
                         },
                         {
@@ -5138,21 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>あの研究員？　さあ、最近は見かけないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探してた被験体が見つかったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究室に閉じこもってるんじゃないか？"
+                                "\\nc<Logistics Company Employee>That researcher? Hmm, I haven't seen them around lately.\nMaybe they've holed up in the lab since they found the test\nsubject they were looking for?"
                             ]
                         },
                         {
@@ -5231,21 +5077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>淫魔第一産業から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究機関に転職した人がいるかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…そんなの俺が知るわけないだろ。"
+                                "\\nc<Logistics Company Employee>\"Someone transferred from the First Demon Industry to a\nresearch institution?... How would I know something like\nthat.\""
                             ]
                         },
                         {
@@ -5324,21 +5156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<物流会社の社員>あの研究員？　さあ、最近は見かけないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探してた被験体が見つかったから研究室に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閉じこもってるんじゃないか？"
+                                "\\nc<Logistics Company Employee>That researcher? Hmm, I haven't seen them around lately.\nMaybe they're holed up in the lab since they found the test\nsubject they were looking for?"
                             ]
                         },
                         {
@@ -5477,14 +5295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>数値安定…オーバースタック誤差範囲以内…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回の実験も順調だな。そろそろ次の段階に…"
+                                "\\nc<Zealous Researcher>The values are stable... within the error range for an\noverflow stack... This experiment is going smoothly as well.\nIt's about time to move on to the next phase..."
                             ]
                         },
                         {
@@ -5501,21 +5312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>ん？　何をしてるのかって？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来週までどうしても待っていられなくて実験結果を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確認するために出勤したのさ。フフフ…順調で何よりだ…"
+                                "\\nc<Zealous Researcher>Hm? What am I doing? I couldn't wait until next week, so I\ncame in to check the experimental results. Heh heh... It's\ngoing well, which is good..."
                             ]
                         },
                         {
@@ -5532,21 +5329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>研究ってすごく楽しいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実験結果を待つ時間は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宅配が届くのを待つことより楽しいぞ。"
+                                "\\nc<Zealous Researcher>Research is so much fun. Waiting for the experimental\nresults is more exciting than waiting for a delivery to\narrive."
                             ]
                         },
                         {
@@ -5563,21 +5346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>だってそうだろう？　何億年もの間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自然が進化を繰りかえしながら積みかさなった秘密たち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その遥かな知恵を、私は研究室で明かすことになるわけさ。 "
+                                "\\nc<Zealous Researcher>After all, isn't it true? For billions of years, nature has\nrepeated the process of evolution, piling up secrets. And\nnow, I'm going to uncover that vast wisdom in my lab."
                             ]
                         },
                         {
@@ -5594,14 +5363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>ああ！　この征服者の優越感！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えるだけでゾクゾクする…"
+                                "\\nc<Zealous Researcher>Ah! This sense of superiority as a conqueror! Just thinking\nabout it sends shivers down my spine..."
                             ]
                         },
                         {
@@ -5618,21 +5380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>君はどうだ？　実験は好きかい？\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうでもいいって？\\.\\.まあ、頭にチンポしか入ってない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "劣等な種族に理解できるとは最初から思ってなかったよ。"
+                                "\\nc<Zealous Researcher>How about you? Do you like experiments? Don't care? Well, I\nnever expected a lower species with nothing but dicks in\ntheir heads to understand."
                             ]
                         },
                         {
@@ -5649,14 +5397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>次の段階に進むために協力してくれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔が必要だけど、ケースがかなり特殊で希少なんだよな。"
+                                "\\nc<Zealous Researcher>I need a succubus to cooperate with me to move on to the\nnext stage, but the case is quite special and rare."
                             ]
                         },
                         {
@@ -5673,21 +5414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>君は淫魔第一産業の淫魔だろう？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして知り合いに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いきなり淫魔に変わってしまった」淫魔っていないか？ "
+                                "\\nc<Zealous Researcher>You're a succubus from the primary industry of succubi,\nright? Do you happen to know a succubus who 'suddenly turned\ninto a succubus'?"
                             ]
                         },
                         {
@@ -5695,8 +5422,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いる",
-                                    "いない"
+                                    "Yes, there is.",
+                                    "No, there isn't."
                                 ],
                                 0,
                                 0,
@@ -5726,14 +5453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<熱心な研究員>あ？　いる？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここに派遣されてない奴が？"
+                                "\\nc<Zealous Researcher>Huh? There is one? Someone who hasn't been dispatched here?"
                             ]
                         },
                         {
@@ -5759,7 +5479,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<熱心な研究員>新入りの淫魔…なるほどな。"
+                                "\\nc<Zealous Researcher>A newbie succubus... I see."
                             ]
                         },
                         {
@@ -5786,14 +5506,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<熱心な研究員>…名前は？　ああ…いいよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そいつは派遣される予定だから。"
+                                "\\nc<Zealous Researcher>...What's her name? Ah... never mind, she's scheduled to be\ndispatched anyway."
                             ]
                         },
                         {
@@ -5838,7 +5551,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<熱心な研究員>そうか、残念だな… "
+                                "\\nc<Zealous Researcher>I see, that's too bad..."
                             ]
                         },
                         {
@@ -5870,14 +5583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>…実は、私がやっている実験は研究所で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "支持している実験とはちょっと違うんだ。"
+                                "\\nc<Zealous Researcher>...Actually, the experiment I'm conducting is a bit\ndifferent from the experiments supported by the institute."
                             ]
                         },
                         {
@@ -5894,14 +5600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>なんとか許可はもらったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実験に必要な被験体は自分で探すという条件付きでね…"
+                                "\\nc<Zealous Researcher>Somehow I got permission, but there's a condition that I\nhave to find the test subjects myself..."
                             ]
                         },
                         {
@@ -5918,21 +5617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>どうせ使えそうな被験体は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部横取りするくせに！クソッ、あの室長…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このプロジェクトが終わったら…"
+                                "\\nc<Zealous Researcher>As if they're going to snatch up all the usable test\nsubjects anyway! Damn it, that director... Once this project\nis over..."
                             ]
                         },
                         {
@@ -5949,14 +5634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>ふう…とにかく私はここから出られないから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな人がいたら、ぜひとも説得してくれ。"
+                                "\\nc<Zealous Researcher>Phew... Anyway, I can't leave here. If you find such a\nperson, please persuade them."
                             ]
                         },
                         {
@@ -5973,21 +5651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>どうせそのことが知られたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究所から一足先に派遣を要請するはずだから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちよりは私のほうがマシだろう？"
+                                "\\nc<Zealous Researcher>After all, if it becomes known, the institute will request\ndispatch first... Surely I'm better than them?"
                             ]
                         },
                         {
@@ -6004,21 +5668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>少なくとも私は縛りつけて変な薬を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "注入したりはしないさ。まあ、研究の進捗次第だけどね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フフフ。"
+                                "\\nc<Zealous Researcher>At least I won't tie them up and inject them with strange\ndrugs. Well, it depends on the progress of the research...\nHeh heh."
                             ]
                         },
                         {
@@ -6114,14 +5764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>まだここに派遣されてない淫魔がいたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぜひとも説得してくれ。フフ…"
+                                "\\nc<Zealous Researcher>If there are any succubi who haven't been dispatched here\nyet, please do persuade them to come. Heh heh..."
                             ]
                         },
                         {
@@ -6200,7 +5843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>お、来たか。それで、話はどうだった？"
+                                "\\nc<Zealous Researcher>Oh, you're here. So, how did the talk go?"
                             ]
                         },
                         {
@@ -6217,14 +5860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>…何？　断られた？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はあ…これはまた予想外だな。"
+                                "\\nc<Zealous Researcher>...What? You were turned down? Hah... This is unexpected."
                             ]
                         },
                         {
@@ -6241,21 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>劣等な種族のくせに科学の発展に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貢献できるいい機会をなぜ断る！…まあいい。存在が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知らされたところでほかの実験室に奪われるだけだろうし…"
+                                "\\nc<Zealous Researcher>How could such an inferior race refuse a great opportunity\nto contribute to the advancement of science! ...Well, it's\nfine. Now that their existence is known, they'll just be\ntaken by another lab..."
                             ]
                         },
                         {
@@ -6272,7 +5894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>何かいい方法はないものか…"
+                                "\\nc<Zealous Researcher>Isn't there some better way..."
                             ]
                         },
                         {
@@ -6368,7 +5990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<熱心な研究員>何かいい方法はないものか…"
+                                "\\nc<Zealous Researcher>Isn't there some good method..."
                             ]
                         },
                         {
@@ -6558,14 +6180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>おお、ついに実験に協力する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気になりましたか？"
+                                "\\nc<Sadistic Researcher>Oh, have you finally decided to cooperate with our\nexperiment?"
                             ]
                         },
                         {
@@ -6582,14 +6197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>このまえの牛柄のビキニですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはほかの研究員の自腹ですけど…"
+                                "\\nc<Sadistic Researcher>The cow-pattern bikini from before? That was paid for out of\nanother researcher's own pocket..."
                             ]
                         },
                         {
@@ -6624,14 +6232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>…フフフ、必要でしたら差しあげましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただし、条件があります。"
+                                "\\nc<Sadistic Researcher>...Hehehe, if you need it, I'll give it to you. However,\nthere's a condition."
                             ]
                         },
                         {
@@ -6648,14 +6249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>まあ、だいたいは察しがつくと思いますが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちの実験に協力していただきます。"
+                                "\\nc<Sadistic Researcher>Well, I suppose you can guess what it is... You'll cooperate\nwith our experiment."
                             ]
                         },
                         {
@@ -6672,14 +6266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>そうですね…あと３回ほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おとなしく私たちに協力していただければ差しあげます。"
+                                "\\nc<Sadistic Researcher>Yes... About three more times. If you cooperate with us\nquietly, I'll give it to you."
                             ]
                         },
                         {
@@ -6696,14 +6283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>悪い条件ではないと思いますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうされますか？"
+                                "\\nc<Sadistic Researcher>I don't think it's a bad deal, what will you do?"
                             ]
                         },
                         {
@@ -6711,8 +6291,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "受けいれる",
-                                    "断る"
+                                    "Accept",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -6755,7 +6335,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>そうですか…とても残念です。"
+                                "\\nc<Sadistic Researcher>Is that so... That's very unfortunate."
                             ]
                         },
                         {
@@ -6787,14 +6367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>そうおっしゃると思いました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、来週の金曜日にまた。"
+                                "\\nc<Sadistic Researcher>I thought you would say that. Then, let's meet again next\nFriday."
                             ]
                         },
                         {
@@ -6902,7 +6475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<嗜虐的な研究員>では、来週の金曜日にまた。"
+                                "\\nc<Sadistic Researcher>Then, let's meet again next Friday."
                             ]
                         },
                         {
@@ -7064,14 +6637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<怒った研究員>こんなちっぽけな予算で何をしろってんだ！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "予算なしでどうやって成果を出すんだよ！"
+                                "\\nc<Angry Researcher>What am I supposed to do with such a measly budget! How can\nI produce results without any funding!"
                             ]
                         },
                         {
@@ -7088,14 +6654,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<怒った研究員>成果がないから予算を減らすとか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなんじゃ科学の進展はないんだぞ！"
+                                "\\nc<Angry Researcher>Reducing the budget because there are no results, that's not\nhow you make scientific progress!"
                             ]
                         },
                         {
@@ -7122,21 +6681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<怒った研究員>派遣や貸し出しだけじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "淫魔のサンプルが足りない… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっぱり工場のほうに連絡を…"
+                                "\\nc<Angry Researcher>Just dispatching and lending out isn't enough for succubus\nsamples... I guess I have to contact the factory..."
                             ]
                         },
                         {
@@ -7153,14 +6698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<怒った研究員>クソッ！　室長どもめ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これじゃあ研究の進捗もクソもあるか！"
+                                "\\nc<Angry Researcher>Damn it! Those damn directors... With this, there's no way\nthe research can make any progress!"
                             ]
                         },
                         {
@@ -7249,21 +6787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怒った研究員>あ？　そんなの知らないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちは暇じゃないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てかどけよ！　今考えてるところだよ、邪魔するな。"
+                                "\\nc<Angry Researcher>Huh? I don't know about that. I'm not free, you know. Move\nit! I'm in the middle of thinking here, don't bother me."
                             ]
                         },
                         {
@@ -7280,7 +6804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怒った研究員>チッ…同じサンプルのくせに。"
+                                "\\nc<Angry Researcher>Tch... Acting like you're the same as the sample."
                             ]
                         },
                         {
@@ -7382,14 +6906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<怒った研究員>こんなちっぽけな予算で何をしろってんだ！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "予算なしでどうやって成果を出すんだよ！"
+                                "\\nc<Angry Researcher>What am I supposed to do with such a measly budget! How can\nI produce results without any budget!"
                             ]
                         },
                         {
@@ -7406,14 +6923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<怒った研究員>成果がないから予算を減らすとか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなんじゃ科学の進展はないんだぞ！"
+                                "\\nc<Angry Researcher>Reducing the budget because there are no results, that's not\nhow science progresses!"
                             ]
                         },
                         {
@@ -7440,21 +6950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<怒った研究員>派遣や貸し出しだけじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "淫魔のサンプルが足りない… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっぱり工場のほうに連絡を…"
+                                "\\nc<Angry Researcher>Dispatches and loans alone aren't enough for succubus\nsamples... I guess I have to contact the factory..."
                             ]
                         },
                         {
@@ -7471,14 +6967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<怒った研究員>クソッ！　室長どもめ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これじゃあ研究の進捗もクソもあるか！"
+                                "\\nc<Angry Researcher>Damn it! Those damn directors... With this, there's no way\nthe research can progress!"
                             ]
                         },
                         {
@@ -7576,7 +7065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>自動販売機の奥に何か落ちているみたいだ…"
+                                "\\nc<>It seems like something has fallen behind the vending\nmachine..."
                             ]
                         },
                         {
@@ -7593,7 +7082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>手を入れてみる？"
+                                "\\nc<>Should I reach in and check?"
                             ]
                         },
                         {
@@ -7601,8 +7090,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7667,14 +7156,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>どうやら私の勘違いだったらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何もなかった…"
+                                "\\nc<>It appears I was mistaken. There was nothing there..."
                             ]
                         },
                         {
@@ -7722,7 +7204,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を発見した！"
+                                "\\nc<>Found a can of coffee!"
                             ]
                         },
                         {
@@ -7770,7 +7252,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を発見した！"
+                                "\\nc<>Found a can of coffee!"
                             ]
                         },
                         {
@@ -7818,7 +7300,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶緑茶>を発見した！"
+                                "\\nc<>Found a can of green tea!"
                             ]
                         },
                         {

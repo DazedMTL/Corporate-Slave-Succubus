@@ -6733,7 +6733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]咲姫、ご苦労様。神官様の様子は？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Good work, Saki. How's the priest doing?"
                             ]
                         },
                         {
@@ -6809,7 +6809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふふ。もうすぐ出てきますから見てみてください。"
+                                "\\nc<Saki>Hehe. He'll be out soon, so just watch."
                             ]
                         },
                         {
@@ -6854,7 +6854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]うん？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Hm?"
                             ]
                         },
                         {
@@ -7285,7 +7285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>はあ、はあ…力を使いすぎた…"
+                                "\\nc<Customer>Haah, haah... I used too much strength..."
                             ]
                         },
                         {
@@ -7361,14 +7361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]うまく片づいたみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫、夕飯は牛丼でいいでしょ？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Looks like it went well. Saki, is beef bowl okay for dinner?"
                             ]
                         },
                         {
@@ -7413,7 +7406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]私、泣きますよ？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Are you trying to make me cry?"
                             ]
                         },
                         {
@@ -7458,14 +7451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>冗談よ、冗談。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が咲姫のことをどれだけ想ってるのか知らないの？"
+                                "\\nc<Senpai>Just kidding, just kidding. Don't you know how much I care\nabout you, Saki?"
                             ]
                         },
                         {
@@ -7536,7 +7522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>なぬ。お主たち、わしを騙したのか…"
+                                "\\nc<Customer>What? You tricked me..."
                             ]
                         },
                         {
@@ -7612,14 +7598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]違いますよ。本当にお仕置きされたんですからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心から悔いを改めました。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Not at all. You were truly punished. We've sincerely\nrepented."
                             ]
                         },
                         {
@@ -7645,14 +7624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]お客様も満足されたようで何よりです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次も、うんとお仕置きしにいらしてくださいね？"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>I'm glad the customer is satisfied. Please come again for\nmore punishment, okay?"
                             ]
                         },
                         {
@@ -7692,7 +7664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>おおおっ…今に見ていろ。また必ず来る！"
+                                "\\nc<Customer>Grrr... Just you watch. I will come back again!"
                             ]
                         },
                         {
@@ -8113,14 +8085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]…慣れたものね、咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この調子だと本当にエースになっちゃうかも。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>...You're getting used to this, Saki. At this rate, you\nmight really become an ace."
                             ]
                         },
                         {
@@ -8165,7 +8130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]ヘヘ。私、まだエースじゃなかったんですか？"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Hehe. Wasn't I an ace already?"
                             ]
                         },
                         {
@@ -8418,14 +8383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>うむ、あの人間を片づけたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくやった。さすがは内斗さんだ。"
+                                "\\nc<Executive Officer>Hmm, did you take care of that human? Well done. As expected\nof Naizu-san."
                             ]
                         },
                         {
@@ -8470,7 +8428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]ありがとうございます。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Thank you very much."
                             ]
                         },
                         {
@@ -8846,7 +8804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]……"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>..."
                             ]
                         },
                         {
@@ -8922,7 +8880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]咲姫、どうしたの？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>What's wrong, Saki?"
                             ]
                         },
                         {
@@ -8967,14 +8925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]いえ…業務報告書を作成しますね。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]もちろん先輩の名前で…"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>No... I'll start working on the business\nreport.\\bustMsgExp[1, 2] Of course, under your name,\nSenpai..."
                             ]
                         },
                         {
@@ -9019,7 +8970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]いい子ね。今日はお寿司をごちそうするわ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Good girl. I'll treat you to sushi today."
                             ]
                         },
                         {
@@ -9064,7 +9015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]本当ですか？　ヘヘ…"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Really? Hehe..."
                             ]
                         },
                         {
@@ -9141,7 +9092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>神官は淫魔第一産業の常連になった。"
+                                "\\nc<>The priest became a regular at the first industry of\nsuccubi."
                             ]
                         },
                         {

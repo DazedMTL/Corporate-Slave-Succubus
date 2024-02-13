@@ -6733,7 +6733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫…起きて！　咲姫！"
+                                "\\nc<Senpai>Saki...wake up! Saki!"
                             ]
                         },
                         {
@@ -6809,14 +6809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふうぅっ…あうう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先…輩？"
+                                "\\nc<Saki>Hnnn...ahh. Sen...pai?"
                             ]
                         },
                         {
@@ -6861,7 +6854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>……"
+                                "\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -6906,7 +6899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩…私、妊娠してないですよね？"
+                                "\\nc<Saki>Senpai...I'm not pregnant, am I?"
                             ]
                         },
                         {
@@ -6951,14 +6944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]妊娠？　してないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔は妊娠したら外見が変わるからすぐに分かるの。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Pregnant? No, you're not. It's easy to tell with succubi;\ntheir appearance changes immediately if they are."
                             ]
                         },
                         {
@@ -7003,7 +6989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>なるほど、よかった…うぅ…"
+                                "\\nc<Saki>I see, that's a relief...ugh..."
                             ]
                         },
                         {
@@ -7048,14 +7034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]やりすぎではありませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は正真正銘、弊社の社員ですが？"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>Don't you think you went a bit too far? Saki is a bona fide\nemployee of our company, you know?"
                             ]
                         },
                         {
@@ -7072,7 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>万が一、翌日の仕事に支障が出た場合は派遣を拒否します。"
+                                "\\nc<Senpai>If her work is affected tomorrow, we will refuse to dispatch\nher."
                             ]
                         },
                         {
@@ -7148,7 +7127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>ハハ、すみません。"
+                                "\\nc<Researcher 1>Haha, my apologies."
                             ]
                         },
                         {
@@ -7303,14 +7282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>我々に矛先を向けるのはいかがなものかと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この有様を見れば、誰のせいかは一目瞭然では…"
+                                "\\nc<Researcher 2>It seems rather misplaced to direct your concerns at us.\nGiven the situation, it's quite clear who is to blame..."
                             ]
                         },
                         {
@@ -7355,7 +7327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(んん？　いったい何のこと…)"
+                                "\\nc<Saki>(Hmm? What are they talking about...)"
                             ]
                         },
                         {
@@ -7431,14 +7403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>起きる気力がなくても起きて、咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く戻らなきゃ。"
+                                "\\nc<Senpai>You have to get up even if you don't feel like it, Saki. We\nneed to get back soon."
                             ]
                         },
                         {
@@ -7478,7 +7443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>ああっ、では研究室の掃除は…"
+                                "\\nc<Researcher 1>Ah, then about cleaning the lab..."
                             ]
                         },
                         {
@@ -7523,14 +7488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ご自分でなさっては？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫が１人で流した液じゃないでしょう。"
+                                "\\nc<Senpai>Why don't you do it yourself? It's not like Saki was the\nonly one who spilled fluids here."
                             ]
                         },
                         {

@@ -3803,14 +3803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>朝は疲れる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コーヒーを飲む？"
+                                "\\nc<>Mornings are exhausting... Should I drink some coffee?"
                             ]
                         },
                         {
@@ -3818,8 +3811,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3860,7 +3853,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今期に飲めるコーヒーはもうなくなった…"
+                                "There's no more coffee left to drink for this season..."
                             ]
                         },
                         {
@@ -3921,14 +3914,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コーヒーを飲んだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "疲労度が10回復した。"
+                                "Drank the coffee! Fatigue has recovered by 10."
                             ]
                         },
                         {
@@ -4040,14 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>朝は疲れる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コーヒーを飲む？"
+                                "\\nc<>Mornings are exhausting... Should I drink some coffee?"
                             ]
                         },
                         {
@@ -4055,8 +4034,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4120,14 +4099,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コーヒーを飲んだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "疲労度が10回復した。"
+                                "I drank the coffee! Fatigue has recovered by 10."
                             ]
                         },
                         {
@@ -4638,7 +4610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どうしたの？"
+                                "\\nc<Senpai>What's the matter?"
                             ]
                         },
                         {
@@ -4646,9 +4618,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "スキルを習得",
-                                    "チュートリアルを確認",
-                                    "会話する"
+                                    "Learn a skill",
+                                    "Check the tutorial",
+                                    "Have a conversation"
                                 ],
                                 -2,
                                 0,
@@ -4678,7 +4650,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<先輩>私の仕事も手伝ってくれるわよね？"
+                                "\\nc<Senpai>You'll help me with my work too, won't you?"
                             ]
                         },
                         {
@@ -4752,12 +4724,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "財貨やメイン画面のチュートリアル",
-                                    "スキルチュートリアル",
-                                    "スケジュールチュートリアル",
-                                    "週末のスケジュールチュートリアル",
-                                    "四半期ごとの達成目標チュートリアル",
-                                    "取引先チュートリアル"
+                                    "Tutorial on Finances and Main Screen",
+                                    "Skill Tutorial",
+                                    "Schedule Tutorial",
+                                    "Weekend Schedule Tutorial",
+                                    "Quarterly Goals Tutorial",
+                                    "Client Tutorial"
                                 ],
                                 -2,
                                 0,
@@ -5075,11 +5047,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "財貨やメイン画面のチュートリアル",
-                                    "スキルチュートリアル",
-                                    "スケジュールチュートリアル",
-                                    "週末のスケジュールチュートリアル",
-                                    "四半期ごとの達成目標チュートリアル"
+                                    "Tutorial on Finances and Main Screen",
+                                    "Skill Tutorial",
+                                    "Schedule Tutorial",
+                                    "Weekend Schedule Tutorial",
+                                    "Quarterly Goals Tutorial"
                                 ],
                                 -2,
                                 0,
@@ -5374,14 +5346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<先輩>もう慣れてるわね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "仕事が足りないならもっと振ってあげるわよ。"
+                                "\\nc<Senpai>You're already used to it, aren't you? If you don't have\nenough work, I can give you more."
                             ]
                         },
                         {
@@ -5531,7 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どうしたの？"
+                                "\\nc<Senpai>What's the matter?"
                             ]
                         },
                         {
@@ -5539,9 +5504,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "スキルを習得",
-                                    "チュートリアルを確認",
-                                    "会話する"
+                                    "Learn a skill",
+                                    "Check the tutorial",
+                                    "Have a conversation"
                                 ],
                                 -2,
                                 0,
@@ -5571,7 +5536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc先輩>私の仕事も手伝ってくれるわよね？"
+                                "Senpai: You're going to help me with my work too, right?"
                             ]
                         },
                         {
@@ -5638,12 +5603,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "財貨やメイン画面のチュートリアル",
-                                    "スキルチュートリアル",
-                                    "スケジュールチュートリアル",
-                                    "週末のスケジュールチュートリアル",
-                                    "四半期ごとの達成目標チュートリアル",
-                                    "取引先チュートリアル"
+                                    "Tutorial on Finances and Main Screen",
+                                    "Skill Tutorial",
+                                    "Schedule Tutorial",
+                                    "Weekend Schedule Tutorial",
+                                    "Quarterly Goals Tutorial",
+                                    "Client Tutorial"
                                 ],
                                 -2,
                                 0,
@@ -5961,11 +5926,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "財貨やメイン画面のチュートリアル",
-                                    "スキルチュートリアル",
-                                    "スケジュールチュートリアル",
-                                    "週末のスケジュールチュートリアル",
-                                    "四半期ごとの達成目標チュートリアル"
+                                    "Tutorial for Finances and Main Screen",
+                                    "Skill Tutorial",
+                                    "Schedule Tutorial",
+                                    "Weekend Schedule Tutorial",
+                                    "Quarterly Goals Tutorial"
                                 ],
                                 -2,
                                 0,
@@ -6283,14 +6248,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<先輩>おいしい仕事？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そういうのはとっくにほかの人が全部持っていった。"
+                                "\\nc<Senpai>A cushy job? Those have all been snatched up by others long\nago."
                             ]
                         },
                         {
@@ -6328,7 +6286,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<先輩>私のノルマ？　それを知ってどうするの？"
+                                "\\nc<Senpai>My quota? What are you going to do with that information?"
                             ]
                         },
                         {
@@ -6366,7 +6324,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<先輩>年収交渉？　そんなことが本当にできると思う？"
+                                "\\nc<Senpai>Salary negotiation? Do you really think that's possible?"
                             ]
                         },
                         {
@@ -6404,21 +6362,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<先輩>退社？　子供でもあるまいし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "取引先の派遣に行きたくないからって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "辞表を書く社員がどこにいるの？"
+                                "\\nc<Senpai>Quitting the company? As if we're children. Who writes a\nresignation letter just because they don't want to be\ndispatched to a client?"
                             ]
                         },
                         {
@@ -6578,7 +6522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どうしたの？"
+                                "\\nc<Senpai>What's wrong?"
                             ]
                         },
                         {
@@ -6586,9 +6530,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "スキルを習得",
-                                    "チュートリアルを確認",
-                                    "会話する"
+                                    "Acquire Skills",
+                                    "Check the Tutorial",
+                                    "Converse"
                                 ],
                                 -2,
                                 0,
@@ -6618,7 +6562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<先輩>私の仕事も手伝ってくれるわよね？"
+                                "\\nc<Senpai>You'll help me with my work too, right?"
                             ]
                         },
                         {
@@ -6685,12 +6629,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "財貨やメイン画面のチュートリアル",
-                                    "スキルチュートリアル",
-                                    "スケジュールチュートリアル",
-                                    "週末のスケジュールチュートリアル",
-                                    "四半期ごとの達成目標チュートリアル",
-                                    "取引先チュートリアル"
+                                    "Tutorial on Finances and Main Screen",
+                                    "Skill Tutorial",
+                                    "Schedule Tutorial",
+                                    "Weekend Schedule Tutorial",
+                                    "Quarterly Goals Tutorial",
+                                    "Client Tutorial"
                                 ],
                                 -2,
                                 0,
@@ -7008,11 +6952,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "財貨やメイン画面のチュートリアル",
-                                    "スキルチュートリアル",
-                                    "スケジュールチュートリアル",
-                                    "週末のスケジュールチュートリアル",
-                                    "四半期ごとの達成目標チュートリアル"
+                                    "Tutorial on Finances and Main Screen",
+                                    "Skill Tutorial",
+                                    "Schedule Tutorial",
+                                    "Weekend Schedule Tutorial",
+                                    "Quarterly Goals Tutorial"
                                 ],
                                 -2,
                                 0,
@@ -7330,14 +7274,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<先輩>おいしい仕事？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そういうのはとっくにほかの人が全部持っていった。"
+                                "\\nc<Senpai>A cushy job? Those have all been snatched up by others long\nago."
                             ]
                         },
                         {
@@ -7375,7 +7312,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<先輩>私のノルマ？　それを知ってどうするの？"
+                                "\\nc<Senpai>My quota? What will you do knowing that?"
                             ]
                         },
                         {
@@ -7413,7 +7350,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<先輩>年収交渉？　そんなことが本当にできると思う？"
+                                "\\nc<Senpai>Negotiating a salary? Do you really think that's possible?"
                             ]
                         },
                         {
@@ -7451,21 +7388,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<先輩>退社？　子供でもあるまいし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "取引先の派遣に行きたくないからって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "辞表を書く社員がどこにいるの？"
+                                "\\nc<Senpai>Quitting the company? Don't be childish. Who writes a\nresignation letter just because they don't want to be\ndispatched to a client?"
                             ]
                         },
                         {
@@ -7503,14 +7426,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]咲姫もだいぶ表情が良くなったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見れば分かるわ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Saki, your expression has improved quite a bit. It's clear\nto see."
                             ]
                         },
                         {
@@ -7636,14 +7552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>分かってるとは思うけど、今日は評価日よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力は全部集めた？"
+                                "\\nc<Senpai>I assume you know, but today is evaluation day. Have you\ngathered all the magical power?"
                             ]
                         },
                         {
@@ -7660,14 +7569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc先輩>あなたがいなくなると仕事が増えちゃって困るの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張ってね、咲姫。"
+                                "Senpai: If you're not around, my workload increases and it's\ntroublesome. Do your best, Saki."
                             ]
                         },
                         {
@@ -8288,7 +8190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<???>回想室に移動しますか？"
+                                "\\nc<???>Would you like to move to the Memory Room?"
                             ]
                         },
                         {
@@ -8296,8 +8198,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9219,14 +9121,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>私もここに入社してそんなに経ってないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "１～２か月の差でも先輩は先輩でしょ？"
+                                "\\nc<Lewd Demon Employee>\"I haven't been with the company for that long either. But\neven a difference of 1-2 months means I'm still your senior,\nright?\""
                             ]
                         },
                         {
@@ -9264,21 +9159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>コーヒーの淹れ方でまた怒られたんだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだそれもまともにできないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "水の量が大事だって何度も説明してあげたじゃない。"
+                                "\\nc<Lewd Demon Employee>\"You got scolded again for the way you make coffee? Can't\nyou do it properly yet? I've explained so many times that\nthe amount of water is crucial.\""
                             ]
                         },
                         {
@@ -9316,14 +9197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>なんだかんだ入社日が近い先輩がいていいでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私くらいなら、いい先輩だと思うけど。"
+                                "\\nc<Lewd Demon Employee>\"It's nice to have a senior whose joining date is close to\nyours, isn't it? I think I'm a pretty good senior.\""
                             ]
                         },
                         {
@@ -9435,14 +9309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>私もここに入社してそんなに経ってないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "１～２か月の差でも先輩は先輩でしょ？"
+                                "\\nc<Lewd Demon Employee>I haven't been at this company for that long either. But\neven if it's just a month or two, a senpai is still a\nsenpai, right?"
                             ]
                         },
                         {
@@ -9480,21 +9347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>コーヒーの淹れ方でまた怒られたんだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだそれもまともにできないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "水の量が大事だって何度も説明してあげたじゃない。"
+                                "\\nc<Lewd Demon Employee>You got scolded again for the way you make coffee? Can't you\ndo that properly yet? I've explained so many times that the\namount of water is crucial."
                             ]
                         },
                         {
@@ -9532,14 +9385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>なんだかんだ入社日が近い先輩がいていいでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私くらいなら、いい先輩だと思うけど。"
+                                "\\nc<Lewd Demon Employee>It's nice to have a senpai who joined the company around the\nsame time, isn't it? I think I'm a pretty good senpai."
                             ]
                         },
                         {
@@ -9577,14 +9423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>そういえば、あんたって人間から淫魔になったって言ってたよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いや…何でもない。"
+                                "\\nc<Lewd Demon Employee>By the way, you said you used to be human before becoming a\nsuccubus, right? No... never mind."
                             ]
                         },
                         {
@@ -9622,21 +9461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>あんたも本当に大変ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴重な被験者だとかであちこちにお呼ばれされてるんだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私じゃなくて本当によかった。"
+                                "\\nc<Lewd Demon Employee>You really have it tough, don't you? Being a valuable test\nsubject and getting called here and there? I'm really glad\nit's not me."
                             ]
                         },
                         {
@@ -9674,7 +9499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>研究員は何て？　人間に戻る方法はあるって？"
+                                "\\nc<Lewd Demon Employee>What did the researchers say? Is there a way to turn back\ninto a human?"
                             ]
                         },
                         {
@@ -9691,14 +9516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ああ…まだ分からないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん？　いや、気になっただけ。"
+                                "\\nc<Lewd Demon Employee>Ah... still no clue, huh. Hm? No, I was just curious."
                             ]
                         },
                         {
@@ -9810,14 +9628,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>そういえば、あんたって人間から淫魔になったって言ってたよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いや…何でもない。"
+                                "\\nc<Lewd Demon Employee>\"By the way, you said you became a lewd demon from a human,\nright? No... never mind.\""
                             ]
                         },
                         {
@@ -9855,21 +9666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>あんたも本当に大変ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴重な被験者だとかであちこちにお呼ばれされてるんだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私じゃなくて本当によかった。"
+                                "\\nc<Lewd Demon Employee>\"You really have it tough, huh? Being a valuable test\nsubject and getting called here and there? I'm really glad\nit's not me.\""
                             ]
                         },
                         {
@@ -9907,7 +9704,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>研究員は何て？　人間に戻る方法はあるって？"
+                                "\\nc<Lewd Demon Employee>\"What did the researchers say? Is there a way to turn back\ninto a human?\""
                             ]
                         },
                         {
@@ -9924,14 +9721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ああ…まだ分からないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん？　いや、気になっただけ。"
+                                "\\nc<Lewd Demon Employee>\"Ah... still no clue, huh? Hm? No, I was just curious.\""
                             ]
                         },
                         {
@@ -9969,14 +9759,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>私、今月のノルマが危ないんだけど、ちょっと手伝ってくれる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなこと言わないでさ…ねっ？"
+                                "\\nc<Lewd Demon Employee>\"I'm in danger of not meeting my quota this month, could you\nhelp me out a bit? Don't say things like that... okay?\""
                             ]
                         },
                         {
@@ -10014,14 +9797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>私の分もコーヒー淹れて～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "エッヘン。先輩の命令に逆らってはいけません。 "
+                                "\\nc<Lewd Demon Employee>\"Make some coffee for me too~ Ahem. You must not disobey\nyour senior's orders.\""
                             ]
                         },
                         {
@@ -10059,14 +9835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>いや～後輩がいるから色々とらくでいいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これからも今みたいによろしくね～"
+                                "\\nc<Lewd Demon Employee>\"It's really nice having a junior around to make things\neasier. I'm counting on you to keep it up just like now~\""
                             ]
                         },
                         {
@@ -10104,14 +9873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>迷惑客を１回でも相手すると疲れるんだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "世の中の迷惑客はみんなここにくるのかな？ "
+                                "\\nc<Lewd Demon Employee>\"Dealing with even one troublesome customer can be so\nexhausting. I wonder if all the world's nuisances come\nhere?\""
                             ]
                         },
                         {
@@ -10232,7 +9994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>はあ…帰りたい。"
+                                "\\nc<Lewd Demon Employee>Sigh... I want to go home."
                             ]
                         },
                         {
@@ -10270,14 +10032,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>なんでずっとここにいるのかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "昨年までここが私の席だったんだ。"
+                                "\\nc<Lewd Demon Employee>Why am I still here? This was my seat until last year."
                             ]
                         },
                         {
@@ -10315,21 +10070,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>私は幼いときから男といっぱい遊んできたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "淫魔だから自然にそういう関係もいっぱい持ったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここに就職するようになったのも自然な流れだよ。"
+                                "\\nc<Lewd Demon Employee>I've been playing with men since I was young. Being a\nsuccubus, it was natural for me to have a lot of those kinds\nof relationships, and getting a job here was a natural\nprogression."
                             ]
                         },
                         {
@@ -10346,14 +10087,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>搾取する能力で搾取されるなんて…なんかウケる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれ。今、私うまいこと言ったよね？"
+                                "\\nc<Lewd Demon Employee>Being exploited with the ability to exploit... that's kind\nof funny. Hey, I just said something clever, didn't I?"
                             ]
                         },
                         {
@@ -10465,7 +10199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>はあ…帰りたい。"
+                                "\\nc<Lewd Demon Employee>Sigh... I want to go home."
                             ]
                         },
                         {
@@ -10503,14 +10237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>なんでずっとここにいるのかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "昨年までここが私の席だったんだ。"
+                                "\\nc<Lewd Demon Employee>Why am I always here, you ask? Until last year, this was my\nseat."
                             ]
                         },
                         {
@@ -10548,21 +10275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>私は幼いときから男といっぱい遊んできたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "淫魔だから自然にそういう関係もいっぱい持ったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここに就職するようになったのも自然な流れだよ。"
+                                "\\nc<Lewd Demon Employee>Ever since I was young, I've played with lots of men. Being\na succubus, it was natural for me to have many such\nrelationships, and getting a job here was a natural\nprogression."
                             ]
                         },
                         {
@@ -10579,14 +10292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>搾取する能力で搾取されるなんて…なんかウケる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれ。今、私うまいこと言ったよね？"
+                                "\\nc<Lewd Demon Employee>Being exploited with the power to exploit... it's kind of\nfunny, isn't it? Hey, that was pretty clever what I just\nsaid, right?"
                             ]
                         },
                         {
@@ -10624,14 +10330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>最近頑張ってるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "取引先の人たちがよくしてくれるみたいだね。"
+                                "\\nc<Lewd Demon Employee>You've been working hard lately. It seems like the clients\nare treating you well."
                             ]
                         },
                         {
@@ -10648,14 +10347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>私のノルマも代わりに満たしてくれない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アハハ。冗談だよ。"
+                                "\\nc<Lewd Demon Employee>Won't you fulfill my quota for me? Ahaha. Just kidding."
                             ]
                         },
                         {
@@ -10744,14 +10436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>あの…このまえはごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれから先輩にもすごく怒られて。"
+                                "\\nc<Lewd Demon Employee>Um... I'm sorry about last time. I've been scolded a lot by\nmy senpai since then."
                             ]
                         },
                         {
@@ -10768,21 +10453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>せっかく良かったチームの雰囲気を壊してしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな反省してるみたいだし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからはもっと気を付けます。"
+                                "\\nc<Lewd Demon Employee>I ended up ruining the good atmosphere we had in the team.\nIt seems like everyone is reflecting on it, so I'll be more\ncareful from now on."
                             ]
                         },
                         {
@@ -10892,7 +10563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>私たちのチームは仲がいいほうだよ。"
+                                "\\nc<Lewd Demon Employee>Our team gets along pretty well, I'd say."
                             ]
                         },
                         {
@@ -10909,21 +10580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ほかのチームの雰囲気見た？　お客の奪いあいは基本だし "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ノルマの余ったぶんまで徹底的にビジネスとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "取引きしてたよ。これもまた先輩のおかげだよね。"
+                                "\\nc<Lewd Demon Employee>Have you seen the atmosphere in the other teams? Competing\nfor customers is the norm, and they even trade the excess\nfrom their quotas as business. That's also thanks to you,\nsenpai."
                             ]
                         },
                         {
@@ -10940,7 +10597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>でもやっぱり帰りたい…"
+                                "\\nc<Lewd Demon Employee>But I still want to go home..."
                             ]
                         },
                         {
@@ -10978,14 +10635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>最近かなり評判いいみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お客からの評価もいいし。"
+                                "\\nc<Lewd Demon Employee>It seems we've been getting quite a good reputation lately.\nThe evaluations from customers are good too."
                             ]
                         },
                         {
@@ -11002,21 +10652,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>私のノルマも代わりに満たしてくれない？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日は冗談じゃないよ？"
+                                "\\nc<Lewd Demon Employee>Won't you fulfill my quota for me? Huh? I'm not joking\ntoday, you know?"
                             ]
                         },
                         {
@@ -11054,21 +10690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>短期間で本当に立派に成長したね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんたの最近のノルマ上昇率がチーム内で一番高いって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "知ってる？"
+                                "\\nc<Lewd Demon Employee>You've really grown so much in such a short time. Did you\nknow that your recent quota increase rate is the highest in\nthe team?"
                             ]
                         },
                         {
@@ -11085,14 +10707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>お互いいつまで耐えられるか分からないけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…頑張ろう。"
+                                "\\nc<Lewd Demon Employee>We don't know how long either of us can endure this... but\nlet's do our best."
                             ]
                         },
                         {
@@ -11130,21 +10745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>どうして私は会社に来たら体の節々が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "痛くなるのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "会社アレルギー？"
+                                "\\nc<Lewd Demon Employee>Why do I start feeling aches all over my body when I come to\nthe company? Is it an allergy to work?"
                             ]
                         },
                         {
@@ -11182,14 +10783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>疲れて死にそう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日もコーヒー飲んで乗りきらなきゃ…"
+                                "\\nc<Lewd Demon Employee>I'm so tired I feel like dying... I have to get through\ntoday with coffee again..."
                             ]
                         },
                         {
@@ -11310,7 +10904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>見てるぞ。新入り。"
+                                "\\nc<Lewd Demon Employee>I'm watching you, newbie."
                             ]
                         },
                         {
@@ -11348,7 +10942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>うまくいってる？"
+                                "\\nc<Lewd Demon Employee>Is everything going well?"
                             ]
                         },
                         {
@@ -11365,21 +10959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>面倒は見てもらえないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここでは仕方がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "みんな生きのこるために必死なんだよ。"
+                                "\\nc<Lewd Demon Employee>You won't get any special treatment here, but that's just\nhow it is. Everyone's desperate to survive."
                             ]
                         },
                         {
@@ -11417,21 +10997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>昨日も役員がどっかで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "変なことを聞いてきたみたいだったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私にまで仕事が入ってきたの…はあ。面倒くさい。"
+                                "\\nc<Lewd Demon Employee>Even yesterday, it seemed like the executives were asking\naround for some weird stuff. Now I've got extra work to\ndo... sigh. What a hassle."
                             ]
                         },
                         {
@@ -11543,7 +11109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>見てるぞ。新入り。"
+                                "\\nc<Lewd Demon Employee>I'm watching you, newbie."
                             ]
                         },
                         {
@@ -11581,7 +11147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>うまくいってる？"
+                                "\\nc<Lewd Demon Employee>Is everything going well?"
                             ]
                         },
                         {
@@ -11598,21 +11164,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>面倒は見てもらえないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここでは仕方がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "みんな生きのこるために必死なんだよ。"
+                                "\\nc<Lewd Demon Employee>We can't expect anyone to look after us here, it's just the\nway it is. Everyone's desperate to survive."
                             ]
                         },
                         {
@@ -11650,21 +11202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>昨日も役員がどっかで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "変なことを聞いてきたみたいだったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私にまで仕事が入ってきたの…はあ。面倒くさい。"
+                                "\\nc<Lewd Demon Employee>Just yesterday, some executive was asking around for some\nweird stuff. Now I've got extra work to do... sigh. What a\npain."
                             ]
                         },
                         {
@@ -11702,21 +11240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>無謀なことは控えたほうがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "汚い手を使って上がっていく人もいるけど、長続きするのは "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "堅実に仕事をこなす人たちだよ。"
+                                "\\nc<Lewd Demon Employee>It's better to avoid reckless actions. Some may climb the\nladder using dirty tricks, but those who last are the ones\nwho steadily get their work done."
                             ]
                         },
                         {
@@ -11754,21 +11278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>見てるぞって言ったよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんたが何をするのか、何をしでかすのか全部お見通しだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "他人の目は誤魔化せないものだよ。"
+                                "\\nc<Lewd Demon Employee>I told you I'm watching, right? I see everything you do,\nevery move you make. You can't fool the eyes of others."
                             ]
                         },
                         {
@@ -11806,7 +11316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>会社の行く末を見て…"
+                                "\\nc<Lewd Demon Employee>Looking at the future of the company..."
                             ]
                         },
                         {
@@ -11823,14 +11333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ん？　なんで辞めないのかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんたと同じ理由でしょ…"
+                                "\\nc<Lewd Demon Employee>Hm? Why don't I quit? Probably for the same reason as you..."
                             ]
                         },
                         {
@@ -11942,21 +11445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>うまくいってる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうあんたが入ってきて結構経つよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…まぁ、頑張って。"
+                                "\\nc<Lewd Demon Employee>Is everything going smoothly? You've been here for quite\nsome time now... Well, keep up the good work."
                             ]
                         },
                         {
@@ -11994,14 +11483,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>人を叱るのは、その人がまだ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "可能性があるって意味だから。"
+                                "\\nc<Lewd Demon Employee>Scolding someone means that there's still potential in them."
                             ]
                         },
                         {
@@ -12018,21 +11500,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>先輩も悪気があって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言ってるわけじゃないと思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…たぶん。"
+                                "\\nc<Lewd Demon Employee>I don't think the senior means any harm when she says those\nthings... probably."
                             ]
                         },
                         {
@@ -12070,14 +11538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>最近急に仕事が増えて、大変になってきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まえも大変じゃなかったわけではないけど…"
+                                "\\nc<Lewd Demon Employee>Work has suddenly increased recently, and it's become tough.\nNot that it wasn't tough before..."
                             ]
                         },
                         {
@@ -12094,14 +11555,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>先輩がある程度コントロールしてくれなかったら "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "みんなとっくに派遣されてるよ。感謝して。"
+                                "\\nc<Lewd Demon Employee>If the senior hadn't controlled things to some extent, we\nall would have been dispatched long ago. Be grateful."
                             ]
                         },
                         {
@@ -12139,21 +11593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>無謀なことは控えたほうがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "汚い手を使って上がっていく人もいるけど、長続きするのは "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "堅実に仕事をこなす人たちだよ。"
+                                "\\nc<Lewd Demon Employee>It's better to refrain from reckless actions. Some may climb\nup using dirty tricks, but those who last are the ones who\nsteadily get their work done."
                             ]
                         },
                         {
@@ -12191,21 +11631,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>見てるぞって言ったよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんたが何をするのか、何をしでかすのか全部お見通しだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "他人の目は誤魔化せないものだよ。"
+                                "\\nc<Lewd Demon Employee>I told you I'm watching, right? I see everything you do,\nevery move you make. You can't fool the eyes of others."
                             ]
                         },
                         {
@@ -12243,7 +11669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>会社の行く末を見て…"
+                                "\\nc<Lewd Demon Employee>Looking at the future of the company..."
                             ]
                         },
                         {
@@ -12260,14 +11686,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ん？　なんで辞めないのかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんたと同じ理由でしょ…"
+                                "\\nc<Lewd Demon Employee>Hm? Why don't I quit? For the same reasons as you, I\nsuppose..."
                             ]
                         },
                         {
@@ -12379,21 +11798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>うまくいってる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうあんたが入ってきて結構経つよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…まぁ、頑張って。"
+                                "\\nc<Lewd Demon Employee>Is everything going well? You've been here for quite some\ntime now... Well, keep it up."
                             ]
                         },
                         {
@@ -12431,14 +11836,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>人を叱るのは、その人がまだ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "可能性があるって意味だから。"
+                                "\\nc<Lewd Demon Employee>Scolding someone means that they still see potential in you."
                             ]
                         },
                         {
@@ -12455,21 +11853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>先輩も悪気があって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言ってるわけじゃないと思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…たぶん。"
+                                "\\nc<Lewd Demon Employee>I don't think the senior means any harm when they say\nthings... probably."
                             ]
                         },
                         {
@@ -12507,14 +11891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>最近急に仕事が増えて、大変になってきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まえも大変じゃなかったわけではないけど…"
+                                "\\nc<Lewd Demon Employee>Work has suddenly increased recently, and it's become tough.\nNot that it wasn't tough before..."
                             ]
                         },
                         {
@@ -12531,14 +11908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>先輩がある程度コントロールしてくれなかったら "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "みんなとっくに派遣されてるよ。感謝して。"
+                                "\\nc<Lewd Demon Employee>If the senior didn't have some control over things, we'd all\nhave been dispatched long ago. Be grateful."
                             ]
                         },
                         {
@@ -12576,21 +11946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>無謀なことは控えたほうがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "汚い手を使って上がっていく人もいるけど、長続きするのは "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "堅実に仕事をこなす人たちだよ。"
+                                "\\nc<Lewd Demon Employee>It's better to refrain from reckless actions. Some may rise\nto the top using dirty tricks, but those who last are the\nones who steadily get their work done."
                             ]
                         },
                         {
@@ -12628,21 +11984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>見てるぞって言ったよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんたが何をするのか、何をしでかすのか全部お見通しだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "他人の目は誤魔化せないものだよ。"
+                                "\\nc<Lewd Demon Employee>I told you I'm watching, right? I see everything you do,\nevery move you make. You can't fool the eyes of others."
                             ]
                         },
                         {
@@ -12680,7 +12022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>会社の行く末を見て…"
+                                "\\nc<Lewd Demon Employee>Looking at the future of the company..."
                             ]
                         },
                         {
@@ -12697,14 +12039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ん？　なんで辞めないのかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんたと同じ理由でしょ…"
+                                "\\nc<Lewd Demon Employee>Hm? Why don't I quit? Probably for the same reasons as\nyou..."
                             ]
                         },
                         {
@@ -12742,14 +12077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>最近先輩の顔色が良くない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何かあるのかな？"
+                                "\\nc<Lewd Demon Employee>The senior's complexion hasn't been good lately... I wonder\nif something's up?"
                             ]
                         },
                         {
@@ -12870,14 +12198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>いくらやっても仕事が終わらない… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何だって？　休日出勤？"
+                                "\\nc<Lewd Demon Employee>No matter how much I work, it never ends... What's that?\nWorking on a holiday?"
                             ]
                         },
                         {
@@ -12894,14 +12215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>生き残るためには割りきるしか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手当なんて期待もしてないって。"
+                                "\\nc<Lewd Demon Employee>To survive, I have to be pragmatic... I'm not even expecting\nany extra pay."
                             ]
                         },
                         {
@@ -12939,21 +12253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>先輩があんたの面倒よく見てくれてるけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな暇あったら先輩が自分の仕事をするほうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よっぽど効率的だってこと分からない？"
+                                "\\nc<Lewd Demon Employee>Your senpai has been looking after you so well. Don't you\nrealize it would be much more efficient if they used that\ntime to do their own work?"
                             ]
                         },
                         {
@@ -12991,21 +12291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>そんなにやることないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "時間が余ったらほかのことしないで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "仕事がないなら探してやらなきゃ。"
+                                "\\nc<Lewd Demon Employee>Do you really have so little to do? If you have spare time,\ndon't just sit around—find some work and do it."
                             ]
                         },
                         {
@@ -13022,14 +12308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>それもこれもあんたのことを心配して言ってるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな態度でいたら、すぐに派遣されるよ？"
+                                "\\nc<Lewd Demon Employee>I'm saying all this because I'm worried about you. If you\nkeep up that attitude, you'll be dispatched before you know\nit, right?"
                             ]
                         },
                         {
@@ -13118,21 +12397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>このまえはその…ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたが入ってきて結構経つけど、私が偏見を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持ちすぎてたみたい。これから仲良くできたらいいな。"
+                                "\\nc<Lewd Demon Employee>\"Thank you for last time... It's been a while since you\njoined us, and it seems I had too many prejudices. I hope we\ncan get along better from now on.\""
                             ]
                         },
                         {
@@ -13242,21 +12507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>なんかあんただけ、変な仕事ばかり任されすぎじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まえもそういう人が何人かいたけど…みんなもうここにいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんたもそうならないように気を付けて。"
+                                "\\nc<Lewd Demon Employee>Doesn't it seem like you're the only one getting all the\nweird jobs? There were a few people like that before... but\nnone of them are around anymore. Be careful not to end up\nthe same way."
                             ]
                         },
                         {
@@ -13294,21 +12545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>うちのチームは、誰が何と言おうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先輩のおかげで回ってるチームだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せめて迷惑だけはかけないように頑張らないとね。"
+                                "\\nc<Lewd Demon Employee>Our team is running thanks to senpai, no matter what anyone\nsays. At the very least, I have to try hard not to cause any\ntrouble."
                             ]
                         },
                         {
@@ -13346,14 +12583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>この会社は訳ありで入ってくる人が断然多いの…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなブッラク企業に来たがるわけないでしょ？"
+                                "\\nc<Lewd Demon Employee>This company has a lot of people with circumstances... No\none would want to come to such a black company, right?"
                             ]
                         },
                         {
@@ -13370,14 +12600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>私たちの年俸を凍結させて、役員たちは "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "政府の支援金を成果給という名目で横流しにしたの。"
+                                "\\nc<Lewd Demon Employee>They froze our annual salaries, and the executives siphoned\noff government support funds under the guise of performance\nbonuses."
                             ]
                         },
                         {
@@ -13394,14 +12617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>どうしてそんなこと知ってるのかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その仕事を私たちが処理したからよ。"
+                                "\\nc<Lewd Demon Employee>How do I know such things? Because we were the ones who\nprocessed that work."
                             ]
                         },
                         {
@@ -13439,14 +12655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>みんな頑張ろうとしてるのは知ってるから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "失敗しないように頑張って。 "
+                                "\\nc<Lewd Demon Employee>I know everyone is trying their best. Work hard so you don't\nfail."
                             ]
                         },
                         {
@@ -13484,7 +12693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>あんた最近、急に仕事がうまくなったね？"
+                                "\\nc<Lewd Demon Employee>You've suddenly gotten much better at your job recently,\nhaven't you?"
                             ]
                         },
                         {
@@ -13501,14 +12710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ん？　どうしたの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私も褒めるときは褒めるわよ。"
+                                "\\nc<Lewd Demon Employee>Hm? What's wrong...? I give praise when it's due, you know."
                             ]
                         },
                         {
@@ -13546,21 +12748,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>数年前に仲良くなったある後輩が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "仕事に耐えられなくなって "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何も言わずに消えたことがある。"
+                                "\\nc<Lewd Demon Employee>A few years ago, there was a junior I got along with who\ncouldn't handle the job and disappeared without saying\nanything."
                             ]
                         },
                         {
@@ -13577,14 +12765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>もうかなり昔のことだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんたは急に消えないでね？"
+                                "\\nc<Lewd Demon Employee>It's quite an old story now... but make sure you don't\nsuddenly disappear, okay?"
                             ]
                         },
                         {

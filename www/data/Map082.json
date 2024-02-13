@@ -4126,7 +4126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>うう…まだ胃がムカムカする。"
+                                "\\nc<Member 1>Ugh... my stomach still feels queasy."
                             ]
                         },
                         {
@@ -4152,7 +4152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>忘年会のときキツいお酒と薬をたくさん飲んだから…"
+                                "\\nc<Member 2>It's because we drank so much strong alcohol and medicine at\nthe year-end party..."
                             ]
                         },
                         {
@@ -4192,7 +4192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>で、でもなぜかメンバー全員に短期休暇が出ました。"
+                                "\\nc<Saki>But, for some reason, all the members were given a short\nvacation."
                             ]
                         },
                         {
@@ -4232,7 +4232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>それは休まないと本当に何人か死ぬところだったからよ。"
+                                "\\nc<Member 3>That's because if we didn't take a break, some of us might\nhave actually died."
                             ]
                         },
                         {
@@ -4263,14 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(先輩…遅いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもはみんなよりさきに来てるのに…無事なのかな？)"
+                                "\\nc<Saki>(Senpai... you're late. You're usually here before everyone\nelse... I hope you're safe.)"
                             ]
                         },
                         {
@@ -4287,14 +4280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(忘年会が終わるころには私も記憶が曖昧で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうなったのか分からない)"
+                                "\\nc<Saki>(By the end of the year-end party, my memory was hazy and I\ndon't know what happened.)"
                             ]
                         },
                         {
@@ -4334,7 +4320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>もうすぐ朝の会議の時間なのに…あれ？"
+                                "\\nc<Member 2>It's almost time for the morning meeting... Huh?"
                             ]
                         },
                         {
@@ -5229,7 +5215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>よろしい、みんな集まってるね。"
+                                "\\nc<Executive Officer>Good, everyone's gathered."
                             ]
                         },
                         {
@@ -5260,7 +5246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>\\bustMsgExp[1, 1]え、ええっ…"
+                                "\\bustMsgExp[1, 1]\\nc<Succubi>Eh, yes..."
                             ]
                         },
                         {
@@ -5291,7 +5277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>……"
+                                "\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -5359,14 +5345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>首輪をつけられたメアリーはどことなくぼんやりとしている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全身の力が抜け、気力を失っている様子…"
+                                "\\nc<>Mary, wearing a collar, seems somewhat vacant. Her whole\nbody is limp, and she appears to have lost her willpower..."
                             ]
                         },
                         {
@@ -5394,7 +5373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>せ、先輩？"
+                                "\\nc<Saki>Se, Senpai?"
                             ]
                         },
                         {
@@ -5411,21 +5390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>メアリーは今まで素晴らしい活躍を見せてくれたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日をもって引退することになったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな祝福するように。"
+                                "\\nc<Executive Officer>Mary has shown us some splendid work up until now, but as of\ntoday, she will be retiring, so everyone should celebrate."
                             ]
                         },
                         {
@@ -5442,7 +5407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー>い、引退なんて…"
+                                "\\nc<Member>R, retiring...?"
                             ]
                         },
                         {
@@ -5459,21 +5424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>ああ、心配するな。引退といっても強制派遣ではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリーは僕の３番目の妻になるだけだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな安心するように。"
+                                "\\nc<Executive Officer>Ah, don't worry. It's not a forced dispatch when I say\nretirement. Mary is just becoming my third wife, so everyone\ncan rest easy."
                             ]
                         },
                         {
@@ -5490,14 +5441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>３番目？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただの愛人じゃん…"
+                                "\\nc<Member 2>Third? She's just a mistress then..."
                             ]
                         },
                         {
@@ -5514,14 +5458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー>メアリー先輩は本当に一生懸命だったのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局淫魔はどこまでも淫魔ってこと？"
+                                "\\nc<Member>Senpai Mary worked so hard... In the end, a succubus is\nalways a succubus?"
                             ]
                         },
                         {
@@ -5549,7 +5486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>オフィス内に絶望的な空気が流れる…"
+                                "\\nc<>A despairing atmosphere flows through the office..."
                             ]
                         },
                         {
@@ -5593,7 +5530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>…先輩！　これでいいんですか？"
+                                "\\nc<Saki>...Senpai! Are you okay with this?"
                             ]
                         },
                         {
@@ -5610,7 +5547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>さ、咲姫！"
+                                "\\nc<Member 3>Sa, Saki!"
                             ]
                         },
                         {
@@ -5627,7 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ん？"
+                                "\\nc<Senpai>Hm?"
                             ]
                         },
                         {
@@ -5655,7 +5592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>メアリーはなんとか顔を上げ、咲姫を見つめるが…"
+                                "\\nc<>Mary somehow lifts her face and looks at Saki but..."
                             ]
                         },
                         {
@@ -5688,14 +5625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>役員が横で腕の注射痕をギュッと押すと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女の体はブルブルと震えはじめる。"
+                                "\\nc<>When the executive officer presses on the injection mark on\nher arm, her body starts to tremble violently."
                             ]
                         },
                         {
@@ -5723,14 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>メアリーちゃん、早く挨拶して家に帰ろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大好きなお薬がいっぱい待ってるよ。"
+                                "\\nc<Executive Officer>Mary-chan, hurry up and say your goodbyes so we can go home?\nYour favorite medicine is waiting for you."
                             ]
                         },
                         {
@@ -5763,7 +5686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そ、そうですね…エへへ♥"
+                                "\\nc<Senpai>Th, that's right... Ehehe♥"
                             ]
                         },
                         {
@@ -5791,14 +5714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>メアリーは完全に壊れたように笑いながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆に別れの挨拶を告げる。"
+                                "\\nc<>Mary laughs brokenly as she bids farewell to everyone."
                             ]
                         },
                         {
@@ -5815,14 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫はそれを楽しそうに眺めている役員の顔を見て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強烈な嫌悪感を覚えた。"
+                                "\\nc<>Saki feels a strong sense of disgust looking at the face of\nthe executive officer who seems to be enjoying the scene."
                             ]
                         },
                         {
@@ -5866,14 +5775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>みんな…元気でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はそれでもかなり長く耐えたほうだと思う。"
+                                "\\nc<Senpai>Everyone... take care. I think I managed to endure quite\nlong after all."
                             ]
                         },
                         {
@@ -5890,7 +5792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>せ、先輩…"
+                                "\\nc<Saki>Se, Senpai..."
                             ]
                         },
                         {
@@ -5934,14 +5836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>完全に生気を失った目から涙が流れおちる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無言の嘆きがチームメンバーの間に広がる。"
+                                "\\nc<>Tears flow from lifeless eyes. A silent lament spreads among\nthe team members."
                             ]
                         },
                         {
@@ -5969,14 +5864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>…これからは咲姫がチームリーダーよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなにはとてもお世話になったわ。"
+                                "\\nc<Senpai>...From now on, Saki will be the team leader. I've been very\ngrateful to all of you."
                             ]
                         },
                         {
@@ -5993,7 +5881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それじゃあ…バイバイ。"
+                                "\\nc<Senpai>So then... goodbye."
                             ]
                         },
                         {
@@ -6410,7 +6298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩！\\.\\.\\bustMsgExp[1, 2]痛っ！\\^"
+                                "\\nc<Saki>Senpai! \\bustMsgExp[1, 2]Ouch!"
                             ]
                         },
                         {
@@ -6911,14 +6799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー>し、新入りたち？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前回より増えた？"
+                                "\\nc<Member>Ne, newcomers? More than last time?"
                             ]
                         },
                         {
@@ -6944,7 +6825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>ありえない…多すぎる。"
+                                "\\nc<Member 2>Impossible... There are too many."
                             ]
                         },
                         {
@@ -7002,14 +6883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああ…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]クゥッ、先輩…"
+                                "\\nc<Saki>Ah... \\bustMsgExp[1, 2]Gahh, Senpai..."
                             ]
                         },
                         {
@@ -7049,7 +6923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>咲姫。 "
+                                "\\nc<Member 3>Saki."
                             ]
                         },
                         {
@@ -7066,21 +6940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー３>私たちも同じ気持ちだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで気をしっかり持たないと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちもどうなるか分からない。"
+                                "\\nc<Member 3>We feel the same way, but if we don't keep our spirits up\nhere, we won't know what will happen to us either."
                             ]
                         },
                         {
@@ -7111,7 +6971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう…分かりました。"
+                                "\\nc<Saki>Ugh... I understand."
                             ]
                         },
                         {
@@ -7128,14 +6988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(先輩が本当に行ってしまうなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はどのくらい耐えられるかな…)"
+                                "\\nc<Saki>(To think Senpai is really leaving. How long can I\nendure...)"
                             ]
                         },
                         {
@@ -7152,14 +7005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(それにこの新入りの淫魔たちは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちはどうなるの…？)"
+                                "\\nc<Saki>(And what about these new succubi? What's going to happen to\nus...?)"
                             ]
                         },
                         {
@@ -7199,7 +7045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>その後、先輩を見た人は誰１人いなかった。"
+                                "\\nc<>No one saw Senpai after that."
                             ]
                         },
                         {
@@ -7216,7 +7062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>おそらく、咲姫ももうすぐ…"
+                                "\\nc<>Probably, Saki too, before long..."
                             ]
                         },
                         {
@@ -7233,7 +7079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>\\TA[1]～ノーマルエンド～"
+                                "\\TA[1]\\nc<>~Normal End~"
                             ]
                         },
                         {

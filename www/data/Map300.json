@@ -3866,7 +3866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう、全身が痛い…"
+                                "\\nc<Saki>Ugh, my whole body hurts..."
                             ]
                         },
                         {
@@ -3897,14 +3897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>メアリー先輩、なんか深刻な話してるみたいだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗み聞きしてみる？"
+                                "\\nc<Employee>Meary-senpai, it seems like they're having a serious\nconversation... Should we eavesdrop?"
                             ]
                         },
                         {
@@ -3935,7 +3928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]えっ、何ですか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Eh, what is it?"
                             ]
                         },
                         {
@@ -4020,14 +4013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ですから、咲姫のせいでそちらの社員が風邪を引いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "欠勤したから賠償してくれっていう話ですよね？"
+                                "\\nc<Senpai>So, you're saying it's Saki's fault that one of your\nemployees caught a cold and had to take time off, and you\nwant compensation for that, right?"
                             ]
                         },
                         {
@@ -4067,7 +4053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>あんた…何したの？"
+                                "\\nc<Employee>What did you do...?"
                             ]
                         },
                         {
@@ -4138,14 +4124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]知りませんよ、あんな奴らなんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(まさか、本当に賠償しろとは言わないよね？)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>I don't know anything about those guys. (Surely, they're not\nreally going to ask for compensation, right?)"
                             ]
                         },
                         {
@@ -4176,7 +4155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]分かりました。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Understood."
                             ]
                         },
                         {
@@ -4261,7 +4240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ええっ…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eeh..."
                             ]
                         },
                         {
@@ -4306,14 +4285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>代わりに、今後私たちのチームからの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "派遣はないということで…"
+                                "\\nc<Senpai>Instead, let's agree that there will be no more dispatches\nfrom our team from now on..."
                             ]
                         },
                         {
@@ -4330,7 +4302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>……"
+                                "\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -4347,7 +4319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あら？　もう考えが変わったんですか？"
+                                "\\nc<Senpai>Oh? Have you changed your mind already?"
                             ]
                         },
                         {
@@ -4364,14 +4336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 2]ですよね。社員の性欲が爆発する寸前に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちのチームから派遣を呼んでること、知ってましたから。"
+                                "\\bustMsgExp[2, 2]\\nc<Senpai>That's what I thought. I knew you were calling dispatches\nfrom our team just before your employees' sexual desires\nwere about to explode."
                             ]
                         },
                         {
@@ -4388,7 +4353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]はい、それでは引き続きよろしくお願いいたします。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Yes, then please continue to count on us."
                             ]
                         },
                         {
@@ -4433,7 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](ふああ、よかった…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Phew, that was close...)"
                             ]
                         },
                         {
@@ -4523,14 +4488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、お疲れ様。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は好きなスケジュールにしなさい。"
+                                "\\nc<Senpai>Saki, good work. You can take it easy with your schedule\ntoday."
                             ]
                         },
                         {
@@ -4575,14 +4533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]あっ、見てたんですね。ありがとうございます…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 1]じゃなくて、知ってたのに私を派遣に行かせたんですか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Ah, you were watching. Thank you...\\bustMsgExp[1, 1] Wait,\nyou knew and still sent me on dispatch?"
                             ]
                         },
                         {
@@ -4627,14 +4578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫ならできると信じてたから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日も頑張りましょう♥"
+                                "\\nc<Senpai>I believed that you could handle it, Saki. Let's do our best\ntoday as well♥"
                             ]
                         },
                         {
@@ -4688,7 +4632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]そんなことなら、信じないでください…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>If that's the case, please don't believe in me..."
                             ]
                         },
                         {

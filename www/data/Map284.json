@@ -4250,14 +4250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>お話はうかがっております、咲姫様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究室は上の階にございます。"
+                                "\\nc<Employee>I've been informed of the situation, Saki-sama. The\nlaboratory is located on the floor above."
                             ]
                         },
                         {

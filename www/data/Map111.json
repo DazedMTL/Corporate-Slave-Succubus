@@ -6238,7 +6238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>くっ、もうこれ以上は無理だ…はあ、はあ…"
+                                "\\nc<Customer>Ugh, I can't go on anymore... *pant*, *pant*..."
                             ]
                         },
                         {
@@ -6269,14 +6269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](うう、脚が痺れてる…でもやっと終わったみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "料金は１回あたりで計算して高く取らなきゃ)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Ouch, my legs are numb... But it looks like it's finally\nover. I need to calculate the fee per session and charge a\nhigh price.)"
                             ]
                         },
                         {
@@ -6307,7 +6300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ふう、はあ…"
+                                "\\nc<Customer>Phew, *sigh*..."
                             ]
                         },
                         {
@@ -6338,14 +6331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]終了ですか？　お疲れ様でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、シャワー室でごゆっくりなさってください。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Are we done? Thank you for your hard work. Please take your\ntime and relax in the shower room."
                             ]
                         },
                         {
@@ -6376,7 +6362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>あ、はいっ…あの、ありがとう。"
+                                "\\nc<Customer>Oh, yes... um, thank you."
                             ]
                         },
                         {
@@ -6407,7 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>♪"
+                                "\\nc<Saki>♪"
                             ]
                         },
                         {
@@ -6701,7 +6687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>また仕事が増えたよ…"
+                                "\\nc<Lewd Demon Employee>More work has piled up again..."
                             ]
                         },
                         {

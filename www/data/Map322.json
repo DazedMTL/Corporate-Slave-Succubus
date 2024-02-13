@@ -3302,7 +3302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><文様が描かれた鍵>を獲得した！"
+                                "\\nc<>Gained the Key with a Patterned Design!<文様が描かれた鍵>を獲得した！"
                             ]
                         },
                         {

@@ -6691,14 +6691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>くぅ～！　いいねいいね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで効果音をもうちょっと上げて、特殊効果も入れるんだ。"
+                                "\\nc<Customer>Mmm! That's good, that's good! Just need to raise the sound\neffects here a bit more, and add some special effects."
                             ]
                         },
                         {
@@ -6729,21 +6722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]そ、そうなんですね…AV監督になるのが夢だったとか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(どうしてお客と一緒に自分が映ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動画を見なきゃいけないの…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>I-Is that so... You dreamed of becoming an AV director or\nsomething? (Why do I have to watch a video of myself with\nthe customer...)"
                             ]
                         },
                         {
@@ -6774,14 +6753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ど、どうして分かったんだ？　うーん…ところでさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま本当にシちゃうのって…"
+                                "\\nc<Customer>H-How did you know? Hmm... By the way, are we really going\nto do it this time..."
                             ]
                         },
                         {
@@ -6812,7 +6784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>絶対にだめです。"
+                                "\\nc<Saki>Absolutely not."
                             ]
                         },
                         {
@@ -6843,14 +6815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>だよな？　はあ…また頑張って稼いでくるしかないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本番に撮影オプション付きは高いだろうし。"
+                                "\\nc<Customer>Right? Sigh... Guess I'll have to work hard and earn more.\nThe full performance with the filming option must be\nexpensive."
                             ]
                         },
                         {
@@ -6881,7 +6846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>また撮るつもりですか…"
+                                "\\nc<Saki>You're planning to shoot again..."
                             ]
                         },
                         {
@@ -6912,7 +6877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>もちろん！　どんなときでも動画は最高なんだ。"
+                                "\\nc<Customer>Of course! Videos are the best no matter the situation."
                             ]
                         },
                         {
@@ -6943,7 +6908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええー、よく分かりませんけど…お疲れ様でした。"
+                                "\\nc<Saki>Uh-huh, I don't really understand, but... Good work today."
                             ]
                         },
                         {
@@ -6974,7 +6939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>おう、また来るよ！ "
+                                "\\nc<Customer>Yeah, I'll be back again!"
                             ]
                         },
                         {
@@ -7681,14 +7646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>なんだか変な常連ができちゃったな…\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]まあ、いいか！　悪い人じゃなさそうだし。"
+                                "\\nc<Saki>Somehow I've got a weird regular now... \\bustMsgExp[1,\n0]Well, it's okay! He doesn't seem like a bad person."
                             ]
                         },
                         {

@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -4285,7 +4285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ううっ…やだっ、ごめんなさ…"
+                                "\\nc<Saki>Ugh... no, I'm sorry..."
                             ]
                         },
                         {
@@ -4330,7 +4330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>私を待たせるなんていったいどういうつもり？"
+                                "\\nc<Senpai>What do you mean by making me wait like this?"
                             ]
                         },
                         {
@@ -4426,14 +4426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>せっ、先輩。いつの間に？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は体が綺麗ですね？　まさか研究員たちが…"
+                                "\\nc<Saki>Se... Senpai. When did you...? You look so clean today?\nDon't tell me the researchers have..."
                             ]
                         },
                         {
@@ -4478,7 +4471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]そんなわけないでしょ？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Of course not, right?"
                             ]
                         },
                         {
@@ -4532,7 +4525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ええっ…と、ということは…まさか先輩が？！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eeh... So, that means... could it be Senpai?!"
                             ]
                         },
                         {
@@ -4577,7 +4570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>さきに行くわ。起きる気ないならタクシーでも呼びなさい。"
+                                "\\nc<Senpai>I'm going ahead. If you don't feel like getting up, call a\ntaxi or something."
                             ]
                         },
                         {
@@ -4737,7 +4730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うわぁ！　起きます！　起きますから！"
+                                "\\nc<Saki>Whoa! I'll get up! I'm getting up now!"
                             ]
                         },
                         {

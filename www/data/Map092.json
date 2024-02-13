@@ -3824,7 +3824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント会場から戻ったあと……"
+                                "After returning from the event venue..."
                             ]
                         },
                         {
@@ -3931,14 +3931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1]ま、待ってください！　何ですかこれ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔もそのまま出てるじゃないですか！"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>W-Wait a minute! What is this!? My face is completely\nexposed!"
                             ]
                         },
                         {
@@ -3983,21 +3976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>嬉しいでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会社の宣伝に一役買うのはもちろん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたのファンまで増えるかもね。"
+                                "\\nc<Senpai>You're happy, aren't you? Not only does it help promote the\ncompany, but you might even gain more fans."
                             ]
                         },
                         {
@@ -4058,14 +4037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]私を見るなりチンポを勃てて襲いかかってくる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ファンなんて要りません！"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>I don't need fans who get a hard-on and attack me just by\nlooking at me!"
                             ]
                         },
                         {
@@ -4110,7 +4082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 3](ギロッ！)"
+                                "\\bustMsgExpression[2, 3]\\nc<Senpai>(Glare!)"
                             ]
                         },
                         {
@@ -4127,14 +4099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>じゃあこれからはあなたが作成しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近、私を見くびってるでしょ？"
+                                "\\nc<Senpai>Then from now on, you create it. You've been underestimating\nme lately, haven't you?"
                             ]
                         },
                         {
@@ -4179,14 +4144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1]み、見くびってなんかいません！\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExpression[1, 2]はあ、\\.\\.これも早く消さなきゃ……"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>I-I'm not underestimating you at all! \\bustMsgExpression[1,\n2] Ah, I need to delete this quickly..."
                             ]
                         },
                         {
@@ -4222,7 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<アプリの通知>[sexconnect official : お客様からお小遣いが届きました！]"
+                                "\\nc<App Notification>[sexconnect official: You've received a tip from a\ncustomer!]"
                             ]
                         },
                         {
@@ -4248,7 +4206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]……もう少しあとにしようかな？"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>...Maybe I'll wait a little longer?"
                             ]
                         },
                         {

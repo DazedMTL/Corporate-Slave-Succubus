@@ -3834,7 +3834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>よし。次はあなたの席に案内するわ。"
+                                "\\nc<Senpai>Alright. Next, I'll show you to your seat."
                             ]
                         },
                         {
@@ -3879,7 +3879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(よかった。オフィス業務なんだ…)"
+                                "\\nc<Saki>(Thank goodness. It's office work...)"
                             ]
                         },
                         {
@@ -4356,14 +4356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ここがあなたの席よ。綺麗に使いなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずはパソコンを起動してみて。"
+                                "\\nc<Senpai>This is your seat. Please keep it clean. First, try booting\nup the computer."
                             ]
                         },
                         {
@@ -4448,14 +4441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(このパソコン、すごく古い…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "業務用だし仕方ないか)"
+                                "\\nc<Saki>(This computer is really old... But it's for work, so I\nguess it can't be helped.)"
                             ]
                         },
                         {
@@ -4616,7 +4602,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<先輩>どこいくの？"
+                                "\\nc<Senpai>Where are you going?"
                             ]
                         },
                         {
@@ -4734,7 +4720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どこいくの？"
+                                "\\nc<Senpai>Where are you going?"
                             ]
                         },
                         {
@@ -5226,14 +5212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まずは今週のスケジュールを組みましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今週の業務」を選択してみて。"
+                                "\\nc<Senpai>Let's start by setting up this week's schedule. Try\nselecting \"This Week's Tasks.\""
                             ]
                         },
                         {
@@ -6233,7 +6212,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "仕事を始める？"
+                                "Shall we start working?"
                             ]
                         },
                         {
@@ -6241,8 +6220,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6401,14 +6380,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先輩が見ている…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今週の業務を決めよう。"
+                                "Senpai is watching... Let's decide on this week's tasks."
                             ]
                         },
                         {
@@ -6457,14 +6429,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先輩が見ている…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今週の業務を決めよう。"
+                                "Senpai is watching... Let's decide on this week's tasks."
                             ]
                         },
                         {
@@ -6513,14 +6478,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先輩が見ている…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今週の業務を決めよう。"
+                                "Senpai is watching... Let's decide on this week's tasks."
                             ]
                         },
                         {
@@ -6576,14 +6534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先輩が見ている…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今週の業務を決めよう。"
+                                "Senpai is watching... Let's decide on this week's tasks."
                             ]
                         },
                         {

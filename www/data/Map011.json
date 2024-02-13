@@ -2405,7 +2405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ寝る？"
+                                "Should we go to bed soon?"
                             ]
                         },
                         {
@@ -2413,8 +2413,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

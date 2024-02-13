@@ -4037,7 +4037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]咲姫？　咲姫、起きなさい。"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>\"Saki? Saki, wake up.\""
                             ]
                         },
                         {
@@ -4082,7 +4082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMoveTo[1, 1300, 720, 30]うっ…先輩…？"
+                                "\\bustMoveTo[1, 1300, 720, 30]\\nc<Saki>\"Uh... Senpai...?\""
                             ]
                         },
                         {
@@ -4237,7 +4237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あの、お客様は…？"
+                                "\\nc<Saki>\"Um, the guest...?\""
                             ]
                         },
                         {
@@ -4282,7 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もう帰ったわ。"
+                                "\\nc<Senpai>\"They've already left.\""
                             ]
                         },
                         {
@@ -4330,14 +4330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫のこと本当に気に入ったみたいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうしてチップも置いていったしね。"
+                                "\\nc<Senpai>\"It seems they really took a liking to you, Saki. They even\nleft a tip.\""
                             ]
                         },
                         {
@@ -4403,7 +4396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 5]へええ、チップですか？"
+                                "\\bustMsgExp[1, 5]\\nc<Saki>\"Eh, a tip?\""
                             ]
                         },
                         {
@@ -4524,7 +4517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ほら、こんなに…"
+                                "\\nc<Senpai>\"Look, this much...\""
                             ]
                         },
                         {
@@ -4550,7 +4543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 2]これは、あなたを推奨した私の分ね。"
+                                "\\bustMsgExp[2, 2]\\nc<Senpai>\"This is my share for recommending you.\""
                             ]
                         },
                         {
@@ -4604,14 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]あああっ！　チップまで持っていくなんて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酷すぎます！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Ahhh! Taking even the tip is just too cruel!\""
                             ]
                         },
                         {
@@ -4656,7 +4642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]ごめんなさい、ちょっと冗談が過ぎちゃったかしら。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>\"Sorry, maybe that joke went a bit too far.\""
                             ]
                         },
                         {
@@ -4710,7 +4696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]もう、驚いたじゃないですか。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"Geez, you really startled me.\""
                             ]
                         },
                         {
@@ -4755,21 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]でも、ほかの人にはチップのこと言わないほうがいいわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかの管理者なら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何のためらいもなく持っていくはずだから…"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>\"But you shouldn't talk about the tip with others. Other\nmanagers would take it without any hesitation...\""
                             ]
                         },
                         {
@@ -4814,7 +4786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えええ！？　そうなんですか！？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Eeeh!? Is that true!?\""
                             ]
                         },
                         {
@@ -4859,7 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]うちの会社を見てればそれくらい分かるでしょう。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>\"If you look at our company, you should be able to tell that\nmuch.\""
                             ]
                         },
                         {
@@ -4904,7 +4876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(それは…たしかに！)"
+                                "\\nc<Saki>\"(That's... certainly true!)\""
                             ]
                         },
                         {
@@ -4949,14 +4921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>じゃあ、早く片づけて行きましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからもVIPの接待はあなたに任せるわ。"
+                                "\\nc<Senpai>\"Well then, let's clean up quickly. I'll be entrusting the\nVIP hospitality to you from now on.\""
                             ]
                         },
                         {
@@ -5001,7 +4966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]そ、それはちょっと…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"Th-that's a bit...\""
                             ]
                         },
                         {

@@ -2804,7 +2804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>実践に先立ち、最後に規則を整理します。よろしいですか？"
+                                "\\nc<Administrator>\"Before we begin the practice, let's go over the rules one\nlast time. Is that okay?\""
                             ]
                         },
                         {
@@ -2861,7 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>は～い。"
+                                "\\nc<Succubi>\"Yes~.\""
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](なんだか体がだるい…頭がぼうっと…して…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"(I feel so sluggish... My head is all fuzzy...)\""
                             ]
                         },
                         {
@@ -2923,7 +2923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>皆さんが販促をするのは、当社の健康補助食品です。"
+                                "\\nc<Administrator>\"What you'll be promoting are our company's health\nsupplements.\""
                             ]
                         },
                         {
@@ -2940,14 +2940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>お客様に無礼な言動は厳禁、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "常に接待のポーズを心がけながら…"
+                                "\\nc<Administrator>\"Rude behavior towards customers is strictly forbidden.\nAlways keep in mind to maintain a hospitable pose...\""
                             ]
                         },
                         {
@@ -3025,14 +3018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はぁい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(空気がさっきより熱くなったような…)"
+                                "\\nc<Saki>\"Yes...(It feels like the air has gotten hotter than\nbefore...)\""
                             ]
                         },
                         {
@@ -3063,21 +3049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>値段が値段なだけに、少しだけならサービスしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "構いません。適当にやっていればすぐに終わりますので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張ってください。"
+                                "\\nc<Administrator>\"Given the price, it's okay to provide a little extra\nservice. Just do what you can and it will be over quickly,\nso please do your best.\""
                             ]
                         },
                         {
@@ -3094,7 +3066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>はぁい…"
+                                "\\nc<Succubi>\"Yes...\""
                             ]
                         },
                         {
@@ -4090,7 +4062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>本当にこんなところに女がいるぞ…"
+                                "\\nc<Customer 1>\"There really are women here...\""
                             ]
                         },
                         {
@@ -4138,7 +4110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>ほらな。さっきの話、全部本当だったろ？"
+                                "\\nc<Customer 2>\"See? What I told you earlier, it was all true, wasn't it?\""
                             ]
                         },
                         {
@@ -4186,14 +4158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>もちろんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お支払いはお済みですので、今すぐにご利用いただけます。"
+                                "\\nc<Administrator>\"Of course. Your payment has been completed, so you can use\nour services right away.\""
                             ]
                         },
                         {
@@ -4332,7 +4297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>では遠慮なく今すぐ…"
+                                "\\nc<Customer 1>\"Then I won't hold back and start right now...\""
                             ]
                         },
                         {
@@ -4358,7 +4323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>あ、今回に限って本番は禁止です。"
+                                "\\nc<Administrator>\"Ah, but just for this time, actual intercourse is\nprohibited.\""
                             ]
                         },
                         {
@@ -4406,21 +4371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>分かってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな可愛い女の子たちを集めてくれたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本番がなくても…"
+                                "\\nc<Customer 1>\"I understand. You've gathered such cute girls for us. Even\nwithout intercourse...\""
                             ]
                         },
                         {
@@ -4482,7 +4433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>皆さん、早く接待を始めてくださらないと。"
+                                "\\nc<Administrator>\"Everyone, please start entertaining the customers quickly.\""
                             ]
                         },
                         {
@@ -4532,14 +4483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔１>わ、分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ていうか、どうするんだっけ？"
+                                "\\nc<Succubus 1>\"Okay, I got it. But what are we supposed to do again?\""
                             ]
                         },
                         {
@@ -4556,7 +4500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔２>そうだ。接待のポーズだったよね？"
+                                "\\nc<Succubus 2>\"Right. It was the hospitality pose, wasn't it?\""
                             ]
                         },
                         {
@@ -4594,7 +4538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔３>たしかこんなふうに…"
+                                "\\nc<Succubus 3>\"It was something like this...\""
                             ]
                         },
                         {
@@ -4632,7 +4576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔４>両手を頭のうしろにつけて…"
+                                "\\nc<Succubus 4>\"Put both hands behind your head...\""
                             ]
                         },
                         {
@@ -4670,7 +4614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔１>しゃがんで…"
+                                "\\nc<Succubus 1>\"And squat down...\""
                             ]
                         },
                         {
@@ -4722,7 +4666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>股をパカッっと広げて…だよね？"
+                                "\\nc<Saki>\"And spread your legs wide open... right?\""
                             ]
                         },
                         {
@@ -4762,7 +4706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客３>おおっ、これは…"
+                                "\\nc<Customer 3>\"Oh, this is...\""
                             ]
                         },
                         {
@@ -4788,7 +4732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>絶対服従の姿勢…って感じですな。"
+                                "\\nc<Customer 2>\"The pose of absolute obedience... that's the vibe.\""
                             ]
                         },
                         {
@@ -4819,7 +4763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>. \\.\\.. \\.\\..\\bustMsgExp[1, 1]えっ？\\.\\.あれ？　あれれ？"
+                                "\\nc<Saki>\". . .\\bustMsgExp[1, 1]Eh? What? What's going on?\""
                             ]
                         },
                         {
@@ -4859,7 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>どうされましたか、咲姫さん？"
+                                "\\nc<Administrator>\"What's the matter, Saki-san?\""
                             ]
                         },
                         {
@@ -4890,7 +4834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いや、なんか…変じゃないですか？"
+                                "\\nc<Saki>\"No, it's just... doesn't this seem strange?\""
                             ]
                         },
                         {
@@ -4930,14 +4874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>いえ。全然変じゃありませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが普通ですから。"
+                                "\\nc<Administrator>\"No, not at all. This is perfectly normal.\""
                             ]
                         },
                         {
@@ -5001,7 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ええっ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"Eh...\""
                             ]
                         },
                         {
@@ -5032,14 +4969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>普段しているのよりは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "控えめなほうじゃないですか。ねっ？"
+                                "\\nc<Administrator>\"It's more modest than what you usually do, isn't it?\nRight?\""
                             ]
                         },
                         {
@@ -5070,7 +5000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それは…そうかもしれませんね。"
+                                "\\nc<Saki>\"That might be true...\""
                             ]
                         },
                         {
@@ -5110,14 +5040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>さっ、ではさっそく始めましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く始めれば早く終わりますからね。"
+                                "\\nc<Administrator>\"Now then, let's get started right away. The sooner we\nstart, the sooner we finish.\""
                             ]
                         },
                         {
@@ -5157,21 +5080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うーん…はぁい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ちょっと変だけど、みんなしてるから…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よいしょ。"
+                                "\\nc<Saki>\"Hmm... yes. (It's a bit strange, but since everyone is\ndoing it...) Here I go.\""
                             ]
                         },
                         {
@@ -5251,14 +5160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫がしゃがみこんで服従のポーズをとると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに数人の客が絡んでくる。"
+                                "\\nc<>As Saki squats down and takes the pose of obedience, several\ncustomers immediately start to interact with her."
                             ]
                         },
                         {
@@ -5308,14 +5210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>まだどこか引っかかるが、客に逆らおうという考えは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とうてい持てない咲姫。"
+                                "\\nc<>Despite her reservations, Saki cannot bring herself to defy\nthe customers."
                             ]
                         },
                         {
@@ -5343,14 +5238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>準備できたのか？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ完全にのめりこんでない感じがいいな。"
+                                "\\nc<Customer 1>\"Are you ready? I like that you're not completely immersed\nyet.\""
                             ]
                         },
                         {
@@ -5367,7 +5255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(さっきから何を言ってるのか全然分からない…)"
+                                "\\nc<Saki>\"(I have no idea what he's been saying all this time...)\""
                             ]
                         },
                         {
@@ -5384,14 +5272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>本番禁止なのは残念だけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなふうにぼうっとしてる感じが最高だ。"
+                                "\\nc<Customer 2>\"It's a shame that actual intercourse is prohibited... but\nthis dazed look is just perfect.\""
                             ]
                         },
                         {
@@ -5408,7 +5289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、あの…今日はご来店いただきありがとうございます。"
+                                "\\nc<Saki>\"Um... thank you for visiting us today.\""
                             ]
                         },
                         {
@@ -5425,7 +5306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>おおっ、いい子だ。ちゃんと挨拶してくれるんだな？"
+                                "\\nc<Customer 1>\"Oh, what a good girl. You even greet properly, huh?\""
                             ]
                         },
                         {
@@ -5442,14 +5323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>咲姫ちゃん…だっけ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見た目はおとなしそうなのに体はエロくて我慢できねえ。"
+                                "\\nc<Customer 2>\"Saki-chan... was it? You look so demure, but your body is\ntoo erotic to resist.\""
                             ]
                         },
                         {
@@ -5466,14 +5340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(何が何だか分からないけど、好いてくれてるみたい)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへッ、ありがとうございます。"
+                                "\\nc<Saki>(I don't really understand what's happening, but it seems\nlike they like me) Hehe, thank you very much."
                             ]
                         },
                         {
@@ -5490,7 +5357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>咲姫ちゃんのせいでカチカチになっちゃったよ。"
+                                "\\nc<Customer 1>You've made me rock hard, Saki-chan."
                             ]
                         },
                         {
@@ -5507,7 +5374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>今の気分はどう？　悪くない？"
+                                "\\nc<Customer 2>How are you feeling now? Not bad, right?"
                             ]
                         },
                         {
@@ -5573,7 +5440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>気分ですか？　そうですね…"
+                                "\\nc<Saki>My feelings? Well..."
                             ]
                         },
                         {
@@ -5590,14 +5457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>よく分かりませんが、さっきより目線が低くなったので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭が少し冷静になったような…"
+                                "\\nc<Saki>I'm not sure, but my gaze is lower than before, so my head\nfeels a bit clearer..."
                             ]
                         },
                         {
@@ -5614,7 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>いいねえ。準備できたらすぐに始めるぜ。"
+                                "\\nc<Customer 1>Nice. We'll start as soon as you're ready."
                             ]
                         },
                         {
@@ -5631,7 +5491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええっ？　あ、はい。何でもおっしゃってください。"
+                                "\\nc<Saki>Eh? Oh, yes. Please tell me whatever you want."
                             ]
                         },
                         {
@@ -5708,14 +5568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>頭に霧がかかったような状態の咲姫に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いきなり勃起したペニスが突きつけられる。"
+                                "\\nc<>As Saki is in a foggy state of mind, a customer suddenly\nthrusts his erect penis at her."
                             ]
                         },
                         {
@@ -5732,14 +5585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>客は咲姫の鼻の前でペニスを揺すり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのまましつこく擦りつける。"
+                                "\\nc<>The customer shakes his penis in front of Saki's nose and\npersistently rubs it against her."
                             ]
                         },
                         {
@@ -5756,7 +5602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>呼吸が荒くなった咲姫は、強いイカ臭さに戸惑う。"
+                                "\\nc<>Saki, breathing heavily, is bewildered by the strong fishy\nsmell."
                             ]
                         },
                         {
@@ -5784,7 +5630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ？！　スゥー、ハァー…？？"
+                                "\\nc<Saki>Kuhu?! Swoo-, Haa-...??"
                             ]
                         },
                         {
@@ -5801,21 +5647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>咲姫さん。お客様がペニスを恵んでくださったときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと味見をしてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがここの営業戦略ですから。"
+                                "\\nc<Administrator>Saki-san. When a customer graces you with their penis,\nplease make sure to taste it. That's part of our business\nstrategy here."
                             ]
                         },
                         {
@@ -5832,14 +5664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>へえ。そ、そうだったんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(味見って…まあ、そんなに難しいことでもないから…)"
+                                "\\nc<Saki>I see. So, that's how it is. (Tasting... well, it doesn't\nseem too difficult...)"
                             ]
                         },
                         {
@@ -5856,7 +5681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>スゥッ、ハァッ、スーッ…♥"
+                                "\\nc<Saki>Swoo-, Haa-, Soo-...♥"
                             ]
                         },
                         {
@@ -5917,14 +5742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は青筋立ったペニスに鼻を埋めたまま、じっくり臭いを味わう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鼻が曲がるほどの激臭だが、今の咲姫にとってはご褒美も同然。"
+                                "\\nc<>Saki buries her nose in the throbbing penis and savors the\nsmell thoroughly. The stench is so strong it could twist her\nnose, but for Saki right now, it's almost a reward."
                             ]
                         },
                         {
@@ -5952,14 +5770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うあっ…シャワーしていないんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔にまで臭いが付きそうです…"
+                                "\\nc<Saki>Ugh... Haven't you showered? The smell seems to stick to my\nface..."
                             ]
                         },
                         {
@@ -5976,7 +5787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>さあな。咲姫ちゃんの体がエロすぎるからじゃねえの？"
+                                "\\nc<Customer 1>Who knows. Maybe it's because your body is too erotic, Saki-\nchan?"
                             ]
                         },
                         {
@@ -5993,7 +5804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああ…それなら仕方ないですね。"
+                                "\\nc<Saki>Ah... if that's the case, then I can't help it."
                             ]
                         },
                         {
@@ -6054,7 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は無表情を保ちながらも、激臭に体がピクピクする"
+                                "\\nc<>Saki keeps a blank expression, but her body twitches from\nthe intense odor."
                             ]
                         },
                         {
@@ -6071,7 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>無防備に露出した彼女の秘部に、ほかの客の指が入りこむ。"
+                                "\\nc<>Another customer's fingers slip into her exposed genitals."
                             ]
                         },
                         {
@@ -6116,14 +5927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ただでさえ露出の多い制服の下衣に侵入した指が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "柔らかい肌にピタリと密着し、ゆっくりといじめる。"
+                                "\\nc<>The fingers that have invaded under her already revealing\nuniform stick to her soft skin and slowly torment her."
                             ]
                         },
                         {
@@ -6151,7 +5955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふあっ♥え、ええっ…これは？"
+                                "\\nc<Saki>Fuaa♥ Eh, what... is this?"
                             ]
                         },
                         {
@@ -6168,14 +5972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>プフッ、いい反応だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちいいでしょ、咲姫ちゃん？"
+                                "\\nc<Customer 2>Pfft, nice reaction. Feels good, doesn't it, Saki-chan?"
                             ]
                         },
                         {
@@ -6192,14 +5989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はいぃ、まあ…接待なのでマンコに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指を突っこまれるくらいは…ふうっ♥"
+                                "\\nc<Saki>Yes, well... since it's hospitality, having fingers thrust\ninto my pussy is... fuu♥"
                             ]
                         },
                         {
@@ -6249,7 +6039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>いくらなんでも感じるの早すぎねえか？"
+                                "\\nc<Customer 1>Aren't you feeling it a bit too quickly?"
                             ]
                         },
                         {
@@ -6266,14 +6056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>スゥーッ、ハァーッ♥その、仕方ないと思います…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スーッ、こんな太い指でズコズコ突かれたら…"
+                                "\\nc<Saki>Swoo-, Haa-♥ Well, I can't help it... Soo-, if you thrust\nsuch thick fingers in and out like this..."
                             ]
                         },
                         {
@@ -6290,7 +6073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>咲姫ちゃんはどこが敏感なの？"
+                                "\\nc<Customer 2>Where are you most sensitive, Saki-chan?"
                             ]
                         },
                         {
@@ -6307,14 +6090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>性感帯なら奥のほうが特に…くふっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す、すぐに突くんですかぁっ♥スゥーッ♥"
+                                "\\nc<Saki>If you're asking about my erogenous zones, the inside is\nespecially... kuhu♥ Do, do you have to thrust so quickly?!\nSwoo-♥"
                             ]
                         },
                         {
@@ -6375,14 +6151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>容赦なく弱点を責めてくる手つきに腰が震える咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上の客もそれに負けじとペニスをさらに執拗に擦りつける。"
+                                "\\nc<>Saki's hips shake from the relentless targeting of her weak\nspot. The customer above doesn't fall behind and rubs his\npenis even more persistently against her."
                             ]
                         },
                         {
@@ -6410,7 +6179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(くふっ、これ…やっぱりなんか変っ…♥)"
+                                "\\nc<Saki>(Kuhu, this is... definitely strange...♥)"
                             ]
                         },
                         {
@@ -6427,7 +6196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>そろそろしゃぶってくれねえか…"
+                                "\\nc<Customer 1>How about you start sucking it soon..."
                             ]
                         },
                         {
@@ -6444,7 +6213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああっ、失礼しました。スプッ、チュパッ…"
+                                "\\nc<Saki>Aah! Excuse me. Spu-, Chupa..."
                             ]
                         },
                         {
@@ -6500,14 +6269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>両手を頭のうしろに付けたまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ペニスにキスした咲姫がすぐさま口に咥える。"
+                                "\\nc<>With both hands behind her head, Saki kisses the penis and\nimmediately takes it into her mouth."
                             ]
                         },
                         {
@@ -6524,21 +6286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>頬を横にそっと膨らませ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情熱的にチュパチュパと吸いあげる姿に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "満足する客。"
+                                "\\nc<>The customer is satisfied as she gently puffs out her cheeks\nand passionately sucks with a chupa chupa sound."
                             ]
                         },
                         {
@@ -6566,21 +6314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(そうだ。サービスが足りてなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高い商品を購入したお客様なのに…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チュプッ、チュパッ、フプッ…♥"
+                                "\\nc<Saki>(That's right. I wasn't providing enough service. For a\ncustomer who has purchased such an expensive product...)\nChup-, Chupa-, Fup-...♥"
                             ]
                         },
                         {
@@ -6609,7 +6343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>おおおっ！　いきなりバキュームフェラとはっ！！"
+                                "\\nc<Customer 1>Oooh! Going straight for the vacuum blowjob!!"
                             ]
                         },
                         {
@@ -6626,7 +6360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>ハァッ、ハァッ…もうすぐでイきそうか？"
+                                "\\nc<Customer 2>Haa-, Haa-... Are you about to cum?"
                             ]
                         },
                         {
@@ -6643,21 +6377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ううっ♥私の弱点全部バレちゃった…いつバレたんだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さ、さっき私が教えたんだった…あううっ♥もう限界なのにぃっ…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あふっ、んんっ…くふぅぅっ♥"
+                                "\\nc<Saki>(Uuu♥ All my weak spots have been exposed... When did they\nfind out? Oh, I was the one who told them just now... auu♥\nAnd I'm already at my limit...) Afu-, mmm-... kufuuu♥"
                             ]
                         },
                         {
@@ -6851,14 +6571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>頭を懸命に振りながら上下からしつこくいじめられた咲姫は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局我慢できず、思いきり絶頂してしまった。"
+                                "\\nc<>Unable to hold back any longer from the persistent teasing\nfrom above and below, Saki ultimately climaxes with all her\nmight."
                             ]
                         },
                         {
@@ -6875,14 +6588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ぼんやりしていた意識がさらに薄れ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛と奉仕の精神が溢れでる。"
+                                "\\nc<>Her already hazy consciousness fades even further as a\nspirit of love and service overflows from her."
                             ]
                         },
                         {
@@ -6910,14 +6616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>くはぁっ、俺も一緒にイっちまったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ、ちゃんと口に含んでくれるよな？"
+                                "\\nc<Customer 1>Kuhah, I came along with you. You're keeping it in your\nmouth, right?"
                             ]
                         },
                         {
@@ -6934,14 +6633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふえっ…♥ふきゅっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(これすごく濃くてすごく臭い…仕方ないな)"
+                                "\\nc<Saki>Fueh...♥ Fkyu... (This is so thick and smells so strong...\nCan't be helped.)"
                             ]
                         },
                         {
@@ -7018,14 +6710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>コクリ、コクリと頷く咲姫の頭を感心するように撫でる客。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休みがてら腰を引いた彼は満足げに笑う。"
+                                "\\nc<>The customer strokes Saki's head in admiration as she nods,\nKokuri, Kokuri. Taking a break, he pulls back his hips and\nsmiles contentedly."
                             ]
                         },
                         {
@@ -7053,14 +6738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>やっぱ違うな…訳も分からず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひたすら命令に従う姿がさ…"
+                                "\\nc<Customer 1>It's different, isn't it... The sight of you mindlessly\nobeying orders..."
                             ]
                         },
                         {
@@ -7077,7 +6755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>背徳感が刺激される感じって言うのか？"
+                                "\\nc<Customer 2>Is it the thrill of the taboo feeling?"
                             ]
                         },
                         {
@@ -7094,14 +6772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>そうそう。咲姫ちゃん、すごくバカで可愛いしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なのに体は超エロいっていう…"
+                                "\\nc<Customer 1>Exactly. Saki-chan is so stupid and cute. And yet, her body\nis super erotic..."
                             ]
                         },
                         {
@@ -7129,7 +6800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スルッ。"
+                                "\\nc<>Slip."
                             ]
                         },
                         {
@@ -7195,14 +6866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の制服の上衣を脱がした客が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勃起した乳首をグイッと引っぱる。"
+                                "\\nc<>A customer who has taken off Saki's uniform jacket pulls on\nher erect nipples."
                             ]
                         },
                         {
@@ -7219,7 +6883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>驚いて体をひねる咲姫だが、文句一つ言えない。"
+                                "\\nc<>Saki twists her body in surprise, but she can't say a word\nof complaint."
                             ]
                         },
                         {
@@ -7247,21 +6911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ふくぅっ？！　い、痛いっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど、口に精液を含んでいなきゃいけないから声を出せな…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んぶっ、くふうっ…♥"
+                                "\\nc<Saki>(Fukuu?! It hurts... but I have to keep the semen in my\nmouth so I can't make a sound...) Nbu-, kufuu...♥"
                             ]
                         },
                         {
@@ -7278,21 +6928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>またバカな顔見せてくれるんだ。催眠調教最高♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "訳も分からず絶対服従のポーズでマンコをあてがう姿、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "健気でたまんねえな。"
+                                "\\nc<Customer 1>Show me that stupid face again. Hypnotic training is the\nbest♥ The sight of you offering your pussy in absolute\nobedience without understanding why is irresistibly\nendearing."
                             ]
                         },
                         {
@@ -7309,21 +6945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(へえ…たかがこんなことで満足してくれるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭、大丈夫かな？　ああっ…♥また下から来るぅっ♥)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くふっ♥ふぶっ…くおっ♥"
+                                "\\nc<Saki>(Heh... They're satisfied with just this? Are they okay in\nthe head? Ahh...♥ It's coming from below again♥) Kufu♥\nFubu... Kuo♥"
                             ]
                         },
                         {
@@ -7373,14 +6995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>１回イっちまたからか？　クリも超敏感じゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃん、クリにデコピンしてもいいだろ？"
+                                "\\nc<Customer 2>Did you cum just now? Your clit is super sensitive, isn't\nit? Saki-chan, can I flick your clit?"
                             ]
                         },
                         {
@@ -7397,14 +7012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(デコピン？　だめなことは…ないけど？)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふうっ、ふう…"
+                                "\\nc<Saki>(A flick? That's not bad, right?) Fuu, fuu..."
                             ]
                         },
                         {
@@ -7481,7 +7089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピシャッ！"
+                                "\\nc<>Pishah!"
                             ]
                         },
                         {
@@ -7509,7 +7117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふううっ？！　んぷぷっ♥"
+                                "\\nc<Saki>Kufuu?! Npupu♥"
                             ]
                         },
                         {
@@ -7565,14 +7173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>デコピンされ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きく跳ねあがった咲姫の体が上の客に押さえつけられる。"
+                                "\\nc<>After being flicked, Saki's body jumps up and is then\npressed down by the customer above her."
                             ]
                         },
                         {
@@ -7589,14 +7190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>結局、我慢できずに漏れだした"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数滴の白濁液が咲姫の顎を伝って垂れる。"
+                                "\\nc<>In the end, unable to hold back, a few drops of cloudy\nliquid leak out and drip down Saki's chin."
                             ]
                         },
                         {
@@ -7624,7 +7218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ、はあっ、はあっ…♥"
+                                "\\nc<Saki>Kufu, haa, haa...♥"
                             ]
                         },
                         {
@@ -7641,7 +7235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>ああっ、少しこぼしちゃったね？"
+                                "\\nc<Customer 1>Ahh, you spilled a little, didn't you?"
                             ]
                         },
                         {
@@ -7658,7 +7252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヒイッ？！　うん、うううん♥"
+                                "\\nc<Saki>Hii?! Yes, umm, yes♥"
                             ]
                         },
                         {
@@ -7675,7 +7269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>あ、話せないんだった。もう飲みこんでもいいよ。"
+                                "\\nc<Customer 1>Ah, you can't talk right now. You can swallow it now."
                             ]
                         },
                         {
@@ -7692,7 +7286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふぷっ、くふっ♥"
+                                "\\nc<Saki>Kufupu, kufu♥"
                             ]
                         },
                         {
@@ -7748,14 +7342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>許可をもらった咲姫は口の中に残った白濁液をゆっくり喉に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流しこみはじめる。"
+                                "\\nc<>Given permission, Saki slowly begins to swallow the cloudy\nliquid remaining in her mouth."
                             ]
                         },
                         {
@@ -7772,21 +7359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>途中、濃厚な塊が喉に引っかかり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うまく流しこめなかったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数回繰り返し、やっとのことで飲みこんだ。"
+                                "\\nc<>Midway through, a thick clump gets stuck in her throat and\nshe can't swallow it properly, but after several attempts,\nshe finally manages to gulp it down."
                             ]
                         },
                         {
@@ -7803,14 +7376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そんな中、頭のうしろにピタリとくっついている両手は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブルブルと不安定に震えるだけで、何の役にも立たない。"
+                                "\\nc<>Meanwhile, her hands clasped behind her head are only\ntrembling uncertainly and are of no use at all."
                             ]
                         },
                         {
@@ -7838,14 +7404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ゴクンッ、ゴクンッ…ふええっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はあ、はあ…す、すみません。勝手に少しこぼしてしまって…"
+                                "\\nc<Saki>Gokun, Gokun... Fueeh...♥ Haa, haa... I'm sorry for spilling\na little without permission..."
                             ]
                         },
                         {
@@ -7862,7 +7421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>はっきり言って、これはちょっと困るよ。"
+                                "\\nc<Customer 1>To be honest, this is a bit of a problem."
                             ]
                         },
                         {
@@ -7890,14 +7449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>些細なことにわざと目くじらを立てるふりをしていた客が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チラッと周りを見わたすと、咲姫の耳元でそっと囁く。"
+                                "\\nc<>The customer pretends to be seriously bothered by a trivial\nmatter and glances around before whispering softly into\nSaki's ear."
                             ]
                         },
                         {
@@ -7914,7 +7466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>休憩室のみんなは自分の相手に夢中になっている。"
+                                "\\nc<>Everyone in the break room is engrossed with their own\npartners."
                             ]
                         },
                         {
@@ -7942,14 +7494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>(もしかしたら成功するかも…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許してもらえる簡単な方法があるんだけど、聞きたい？"
+                                "\\nc<Customer 1>(Maybe this will work...) There's an easy way to get\nforgiven. Want to hear it?"
                             ]
                         },
                         {
@@ -7966,7 +7511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>ん？"
+                                "\\nc<Customer 2>Hm?"
                             ]
                         },
                         {
@@ -7983,7 +7528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええっ？　何ですか？　許してもらえるなら…"
+                                "\\nc<Saki>Eeh? What is it? If it means being forgiven..."
                             ]
                         },
                         {
@@ -8000,7 +7545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>咲姫ちゃんの家の住所、教えてくれないかな？"
+                                "\\nc<Customer 1>Could you tell me your home address, Saki-chan?"
                             ]
                         },
                         {
@@ -8066,7 +7611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あっ…"
+                                "\\nc<Saki>Ah..."
                             ]
                         },
                         {
@@ -8083,7 +7628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>お、おい待て！　何言って…"
+                                "\\nc<Customer 2>Hey, wait! What are you saying..."
                             ]
                         },
                         {
@@ -8100,14 +7645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>黙ってろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "住所さえ知ってれば家でヤり放題だからよ…"
+                                "\\nc<Customer 1>Shut up. If I know the address, I can do whatever I want at\nher house..."
                             ]
                         },
                         {
@@ -8124,21 +7662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ、あの、それは…(家の住所？　それは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと危険じゃ？　だけど、私のミスだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客様をがっかりさせるわけにはいかないから…)"
+                                "\\nc<Saki>Eh, umm, that is... (My home address? That's... a bit\ndangerous, isn't it? But it was my mistake, and I can't\ndisappoint the customer...)"
                             ]
                         },
                         {
@@ -8166,7 +7690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>非常に混乱した咲姫が、たどたどしく住所を伝える。"
+                                "\\nc<>A very confused Saki hesitantly gives out her address."
                             ]
                         },
                         {
@@ -8194,7 +7718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>私の家はXX丁目の…XX号室です。"
+                                "\\nc<Saki>My home is at XX-chome... Room XX."
                             ]
                         },
                         {
@@ -8211,7 +7735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>ま、まさかの…成功？！　じゃ、じゃあ鍵とかパスワードは？"
+                                "\\nc<Customer 1>No way... did it work? Then, what about the keys or the\npassword?"
                             ]
                         },
                         {
@@ -8277,21 +7801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(えっ、普通そんなことまで聞く？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど私のミスだし…これくらいは…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "か、鍵はなくて…パスワードは6974です。"
+                                "\\nc<Saki>(Eh, is it normal to ask for that too? But it was my\nmistake, so... I guess I should...) There's no key... and\nthe password is 6974."
                             ]
                         },
                         {
@@ -8308,7 +7818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>うおっ！"
+                                "\\nc<Customer 2>Whoa!"
                             ]
                         },
                         {
@@ -8336,14 +7846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>止めに入っていた客の顔も、いつの間にか興奮と期待で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっかり盛りあがっている。"
+                                "\\nc<>The face of the customer who had tried to intervene was now\nfull of excitement and anticipation."
                             ]
                         },
                         {
@@ -8360,7 +7863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>客は当然の権利であるかのように、淡々と質問を続ける。"
+                                "\\nc<>The customer continued to ask questions as if it were his\nnatural right."
                             ]
                         },
                         {
@@ -8388,14 +7891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>そうか。いつ家に行ったら咲姫ちゃんにバレないかな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、これはただスケジュールを確認してるだけだから。"
+                                "\\nc<Customer 1>I see. When can I go to your house without Saki-chan\nnoticing... Ah, I'm just checking the schedule, that's all."
                             ]
                         },
                         {
@@ -8412,7 +7908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、そうですね。平日は普通夜遅くに帰宅します。"
+                                "\\nc<Saki>That's right. On weekdays, I usually return home late at\nnight."
                             ]
                         },
                         {
@@ -8429,14 +7925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>咲姫ちゃんをこっそり夜這い…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃなくて、マンコを使いたいときは？"
+                                "\\nc<Customer 1>When I want to sneak into Saki-chan's bed... I mean, when I\nwant to use her pussy?"
                             ]
                         },
                         {
@@ -8486,14 +7975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ええっ、こっそり？　ちょっと危険じゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど気持ちよくて頭がまともに…)"
+                                "\\nc<Saki>(Eh, sneak in? Isn't that dangerous? But it feels so good\nand my head isn't working properly...)"
                             ]
                         },
                         {
@@ -8510,14 +7992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>夜中の３時ごろには間違いなく寝てます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのとき入ってきて睡眠剤でも使うのはどうですか？"
+                                "\\nc<Saki>Around 3 a.m., I'm definitely asleep. Maybe you could come\nin then and use a sleeping pill or something?"
                             ]
                         },
                         {
@@ -8534,7 +8009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客１>ふうっ、よしっ！　しっかり参考にするぜ！"
+                                "\\nc<Customer 1>Phew, alright! I'll definitely keep that in mind!"
                             ]
                         },
                         {
@@ -8551,7 +8026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>ありえねえ。マジで成功しちまった…"
+                                "\\nc<Customer 2>Unbelievable. He actually succeeded..."
                             ]
                         },
                         {
@@ -8568,21 +8043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(や、やっぱり何かまずいことになってる気が…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、ああっ♥また気持ちいいのが来るぅっ…♥)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んおおおっ♥"
+                                "\\nc<Saki>(No, no, this feels like it's turning into something bad...\nAh, ahh♥ Here comes that good feeling again...♥) Nnnooo♥"
                             ]
                         },
                         {
@@ -8755,7 +8216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビュ、ビュウウッ！"
+                                "\\nc<>Byu, byuuuu!"
                             ]
                         },
                         {
@@ -8772,7 +8233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は再び思いきり絶頂し、ヘラヘラと笑う。"
+                                "\\nc<>Saki once again climaxes with all her might, laughing\nfoolishly."
                             ]
                         },
                         {
@@ -8789,14 +8250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>意気揚々とした２人のうしろから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スタッフが静かに近づいてくる。"
+                                "\\nc<>From behind the triumphant pair, a staff member quietly\napproaches."
                             ]
                         },
                         {
@@ -8824,14 +8278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>(おふたりとも、ルール違反です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "終わったら適当に処理しておきましょうか)"
+                                "\\nc<Administrator>(Both of you are breaking the rules. Once you're done, let's\nhandle this appropriately.)"
                             ]
                         },
                         {
@@ -8962,7 +8409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫と淫魔たちはそのあとも一生懸命、接待を続けた…"
+                                "\\nc<>Saki and the succubi continued to work hard at entertaining\nafter that..."
                             ]
                         },
                         {

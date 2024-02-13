@@ -3907,7 +3907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>おはよう、咲姫。昨日は派手にやったそうじゃない"
+                                "\\nc<Senpai>Good morning, Saki. I heard you went all out yesterday."
                             ]
                         },
                         {
@@ -3992,14 +3992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]せんぱーーーい！！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いてくださいよ！　昨日は本当に…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Senpai---! Please listen! Yesterday was really..."
                             ]
                         },
                         {
@@ -4044,14 +4037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>悪いけど、私からさきに言わせてちょうだい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日の収録は放送中止よ。"
+                                "\\nc<Senpai>Sorry, but let me speak first. Yesterday's recording has\nbeen cancelled."
                             ]
                         },
                         {
@@ -4105,7 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]え！？　どうしてですか！？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh!? Why is that!?"
                             ]
                         },
                         {
@@ -4150,14 +4136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫があまりにもエロすぎて配信不可になったそうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "編集してもだめなんだって。"
+                                "\\nc<Senpai>It seems that Saki was too erotic, and it's not suitable for\nbroadcast. Even editing couldn't fix it."
                             ]
                         },
                         {
@@ -4174,14 +4153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>よかったわね、咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エロすぎたおかげで助かったのよ。"
+                                "\\nc<Senpai>You should be glad, Saki. Thanks to being too erotic, you\nwere saved."
                             ]
                         },
                         {
@@ -4226,7 +4198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]じゃあ配信は中止なんですか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>So the broadcast is cancelled?"
                             ]
                         },
                         {
@@ -4271,7 +4243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>おそらくほかの社員が収録することになるでしょうね。"
+                                "\\nc<Senpai>Probably another staff member will end up recording it."
                             ]
                         },
                         {
@@ -4316,14 +4288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]はあ…これでよかったはずなのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだか罪悪感が…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Sigh... I should be relieved, but somehow I feel guilty..."
                             ]
                         },
                         {
@@ -4368,7 +4333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まあ、よかったんじゃない？ "
+                                "\\nc<Senpai>Well, isn't it all good in the end?"
                             ]
                         },
                         {
@@ -4385,21 +4350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>いきなり部屋に押しかける企画なんかを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に配信してたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真似する輩が出てきてたかもしれないし。"
+                                "\\nc<Senpai>If we had really broadcasted a segment about barging into\nrooms suddenly, it might have inspired copycats."
                             ]
                         },
                         {
@@ -4453,7 +4404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]そもそも、あのまま行かせたのは先輩ですよね！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>But in the first place, you were the one who let it go on,\nSenpai!"
                             ]
                         },
                         {
@@ -4507,7 +4458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>終わり良ければすべて良し！"
+                                "\\nc<Senpai>All's well that ends well!"
                             ]
                         },
                         {

@@ -3834,14 +3834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "VIP客のペットの世話"
+                                "Would you like to view the event? Taking care of a VIP\nguest's pet."
                             ]
                         },
                         {
@@ -3849,8 +3842,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4088,14 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]働かずにお金を稼ぎたい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめてたまにはラクしたい。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"I want to make money without working... At least I'd like\nto take it easy once in a while.\""
                             ]
                         },
                         {
@@ -4227,14 +4213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]あら、奇遇ね。私もよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり咲姫とは気が合うみたい。"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>\"Oh, what a coincidence. I feel the same. It seems we really\nget along, Saki.\""
                             ]
                         },
                         {
@@ -4319,14 +4298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]せ、先輩！？　いつのまに！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はなんだかお早いですね。"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"S-Senpai!? When did you...!? You're quite early today.\""
                             ]
                         },
                         {
@@ -4371,7 +4343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それがね、今日はVIPが来るのよ。  "
+                                "\\nc<Senpai>\"That's because a VIP is coming today.\""
                             ]
                         },
                         {
@@ -4416,7 +4388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>VIP！？　どうしてえええええ…"
+                                "\\nc<Saki>\"A VIP!? Why oh why oh why...\""
                             ]
                         },
                         {
@@ -4461,14 +4433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あなたもVIPにはいい思い出がないものね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも安心して、今回の担当はうちのチームじゃないわ。"
+                                "\\nc<Senpai>\"You don't have good memories with VIPs either, do you? But\ndon't worry, our team isn't in charge this time.\""
                             ]
                         },
                         {
@@ -4513,14 +4478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]そうなんですか？　よかった…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラクしたいとか呑気なこと考えずに真面目にやろうっと。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>\"Is that so? That's a relief... I'll stop thinking about\ntaking it easy and focus on working hard.\""
                             ]
                         },
                         {
@@ -4835,7 +4793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]あらそう？　まあ、それはそれでいいんだけど…"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>\"Oh really? Well, that's fine too...\""
                             ]
                         },
                         {
@@ -4880,7 +4838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩？　どうかしたんですか？"
+                                "\\nc<Saki>\"Senpai? Is something wrong?\""
                             ]
                         },
                         {
@@ -4956,7 +4914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]咲姫、ちょっとVIPルームに行ってきなさい。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>\"Saki, go to the VIP room for a bit.\""
                             ]
                         },
                         {
@@ -5010,14 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えええ！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもさっき担当はうちのチームじゃないって…！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Eeeh!? But you just said our team isn't in charge...!\""
                             ]
                         },
                         {
@@ -5062,14 +5013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>接待しろって話じゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはほかのチームが担当するんだから。"
+                                "\\nc<Senpai>\"I'm not saying you should entertain them. That's for\nanother team to handle.\""
                             ]
                         },
                         {
@@ -5086,14 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]ただ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "VIPがペットを連れてきたみたいなの。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>\"However, it seems the VIP has brought a pet with them.\""
                             ]
                         },
                         {
@@ -5138,7 +5075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]ペットって…じゃあ私は何をすればいいんですか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>\"A pet...? So what am I supposed to do?\""
                             ]
                         },
                         {
@@ -5183,14 +5120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]そうね、ペットシッターってところかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "VIPが楽しんでいる間に、ペットの面倒を見てあげるの。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>\"Well, I guess you could say you'll be a pet sitter. While\nthe VIP is having fun, you'll take care of their pet.\""
                             ]
                         },
                         {
@@ -5235,7 +5165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]いきなりペットシッターを！？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"A pet sitter all of a sudden!?\""
                             ]
                         },
                         {
@@ -5280,14 +5210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あなた、幼児教育科だったんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ペットも子どもも似たようなものじゃない。"
+                                "\\nc<Senpai>\"Weren't you in the early childhood education department?\nPets and children are similar in some ways.\""
                             ]
                         },
                         {
@@ -5304,21 +5227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そんなに厄介なやつでもないらしいから、\\"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しの間遊んであげて。あなた最近苦労してるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休ませてあげようと思ってのことなのよ。"
+                                "\\nc<Senpai>\"It seems they're not too much trouble, so just play with\nthem for a little while. You've been working hard lately, so\nI thought I'd give you a break.\""
                             ]
                         },
                         {
@@ -5363,21 +5272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]まあ…たしかに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまで難しそうではありませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "VIPのペットなら、躾けもきちんとされてそうですし。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"Well... indeed, it doesn't seem too difficult. A VIP's pet\nshould be well-trained, too.\""
                             ]
                         },
                         {
@@ -5422,7 +5317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あくまでもVIPのペットなんだから問題は起こしちゃだめよ。"
+                                "\\nc<Senpai>\"Remember, it's still a VIP's pet, so don't cause any\nproblems.\""
                             ]
                         },
                         {
@@ -5467,7 +5362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あの…「遊ぶ」って具体的にどんな…？"
+                                "\\nc<Saki>\"Um... what exactly does 'playing' entail...?\""
                             ]
                         },
                         {
@@ -5512,7 +5407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もし噛みつこうとしたら、１回ぐらいは噛まれなさい。"
+                                "\\nc<Senpai>\"If it tries to bite, let it bite you at least once.\""
                             ]
                         },
                         {
@@ -5557,7 +5452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]噛むんですか！？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"It bites!?\""
                             ]
                         },
                         {
@@ -5602,7 +5497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>例えばの話よ。詳しいことは私も知らないわ。"
+                                "\\nc<Senpai>\"That's just an example. I don't know the details either.\""
                             ]
                         },
                         {
@@ -5647,14 +5542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](本当に知らないの？　無責任な…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日の仕事はこれになるんですね。じゃあ…行ってきます。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"(Does she really not know? How irresponsible...) So this is\nmy job for today. Well then... I'll be going.\""
                             ]
                         },
                         {

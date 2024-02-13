@@ -6539,14 +6539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveHome[2, 30]早く片づけを済ませてきて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はもう上がっていいから。"
+                                "\\bustMoveHome[2, 30]\\nc<Senpai>Hurry up and finish cleaning up. You can leave for today\nafter that."
                             ]
                         },
                         {
@@ -6653,7 +6646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 4]ほ、本当ですか！？"
+                                "\\bustMsgExpression[1, 4]\\nc<Saki>R-Really!?"
                             ]
                         },
                         {
@@ -6698,7 +6691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もちろん、私が嘘ついたことある？"
+                                "\\nc<Senpai>Of course, have I ever lied to you?"
                             ]
                         },
                         {
@@ -7670,7 +7663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>上がっていいって言うと仕事が早くなるのね？"
+                                "\\nc<Senpai>So saying you can leave makes you work faster, huh?"
                             ]
                         },
                         {
@@ -7715,7 +7708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>へへ、もう上がっていいですよね？"
+                                "\\nc<Saki>Hehe, so I can leave now, right?"
                             ]
                         },
                         {
@@ -7760,7 +7753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 2]ええ、業務報告書を書いてからね。"
+                                "\\bustMsgExpression[2, 2]\\nc<Senpai>Yes, after you write the work report."
                             ]
                         },
                         {
@@ -7814,7 +7807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1]ええっ！？　さっきと話が違うじゃないですか！"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>What!? That's different from what you said earlier!"
                             ]
                         },
                         {
@@ -7859,14 +7852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 0]どうせ業務報告書は書かなくちゃいけないのよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日書かないと明日の仕事が増えるだけ。"
+                                "\\bustMsgExpression[2, 0]\\nc<Senpai>You have to write the work report anyway, right? If you\ndon't do it today, it'll just add to tomorrow's work."
                             ]
                         },
                         {
@@ -7911,7 +7897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]ううっ、ずるい…"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>Ugh, that's sneaky..."
                             ]
                         },
                         {
@@ -7956,14 +7942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どうする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は「自主的」に残業するしかないんじゃない？"
+                                "\\nc<Senpai>What will you do? Looks like you have no choice but to\n\"voluntarily\" work overtime today, right?"
                             ]
                         },
                         {
@@ -8017,14 +7996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2](結局こうなるのか…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そうですね…"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>(So it comes to this in the end...) Y-Yes, that's right..."
                             ]
                         },
                         {
@@ -8069,14 +8041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 2]うちの会社は無理やり残業なんてさせないから覚えといて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな本人が望んでやってるの。"
+                                "\\bustMsgExpression[2, 2]\\nc<Senpai>Remember, our company doesn't force anyone to work overtime.\nEveryone is doing it because they want to."
                             ]
                         },
                         {
@@ -8121,7 +8086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ああ、そうですか)"
+                                "\\nc<Saki>(Ah, is that so)"
                             ]
                         },
                         {
@@ -8138,7 +8103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(体もベトベトなのに…最悪だ)"
+                                "\\nc<Saki>(Even though my body feels sticky... This is the worst)"
                             ]
                         },
                         {
@@ -8185,7 +8150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>結局、先輩と一緒に楽しく残業した。"
+                                "\\nc<>In the end, I ended up working overtime happily with Senpai."
                             ]
                         },
                         {

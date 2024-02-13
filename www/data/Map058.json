@@ -4125,14 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](うう、脚どころか全身が痛い…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イきつづけるってこんなに体に負担がかかるんだ)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Ouch, not just my legs, my whole body hurts... I didn't\nrealize continuing to climax could put such a strain on me.)"
                             ]
                         },
                         {
@@ -4177,7 +4170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>今回の件でちゃんと学んでくれたらいいけど。"
+                                "\\nc<Senpai>I hope you've learned your lesson from this ordeal."
                             ]
                         },
                         {
@@ -4222,14 +4215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]も…もちろんです！\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]でも、本当にクチコミを削除するだけで大丈夫なんですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>O-of course! \\bustMsgExp[1, 2] But, are you sure it's okay\nto just delete the comments?"
                             ]
                         },
                         {
@@ -4274,14 +4260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>私の言うことだけ聞けばいいって言ったでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあちょっと会議に行ってくるから仕事してなさい。"
+                                "\\nc<Senpai>All you need to do is listen to what I say, right? Now, I'm\noff to a meeting, so get back to work."
                             ]
                         },
                         {
@@ -4326,7 +4305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はーい…"
+                                "\\nc<Saki>Ye-yes..."
                             ]
                         },
                         {
@@ -4735,7 +4714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>業務評価の件、どうなりましたか？"
+                                "\\nc<Saki>What happened with the job evaluation issue?"
                             ]
                         },
                         {
@@ -4780,7 +4759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あ、それ？　取り消し。"
+                                "\\nc<Senpai>Oh, that? It's been cancelled."
                             ]
                         },
                         {
@@ -4825,7 +4804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>…\\.\\.\\bustMsgExpression[1, 1]ええぇ？"
+                                "\\nc<Saki>...\\bustMsgExpression[1, 1]Eh?"
                             ]
                         },
                         {
@@ -4870,14 +4849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どうやら言いだした役員がそのまま忘れたみたいで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんななかったことにするって。"
+                                "\\nc<Senpai>Apparently, the executive who brought it up just forgot\nabout it, so everyone's acting like it never happened."
                             ]
                         },
                         {
@@ -4894,7 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ここではよくあることよ。"
+                                "\\nc<Senpai>It's a common occurrence around here."
                             ]
                         },
                         {
@@ -4939,7 +4911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>どうしてそんなことが…"
+                                "\\nc<Saki>Why would something like that happen..."
                             ]
                         },
                         {
@@ -4984,14 +4956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>役員専用駐車場にいる猫が役員の車を引っかいて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "業務評価どころじゃないって様子だったわ。"
+                                "\\nc<Senpai>A cat in the executive parking lot scratched an executive's\ncar, so job evaluations are the least of their worries right\nnow."
                             ]
                         },
                         {
@@ -5008,7 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>猫に感謝しなきゃね？"
+                                "\\nc<Senpai>We should be thankful to the cat, shouldn't we?"
                             ]
                         },
                         {
@@ -5053,14 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>本当に。まさか猫が解決してくれるなんて…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 3]私もともと犬派でしたが、今日から猫派になります。"
+                                "\\nc<Saki>Really. Who would have thought a cat would solve our\nproblems...\\bustMsgExp[1, 3] I've always been more of a dog\nperson, but from today on, I'm a cat person."
                             ]
                         },
                         {
@@ -5105,14 +5063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 2]それじゃあ早く仕事に戻るわよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言うこと聞かないと、また泣きわめくから…"
+                                "\\bustMsgExp[2, 2]\\nc<Senpai>Then get back to work quickly, okay? If you don't listen,\nyou'll start crying again..."
                             ]
                         },
                         {
@@ -5157,7 +5108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ヒィイッ！　そ、そんなこと言わないでください！　うう…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eek! Please don't say things like that! Ugh..."
                             ]
                         },
                         {
@@ -5174,14 +5125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](退勤時間もとっくに過ぎてるのに…仕方ないか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はあ…トラウマになりそう…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(It's way past quitting time... but what can I do... sigh...\nthis is going to be traumatic...)"
                             ]
                         },
                         {
@@ -5379,7 +5323,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>\\TA[1]「現場業務」が解放されました！"
+                                "\\TA[1]\\nc<>\"Field Work\" has been unlocked!"
                             ]
                         },
                         {

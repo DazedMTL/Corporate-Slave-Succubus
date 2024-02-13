@@ -10730,14 +10730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<アンカー>昨年末を襲った騒動もようやく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落ち着きを取りもどしています。"
+                                "\\nc<Anchor>The turmoil that struck at the end of last year has finally\nbegun to settle down."
                             ]
                         },
                         {
@@ -10754,14 +10747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<アンカー>勇者協会は関係者を摘発して処罰する一方で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔化した女性たちの治療も進め…"
+                                "\\nc<Anchor>While the Hero Association is apprehending and punishing\nthose involved, they are also advancing the treatment of\nwomen who have been turned into succubi..."
                             ]
                         },
                         {
@@ -10822,14 +10808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あの元勇者のお客…本当に助けてくれるなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だめもとで連絡してみてよかった。"
+                                "\\nc<Saki>That former hero customer... I can't believe he really\nhelped us. I'm glad I decided to contact him, even though it\nwas a long shot."
                             ]
                         },
                         {
@@ -10846,7 +10825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]もう一度相手して腰がちょっと痛かったけど。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>My hips were a little sore after going at it again, though."
                             ]
                         },
                         {
@@ -10999,7 +10978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>会長。最初の治療対象者が無事に退院しました。"
+                                "\\nc<Senpai>President, the first patient targeted for treatment has been\nsuccessfully discharged."
                             ]
                         },
                         {
@@ -11084,14 +11063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]ああっ、ふたりきりのときは気軽に呼んでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会長っていう響きには慣れないです。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Ahh, please feel free to call me casually when it's just the\ntwo of us. I'm not used to being called 'President'."
                             ]
                         },
                         {
@@ -11108,7 +11080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>とくにメアリー先輩が呼ぶのは…"
+                                "\\nc<Saki>Especially when it's Meary-senpai calling me that..."
                             ]
                         },
                         {
@@ -11162,7 +11134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>分かった。じつは私もやりづらかったの。"
+                                "\\nc<Senpai>Understood. To be honest, it was awkward for me too."
                             ]
                         },
                         {
@@ -11216,7 +11188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]遠慮するふりでもしてくださいよ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>At least pretend to be reluctant..."
                             ]
                         },
                         {
@@ -11258,7 +11230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>画面ごしではニュースがBGMのように流れている…"
+                                "\\nc<>The news flows like background music through the screen..."
                             ]
                         },
                         {
@@ -11286,21 +11258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<アンカー>一方、客の死亡事故の事実が判明して以降。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業はより安全な方法で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精気を抽出するという立場を明らかにし…"
+                                "\\nc<Anchor>On the other hand, since the discovery of a customer's death\naccident, the First Succubus Industry has made clear its\nstance on extracting essence using safer methods..."
                             ]
                         },
                         {
@@ -11376,14 +11334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]あれ、よく納得してくれましたよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お疲れ様です、先輩。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>You really convinced them well. Good job, senpai."
                             ]
                         },
                         {
@@ -11459,21 +11410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まあ、この仕事を長くやってると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌でも分かるようになるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかの業者がどれだけ手荒に出るか…"
+                                "\\nc<Senpai>Well, when you've been in this job for a long time, you\nlearn how rough other contractors can be, whether you like\nit or not..."
                             ]
                         },
                         {
@@ -11490,7 +11427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>中には世間に知られると大変なことになることも多い。"
+                                "\\nc<Senpai>There are many things that would cause quite a stir if they\nbecame known to the public."
                             ]
                         },
                         {
@@ -11535,14 +11472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>みんなノルマを満たすのに必死ですもんね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強制派遣先はすべて閉鎖されたんですよね？"
+                                "\\nc<Saki>Everyone is desperate to meet their quotas... All the forced\ndispatch locations have been closed down, right?"
                             ]
                         },
                         {
@@ -11587,14 +11517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それを一番最初にしたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "派遣勤務者たちも、みんな治療中よ。"
+                                "\\nc<Senpai>That was the first thing we did. All the dispatched workers\nare undergoing treatment now."
                             ]
                         },
                         {
@@ -11639,14 +11562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]よかったですね。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなが復帰するのは無理でしょうけど。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>That's good to hear. Though not everyone will be able to\nreturn to their previous lives."
                             ]
                         },
                         {
@@ -11691,14 +11607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]…ところで、いいの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "肝心の咲姫は治療を受けられないのに。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>...By the way, is that okay? The crucial Saki can't receive\ntreatment."
                             ]
                         },
                         {
@@ -11743,14 +11652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]はい、私は淫魔女王まで昇格してしまったので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いまさら人間に戻るのは無理でしょう。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Yes, I've already been promoted to Succubus Queen, so it's\nimpossible for me to go back to being human now."
                             ]
                         },
                         {
@@ -11767,14 +11669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]でもいいんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じつはこの仕事の楽しみ方を知りましたから。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>But that's alright. I've actually come to enjoy this job."
                             ]
                         },
                         {
@@ -11819,14 +11714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]でも、頻繁に平社員に変装して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出かけるのは控えてほしいわ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Still, I'd like you to refrain from frequently disguising\nyourself as an ordinary employee and going out."
                             ]
                         },
                         {
@@ -11911,7 +11799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ああっ、バ、バレてました？！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Ahh, you knew?!"
                             ]
                         },
                         {
@@ -11996,7 +11884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>知ってる人は知ってるのよ？"
+                                "\\nc<Senpai>People who know, know."
                             ]
                         },
                         {
@@ -12041,14 +11929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>たまにはいいじゃないですか！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業だけのラッキーサービスって感じで…"
+                                "\\nc<Saki>Can't I do it just occasionally? It's like an exclusive\nlucky service from First Succubus Industry..."
                             ]
                         },
                         {
@@ -12065,7 +11946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]それで…"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>So..."
                             ]
                         },
                         {
@@ -12082,7 +11963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]先輩、今夜一緒にどうです？"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Senpai, how about spending tonight together?"
                             ]
                         },
                         {
@@ -12127,14 +12008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]…こういう残業は久しぶりね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[2, 0]まぁ、いいわ。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>...It's been a while since we've had this kind of\novertime.\\bustMsgExp[2, 0]Well, alright."
                             ]
                         },
                         {
@@ -12521,7 +12395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]~ トゥルーエンド ~"
+                                "\\TA[1]~ True End ~"
                             ]
                         },
                         {

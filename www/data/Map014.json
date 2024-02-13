@@ -2489,7 +2489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はあ…"
+                                "\\nc<Saki>Sigh..."
                             ]
                         },
                         {
@@ -2548,7 +2548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>終わった？"
+                                "\\nc<Senpai>Are you done?"
                             ]
                         },
                         {
@@ -2579,7 +2579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい、今までずっと捕まってました…"
+                                "\\nc<Saki>Yes, I've been caught up until now..."
                             ]
                         },
                         {
@@ -2610,7 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ちょうど私も帰るところだから、ついでに乗せてあげるわ。"
+                                "\\nc<Senpai>I was just about to head back, so I can give you a ride on\nmy way."
                             ]
                         },
                         {
@@ -2641,14 +2641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]えっ、本当ですか！？　ありがとうございます！\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]あの、先輩…\\|"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>Eh, really!? Thank you so much!\\bustMsgExp[1, 2]Um,\nSenpai..."
                             ]
                         },
                         {
@@ -2665,7 +2658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>淫魔って妊娠することもあるんですか？"
+                                "\\nc<Saki>Can succubi get pregnant?"
                             ]
                         },
                         {
@@ -2696,14 +2689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ん？　ああ、あいつに何か言われたの？　心配しないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たち淫魔は、自分が望まなければ妊娠しないから。"
+                                "\\nc<Senpai>Hm? Did he say something to you? Don't worry. We succubi\ndon't get pregnant unless we want to."
                             ]
                         },
                         {
@@ -2734,21 +2720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(そ、そうなんだ…よかった。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]そういえば、今まで会社から避妊について"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞かされたことなかったかも)"
+                                "\\nc<Saki>(So, that's how it is... I'm relieved.\\bustMsgExp[1, 0]Come\nto think of it, the company never mentioned anything about\ncontraception before.)"
                             ]
                         },
                         {
@@ -2779,14 +2751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>不安なら薬もきちんと支給してあげるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたはうちの大切な社員だからね。"
+                                "\\nc<Senpai>If you're worried, I'll make sure to provide you with the\nproper medication. You're a valuable employee to us, after\nall."
                             ]
                         },
                         {
@@ -2817,7 +2782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](心配してくれてるのに、ありがたいって思えない…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Even though she's concerned about me, I can't feel\ngrateful...)"
                             ]
                         },
                         {
@@ -2848,7 +2813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ああ、妊娠すると工場への派遣事案になるから気を付けてね。"
+                                "\\nc<Senpai>Oh, and getting pregnant would mean you'd be dispatched to\nthe factory, so be careful."
                             ]
                         },
                         {
@@ -2879,7 +2844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えええ！？　じゃ、じゃあ産休とかは…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eeeh!? Then, what about maternity leave...?"
                             ]
                         },
                         {
@@ -2910,14 +2875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あるわけないでしょう？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから間違っても妊娠はしないように。"
+                                "\\nc<Senpai>Of course not. That's why you mustn't get pregnant by\nmistake."
                             ]
                         },
                         {
@@ -2948,14 +2906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(とんでもないよ、この会社…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Yes. (This company is unbelievable...)"
                             ]
                         },
                         {

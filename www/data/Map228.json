@@ -3834,14 +3834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "代打で出動"
+                                "Would you like to view the event? Substitute deployment."
                             ]
                         },
                         {
@@ -3849,8 +3842,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4088,7 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うう…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh..."
                             ]
                         },
                         {
@@ -4229,7 +4222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]\\bustMsgExp[2, 1]何かあったの？　顔色が良くないけど。"
+                                "\\bustMoveTo[2, -100, 720, 30]\\bustMsgExp[2, 1]\\nc<Senpai>What's wrong? You don't look well."
                             ]
                         },
                         {
@@ -4314,14 +4307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先月引き落とされたと思っていた携帯代が今月出てしまって。"
+                                "\\nc<Saki>The thing is... I thought my phone bill was deducted last\nmonth, but it came out this month instead."
                             ]
                         },
                         {
@@ -4366,7 +4352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]よくある誤算ね。それで？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>A common miscalculation. And?"
                             ]
                         },
                         {
@@ -4411,7 +4397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>今日のお昼を食べるお金もありません。"
+                                "\\nc<Saki>I don't even have money for lunch today."
                             ]
                         },
                         {
@@ -4456,14 +4442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>普通、ちょっと携帯代が引き落とされたくらいでそうなる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の財布事情は魔王軍の債券にも劣るわね。"
+                                "\\nc<Senpai>Normally, wouldn't you be fine even if a phone bill was\ndeducted? Saki's financial situation seems worse than the\ndemon army's bonds."
                             ]
                         },
                         {
@@ -4517,14 +4496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>何ですか、それ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金が10億あっても絶対に買いたくないです。"
+                                "\\nc<Saki>What's that... Even if I had a billion yen, I definitely\nwouldn't want to buy that."
                             ]
                         },
                         {
@@ -4569,7 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>実際に破産したわ。まさに今の咲姫みたいに！"
+                                "\\nc<Senpai>They actually went bankrupt. Just like you are now, Saki!"
                             ]
                         },
                         {
@@ -4614,21 +4586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>何かいい救済方法はないですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛する部下が飢え死にするまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見て見ぬふりをするわけじゃないですよね？？"
+                                "\\nc<Saki>Isn't there any good way to help? You're not going to just\nignore your beloved subordinate starving to death, right??"
                             ]
                         },
                         {
@@ -4673,7 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫の相続人には私がなるわ。"
+                                "\\nc<Senpai>I'll become the heir to Saki's estate."
                             ]
                         },
                         {
@@ -4727,14 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]どうせ譲りうけるものなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "借金くらいしかないでしょうけどね！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>As if there's anything to inherit but debt!"
                             ]
                         },
                         {
@@ -4779,7 +4730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>んー、だけどすぐにお金が出る当てがあるかと言われてもね。"
+                                "\\nc<Senpai>Hmm, but if you're asking whether there's a quick way to get\nmoney, well..."
                             ]
                         },
                         {
@@ -4824,14 +4775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](やっぱり貸してくれないのかな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待なんてしてなかったけど)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(She's not going to lend me money after all... Not that I\nwas expecting it.)"
                             ]
                         },
                         {
@@ -4848,21 +4792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 5]そ、そうだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ときどきお客がチップをくれるんですけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それをネコババするのは…"
+                                "\\bustMsgExp[1, 5]\\nc<Saki>That's right! Sometimes customers give tips... but pocketing\nthose would be..."
                             ]
                         },
                         {
@@ -4916,14 +4846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ホント、咲姫らしい発想ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごく自然に最悪の方法を思いつくところが…"
+                                "\\nc<Senpai>Really, such a Saki-like idea. Naturally coming up with the\nworst possible solution..."
                             ]
                         },
                         {
@@ -4968,7 +4891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]最悪ですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Is it the worst?"
                             ]
                         },
                         {
@@ -5013,21 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]うん、そのくらいならもう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自爆とか自殺のレベルじゃないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "役員が嫌がるどころか発狂するから…"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Yes, at that level, it's not just self-destruction or\nsuicide. The executives would hate it so much they'd go\ninsane..."
                             ]
                         },
                         {
@@ -5044,7 +4953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]できるだけ長く苦しい最期を迎えたいならお勧めするわ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>If you want to meet a long and painful end, I'd recommend\nit."
                             ]
                         },
                         {
@@ -5098,14 +5007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]お客にもらったチップを持っていくだけでその程度とは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの会社の役員はチップが何の意味か知らないんですか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Just taking the tips given by customers is that serious...\nDoes our company's executives not understand what tips mean?"
                             ]
                         },
                         {
@@ -5150,7 +5052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>役員の前で英語を使うと怒るの。"
+                                "\\nc<Senpai>They get angry if you use English in front of them."
                             ]
                         },
                         {
@@ -5195,14 +5097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ああ…うちの会社は救いようがないですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしよう…"
+                                "\\nc<Saki>Ah... our company is beyond saving. What should I do..."
                             ]
                         },
                         {
@@ -5247,7 +5142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]……"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -5525,7 +5420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>内斗さん。コードＭ発令です。"
+                                "\\nc<Lewd Demon Employee>Ms. Uchitou. Code M has been issued."
                             ]
                         },
                         {
@@ -5579,7 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ああ…ありがとう。適当に処理するわ。"
+                                "\\nc<Senpai>Ah... thank you. I'll handle it somehow."
                             ]
                         },
                         {
@@ -5624,7 +5519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]コードＭ？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Code M?"
                             ]
                         },
                         {
@@ -5669,21 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>うーん、困ったわね。今日はそんな気分じゃないのに…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[2, 0]咲姫。変わったお客を１人だけ相手してくれたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日のお昼はおごるわ。"
+                                "\\nc<Senpai>Hmm, it's troublesome. I'm not in the mood for that\ntoday...\\bustMsgExp[2, 0]Saki, if you take care of just one\npeculiar customer for me, I'll treat you to lunch today."
                             ]
                         },
                         {
@@ -5728,7 +5609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]先輩が言うくらいですから、かなり変わってるんじゃ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>If Senpai says they're peculiar, they must be quite\nsomething..."
                             ]
                         },
                         {
@@ -5773,21 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>大したことないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の常連はだいたいみんなそんな感じだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫もこの際に攻撃範囲を広げてみるのはどう？"
+                                "\\nc<Senpai>It's nothing serious. Most of my regulars are like that. How\nabout you expand your horizons this time, Saki?"
                             ]
                         },
                         {
@@ -5832,14 +5699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>攻撃範囲って…守備範囲の反対ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうすればいいんですか？"
+                                "\\nc<Saki>Expand my horizons...? Is that the opposite of my comfort\nzone? What should I do?"
                             ]
                         },
                         {
@@ -5884,7 +5744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それはね…"
+                                "\\nc<Senpai>Well, about that..."
                             ]
                         },
                         {

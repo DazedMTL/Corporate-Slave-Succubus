@@ -4765,14 +4765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うああ… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全身がヒリヒリするけどなんとか目標値は達成した。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh... My whole body is tingling, but I somehow managed to\nmeet the target."
                             ]
                         },
                         {
@@ -4893,7 +4886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]普段からそうすればよかったんじゃない？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Wouldn't it have been better if you always did it like this?"
                             ]
                         },
                         {
@@ -4947,14 +4940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>２回は無理です…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだとお客も私も持ちません。"
+                                "\\nc<Saki>Doing it twice is impossible... Neither the client nor I\nwould last."
                             ]
                         },
                         {
@@ -4999,7 +4985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>じゃあ私のぶんは？"
+                                "\\nc<Senpai>Then what about my share?"
                             ]
                         },
                         {
@@ -5044,7 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ…先輩のぶんって？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Huh... Your share, Senpai?"
                             ]
                         },
                         {
@@ -5089,21 +5075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もともと、ほかの社員の担当だったお客を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫に回してあげたんじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それもいろんな意味で最上のお客を。"
+                                "\\nc<Senpai>Originally, I passed on a client that was handled by another\nemployee to you, Saki. And not just any client, but the very\nbest in many ways."
                             ]
                         },
                         {
@@ -5120,7 +5092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>助けてもらったなら誠意を見せなきゃ。"
+                                "\\nc<Senpai>If you've been helped, you need to show some sincerity."
                             ]
                         },
                         {
@@ -5165,21 +5137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]私は永遠に搾取される人生なんですね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(でも先輩に助けてもらったのは事実だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次も助けてもらうには…うう)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>So I'm destined to live a life of eternal\nexploitation...(But it's true that Senpai helped me, so if I\nwant help again next time... ugh)"
                             ]
                         },
                         {
@@ -5196,7 +5154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩に精気を少し上納した…"
+                                "\\nc<>I offered a bit of my energy to Senpai..."
                             ]
                         },
                         {

@@ -6619,14 +6619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<友達１>咲姫、起きて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ帰らないと。"
+                                "\\nc<Friend 1>Saki, wake up. It's time to go home."
                             ]
                         },
                         {
@@ -6711,14 +6704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うっ、\\|頭が\\|痛い……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飲み過ぎたみたい。"
+                                "\\nc<Saki>Ugh, my head hurts... I think I drank too much."
                             ]
                         },
                         {
@@ -6870,7 +6856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<友達１>いいから帰って寝なさい。もう遅いんだから。"
+                                "\\nc<Friend 1>Just go home and sleep. It's already late."
                             ]
                         },
                         {
@@ -6901,7 +6887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うん…みんなはどうするの？"
+                                "\\nc<Saki>Yeah... What about everyone else?"
                             ]
                         },
                         {
@@ -6932,21 +6918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<友達１>もう少し休んでから帰るって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てか、人の心配してる場合じゃないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたが一番ベロベロなんだから。"
+                                "\\nc<Friend 1>They said they'll rest a bit more before leaving. But\nseriously, you're not in any position to worry about others.\nYou're the drunkest of us all."
                             ]
                         },
                         {
@@ -6977,7 +6949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう、ありがとう……。"
+                                "\\nc<Saki>Ugh, thank you..."
                             ]
                         },
                         {

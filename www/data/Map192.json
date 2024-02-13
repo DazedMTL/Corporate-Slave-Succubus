@@ -5527,21 +5527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]本当に入っていいのかな？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリー先輩のいたずらだよね、きっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ見えて結構お茶目なとこあるから…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Can I really go in? It must be one of Meary-senpai's pranks,\nshe seems quite mischievous at times..."
                             ]
                         },
                         {
@@ -5558,7 +5544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はぁ、全部投げ出しちゃいたい。"
+                                "\\nc<Saki>Sigh, I just want to throw everything away."
                             ]
                         },
                         {
@@ -5812,21 +5798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<社員>お話はうかがっております、咲姫様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お待ちしておりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モニタールームに向かいますか？"
+                                "\\nc<Employee>We have been informed of your story, Saki-sama. We have been\nwaiting for you. Shall we head to the monitor room?"
                             ]
                         },
                         {
@@ -5834,8 +5806,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5910,7 +5882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<社員>お仕事は中でどうぞ。"
+                                "\\nc<Employee>Please proceed with your work inside."
                             ]
                         },
                         {

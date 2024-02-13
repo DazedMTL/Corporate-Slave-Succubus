@@ -5492,7 +5492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "退勤する？"
+                                "Leaving work?"
                             ]
                         },
                         {
@@ -5500,8 +5500,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -5881,7 +5881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<社員>モニタールームに向かいますか？"
+                                "\\nc<Employee>\"Shall we head to the monitor room?\""
                             ]
                         },
                         {
@@ -5889,8 +5889,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5965,7 +5965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<社員>ご用は済みましたか？"
+                                "\\nc<Employee>\"Have you finished your business?\""
                             ]
                         },
                         {
@@ -5973,8 +5973,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6121,7 +6121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>自動販売機の奥に何か落ちているみたいだ…"
+                                "\\nc<>It seems like there's something fallen behind the vending\nmachine..."
                             ]
                         },
                         {
@@ -6138,7 +6138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>手を入れてみる？"
+                                "\\nc<>Should I reach in and check?"
                             ]
                         },
                         {
@@ -6146,8 +6146,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6212,14 +6212,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>どうやら私の勘違いだったらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何もなかった…"
+                                "\\nc<>It appears I was mistaken. There was nothing there..."
                             ]
                         },
                         {
@@ -6279,7 +6272,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を発見した！"
+                                "\\nc<>Found a can of coffee!"
                             ]
                         },
                         {
@@ -6339,7 +6332,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を発見した！"
+                                "\\nc<>Found a can of coffee!"
                             ]
                         },
                         {
@@ -6399,7 +6392,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶緑茶>を発見した！"
+                                "\\nc<>Found a can of green tea!"
                             ]
                         },
                         {

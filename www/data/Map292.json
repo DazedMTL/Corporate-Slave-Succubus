@@ -4719,14 +4719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>早く帰りたいけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とりあえず仕事をしよう。"
+                                "\\nc<>I want to go home early, but... let's get to work for now."
                             ]
                         },
                         {
@@ -4864,7 +4857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -5177,14 +5170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員１>咲姫ちゃん、久しぶり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あっちで着替えてきなよ。"
+                                "\\nc<Security Guard 1>Saki-chan, long time no see. Go change over there."
                             ]
                         },
                         {
@@ -5241,7 +5227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<咲姫>あ、はい…"
+                                "\\nc<Saki>Ah, yes..."
                             ]
                         },
                         {
@@ -5258,14 +5244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員１>そんな顔するなよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺らも咲姫ちゃんに恋人がいたなんて知らなかったからさ。"
+                                "\\nc<Security Guard 1>Don't make that face... We didn't know you had a boyfriend,\nSaki-chan."
                             ]
                         },
                         {
@@ -5282,7 +5261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<咲姫>(いなければ手出すんだ…)"
+                                "\\nc<Saki>(If I didn't have one, they'd make a move...)"
                             ]
                         },
                         {
@@ -5308,14 +5287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員１>今日は安全に本社内の見回りだけでいいから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それならいいだろ？"
+                                "\\nc<Security Guard 1>Today, you just need to safely patrol inside the\nheadquarters! That's fine, right?"
                             ]
                         },
                         {
@@ -5341,7 +5313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<咲姫>私に仕事を押しつけるんですか…"
+                                "\\nc<Saki>Are you pushing your work onto me..."
                             ]
                         },
                         {
@@ -5358,7 +5330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員１>そもそもサポートで呼んでるからな。"
+                                "\\nc<Security Guard 1>We called you for support in the first place."
                             ]
                         },
                         {
@@ -5375,7 +5347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<咲姫>はあ…分かりました。着替えて来ます。"
+                                "\\nc<Saki>Sigh... Understood. I'll go change."
                             ]
                         },
                         {
@@ -5601,7 +5573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員２>おっ、さっきのって咲姫ちゃん？"
+                                "\\nc<Security Guard 2>Oh, was that Saki-chan just now?"
                             ]
                         },
                         {
@@ -5649,7 +5621,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員１>ああ。魔族の幹部の目に留まったって噂の淫魔だ。"
+                                "\\nc<Security Guard 1>Yeah. She's the succubus who caught the eye of the demon\ntribe's executives, rumor has it."
                             ]
                         },
                         {
@@ -5675,21 +5647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員２>チェッ、期待して損したぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "久々にヤれると思ったのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あいつの穴、すごいんだってな？"
+                                "\\nc<Security Guard 2>Tch, what a letdown. I thought I'd finally get to do it\nafter so long... They say her hole is amazing, right?"
                             ]
                         },
                         {
@@ -5706,7 +5664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員１>待て。諦めるのはまだ早いぜ。"
+                                "\\nc<Security Guard 1>Wait. It's too early to give up."
                             ]
                         },
                         {
@@ -5723,7 +5681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員２>何？　まさか幹部の女に手を出すつもりか？"
+                                "\\nc<Security Guard 2>What? You're not planning to lay hands on an executive's\nwoman, are you?"
                             ]
                         },
                         {
@@ -5749,14 +5707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員１>まぁ、俺も咲姫ちゃんのマンコには興味あるってわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それに…結局咲姫ちゃんと合意さえすればいいんだろ？"
+                                "\\nc<Security Guard 1>Well, I am interested in Saki-chan's pussy. Besides... as\nlong as Saki-chan agrees, it's all good, right?"
                             ]
                         },
                         {
@@ -5782,14 +5733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員２>おっ、お前まさか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いつものあれか。"
+                                "\\nc<Security Guard 2>Oh, you mean... that usual thing of yours?"
                             ]
                         },
                         {
@@ -5815,14 +5759,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備員１>そうだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今回はちゃんと、咲姫ちゃんを歓迎してやろうぜ。"
+                                "\\nc<Security Guard 1>That's right. This time, let's properly welcome Saki-chan."
                             ]
                         },
                         {

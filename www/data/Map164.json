@@ -2481,14 +2481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ、あれ！？　いつの間に帰ったんだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ス、スマホ…あった！ "
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh, what!? When did I get home? My, my smartphone...found\nit!"
                             ]
                         },
                         {
@@ -2505,7 +2498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひっ…先輩からの着信がこんなに…"
+                                "\\nc<Saki>Hii...there are so many missed calls from senpai..."
                             ]
                         },
                         {
@@ -2522,21 +2515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>１杯飲んだだけで潰れるなんて… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか先輩が送ってくれたのかな？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それともスタッフの方々が？"
+                                "\\nc<Saki>To think I'd be knocked out after just one drink... Could it\nbe that senpai carried me back? Or was it the staff?"
                             ]
                         },
                         {
@@ -2659,14 +2638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>私は悪くない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも先輩が人をこき使うからこうなったん！"
+                                "\\nc<Saki>It's not my fault! It all happened because senpai is always\nmaking people do so much work!"
                             ]
                         },
                         {
@@ -2692,14 +2664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]なんだか体もちょっとヒリヒリするし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふええ、会社行きたくないぃ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>My body feels a bit tingly too... Fueee, I don't want to go\nto work..."
                             ]
                         },
                         {

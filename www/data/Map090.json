@@ -5628,14 +5628,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "初めての接待"
+                                "Would you like to view the event? The first reception."
                             ]
                         },
                         {
@@ -5643,8 +5636,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -5850,7 +5843,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>\\TA[1]「応対業務」が解放されました！"
+                                "\\TA[1]\\nc<>\"Reception Duties\" have been unlocked!"
                             ]
                         },
                         {
@@ -6058,14 +6051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫はまだ慣れてないだろうから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単なことからやるわよ。"
+                                "\\nc<Senpai>Saki is still new to this, so let's start with something\nsimple."
                             ]
                         },
                         {
@@ -6110,7 +6096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>は、はい！　頑張ります！"
+                                "\\nc<Saki>Y-Yes! I'll do my best!"
                             ]
                         },
                         {
@@ -6155,21 +6141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふふ、その意気よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ…まずはフェラチオからやってみて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔ならこのくらい簡単でしょ？"
+                                "\\nc<Senpai>Hehe, that's the spirit. Well then... let's start with a\nblowjob. It should be easy for a succubus, right?"
                             ]
                         },
                         {
@@ -6214,14 +6186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1](えええっ？　いきなりフェラチオ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マンガや動画で見たことはあるけど、実際にやったことは…)"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>(Eeeeh? A blowjob right away? I've seen it in manga and\nvideos, but I've never actually done it...)"
                             ]
                         },
                         {
@@ -6266,14 +6231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 1]どうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなこともできないんじゃ、これからやっていけないわよ。"
+                                "\\bustMsgExpression[2, 1]\\nc<Senpai>What's wrong? If you can't do something like this, you won't\nbe able to make it from here on out."
                             ]
                         },
                         {
@@ -6318,14 +6276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>い、いえ、その…\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExpression[1, 0]できます！　フェラチオなんて朝飯前ですよ！"
+                                "\\nc<Saki>N-No, that's not it...\\bustMsgExpression[1, 0]I can do it! A\nblowjob is a piece of cake!"
                             ]
                         },
                         {
@@ -6342,14 +6293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1](そうだ、私はもう淫魔なんだからできるに決まってる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここをクビになったらほかに行くところもないし…)"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>(That's right, I'm a succubus now, so I must be able to do\nit! If I get fired from here, I have nowhere else to go...)"
                             ]
                         },
                         {
@@ -6394,21 +6338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 0]ふふ、頼もしいわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口で精気を吸いとるのは基本中の基本…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この程度で手こずっちゃダメよ。"
+                                "\\bustMsgExpression[2, 0]\\nc<Senpai>Hehe, you're reliable. Sucking out life force with your\nmouth is the most basic of basics... You can't struggle with\nsomething like this."
                             ]
                         },
                         {
@@ -6453,7 +6383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 3]はい…任せてください！"
+                                "\\bustMsgExpression[1, 3]\\nc<Saki>Yes... Leave it to me!"
                             ]
                         },
                         {
@@ -6470,7 +6400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1](できる…よね？)"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>(I can do it... right?)"
                             ]
                         },
                         {

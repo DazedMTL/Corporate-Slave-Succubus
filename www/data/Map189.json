@@ -2657,14 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]どうですか？　本当にいい会社でしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの会社の取引先とは思えないくらい。"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>How is it? It's a really good company, isn't it? It's hard\nto believe they're a client of ours."
                             ]
                         },
                         {
@@ -2740,7 +2733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]…そうね。たしかに、問題になる場面はなかった。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>...Yes, indeed. There certainly weren't any problematic\nscenes."
                             ]
                         },
                         {
@@ -2785,7 +2778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]じゃあ編集はどうしますか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>So, what should we do about the editing?"
                             ]
                         },
                         {
@@ -2830,14 +2823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]編集？　ああ、そういうことはしなくていい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はというと、怪しくて調べさせただけだから。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Editing? Oh, there's no need for that. Actually, I just had\nyou investigate because it seemed suspicious."
                             ]
                         },
                         {
@@ -2891,7 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ああっ！　また私を騙したんですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Ah! You tricked me again?"
                             ]
                         },
                         {
@@ -2945,7 +2931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>善意の嘘よ。"
+                                "\\nc<Senpai>It was a white lie."
                             ]
                         },
                         {
@@ -2962,21 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]ところで、ここちょっと掃除しないとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あちこちが愛液だらけだから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり集中して鑑賞した気がする。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>By the way, we need to clean up here a bit. It's covered in\nlove juices everywhere... It seems like we were really\nfocused on watching."
                             ]
                         },
                         {
@@ -3021,7 +2993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うう、本当だ…次は先輩も一緒に行きますか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh, you're right... Will you come with me next time,\nSenpai?"
                             ]
                         },
                         {
@@ -3066,21 +3038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]まあ、機会があったら一度は行ってみようかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(まだスッキリしないところはあるけど…気のせいよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度くらいは行ってみるのもありかも？)"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Well, if there's a chance, maybe I should go at least once?\n(There are still some things that don't sit right with me...\nbut it's probably just my imagination. Maybe it wouldn't\nhurt to go at least once?)"
                             ]
                         },
                         {
@@ -3113,7 +3071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>掃除を終えた咲姫と先輩は映像を削除し、部屋をあとにした。"
+                                "\\nc<>After cleaning up, Saki and her Senpai deleted the footage\nand left the room."
                             ]
                         },
                         {

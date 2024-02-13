@@ -4486,7 +4486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>じゃあ仕事について教えてあげる。"
+                                "\\nc<Senpai>Then I'll tell you about the job."
                             ]
                         },
                         {
@@ -4503,7 +4503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>何かわからないことがあったら聞いてね。"
+                                "\\nc<Senpai>If there's anything you don't understand, feel free to ask."
                             ]
                         },
                         {
@@ -4733,7 +4733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どこ行くの？"
+                                "Where are you going?"
                             ]
                         },
                         {
@@ -4886,7 +4886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\ncスキルを習得してみて。"
+                                "Try learning a skill."
                             ]
                         },
                         {
@@ -4894,8 +4894,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "スキルを学ぶ",
-                                    "会話する"
+                                    "Learn a skill",
+                                    "Have a conversation"
                                 ],
                                 -2,
                                 0,
@@ -4964,7 +4964,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうしたの？"
+                                "What's the matter?"
                             ]
                         },
                         {
@@ -5162,7 +5162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこ行くの？"
+                                "Where are you going?"
                             ]
                         },
                         {

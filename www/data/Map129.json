@@ -6184,14 +6184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "聖職者の洗礼"
+                                "Would you like to view the event? The Cleric's Baptism"
                             ]
                         },
                         {
@@ -6199,8 +6192,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -6935,14 +6928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<神官>皆、出ていけ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この邪悪な魔族どもに操られてはならん！"
+                                "\\nc<Priest>Everyone, get out! Do not be manipulated by these wicked\ndemons!"
                             ]
                         },
                         {
@@ -7288,7 +7274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ、何ですか、あの人？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh, who is that person?"
                             ]
                         },
                         {
@@ -7333,21 +7319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ときどき来る迷惑客ね。気をつけて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ見えても本物の神官だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下手するとお祓いされるわよ。"
+                                "\\nc<Senpai>Just an annoying visitor who comes by sometimes. Be careful.\nDespite appearances, he's a real cleric, so if you're not\ncareful, you might get exorcised."
                             ]
                         },
                         {
@@ -7392,7 +7364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>お、お祓いですか？！"
+                                "\\nc<Saki>E-exorcised?!"
                             ]
                         },
                         {
@@ -7437,21 +7409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>うん、機嫌が悪いと神通力を使うの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とは言っても、会社のど真ん中で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事を起こすようなことはほとんどないけど…"
+                                "\\nc<Senpai>Yes, when he's in a bad mood, he'll use his divine powers.\nAlthough, he hardly ever causes trouble in the middle of the\ncompany..."
                             ]
                         },
                         {
@@ -7496,7 +7454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひいっ…"
+                                "\\nc<Saki>Eek..."
                             ]
                         },
                         {
@@ -7644,7 +7602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>\\bustMsgExp[1, 0]…あいつ、また来たのか？　早く片づけろ！"
+                                "\\bustMsgExp[1, 0]\\nc<Executive Officer>...Has that guy come again? Get rid of him quickly!"
                             ]
                         },
                         {
@@ -7706,14 +7664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]先日、警備１チームが祓われたので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警備隊は出動できません…"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>The other day, the first security team got exorcised, so the\nsecurity squad can't be deployed..."
                             ]
                         },
                         {
@@ -7765,14 +7716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>だから、お前たちでどうにかしろって言ってるんだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく…人間どもと戦ってたときのほうがよっぽどマシだ！"
+                                "\\nc<Executive Officer>That's why I'm telling you guys to handle it. Seriously...\nIt was much better when we were fighting humans!"
                             ]
                         },
                         {
@@ -7803,7 +7747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]かしこまりました。お任せください。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Understood. Leave it to us."
                             ]
                         },
                         {
@@ -7938,7 +7882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それじゃあ、咲姫。出動ね。"
+                                "\\nc<Senpai>So, Saki. It's your turn to go out."
                             ]
                         },
                         {
@@ -7983,7 +7927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ええっ！　また私ですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh! Me again?"
                             ]
                         },
                         {
@@ -8028,7 +7972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>うちの部署のエースでしょ。頼んだわ。"
+                                "\\nc<Senpai>You're our department's ace, after all. I'm counting on you."
                             ]
                         },
                         {
@@ -8073,7 +8017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]でも…警備隊もお祓いされたのに私に何ができるんですか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>But... if the security team got exorcised, what can I\npossibly do?"
                             ]
                         },
                         {
@@ -8118,14 +8062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>警備隊はバカみたいに力ずくで勝とうとするから祓われたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔には淫魔のやり方があるでしょう？"
+                                "\\nc<Senpai>The security team got exorcised because they tried to win\nwith brute force like idiots. Succubi have their own ways,\ndon't they?"
                             ]
                         },
                         {
@@ -8170,7 +8107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]淫魔のやり方…\\.\\.\\bustMsgExp[1, 1]ああっ。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>The succubus way...[bustMsgExp[1, 1]]Ah!"
                             ]
                         },
                         {
@@ -8261,14 +8198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]…もし成功したら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕飯ごちそうしてくださいね。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>...If I succeed, please treat me to dinner."
                             ]
                         },
                         {
@@ -8313,14 +8243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫もずいぶん物分かりがよくなったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いってらっしゃい。"
+                                "\\nc<Senpai>You've become quite understanding, Saki. Good luck."
                             ]
                         },
                         {
@@ -8365,7 +8288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>……"
+                                "\\nc<Saki>..."
                             ]
                         },
                         {
@@ -8617,7 +8540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<神官>早急にこの堕落の現場から脱出せねば…\\|\\^"
+                                "\\nc<Priest>I must escape this den of corruption with haste..."
                             ]
                         },
                         {
@@ -8634,14 +8557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>いつまで放っておくつもりだ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追い出せもしないのか？\\|\\^"
+                                "\\nc<Customer>How long do you plan to ignore this? Can't you drive him\nout?"
                             ]
                         },
                         {
@@ -8658,7 +8574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客２>社員たちはいったい何をしてるんだ？\\|\\^"
+                                "\\nc<Customer 2>What on earth are the employees doing?"
                             ]
                         },
                         {
@@ -8868,7 +8784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>よいしょ！"
+                                "\\nc<Saki>Heave-ho!"
                             ]
                         },
                         {
@@ -8901,7 +8817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<神官>け、けしからん！"
+                                "\\nc<Priest>Scandalous!"
                             ]
                         },
                         {
@@ -8918,14 +8834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>どうされました？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は出勤前のストレッチをしているだけですが。"
+                                "\\nc<Saki>What seems to be the matter? I'm just doing some stretches\nbefore work."
                             ]
                         },
                         {
@@ -8942,7 +8851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<神官>ええいっ！　なんと破廉恥な…"
+                                "\\nc<Priest>Good heavens! Such indecency..."
                             ]
                         },
                         {
@@ -8970,7 +8879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>すぅーっ。"
+                                "\\nc<>Saki: Haaah..."
                             ]
                         },
                         {
@@ -8987,7 +8896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の脚が高く上がるにつれ、神官の目も丸くなる。"
+                                "\\nc<>As Saki's leg goes higher, the cleric's eyes widen."
                             ]
                         },
                         {
@@ -9004,14 +8913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>タイトな装束の股間部分が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつのまにかもっこりと膨れあがった。"
+                                "\\nc<>The tight part of her outfit around her crotch swells up\nnoticeably."
                             ]
                         },
                         {
@@ -9039,14 +8941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(効いてる。結局は神官も男ってことね)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふ、早くストレッチを終わらせて楽しまなきゃ！"
+                                "\\nc<Saki>(It's working. In the end, a cleric is still a man) Hehe, I\nneed to finish stretching quickly and have some fun!"
                             ]
                         },
                         {
@@ -9063,7 +8958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<神官>ぬうっ、ふしだらな売春婦め！"
+                                "\\nc<Priest>Nghh, you shameless harlot!"
                             ]
                         },
                         {
@@ -9080,21 +8975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ビンビンに勃起した人に怒られても怖くないですよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかこのまま祓われたりしないよね？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはちょっと怖いかも)"
+                                "\\nc<Saki>(It's not scary being yelled at by someone who's clearly\naroused... But I hope he doesn't exorcise me just like that.\nThat would be a bit scary)"
                             ]
                         },
                         {
@@ -9149,14 +9030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]見学はこれでおしまい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、私はこれで…"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>That concludes the viewing! Now, if you'll excuse me..."
                             ]
                         },
                         {
@@ -9663,7 +9537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<神官>なっ…！　あの女…"
+                                "\\nc<Priest>Wha...! That woman..."
                             ]
                         },
                         {
@@ -9708,7 +9582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](ついてきませんように…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(I hope he doesn't follow me...)"
                             ]
                         },
                         {
@@ -10120,7 +9994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>また仕事が増えたよ…"
+                                "\\nc<Lewd Demon Employee>More work has piled up again..."
                             ]
                         },
                         {

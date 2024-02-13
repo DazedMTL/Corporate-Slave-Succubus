@@ -4825,7 +4825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入らないほうがよさそうだ…"
+                                "\\nc<>It seems better not to enter..."
                             ]
                         },
                         {
@@ -5028,7 +5028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>入ってはいけないような気がする…"
+                                "\\nc<>I have a feeling we shouldn't go in there..."
                             ]
                         },
                         {
@@ -5166,14 +5166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>このまえのこともあったし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そろそろ更衣室に入ってもいいんじゃないかな？"
+                                "\\nc<>Considering what happened last time... maybe it's about time\nI can go into the changing room, don't you think?"
                             ]
                         },
                         {
@@ -5421,7 +5414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>入ってはいけないような気がする…"
+                                "\\nc<>I have a feeling I shouldn't go in there..."
                             ]
                         },
                         {
@@ -5559,14 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](あれ…これって…どこかの部屋の机の下…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなところにまでカメラを設置する…？)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Huh... Is this... under the desk of some room...? To think\nthey've installed a camera even in a place like this...?)"
                             ]
                         },
                         {
@@ -5654,7 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>どこか見覚えのある顔をしている…"
+                                "\\nc<>You have a face I seem to recognize..."
                             ]
                         },
                         {
@@ -5691,7 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<見覚えのある魔族>何だ？　邪魔しないでさっさとどけ。"
+                                "\\nc<A Familiar-Looking Demon>What? Don't get in my way, move it already."
                             ]
                         },
                         {
@@ -5787,7 +5773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<見覚えのある魔族>聞いてねぇのか？　どけっつてんだろ！"
+                                "\\nc<A Familiar Demon>\"Aren't you listening? I said move it!\""
                             ]
                         },
                         {
@@ -5883,7 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<見覚えのある魔族>ったく…誰が入れたんだ？"
+                                "\\nc<A Familiar Demon>\"Tsk... Who let them in?\""
                             ]
                         },
                         {
@@ -6214,7 +6200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>何、どうした？"
+                                "\\nc<Carefree Demon>What, what's the matter?"
                             ]
                         },
                         {
@@ -6302,14 +6288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>ふはは。あいつ見たことないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ～もともとあんな奴だからさ。あんまり気にしないで。"
+                                "\\nc<Carefree Demon>Hahaha. You've never seen that guy before? Ah, he's always\nbeen like that. Don't worry about it too much."
                             ]
                         },
                         {
@@ -6326,14 +6305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>むしろ一発殴られなくてよかったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性格の悪さはここで一番だからな。"
+                                "\\nc<Carefree Demon>Rather, you're lucky you didn't get punched. He's got the\nworst personality around here."
                             ]
                         },
                         {
@@ -6350,14 +6322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>…ん？　名前だけでも教えてくれないかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えーっと…って、なんでそんなことが知りたいんだ？"
+                                "\\nc<Carefree Demon>...Hm? You just want to know his name? Uh... why do you want\nto know something like that?"
                             ]
                         },
                         {
@@ -6374,21 +6339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>そんなつもりないって？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ふっ。嘘じゃないっていう証拠は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誠意を見せるならまだしも…"
+                                "\\nc<Carefree Demon>You don't mean anything by it? ...Heh. Where's the proof\nthat you're not lying? If you showed some sincerity,\nmaybe..."
                             ]
                         },
                         {
@@ -6405,14 +6356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>今日は人も多いし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次の派遣のときにこっそり呼んで。分かった？"
+                                "\\nc<Carefree Demon>It's crowded today... Next time you're sent here, call me\nsecretly. Got it?"
                             ]
                         },
                         {
@@ -6519,14 +6463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>次の派遣のときにこっそり呼んで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かった？"
+                                "\\nc<Carefree Demon>\"Call me secretly next time you're dispatched. Got it?\""
                             ]
                         },
                         {
@@ -6614,14 +6551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>お前…幹部の女だったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ったく、下手に手出さなくてよかった…"
+                                "\\nc<Carefree Demon>You... were one of the higher-up's women? Geez, good thing I\ndidn't make a wrong move..."
                             ]
                         },
                         {
@@ -6638,7 +6568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>いいから、これでも持って帰りな。"
+                                "\\nc<Carefree Demon>Anyway, take this with you."
                             ]
                         },
                         {
@@ -6666,7 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><見覚えのある魔族の名刺>を獲得した！"
+                                "\\nc<> Gained <A familiar demon's business card>!"
                             ]
                         },
                         {
@@ -6704,14 +6634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>何に使う物かは分からないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺に危害は及ばないようにしてくれよ？"
+                                "\\nc<Carefree Demon>I don't know what it's for, but make sure it doesn't harm\nme, alright?"
                             ]
                         },
                         {
@@ -6876,14 +6799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<のんきな魔族>何に使う物かは分からないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺に危害は及ばないようにしてくれよ？"
+                                "\\nc<Carefree Demon>I don't know what it's used for, but make sure it doesn't\nharm me, okay?"
                             ]
                         },
                         {
@@ -7073,7 +6989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>はぁぁ…当直やりたくねぇな…"
+                                "\\nc<Sloppy Employee>Sigh... I really don't want to do the night shift..."
                             ]
                         },
                         {
@@ -7090,14 +7006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>お前、今やることないだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "週末だから人も少ないし…ふふ。"
+                                "\\nc<Sloppy Employee>You don't have anything to do right now, right? It's the\nweekend, so there aren't many people around... heh."
                             ]
                         },
                         {
@@ -7114,21 +7023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>…冗談だよ。俺に幹部の女に手を出すほどの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇気はねぇ。なんで俺だけ３週連続で週末当直なんだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "職級がまだ低いからか？"
+                                "\\nc<Sloppy Employee>...Just kidding. I don't have the guts to hit on a female\nexecutive. Why am I the only one doing the weekend night\nshift for three weeks in a row... Is it because my rank is\nstill low?"
                             ]
                         },
                         {
@@ -7145,21 +7040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>お前も似たようなもんだろ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "週末にも取引先に仕事しに来るなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "常識的に考えて理解できない。"
+                                "\\nc<Sloppy Employee>You're in the same boat, aren't you? Coming to work on a\ndeal even on the weekend. I can't understand it from a\ncommon-sense perspective."
                             ]
                         },
                         {
@@ -7176,14 +7057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>お前のご主人様はなんで黙ってるんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男たるもの…あっ！"
+                                "\\nc<Sloppy Employee>Why is your master staying silent? A man should... Ah!"
                             ]
                         },
                         {
@@ -7200,14 +7074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>お前のせいで忘れるところだったじゃねぇか！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サーバー室の点検！"
+                                "\\nc<Sloppy Employee>It's your fault I almost forgot! The server room inspection!"
                             ]
                         },
                         {
@@ -7224,14 +7091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>丁度いい、お前が代わりに行ってこい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせ今やることないだろ？"
+                                "\\nc<Sloppy Employee>Perfect timing, you go and do it instead. You don't have\nanything else to do right now, do you?"
                             ]
                         },
                         {
@@ -7248,21 +7108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc＜ずぼらな社員>俺？　俺には防犯カメラを監視するという"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "重大な任務があるんだ。大したことねぇよ。一通り見て、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おかしい」ところがなければいい。"
+                                "\\nc＜Sloppy Employee> Me? I have the important task of\nmonitoring the security cameras. It's no big deal. Just take\na look around, and if there's nothing \"strange,\" that's\nfine."
                             ]
                         },
                         {
@@ -7279,14 +7125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>ボードには俺の名前を書いて。いいな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、見てきて報告してくれ。"
+                                "\\nc<Sloppy Employee>Write my name on the board. Got it? Then go take a look and\nreport back to me."
                             ]
                         },
                         {
@@ -7303,21 +7142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>あ、それから。そこに赤いボタンが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるはずなんだけど、それは絶対に押すなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バカな前任者が非常ベルと繋いぎやがってよ。"
+                                "\\nc<Sloppy Employee>Oh, and one more thing. There should be a red button there,\nbut whatever you do, don't press it. The stupid predecessor\nconnected it to the emergency bell."
                             ]
                         },
                         {
@@ -7413,21 +7238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>サーバー室に行ってボードには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の名前を書くんだ。分かったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "赤いボタンは絶対に押すなよ。"
+                                "\\nc<Sloppy Employee>\"Go to the server room and write my name on the board. Got\nit? And never press the red button.\""
                             ]
                         },
                         {
@@ -7515,7 +7326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<ずぼらな社員>赤いボタン触ったの、お前か？"
+                                "\\nc<Sloppy Employee>You're the one who touched the red button, aren't you?"
                             ]
                         },
                         {
@@ -7532,14 +7343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<ずぼらな社員>それは触るなって言っただろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はあ…はあ…いちいち連絡回すの超面倒くさいんだぞ…"
+                                "\\nc<Sloppy Employee>I told you not to touch that! Haa... haa... It's such a pain\nto have to report this every time..."
                             ]
                         },
                         {
@@ -7590,7 +7394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<ずぼらな社員>お、帰ってきたか。異常なかったよな？"
+                                "\\nc<Sloppy Employee>Oh, you're back. There weren't any problems, right?"
                             ]
                         },
                         {
@@ -7617,14 +7421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>ご苦労さん。これやるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺も週末はいつも飲んでるんだ…"
+                                "\\nc<Sloppy Employee>Good work. Here, take this. I always drink these on the\nweekends..."
                             ]
                         },
                         {
@@ -7661,14 +7458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><魔族エナジードリンク>を飲んだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体の疲れが取れる気分だ！"
+                                "\\nc<> Drank the <Demon Energy Drink>. It feels like all the\nfatigue has been lifted from my body!"
                             ]
                         },
                         {
@@ -7777,7 +7567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ずぼらな社員>はぁぁ…当直やりたくねぇな…"
+                                "\\nc<Sloppy Employee>*sigh*... I really don't want to do the night shift..."
                             ]
                         },
                         {
@@ -8134,7 +7924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備会社の社員>何だ？　何が起きたんだ？"
+                                "\\nc<Security Company Employee>What's going on? What happened?"
                             ]
                         },
                         {
@@ -8231,7 +8021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備会社の社員>どこのバカがまた非常ベルを鳴らした！"
+                                "\\nc<Security Company Employee>Who's the idiot that rang the emergency bell again!"
                             ]
                         },
                         {
@@ -8328,7 +8118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備会社の社員>ふあぁ…眠い。週末なのになんてこった。"
+                                "\\nc<Security Company Employee>*yawn*... I'm so sleepy. And on the weekend, no less. What a\nmess."
                             ]
                         },
                         {
@@ -8425,7 +8215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警備会社の社員>おかしいな…システムに異常はないんだが。"
+                                "\\nc<Security Company Employee>That's strange... There's no anomaly in the system, but..."
                             ]
                         },
                         {
@@ -8513,14 +8303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<疲れた社員>はあぁ…休暇から帰ってきたら全員欠勤だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とある淫魔に精気を全部搾られたとかでさ。"
+                                "\\nc<Tired Employee>Sigh... When I came back from vacation, everyone was absent.\nThey say some succubus drained them of all their vitality."
                             ]
                         },
                         {
@@ -8537,14 +8320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<疲れた社員>そこまでできるなんて、いったいどんな奴なのか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺も搾られてみたいぜ。"
+                                "\\nc<Tired Employee>To be able to do that, just what kind of person are they...\nI kind of want to be drained too."
                             ]
                         },
                         {
@@ -8623,14 +8399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<疲れた社員>はあぁ…休暇から帰ってきたら全員欠勤だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とある淫魔に精気を全部搾られたとかでさ。"
+                                "\\nc<Tired Employee>Sigh... When I came back from vacation, everyone was absent.\nThey said they were all drained by a certain succubus."
                             ]
                         },
                         {
@@ -8647,14 +8416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<疲れた社員>そこまでできるなんて、いったいどんな奴なのか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺も搾られてみたいぜ。"
+                                "\\nc<Tired Employee>To think someone could do that... I kind of want to be\ndrained too."
                             ]
                         },
                         {
@@ -8662,8 +8424,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "誘惑する",
-                                    "やめる"
+                                    "Seduce",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -8713,7 +8475,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<疲れた社員>え？お前、今何を…ああ、お前が噂の…"
+                                "\\nc<Tired Employee>Huh? What are you... Ah, you're the rumored..."
                             ]
                         },
                         {
@@ -8730,21 +8492,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<疲れた社員>この俺を誘惑するとは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "覚悟はできてるんだろうな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オナホとしても使えない体にしてやる。ふふ…"
+                                "\\nc<Tired Employee>To tempt me like this. Are you prepared? I'll make you\nuseless even as a fleshlight. Heh..."
                             ]
                         },
                         {
@@ -8766,14 +8514,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<疲れた社員>ふう…ふう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "噂どおりのマンコだぜ…"
+                                "\\nc<Tired Employee>Phew... Phew... Just as the rumors said, what a pussy..."
                             ]
                         },
                         {
@@ -8802,7 +8543,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<疲れた社員>うおぉっ！？　そこをそうすると…"
+                                "\\nc<Tired Employee>Whoa!? If you do it there like that..."
                             ]
                         },
                         {
@@ -8819,14 +8560,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<疲れた社員>はぁ…はぁ…久々にもう出ないほど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くおぉっ！？"
+                                "\\nc<Tired Employee>Haah... Haah... It's been a while since I've been this\ndrained... Gwoah!?"
                             ]
                         },
                         {
@@ -8843,7 +8577,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<疲れた社員>し、搾られる…！"
+                                "\\nc<Tired Employee>I-I'm being drained...!"
                             ]
                         },
                         {
@@ -8874,7 +8608,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<疲れた社員>……"
+                                "\\nc<Tired Employee>..."
                             ]
                         },
                         {
@@ -8918,7 +8652,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>余計なことはしないようにしよう…"
+                                "\\nc<>Let's not do anything unnecessary..."
                             ]
                         },
                         {
@@ -9039,7 +8773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<疲れた社員>……"
+                                "\\nc<Tired Employee>..."
                             ]
                         },
                         {
@@ -9196,7 +8930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>今は手を出さないほうがよさそうだ…"
+                                "\\nc<>It seems better not to do anything right now..."
                             ]
                         },
                         {
@@ -9223,14 +8957,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>ディスクプレーヤーがある…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ディスクを入れてみる？"
+                                "\\nc<>There's a disk player... Should I try inserting a disk?"
                             ]
                         },
                         {
@@ -9238,8 +8965,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9314,7 +9041,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>パスワードが必要だ…"
+                                "\\nc<>A password is needed..."
                             ]
                         },
                         {
@@ -9418,7 +9145,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>ディスクは作動しなかった…"
+                                "\\nc<>The disk didn't work..."
                             ]
                         },
                         {
@@ -9455,7 +9182,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>他人の視線を感じる…今は無理そうだ。"
+                                "\\nc<>I feel someone's gaze... It seems impossible right now."
                             ]
                         },
                         {
@@ -9492,7 +9219,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>人が多すぎる…今は無理そうだ。"
+                                "\\nc<>There are too many people... It seems impossible right now."
                             ]
                         },
                         {
@@ -9529,7 +9256,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>人が多すぎる…今は無理そうだ。"
+                                "\\nc<>There are too many people... It seems impossible right now."
                             ]
                         },
                         {
@@ -9741,7 +9468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>ごきげんよう！　ハハ。ちゃんと鍛えてるか？"
+                                "\\nc<Macho Demon Clan>Greetings! Haha. Are you training properly?"
                             ]
                         },
                         {
@@ -9820,7 +9547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>ごきげんよう！　ハハ。ちゃんと鍛えてるか？"
+                                "\\nc<Macho Demon Clan Member>Greetings! Haha. Are you keeping up with your training?"
                             ]
                         },
                         {
@@ -9837,21 +9564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>君はたしか…淫魔第一産業からの派遣だったな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハハ！　我が荒き仲間たちの中で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構耐えているではないか。"
+                                "\\nc<Macho Demon Clan>You're the one from... the First Succubus Industry, right?\nHaha! You seem to be holding up quite well among my wild\ncomrades."
                             ]
                         },
                         {
@@ -9868,21 +9581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>あいつも結構とがってるけどな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は見た！　押しつけられる瞬間にも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本能的に耐える君の姿を。"
+                                "\\nc<Macho Demon Clan>That one can be quite sharp too. I saw it! Even when you're\nbeing overwhelmed, I saw you instinctively endure."
                             ]
                         },
                         {
@@ -9899,21 +9598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>君の体が丈夫なのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるいは根性があるのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どちらにせよ、気に入った！"
+                                "\\nc<Macho Demon Clan>Whether your body is sturdy or you have guts, either way, I\nlike it!"
                             ]
                         },
                         {
@@ -9930,21 +9615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>あ、安心しな。私は私の仲間たちの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やってることに興味はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が愛しているのは筋肉！筋肉のみだからな！"
+                                "\\nc<Macho Demon Clan>Oh, don't worry. I'm not interested in what my comrades are\ndoing. What I love is muscles! Only muscles!"
                             ]
                         },
                         {
@@ -9961,7 +9632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>\\}その副作用もあるしな…\\{"
+                                "\\nc<Macho Demon Clan>There are side effects to that as well..."
                             ]
                         },
                         {
@@ -9978,14 +9649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>コホン。私の古き友も淫魔第一産業で働いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちの警備もかなりキツいみたいだがな！　ハハ！"
+                                "\\nc<Macho Demon Clan>*Cough* A good old friend of mine also works at the First\nSuccubus Industry. The security there seems to be pretty\ntight too! Haha!"
                             ]
                         },
                         {
@@ -10002,14 +9666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>長らく連絡がつかなくて心配ではあるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつならきっとどこでもうまくやっているだろう！"
+                                "\\nc<Macho Demon Clan>I've been worried since I haven't been able to contact him\nfor a long time, but I'm sure he's doing well wherever he\nis!"
                             ]
                         },
                         {
@@ -10026,21 +9683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>そうだ、名前を教えてあげよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機会があれば会ってみるといい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の紹介で来たと言えば、きっと力になってくれるだろう。"
+                                "\\nc<Macho Demon Clan>Right, let me tell you his name. If you get a chance, you\nshould meet him! If you say you came at my introduction,\nhe'll surely help you out."
                             ]
                         },
                         {
@@ -10137,14 +9780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>機会があれば会ってみるといい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の紹介で来たと言えば、きっと力になってくれるだろう。"
+                                "\\nc<Macho Demon Clan>If you get the chance, you should meet her! Just say you\ncame at my introduction, and she'll surely be willing to\nhelp you."
                             ]
                         },
                         {
@@ -10223,7 +9859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>ごきげんよう！　ハハ。ちゃんと鍛えてるか？"
+                                "\\nc<Macho Demon Clan>Greetings! Haha. Have you been training properly?"
                             ]
                         },
                         {
@@ -10240,14 +9876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>何？　辞めてからかなり経っているだと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなはずは…"
+                                "\\nc<Macho Demon Clan>What? It's been quite some time since you quit? That can't\nbe..."
                             ]
                         },
                         {
@@ -10264,14 +9893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>連絡が途絶えてからもう数か月だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふむ、どうやら調査をしてみる必要がありそうだ！"
+                                "\\nc<Macho Demon Clan>It's been several months since the last contact. Hmm, it\nseems I need to do some investigating!"
                             ]
                         },
                         {
@@ -10288,21 +9910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>悪いが頼みごとをしてもいいか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔第一産業に私が突撃するわけにも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかないからな。ハハ！"
+                                "\\nc<Macho Demon Clan>Sorry to ask, but can I request a favor? I can't just storm\ninto the Succubus First Industry myself. Haha!"
                             ]
                         },
                         {
@@ -10310,8 +9918,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "受けいれる",
-                                    "断る"
+                                    "Accept",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -10341,14 +9949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<マッチョ魔族>ありがとう。恩に着る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か成果があればまたここに来て教えてくれ。頼んだぞ！"
+                                "\\nc<Macho Demon Clan>Thank you. I owe you one. If you achieve any results, come\nback here and let me know. I'm counting on you!"
                             ]
                         },
                         {
@@ -10396,14 +9997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<マッチョ魔族>そうか…なら仕方ないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私が直接動くしかないということか！　ハハ！"
+                                "\\nc<Macho Demon Clan>Is that so... Well, can't be helped. Looks like I'll have to\ntake action myself! Haha!"
                             ]
                         },
                         {
@@ -10492,14 +10086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>何か成果があれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またここに来て教えてくれ。頼んだ！"
+                                "\\nc<Macho Demon Clan>If you have any results, come back here and let me know. I'm\ncounting on you!"
                             ]
                         },
                         {
@@ -10578,7 +10165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>ごきげんよう！　ハハ。ちゃんと鍛えてるか？"
+                                "\\nc<Macho Demon Clan>Greetings! Haha. Have you been training properly?"
                             ]
                         },
                         {
@@ -10595,21 +10182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>それ以来、我が友の話は聞いていないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "再開のときが来ると思うと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "筋肉がうずいてたまらないんだ！"
+                                "\\nc<Macho Demon Clan>Since then, have you heard anything about my friend? Just\nthinking about our reunion makes my muscles throb\nuncontrollably!"
                             ]
                         },
                         {
@@ -10625,8 +10198,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "<実験報告書>を渡す",
-                                    "事実を隠す"
+                                    "<Hand over the Experiment Report>",
+                                    "Conceal the truth"
                                 ],
                                 1,
                                 0,
@@ -10656,7 +10229,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>ん？　これは何だ？"
+                                "\\nc<Macho Demon Clan>Hm? What's this?"
                             ]
                         },
                         {
@@ -10673,7 +10246,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>読んでみろって？　ああ、分かった…"
+                                "\\nc<Macho Demon Clan>You want me to read it? Alright..."
                             ]
                         },
                         {
@@ -10690,7 +10263,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>……"
+                                "\\nc<Macho Demon Clan>..."
                             ]
                         },
                         {
@@ -10707,7 +10280,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>………"
+                                "\\nc<Macho Demon Clan>..."
                             ]
                         },
                         {
@@ -10724,7 +10297,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>……………"
+                                "\\nc<Macho Demon Clan>..."
                             ]
                         },
                         {
@@ -10741,14 +10314,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>なあ、咲姫さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私は頭が良くないから、こういうことはよく分からないんだ。"
+                                "\\nc<Macho Demon Clan>Hey, Saki-san. I'm not very smart, so I don't really\nunderstand this kind of thing."
                             ]
                         },
                         {
@@ -10765,14 +10331,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>奴らが我が友に何をしたかも分からないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それで友がどうなったのかもまったく分からない。"
+                                "\\nc<Macho Demon Clan>I don't know what they did to my friend, nor do I have any\nidea what's become of him."
                             ]
                         },
                         {
@@ -10789,14 +10348,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>だが…私は今すごく怒っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "生まれてこれほどの怒りを感じたことはない。"
+                                "\\nc<Macho Demon Clan>But... I am very angry right now. I've never felt such rage\nin my life."
                             ]
                         },
                         {
@@ -10813,14 +10365,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>…調べてくれてありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これは君に譲ろう。"
+                                "\\nc<Macho Demon Clan>...Thank you for looking into it. I'll leave this to you."
                             ]
                         },
                         {
@@ -10848,7 +10393,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><友情の証>を獲得した！"
+                                "\\nc<> Gained <Proof of Friendship>!"
                             ]
                         },
                         {
@@ -10896,7 +10441,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>私は少し…休むよ。"
+                                "\\nc<Macho Demon Clan>I'm going to rest a bit..."
                             ]
                         },
                         {
@@ -10951,14 +10496,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>進展がないって？　まぁ、しょうがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "でもあいつがこの世を去ったりはしないだろう。ハハ！"
+                                "\\nc<Macho Demon Clan>No progress, huh? Well, can't be helped. But he wouldn't\njust leave this world. Haha!"
                             ]
                         },
                         {
@@ -10975,14 +10513,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>長い間、調べてくれてありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これをもらってくれ。"
+                                "\\nc<Macho Demon Clan>Thank you for investigating for so long. Please take this."
                             ]
                         },
                         {
@@ -11010,7 +10541,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><友情の証>を獲得した！"
+                                "\\nc<> Gained <Proof of Friendship>!"
                             ]
                         },
                         {
@@ -11048,14 +10579,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<マッチョ魔族>それは私とあいつの大事な証だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あいつを探すまで、君に持っていてほしいんだ。"
+                                "\\nc<Macho Demon Clan>It's an important token of my friendship with him. I want\nyou to hold onto it until we find him."
                             ]
                         },
                         {
@@ -11072,14 +10596,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\ncc<マッチョ魔族>私はこれからもあいつのことを探す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あいつのことを聞いたら、いつでも教えてくれ。"
+                                "\\ncc<Macho Demon Clan> I will continue to search for him. If\nyou hear anything about him, let me know anytime."
                             ]
                         },
                         {
@@ -11237,14 +10754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マッチョ魔族>私はこれからもあいつのことを探す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつのことを聞いたら、いつでも教えてくれ。"
+                                "\\nc<Macho Demon Clan Member>\"I will continue to search for that guy. If you hear\nanything about him, let me know anytime.\""
                             ]
                         },
                         {
@@ -11336,7 +10846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>……"
+                                "\\nc<>..."
                             ]
                         },
                         {
@@ -11353,14 +10863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>このまえのこともあったし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ更衣室に入ってもいいんじゃないかな？"
+                                "\\nc<>Considering what happened last time... maybe it's okay to go\ninto the changing room now?"
                             ]
                         },
                         {
@@ -11581,21 +11084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>誰もいない夜中に１人で働いてると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだか寒気がするんだよな。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "静寂の中から時計の音だけがして。"
+                                "\\nc<Security Company Employee>When you're working alone in the middle of the night with no\none around, it kind of gives you the chills. All you can\nhear is the sound of the clock in the silence."
                             ]
                         },
                         {
@@ -11633,7 +11122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>お化けがいると思う？ "
+                                "\\nc<Security Company Employee>Do you think there are ghosts?"
                             ]
                         },
                         {
@@ -11650,14 +11139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>俺もお化けなんか信じなかったよ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先週の夜間勤務の前まではね…"
+                                "\\nc<Security Company Employee>I didn't believe in ghosts either. That is, until my night\nshift last week..."
                             ]
                         },
                         {
@@ -11820,21 +11302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>誰もいない夜中に１人で働いてると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだか寒気がするんだよな。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "静寂の中から時計の音だけがして。"
+                                "\\nc<Security Company Employee>When you're working alone in the middle of the night with no\none around, it somehow gives you the chills. All you can\nhear is the sound of the clock in the silence."
                             ]
                         },
                         {
@@ -11872,7 +11340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>お化けがいると思う？ "
+                                "\\nc<Security Company Employee>Do you think there are ghosts?"
                             ]
                         },
                         {
@@ -11889,14 +11357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>俺もお化けなんか信じなかったよ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先週の夜間勤務の前まではね…"
+                                "\\nc<Security Company Employee>I never believed in ghosts either. Well, not until my night\nshift last week..."
                             ]
                         },
                         {
@@ -12008,21 +11469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>誰もいない夜中に１人で働いてると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだか寒気がするんだよな。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "静寂の中から時計の音だけがして。"
+                                "\\nc<Security Company Employee>When you're working alone in the middle of the night with no\none around, it somehow gives you the chills. All you can\nhear is the sound of the clock in the silence."
                             ]
                         },
                         {
@@ -12060,7 +11507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>お化けがいると思う？ "
+                                "\\nc<Security Company Employee>Do you think there are ghosts?"
                             ]
                         },
                         {
@@ -12077,14 +11524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>俺もお化けなんか信じなかったよ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先週の夜間勤務の前まではね…"
+                                "\\nc<Security Company Employee>I never believed in ghosts either. That is, until my night\nshift last week..."
                             ]
                         },
                         {
@@ -12205,7 +11645,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>交代勤務がどれだけしんどいか知ってる？"
+                                "\\nc<Security Company Employee>Do you know how tough shift work can be?"
                             ]
                         },
                         {
@@ -12222,21 +11662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>やっと昼に寝る生活に慣れたころに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "午前勤務に変わっちゃってさ… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうクタクタだよ。"
+                                "\\nc<Security Company Employee>Just when I got used to sleeping during the day, they switch\nme to a morning shift... I'm totally exhausted."
                             ]
                         },
                         {
@@ -12274,21 +11700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>経歴のある先輩たちは監視制御室で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何もしないでお金もらってるのにさ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺みたいな末端社員は仕事はつらいし、もらうお金は少ないんだよね。"
+                                "\\nc<Security Company Employee>The seniors with experience just sit in the control room\ndoing nothing and get paid for it. Meanwhile, a low-level\nemployee like me has to endure tough work and gets paid\nless."
                             ]
                         },
                         {
@@ -12305,7 +11717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>これって話にならないよね？"
+                                "\\nc<Security Company Employee>This is just unreasonable, isn't it?"
                             ]
                         },
                         {
@@ -12468,7 +11880,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>交代勤務がどれだけしんどいか知ってる？"
+                                "\\nc<Security Company Employee>Do you know how tough shift work can be?"
                             ]
                         },
                         {
@@ -12485,21 +11897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>やっと昼に寝る生活に慣れたころに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "午前勤務に変わっちゃってさ… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうクタクタだよ。"
+                                "\\nc<Security Company Employee>Just when I finally got used to sleeping during the day,\nthey switch me to morning shifts... I'm totally exhausted."
                             ]
                         },
                         {
@@ -12537,21 +11935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>経歴のある先輩たちは監視制御室で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何もしないでお金もらってるのにさ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺みたいな末端社員は仕事はつらいし、もらうお金は少ないんだよね。 "
+                                "\\nc<Security Company Employee>The seniors with experience just sit in the control room\ndoing nothing and get paid for it. Meanwhile, a low-level\nemployee like me has to endure tough work and gets paid\npeanuts."
                             ]
                         },
                         {
@@ -12568,7 +11952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>これって話にならないよね？"
+                                "\\nc<Security Company Employee>This is just unreasonable, isn't it?"
                             ]
                         },
                         {
@@ -12680,7 +12064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>交代勤務がどれだけしんどいか知ってる？"
+                                "\\nc<Security Company Employee>Do you know how tough shift work can be?"
                             ]
                         },
                         {
@@ -12697,21 +12081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>やっと昼に寝る生活に慣れたころに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "午前勤務に変わっちゃってさ… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうクタクタだよ。"
+                                "\\nc<Security Company Employee>Just when I got used to sleeping during the day, they switch\nme to morning shifts... I'm totally exhausted."
                             ]
                         },
                         {
@@ -12749,21 +12119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>経歴のある先輩たちは監視制御室で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何もしないでお金もらってるのにさ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺みたいな末端社員は仕事はつらいし、もらうお金は少ないんだよね。  "
+                                "\\nc<Security Company Employee>The seniors with experience just sit in the control room\ndoing nothing and get paid for it. Meanwhile, a low-level\nemployee like me has to endure tough work and gets paid\npeanuts."
                             ]
                         },
                         {
@@ -12780,7 +12136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<警備会社の社員>これって話にならないよね？"
+                                "\\nc<Security Company Employee>This is just unreasonable, don't you think?"
                             ]
                         },
                         {

@@ -5926,7 +5926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>うぅぅ…ぐすっ。"
+                                "\\nc<Lewd Demon Employee>Uuu... *sniffle*."
                             ]
                         },
                         {
@@ -5943,14 +5943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>ただでさえ休日出勤は嫌なのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんで私がこんな目に遭わなくちゃいけないの…"
+                                "\\nc<Lewd Demon Employee>As if working on a holiday wasn't bad enough, why do I have\nto go through something like this..."
                             ]
                         },
                         {
@@ -6038,14 +6031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>「褐色肌お姉さんのエッチなオイルマッサージコース」…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高いけど、それなりに価値はあるだろう。"
+                                "\\nc<Customer>\"The Erotic Oil Massage Course by a Tanned Beauty\"... It's\nexpensive, but it must be worth it."
                             ]
                         },
                         {
@@ -6062,7 +6048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>しかし、いつ来るんだ？"
+                                "\\nc<Customer>But when will she come?"
                             ]
                         },
                         {
@@ -6150,14 +6136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>週末に妻の圧に勝てずに会社に逃げこむ俺の人生とは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく。"
+                                "\\nc<Executive Officer>To think my life has come to escaping to the company on\nweekends because I can't stand up to my wife's pressure...\nutterly ridiculous."
                             ]
                         },
                         {
@@ -6174,14 +6153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>メアリーのやつ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日も出勤してねぇのか？"
+                                "\\nc<Executive Officer>That Meary, she's not coming to work today either?"
                             ]
                         },
                         {
@@ -6564,21 +6536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<受付>カウンター業務は週末のほうが忙しいんですよね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シフト制にでもしてほしいんですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新人を採用しないからそれもままならないんですよ。"
+                                "\\nc<Receptionist>\"The counter work is busier on weekends... I wish they would\nimplement a shift system, but since they don't hire new\nstaff, it's not manageable.\""
                             ]
                         },
                         {
@@ -6666,7 +6624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ここはVIP専用ルームです。"
+                                "\\nc<Lewd Demon Employee>This is a VIP-only room."
                             ]
                         },
                         {
@@ -6674,8 +6632,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "入る",
-                                    "入らない"
+                                    "Enter",
+                                    "Do not enter"
                                 ],
                                 1,
                                 0,
@@ -6774,7 +6732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ご用は済みましたか？"
+                                "\\nc<Lewd Demon Employee>Have you finished your business?"
                             ]
                         },
                         {
@@ -6782,8 +6740,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6920,14 +6878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<受付>書類、たしかに受けとりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物流会社側には私から連絡しておきます。"
+                                "\\nc<Receptionist>\"I have duly received the documents. I will contact the\nlogistics company on our behalf.\""
                             ]
                         },
                         {
@@ -7015,21 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<受付>カウンター業務は週末のほうが忙しいんですよね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シフト制にでもしてほしいんですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新人を採用しないからそれもままならないんですよ。"
+                                "\\nc<Receptionist>\"The counter work is busier on the weekends... I wish they\nwould implement a shift system, but since they don't hire\nnew staff, that's not really feasible.\""
                             ]
                         },
                         {
@@ -7117,7 +7054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ここはVIP専用ルームです。"
+                                "\\nc<Lewd Demon Employee>This is a VIP-only room."
                             ]
                         },
                         {
@@ -7125,8 +7062,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "入る",
-                                    "入らない"
+                                    "Enter",
+                                    "Do not enter"
                                 ],
                                 1,
                                 0,
@@ -7225,7 +7162,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<淫魔社員>ご用は済みましたか？"
+                                "\\nc<Lewd Demon Employee>Have you finished your business?"
                             ]
                         },
                         {
@@ -7233,8 +7170,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7371,14 +7308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>お探しの方がいらっしゃるとのことで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ああ、その方ですか。"
+                                "\\nc<Lewd Demon Employee>\"Are you looking for someone?... Ah, that person?\""
                             ]
                         },
                         {
@@ -7395,14 +7325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>退社されてかなり経ちました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "珍しく情熱的で前向きな方だったので人気がありました。"
+                                "\\nc<Lewd Demon Employee>\"It's been quite some time since they left the company. They\nwere unusually passionate and positive, so they were quite\npopular.\""
                             ]
                         },
                         {
@@ -7419,21 +7342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>辞める理由なんてまったくなかったのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでも役員との摩擦があったとか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あくまでも噂ですが。そのあと音沙汰がなくて私も知りません。"
+                                "\\nc<Lewd Demon Employee>\"There was absolutely no reason for them to quit, but there\nwere rumors of friction with the executives... It's just\nhearsay, though. I haven't heard anything since.\""
                             ]
                         },
                         {
@@ -7769,14 +7678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ラムネが600円…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "超ぼったくりじゃん！"
+                                "\\nc<Customer>\"Ramune for 600 yen...? That's a total rip-off!\""
                             ]
                         },
                         {
@@ -7855,14 +7757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ラムネが600円…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "超ぼったくりじゃん！"
+                                "\\nc<Customer>Ramune for 600 yen...? That's a total rip-off!"
                             ]
                         },
                         {
@@ -7924,14 +7819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>あれ？　あなたは…どこかで…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ！　テレビで見たんです！　伝説のビッチ咲姫さん！"
+                                "\\nc<Customer>Huh? You are... I've seen you somewhere... Ah! I saw you on\nTV! The legendary bitch, Saki-san!"
                             ]
                         },
                         {
@@ -7957,14 +7845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>僕、本当にファンなんです！<客>僕、大ファンなんです！　テレビのインタビューを見て、一目惚れしました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…え？　「恥ずかしいから静かにして」って？"
+                                "\\nc<Customer>I'm a real fan! <客>I'm a huge fan! I fell in love at first\nsight when I saw your interview on TV! ...Eh? \"Be quiet\nbecause it's embarrassing\"?"
                             ]
                         },
                         {
@@ -7981,14 +7862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>へへ、じゃあ僕の頼みを１つだけ聞いてください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕、お姉さんとヤりたくて淫魔第一産業まで来たんです…"
+                                "\\nc<Customer>Hehe, then please just listen to one request of mine! I came\nall the way to the Succubus First Industry because I wanted\nto sleep with you, big sister..."
                             ]
                         },
                         {
@@ -8005,14 +7879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>え？　今日は勤務日じゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そこを何とか！僕、平日には予備校に行かないといけないんです！ "
+                                "\\nc<Customer>Eh? It's not a workday today? Please, do something about it!\nI have to go to prep school on weekdays!"
                             ]
                         },
                         {
@@ -8038,14 +7905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ううっ…分かりましたよ。仕方ない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "予備校サボってでも来るので、絶対に相手してくださいね！"
+                                "\\nc<Customer>Ugh... Alright, I understand. Can't be helped... I'll skip\nprep school to come here, so you absolutely have to\nentertain me, okay?"
                             ]
                         },
                         {
@@ -8144,7 +8004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>平日に行きますので、絶対に相手してくださいね！"
+                                "\\nc<Customer>I'll be coming on a weekday, so make sure you take care of\nme!"
                             ]
                         },
                         {
@@ -8223,14 +8083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>昔は知る人ぞ知る名店って感じだったのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "客が増えて質が落ちた。そろそろ俺も店を変えたほうがいいのだろうか…"
+                                "\\nc<Customer>It used to be a well-kept secret of a famous store... but\nnow that the customers have increased, the quality has\ndropped. Maybe it's time for me to find a new place..."
                             ]
                         },
                         {
@@ -8309,14 +8162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ラムネが600円…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "超ぼったくりじゃん！"
+                                "\\nc<Customer>\"Ramune for 600 yen...? That's a total rip-off!\""
                             ]
                         },
                         {
@@ -8404,14 +8250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>ほほ。わしに何か用かね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用はトイレで足しなさい。"
+                                "\\nc<Senior Employee>\"Ho ho. Do you need something from me? If you need to go,\nuse the restroom.\""
                             ]
                         },
                         {
@@ -8490,14 +8329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>ほほ。わしに何か用かね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用はトイレで足しなさい。"
+                                "\\nc<Senior Employee>Ho ho. Do you need something from me? If you need to use the\nrestroom, go ahead."
                             ]
                         },
                         {
@@ -8514,14 +8346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>ん？　君は…このまえ物流会社に行ってたね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚えているとも。記憶力はわしの数少ない自慢なのだよ。"
+                                "\\nc<Senior Employee>Hm? You are... the one who went to the logistics company the\nother day, right? I remember indeed. Memory is one of my few\nprides."
                             ]
                         },
                         {
@@ -8547,14 +8372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>…うむ。誰かに頼みたいことがあったのだが、丁度よかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恨むなら週末に出社した自分を恨みなさい。ほほ。"
+                                "\\nc<Senior Employee>...Hmm. There was something I wanted to ask someone to do,\nand it's good timing that you're here. If you're going to\nresent someone, resent yourself for coming to work on the\nweekend. Ho ho."
                             ]
                         },
                         {
@@ -8562,8 +8380,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "聞いてみる",
-                                    "断る"
+                                    "Listen to what they have to say",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -8593,7 +8411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>よろしい！　やはりわしの目に狂いはなかった。"
+                                "\\nc<Senior Employee>Excellent! Indeed, there was no mistake in my judgment."
                             ]
                         },
                         {
@@ -8610,14 +8428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>君、宣伝の仕事もしているだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "淫魔第一産業は人使いが荒いことで有名だからね。"
+                                "\\nc<Senior Employee>You're doing promotional work, aren't you? Incubus First\nIndustries is famous for being tough on its workers, after\nall."
                             ]
                         },
                         {
@@ -8634,14 +8445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>それでなんだが、宣伝業務のついでにわしの仕事も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手伝ってほしくてね。もちろん、会社にはわしが言っておこう。"
+                                "\\nc<Senior Employee>So, what I'm saying is, I'd like you to help me with my work\nwhile you're doing your promotional duties. Of course, I'll\nspeak to the company about it."
                             ]
                         },
                         {
@@ -8658,14 +8462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>チラシを撒きながら健康補助食品を一緒に宣伝する…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょっぴり難しくなるけど、これほどの組み合わせもないだろう？"
+                                "\\nc<Senior Employee>Distributing flyers while promoting health supplements... It\nmight be a bit more difficult, but there couldn't be a\nbetter combination, could there?"
                             ]
                         },
                         {
@@ -8691,14 +8488,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>何？　無理そう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…ほほ。これを見れば気が変わるはず。"
+                                "\\nc<Senior Employee>What? It seems impossible?... Ho ho. This should change your\nmind."
                             ]
                         },
                         {
@@ -8715,14 +8505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>ほれ。わしが昔作成した秘笈だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "<宣伝の秘笈>と名付けた。"
+                                "\\nc<Senior Employee>Here. This is a secret manual I created a long time ago. I\nnamed it <Promotion's Secret Manual>."
                             ]
                         },
                         {
@@ -8739,14 +8522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>君も仕事がデキる社員に見えるが、この秘笈があれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さらなる高みを目指せるだろう。"
+                                "\\nc<Senior Employee>You seem like an employee who can get the job done, but with\nthis manual, you could aim even higher."
                             ]
                         },
                         {
@@ -8763,14 +8539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>秘笈は今あげよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "仕事の中で秘笈の教えに従い、経験を積むといい。"
+                                "\\nc<Senior Employee>I'll give you the manual now. Follow the teachings of the\nmanual in your work and gain experience."
                             ]
                         },
                         {
@@ -8798,14 +8567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<><宣伝の秘笈>を獲得した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大した効果はなさそうだ…"
+                                "\\nc<> Gained <Promotion's Secret Manual>! It doesn't seem to have\nmuch effect..."
                             ]
                         },
                         {
@@ -8843,7 +8605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>じゃあ、頑張りたまえ。"
+                                "\\nc<Senior Employee>Well then, do your best."
                             ]
                         },
                         {
@@ -8893,14 +8655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>んん？　あっさり断るだと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…ほほ。わしの目が狂っていたようだな。"
+                                "\\nc<Senior Employee>Hm? You're declining just like that?... Ho ho. It seems my\neyes were mistaken."
                             ]
                         },
                         {
@@ -8926,7 +8681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<年配社員>あっさりならぬ、こってりじゃいけないのかね？　ははは！"
+                                "\\nc<Senior Employee>If not simply, should it not be richly? Ha ha ha!"
                             ]
                         },
                         {
@@ -9015,14 +8770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>仕事の中で秘笈の教えに従い、経験を積むといい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、頑張りたまえ。"
+                                "\\nc<Senior Employee>\"Follow the teachings of the secret manual in your work and\naccumulate experience. Well then, do your best.\""
                             ]
                         },
                         {
@@ -9101,14 +8849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>秘笈の教えはどうだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "効果があったって？　ふふ、当然だろう。"
+                                "\\nc<Senior Employee>How about the teachings of the secret technique? Did you\nfeel its effects? Heh, of course, you did."
                             ]
                         },
                         {
@@ -9125,14 +8866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>さぁさぁ、君の技はまだ完成していない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのついでに、もう一度頼みを聞いてくれないか。"
+                                "\\nc<Senior Employee>Now, now, your skills are not yet perfected. While you're at\nit, could you listen to another request of mine?"
                             ]
                         },
                         {
@@ -9149,7 +8883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>君はさらなる高みを目指せる…"
+                                "\\nc<Senior Employee>You can aim for even greater heights..."
                             ]
                         },
                         {
@@ -9166,14 +8900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>淫魔第一産業での仕事も終わったことだし、わしは会社に戻るとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次はうちの会社で会おう。"
+                                "\\nc<Senior Employee>Now that the work at the first industry of succubi is done,\nI shall return to the company. Let's meet at our company\nnext time."
                             ]
                         },
                         {
@@ -9190,7 +8917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>ちなみに、わしの白髪はいつから生えたか知ってるか？"
+                                "\\nc<Senior Employee>By the way, do you know when I started getting gray hair?"
                             ]
                         },
                         {
@@ -9216,7 +8943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>正解は、知らんがな！　ハハ！！"
+                                "\\nc<Senior Employee>The correct answer is, I don't know! Haha!!"
                             ]
                         },
                         {
@@ -9253,14 +8980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><宣伝の秘笈>をもう少し理解できるようになった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宣伝に自信を持てるようになった！"
+                                "\\nc<> I've come to understand the <Secrets of Advertising> a bit\nmore. I've gained confidence in my advertising!"
                             ]
                         },
                         {
@@ -9308,7 +9028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>じゃあ、頑張れよ。"
+                                "\\nc<Senior Employee>Well then, good luck."
                             ]
                         },
                         {
@@ -9407,14 +9127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>淫魔第一産業での仕事も終わったことだし、わしは会社に戻るとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次はうちの会社で会おう。"
+                                "\\nc<Senior Employee>Now that the work at the Succubus First Industry is done, I\nshall return to the company. Let's meet at our company next\ntime."
                             ]
                         },
                         {
@@ -9431,7 +9144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>じゃあ、頑張れよ。"
+                                "\\nc<Senior Employee>Well then, good luck."
                             ]
                         },
                         {
@@ -9561,14 +9274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<年配社員>ほほ。わしに何か用かね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用はトイレで足しなさい。"
+                                "\\nc<Senior Employee>\"Ho ho. Do you need something from me? If you need to go,\nuse the toilet.\""
                             ]
                         },
                         {
@@ -9665,7 +9371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>退勤する？"
+                                "\\nc<>Leaving work?"
                             ]
                         },
                         {
@@ -9673,8 +9379,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9929,7 +9635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<オークの客>ふう…ふうっ。"
+                                "\\nc<Orc Customer>Phew... Phew..."
                             ]
                         },
                         {
@@ -9946,7 +9652,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<オークの客>今日は余裕があっていいぜ…クフフ。"
+                                "\\nc<Orc Customer>Today's pretty relaxed, nice... Heh heh."
                             ]
                         },
                         {
@@ -9984,7 +9690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<オークの客>お前なかなか可愛いじゃねぇか…どうだ？　今日予約入ってるか？"
+                                "\\nc<Orc Customer>You're quite cute, aren't you... How about it? Got any\nreservations today?"
                             ]
                         },
                         {
@@ -10001,21 +9707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<オークの客>今日は業務日じゃないって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何ふざけたこと言いやがる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "客の要求を無視する気か？"
+                                "\\nc<Orc Customer>Not a work day today, you say? What kind of nonsense is\nthat! Are you planning to ignore a customer's request?"
                             ]
                         },
                         {
@@ -10346,14 +10038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>コスプレコースがあると聞いて来てみたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部おじさん好みの衣装じゃないか…"
+                                "\\nc<Maniac Customer>I heard there was a cosplay course, so I came to check it\nout, and all the outfits are just to an old man's liking..."
                             ]
                         },
                         {
@@ -10432,14 +10117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>コスプレコースがあると聞いて来てみたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部おじさん好みの衣装じゃないか…"
+                                "\\nc<Maniac Customer>\"I came here hearing there was a cosplay course, but all the\noutfits are just old men's preferences...\""
                             ]
                         },
                         {
@@ -10456,14 +10134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>研究機関に勤めてる俺の友達なんかは淫魔に牛柄ビキニ着させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "母乳促進剤の実験をしたって言うのに！！　くぅぅ…羨ましい。"
+                                "\\nc<Maniac Customer>\"A friend of mine who works at a research institute made a\nsuccubus wear a cow-pattern bikini and tested a breast milk\nstimulant on her!! Ugh... I'm so jealous.\""
                             ]
                         },
                         {
@@ -10480,14 +10151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>…何だ？　なんでそんな目で見るんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "客の好みに合わせるのがプロってやつだろ？"
+                                "\\nc<Customer>\"...What? Why are you looking at me like that? Catering to\nthe customer's taste is what being a professional is all\nabout, right?\""
                             ]
                         },
                         {
@@ -10504,14 +10168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ふう、はあ…牛柄ビキニを着た女の子とヤりてぇ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとかビキニを用意すれば、ヤってくれないかな…"
+                                "\\nc<Customer>\"Phew, sigh... I want to do it with a girl wearing a cow-\npattern bikini... If I could somehow prepare a bikini, would\nshe do it with me, I wonder...\""
                             ]
                         },
                         {
@@ -10608,14 +10265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>コスプレコースがあると聞いて来てみたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部おじさん好みの衣装じゃないか…"
+                                "\\nc<Maniac Customer>I heard there was a cosplay course, so I came to check it\nout, but all the outfits are just what an old man would\nlike..."
                             ]
                         },
                         {
@@ -10694,14 +10344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>コスプレコースがあると聞いて来てみたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部おじさん好みの衣装じゃないか…"
+                                "\\nc<Maniac Customer>I came here because I heard there was a cosplay course, and\nit's all outfits that old men would like..."
                             ]
                         },
                         {
@@ -10718,14 +10361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>ん？　牛柄ビキニを持ってきたって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よ、よし！　お金ならいくらでも出すぞ！"
+                                "\\nc<Maniac Customer>Huh? You brought a cow-pattern bikini? Alright! I'll pay\nwhatever it costs!"
                             ]
                         },
                         {
@@ -10742,14 +10378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>今すぐは無理？　はぁ…客の扱いが上手い淫魔だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よし、乗ってやる。"
+                                "\\nc<Maniac Customer>It's impossible right now? Sigh... You're a succubus who\nknows how to handle customers. Fine, I'll take you up on it."
                             ]
                         },
                         {
@@ -10766,7 +10395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>スケジュールは任せるよ。俺を満足させてくれ。"
+                                "\\nc<Maniac Customer>I'll leave the schedule to you. Just make sure to satisfy\nme."
                             ]
                         },
                         {
@@ -10873,7 +10502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>スケジュールは任せるよ。俺を満足させてくれ。"
+                                "\\nc<Maniac Customer>\"I'll leave the schedule to you. Satisfy me.\""
                             ]
                         },
                         {
@@ -10952,14 +10581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>いや～このまえは本当に満足したよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "母乳が出ないのがちょっと残念だったけど…"
+                                "\\nc<Maniac Customer>Ahh, last time was truly satisfying. It's a bit of a shame\nthat there was no breast milk though..."
                             ]
                         },
                         {
@@ -10976,7 +10598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>はい、お礼。"
+                                "\\nc<Maniac Customer>Here, as thanks."
                             ]
                         },
                         {
@@ -11014,7 +10636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><魔力カプセル(大)>を獲得した！"
+                                "\\nc<>Gained a Large Magic Capsule!"
                             ]
                         },
                         {
@@ -11042,14 +10664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>これからも来るから、よろしく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新しい衣装が手に入ったらいつでも来な。"
+                                "\\nc<Maniac Customer>I'll be coming again, so take care. Whenever you get new\noutfits, let me know anytime."
                             ]
                         },
                         {
@@ -11136,14 +10751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>いや～このまえは本当に満足したよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "母乳が出ないのがちょっと残念だったけど…"
+                                "\\nc<Maniac Customer>Ahh, last time was truly satisfying. It's a bit of a shame\nthat there was no breast milk though..."
                             ]
                         },
                         {
@@ -11160,14 +10768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>これからも来るから、よろしく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新しい衣装が手に入ったらいつでも来な。"
+                                "\\nc<Maniac Customer>I'll be coming again, so take care of me. Whenever you get\nnew outfits, let me know anytime."
                             ]
                         },
                         {
@@ -11246,14 +10847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マニアックな客>コスプレコースがあると聞いて来てみたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部おじさん好みの衣装じゃないか…"
+                                "\\nc<Maniac Customer>\"I heard there was a cosplay course, and when I came to\ncheck it out, all the outfits are just to an old man's\nliking...\""
                             ]
                         },
                         {
@@ -11572,14 +11166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入りの淫魔>ある朝、目が覚めたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔になってました…"
+                                "\\nc<New Succubus>One morning, I woke up to find myself turned into a\nsuccubus..."
                             ]
                         },
                         {
@@ -11596,14 +11183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入りの淫魔>病院でも原因不明。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "過去の文書を読みあさっても似たような事例はなく…"
+                                "\\nc<New Succubus>The hospital had no idea why. Even after scouring through\npast documents, there was no similar case..."
                             ]
                         },
                         {
@@ -11620,14 +11200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入りの淫魔>不安と恨みの毎日でしたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人生なんとかなるもんなんですね。"
+                                "\\nc<New Succubus>It was a daily life filled with anxiety and resentment, but\nsomehow, life finds a way, doesn't it?"
                             ]
                         },
                         {
@@ -11715,14 +11288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入りの淫魔>あ、こんにちは。私に何かご用ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノルマの話ならお断りします。"
+                                "\\nc<New Succubus>Ah, hello. Do you need something from me? If it's about\nquotas, I must decline."
                             ]
                         },
                         {
@@ -11739,14 +11305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入りの淫魔>…はい？　研究機関の派遣ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ新入りなのに、もうそんな業務を任されるんですか？"
+                                "\\nc<New Succubus>...Yes? Are you dispatch from the research institute? Even\nthough I'm still new, I'm already being assigned such tasks?"
                             ]
                         },
                         {
@@ -11763,14 +11322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入りの淫魔>すみませんが嫌です。ノルマも満たせなくて大変なのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな怪しい研究機関の実験に参加しろなんて…"
+                                "\\nc<New Succubus>I'm sorry, but I refuse. It's hard enough trying to meet\nquotas without participating in experiments for some dubious\nresearch institute..."
                             ]
                         },
                         {
@@ -11787,21 +11339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入りの淫魔>しかもあなたはうちのチームの人でもないじゃないですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事の依頼なら、ちゃんと手順を踏んでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新入りだからってなめないでください。"
+                                "\\nc<New Succubus>Besides, you're not even part of our team, are you? If you\nhave a work request, please follow the proper procedures.\nDon't underestimate me just because I'm new."
                             ]
                         },
                         {
@@ -11889,14 +11427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<新入りの淫魔>あ、こんにちは。私に何かご用ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノルマの話ならお断りします。"
+                                "\\nc<New Succubus>Ah, hello. Do you need something from me? If it's about\nquotas, I refuse."
                             ]
                         },
                         {
@@ -11975,14 +11506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>うちのチームの新人の子さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初は使いやすかったけど、すぐ仕事に慣れてきてなめられなくなったんだよね。"
+                                "\\nc<Lewd Demon Employee>\"That newbie in our team, at first she was easy to handle,\nbut she quickly got used to the job and stopped being\nunderestimated.\""
                             ]
                         },
                         {
@@ -11999,14 +11523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>そしたらつい先日、研究機関の派遣に志願したの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "科学の発展に力になりたいとかで？　なんか目もイっちゃってたしさ。"
+                                "\\nc<Lewd Demon Employee>\"Then, just the other day, she volunteered for a dispatch to\nthe research institute. Something about wanting to\ncontribute to the advancement of science? Her eyes were\ntotally lit up.\""
                             ]
                         },
                         {
@@ -12023,14 +11540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>まったく、会社は夢を広げるところじゃないっていうのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？　どうなったかって？　そのあとは研究機関に出勤するようになったよ。"
+                                "\\nc<Lewd Demon Employee>\"Seriously, it's not like the company is a place to expand\nyour dreams... Huh? What happened to her? After that, she\nstarted working at the research institute.\""
                             ]
                         },
                         {
@@ -12047,7 +11557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>所属はうちのチームだけどさ…人が減って大変なんだから。"
+                                "\\nc<Lewd Demon Employee>\"She's still part of our team, but... with fewer people,\nit's been tough.\""
                             ]
                         },
                         {
@@ -12134,14 +11644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>週末まで出勤なんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただでさえキツいのに、人まで減ってもう最悪…"
+                                "\\nc<Lewd Demon Employee>\"Having to work through the weekend... As if it wasn't tough\nenough, now we're short-staffed too. This is the worst...\""
                             ]
                         },
                         {
@@ -12280,7 +11783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>何の用ですか？　要件がないなら話かけないでください。"
+                                "\\nc<Sharp Newcomer>What do you want? If you have no business, please don't\nspeak to me."
                             ]
                         },
                         {
@@ -12359,7 +11862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>何の用ですか？　要件がないなら話かけないでください。"
+                                "\\nc<Sharp Newcomer>What do you want? If you don't have any business with me,\nplease don't talk to me."
                             ]
                         },
                         {
@@ -12376,14 +11879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>え？　研究機関に派遣？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に実験体になれと言うのですか？"
+                                "\\nc<Sharp Newcomer>Eh? Dispatched to a research institution? Are you telling me\nto become a test subject?"
                             ]
                         },
                         {
@@ -12400,14 +11896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>人間から淫魔になったケースの被験体？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間を対象にした非人道的な実験に加担するというのですか？"
+                                "\\nc<Sharp Newcomer>A test subject for a case of a human turned into a succubus?\nAre you asking me to take part in inhumane experiments on\nhumans?"
                             ]
                         },
                         {
@@ -12424,14 +11913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>こんな会社、もうやってられません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも咲姫さん、うちのチームの上司でもないじゃないですか。"
+                                "\\nc<Sharp Newcomer>I can't stand this company anymore. Besides, Saki-san,\nyou're not even the boss of our team, are you?"
                             ]
                         },
                         {
@@ -12448,14 +11930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>マスコミにこの情報を提供します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究機関が人間相手に怪しい実験をやってるって！"
+                                "\\nc<Sharp Newcomer>I will provide this information to the media. That the\nresearch institution is conducting suspicious experiments on\nhumans!"
                             ]
                         },
                         {
@@ -12472,7 +11947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>…そういえば咲姫さん、マスコミによく派遣行ってましたね。"
+                                "\\nc<Sharp Newcomer>...Come to think of it, Saki-san, you often get dispatched\nto the media, don't you?"
                             ]
                         },
                         {
@@ -12489,14 +11964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>信頼できる人とかいますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はこの件を見逃すわけにはいかないので。"
+                                "\\nc<Sharp Newcomer>Do you have someone you can trust? I can't overlook this\nmatter."
                             ]
                         },
                         {
@@ -12504,8 +11972,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12548,14 +12016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<とがった新入り>そうなんですか？　残念ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マスコミのメールアドレス、どこにあったっけ…"
+                                "\\nc<Sharp Newcomer>Is that so? That's unfortunate. Now, where was that media\nemail address..."
                             ]
                         },
                         {
@@ -12587,14 +12048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>よかったですね。咲姫さんは、いつまでも会社の奴隷として扱われるつもりですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは明白な人権侵害ですよ！"
+                                "\\nc<Sharp Newcomer>You're lucky, aren't you, Saki-san? Do you intend to be\ntreated as a slave by the company forever? This is a clear\nviolation of human rights!"
                             ]
                         },
                         {
@@ -12611,21 +12065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>これは私がこの会社に勤めている間に書いた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不当な扱いのリストです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの記者さんに必ず伝えてください！"
+                                "\\nc<Sharp Newcomer>This is a list of unfair treatments I've documented while\nworking at this company. Please make sure to tell that\nreporter!"
                             ]
                         },
                         {
@@ -12663,7 +12103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><告発資料>を獲得した。"
+                                "\\nc<> You've obtained <告発資料>."
                             ]
                         },
                         {
@@ -12751,7 +12191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とがった新入り>何の用ですか？　要件がないなら話かけないでください。"
+                                "\\nc<Sharp Newcomer>What do you want? If you have no business, please don't\nspeak to me."
                             ]
                         },
                         {
@@ -13019,7 +12459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>はあ…ちょっとだけ休もう…ん？"
+                                "\\nc<Lewd Demon Employee>*sigh*... Let's take a little break... Hm?"
                             ]
                         },
                         {
@@ -13036,14 +12476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>ロビーに新人しかいないの、見える？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "週末だから、みんな忙しいんだ…"
+                                "\\nc<Lewd Demon Employee>Can you see that there are only newbies in the lobby? It's\nbecause it's the weekend, everyone is busy..."
                             ]
                         },
                         {
@@ -13143,7 +12576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>……"
+                                "\\nc<>..."
                             ]
                         },
                         {
@@ -13160,7 +12593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>盗み聞きしないほうがよさそうだ…"
+                                "\\nc<>It seems better not to eavesdrop..."
                             ]
                         },
                         {
@@ -13255,14 +12688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<気が弱い客>それでですね…その… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも…さんを指名する理由なんですけどね…"
+                                "\\nc<Timid Customer>So, um... the reason I always request...san is..."
                             ]
                         },
                         {
@@ -13279,7 +12705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>…はあ。"
+                                "\\nc<Lewd Demon Employee>...sigh."
                             ]
                         },
                         {
@@ -13367,7 +12793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>自動販売機の奥に何か落ちているみたいだ…"
+                                "\\nc<>It seems like something has fallen behind the vending\nmachine..."
                             ]
                         },
                         {
@@ -13384,7 +12810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>手を入れてみる？"
+                                "\\nc<>Should I reach in and try to grab it?"
                             ]
                         },
                         {
@@ -13392,8 +12818,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13458,14 +12884,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>どうやら私の勘違いだったらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何もなかった…"
+                                "\\nc<>It appears I was mistaken. There was nothing there..."
                             ]
                         },
                         {
@@ -13525,7 +12944,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を発見した！"
+                                "\\nc<>Discovered a can of coffee!"
                             ]
                         },
                         {
@@ -13585,7 +13004,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を発見した！"
+                                "\\nc<>Discovered a can of coffee!"
                             ]
                         },
                         {
@@ -13645,7 +13064,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<><缶緑茶>を発見した！"
+                                "\\nc<>Discovered a can of green tea!"
                             ]
                         },
                         {
@@ -13695,14 +13114,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>急に寒気がして手を離した…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうやら、持ち主がいるみたいだ…"
+                                "\\nc<>I suddenly felt a chill and let go... It seems like it has\nan owner..."
                             ]
                         },
                         {
@@ -13742,7 +13154,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>後ろを振りむくと、優しそうな顔のおばあさんが立っていた…"
+                                "\\nc<>When I turned around, there was an old lady with a kind face\nstanding there..."
                             ]
                         },
                         {
@@ -13759,7 +13171,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>おばあさんにこの缶の持ち主かと聞くと、そうだと答える…"
+                                "\\nc<>When I asked the old lady if this can was hers, she said it\nwas..."
                             ]
                         },
                         {
@@ -13776,7 +13188,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>缶を渡す？"
+                                "\\nc<>Hand over the can?"
                             ]
                         },
                         {
@@ -13784,8 +13196,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13815,7 +13227,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>おばあさんは、ありがとうと言いながら、何かを渡してきた…"
+                                "\\nc<>The old lady said thank you and handed me something..."
                             ]
                         },
                         {
@@ -13842,7 +13254,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<><魔力カプセル(大)>を獲得した！"
+                                "\\nc<>Gained a Large Magic Capsule!"
                             ]
                         },
                         {
@@ -13859,7 +13271,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>顔を上げると、おばあさんはすでに消えていた…"
+                                "\\nc<>When I looked up, the old lady had already disappeared..."
                             ]
                         },
                         {
@@ -13889,14 +13301,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>おばあさんは微笑みながら消えていった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あれ。ところで、なんでこんなところにおばあさんが…？"
+                                "\\nc<>The old lady disappeared with a smile. Wait, why was an old\nlady here in the first place...?"
                             ]
                         },
                         {
@@ -13923,7 +13328,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<><缶コーヒー>を獲得した。"
+                                "\\nc<>Acquired a can of coffee."
                             ]
                         },
                         {
@@ -13967,7 +13372,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>おとなしくさがった…"
+                                "\\nc<>I quietly backed away..."
                             ]
                         },
                         {

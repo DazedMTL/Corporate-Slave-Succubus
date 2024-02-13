@@ -7252,14 +7252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>もう十分楽しんだし、そろそろ逃げるとするか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここ、サービスはいいけど高すぎるんだよな。"
+                                "\\nc<Customer>I've had enough fun, maybe it's time to make a run for it...\nThis place has great service but it's just too expensive."
                             ]
                         },
                         {
@@ -7379,7 +7372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>妊娠コースの費用なんて絶対に払えない。"
+                                "\\nc<Customer>There's no way I can pay for a pregnancy course."
                             ]
                         },
                         {
@@ -7421,7 +7414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ロビーの社員>すう…すう…\\|\\^"
+                                "\\nc<Lobby Employee>Zzz... Zzz..."
                             ]
                         },
                         {
@@ -7466,14 +7459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]\\bustMoveTo[2, -100, 720, 30]まあ、勤務中に居眠りとはいいご身分ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっき掃除に行かせたうちのメンバーは？\\|\\^"
+                                "\\bustMsgExp[2, 1]\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Well, well, sleeping on the job? Where's the member I sent\nto clean earlier?"
                             ]
                         },
                         {
@@ -7729,14 +7715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ロビーの社員>わわっ！　ま、まだ帰ってないんですか？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "掃除ならもう終わってるはず…\\|\\^"
+                                "\\nc<Lobby Employee>Wah! They haven't returned yet? But... the cleaning should\nbe done by now..."
                             ]
                         },
                         {
@@ -7781,21 +7760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>帰ってこないから聞いてるんでしょ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったくもう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子、サボれるような性格じゃないのに。\\|\\^"
+                                "\\nc<Senpai>I'm asking because they haven't come back. Honestly... That\nchild isn't the type to slack off."
                             ]
                         },
                         {
@@ -7886,7 +7851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あら？　ちょっと、そこのあなた。\\|\\^"
+                                "\\nc<Senpai>Oh? Excuse me, you there."
                             ]
                         },
                         {
@@ -7903,7 +7868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ヒイッ…"
+                                "\\nc<Customer>Eek..."
                             ]
                         },
                         {

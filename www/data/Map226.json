@@ -7440,7 +7440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オフィスに戻りますか？"
+                                "Would you like to return to the office?"
                             ]
                         },
                         {
@@ -7448,8 +7448,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7744,14 +7744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>全体を解放するつもり？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻略が難しかったり時間がない人にオススメだよ。"
+                                "\\nc<???>Planning to unlock everything? It's recommended for those\nwho find it difficult or don't have the time."
                             ]
                         },
                         {
@@ -7759,8 +7752,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -7790,21 +7783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<？？？>ふーん…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "仕方ないな。解放してあげるって言ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当にお願いされるとは思わなかったよ。"
+                                "\\nc<???>Hmph... Can't be helped. I said I'd unlock it for you, but I\ndidn't think you'd actually ask."
                             ]
                         },
                         {
@@ -7861,7 +7840,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<？？？>頑張ってプレイしてみて。"
+                                "\\nc<???>Try your best to play through it."
                             ]
                         },
                         {
@@ -7975,14 +7954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "連休記念特別イベント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the special event for the holiday\nweekend?"
                             ]
                         },
                         {
@@ -7990,8 +7962,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8180,14 +8152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "創立記念日の特別イベント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the special event for the Founding\nAnniversary?"
                             ]
                         },
                         {
@@ -8195,8 +8160,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8385,14 +8350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初めての接待"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the first hospitality event?"
                             ]
                         },
                         {
@@ -8400,8 +8358,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8590,14 +8548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "日常的なフェラ業務"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the routine blowjob event?"
                             ]
                         },
                         {
@@ -8605,8 +8556,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8795,14 +8746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピンク色☆ぐちょぐちょ撮影コース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the Pink☆Sopping Wet Photo Shoot\nEvent?"
                             ]
                         },
                         {
@@ -8810,8 +8754,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9000,14 +8944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特別宣伝野外☆噴水ショー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the Special Promotion\nOutdoor☆Fountain Show Event?"
                             ]
                         },
                         {
@@ -9015,8 +8952,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9205,14 +9142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "連休記念特別処女競売"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the special virgin auction event for\nthe holiday weekend?"
                             ]
                         },
                         {
@@ -9220,8 +9150,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9410,14 +9340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう１回！　偽処女競売"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Once more! Would you like to watch the Fake Virgin Auction\nEvent again?"
                             ]
                         },
                         {
@@ -9425,8 +9348,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9615,14 +9538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "VIP客のペットの世話"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the VIP guest's pet care event?"
                             ]
                         },
                         {
@@ -9630,8 +9546,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9820,14 +9736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上流階級のペット紹介イベント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the Upper Class Pet Introduction\nEvent?"
                             ]
                         },
                         {
@@ -9835,8 +9744,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10025,14 +9934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新規アトラクションのテスト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the test event for the new\nattraction?"
                             ]
                         },
                         {
@@ -10040,8 +9942,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10230,14 +10132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新規アトラクションの正式導入"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the event for the official\nintroduction of the new attraction?"
                             ]
                         },
                         {
@@ -10245,8 +10140,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10435,14 +10330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新規SNS宣伝イベント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the new SNS promotion event?"
                             ]
                         },
                         {
@@ -10450,8 +10338,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10640,14 +10528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノルマのための外回り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the event for the sales quota?"
                             ]
                         },
                         {
@@ -10655,8 +10536,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10845,14 +10726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シャワーする時間くらいはください"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the event where I take time for a\nshower?"
                             ]
                         },
                         {
@@ -10860,8 +10734,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11050,14 +10924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの客との再会は最悪だった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the event where that encounter with\nthe customer was the worst?"
                             ]
                         },
                         {
@@ -11065,8 +10932,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11255,14 +11122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "引きこもりVIPのためのデリへルサービス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the Delivery Health Service event\nfor VIP shut-ins?"
                             ]
                         },
                         {
@@ -11270,8 +11130,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11460,14 +11320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助けてください、勇者様！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Please help me, Hero-sama! Would you like to view the event?"
                             ]
                         },
                         {
@@ -11475,8 +11328,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11665,14 +11518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巨根種族のミスマッチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the mismatch event of the well-\nendowed race?"
                             ]
                         },
                         {
@@ -11680,8 +11526,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11870,14 +11716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bad End...?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Bad End...? Would you like to view the event?"
                             ]
                         },
                         {
@@ -11885,8 +11724,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12075,14 +11914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気弱な客の潜在能力"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the Timid Customer's Latent Ability\nevent?"
                             ]
                         },
                         {
@@ -12090,8 +11922,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12280,14 +12112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聖職者の洗礼"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the Cleric's Baptism event?"
                             ]
                         },
                         {
@@ -12295,8 +12120,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12485,14 +12310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "代打で出動"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the substitution event?"
                             ]
                         },
                         {
@@ -12500,8 +12318,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12690,14 +12508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノルマのため！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "For the quota! Would you like to view the event?"
                             ]
                         },
                         {
@@ -12705,8 +12516,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12895,14 +12706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "楽しい取引先の会食"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the fun dining event with the\nclient?"
                             ]
                         },
                         {
@@ -12910,8 +12714,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13100,14 +12904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トークショーデビュー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the Talk Show Debut Event?"
                             ]
                         },
                         {
@@ -13115,8 +12912,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13305,14 +13102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラック企業の早期退勤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the event for leaving the black\ncompany early?"
                             ]
                         },
                         {
@@ -13320,8 +13110,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13510,14 +13300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新規プラットフォームの宣伝生放送"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the live broadcast event for the new\nplatform promotion?"
                             ]
                         },
                         {
@@ -13525,8 +13308,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13715,14 +13498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人間対象の感度薬物実験"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the human sensitivity drug\nexperiment event?"
                             ]
                         },
                         {
@@ -13730,8 +13506,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13920,14 +13696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人間対象の促進薬物実験"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the human subject drug enhancement\nexperiment event?"
                             ]
                         },
                         {
@@ -13935,8 +13704,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14125,14 +13894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強靭な異種族交配実験"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the robust interspecies breeding\nexperiment event?"
                             ]
                         },
                         {
@@ -14140,8 +13902,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14330,14 +14092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "苗床専門種族交配実験"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the Seedbed Specialized Crossbreeding\nExperiment Event?"
                             ]
                         },
                         {
@@ -14345,8 +14100,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14535,14 +14290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "健康食品の販促業務"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the health food promotion event?"
                             ]
                         },
                         {
@@ -14550,8 +14298,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14740,14 +14488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社員対象アンケート調査"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the employee survey event?"
                             ]
                         },
                         {
@@ -14755,8 +14496,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14945,14 +14686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宗教機関のボランティア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the volunteer event of the religious\norganization?"
                             ]
                         },
                         {
@@ -14960,8 +14694,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15150,14 +14884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "取引先監視のお使い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the event for the client surveillance\nerrand?"
                             ]
                         },
                         {
@@ -15165,8 +14892,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15355,14 +15082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャビネットの中にも人がいます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the event with someone inside the\ncabinet?"
                             ]
                         },
                         {
@@ -15370,8 +15090,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15560,14 +15280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然の警備業務実践"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the sudden security duty practice\nevent?"
                             ]
                         },
                         {
@@ -15575,8 +15288,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15765,14 +15478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪いことをしたら謝らないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "If you do something bad and don't apologize, do you want to\nsee the event?"
                             ]
                         },
                         {
@@ -15780,8 +15486,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15970,14 +15676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "福利厚生サービス用の派遣業務"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the welfare service dispatch event?"
                             ]
                         },
                         {
@@ -15985,8 +15684,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16175,14 +15874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先輩の教育時間"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the Senpai's Training Time event?"
                             ]
                         },
                         {
@@ -16190,8 +15882,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16380,14 +16072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先輩の体罰時間"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the senpai's punishment time event?"
                             ]
                         },
                         {
@@ -16395,8 +16080,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16585,14 +16270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先輩の接待"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the senpai's reception event?"
                             ]
                         },
                         {
@@ -16600,8 +16278,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16790,14 +16468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先輩の役員接待"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the senpai's executive entertainment\nevent?"
                             ]
                         },
                         {
@@ -16805,8 +16476,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16979,14 +16650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デッドエンド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the Dead End event?"
                             ]
                         },
                         {
@@ -16994,8 +16658,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17154,14 +16818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バッドエンド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the bad end event?"
                             ]
                         },
                         {
@@ -17169,8 +16826,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17329,14 +16986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノーマルエンド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the Normal End Event?"
                             ]
                         },
                         {
@@ -17344,8 +16994,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17786,7 +17436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>まだ解放されていないイベントです。"
+                                "\\nc<???>This event has not been unlocked yet."
                             ]
                         },
                         {
@@ -17865,14 +17515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トゥルーエンド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the True End Event?"
                             ]
                         },
                         {
@@ -17880,8 +17523,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18049,14 +17692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新入り淫魔の陰口"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the event where the new succubus\ntalks behind someone's back?"
                             ]
                         },
                         {
@@ -18064,8 +17700,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18224,14 +17860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先輩と猫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to watch the event with Senpai and the cat?"
                             ]
                         },
                         {
@@ -18239,8 +17868,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18399,14 +18028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "完璧な淫魔"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the perfect succubus event?"
                             ]
                         },
                         {
@@ -18414,8 +18036,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18574,14 +18196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "陰謀が明らかになる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the event where the conspiracy is\nrevealed?"
                             ]
                         },
                         {
@@ -18589,8 +18204,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18749,14 +18364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初めての評価日"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view the first evaluation day event?"
                             ]
                         },
                         {
@@ -18764,8 +18372,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18924,14 +18532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハッキングに気を付けて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Be careful of hacking! Would you like to watch the event?"
                             ]
                         },
                         {
@@ -18939,8 +18540,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19099,14 +18700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今月の優秀社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントを観ますか？"
+                                "Would you like to view this month's Employee of the Month\nevent?"
                             ]
                         },
                         {
@@ -19114,8 +18708,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

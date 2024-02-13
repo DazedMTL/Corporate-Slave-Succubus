@@ -5624,7 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スタジオに入りますか？"
+                                "Will you enter the studio?"
                             ]
                         },
                         {
@@ -5632,8 +5632,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -5951,7 +5951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入らないほうがよさそうだ…"
+                                "It seems better not to enter..."
                             ]
                         },
                         {
@@ -6039,7 +6039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入らないほうがよさそうだ…"
+                                "It seems better not to enter..."
                             ]
                         },
                         {
@@ -6167,7 +6167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>着いた。それじゃあいってらっしゃい。"
+                                "\\nc<Senpai>We've arrived. Take care then."
                             ]
                         },
                         {
@@ -6198,7 +6198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]はい…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Yes..."
                             ]
                         },
                         {
@@ -6443,14 +6443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>お話はうかがっております、咲姫様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スタジオには右側のドアからお入りください。"
+                                "\\nc<Employee>\"We have been informed of the situation, Saki-sama. Please\nenter the studio through the door on the right.\""
                             ]
                         },
                         {

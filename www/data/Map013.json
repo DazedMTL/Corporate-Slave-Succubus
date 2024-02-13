@@ -6336,7 +6336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>今日は最高だったな。バレる前に逃げねえと。"
+                                "\\nc<Yasuda-San>Today was the best. Gotta escape before we get caught."
                             ]
                         },
                         {
@@ -6420,7 +6420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>また会おうぜ…グホッ！"
+                                "\\nc<Yasuda-San>Let's meet again...ugh!"
                             ]
                         },
                         {
@@ -6458,7 +6458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveHome[2, 30]\\bustMsgExpression[2,1]まったく誰が勝手にこんな看板を…"
+                                "\\bustMoveHome[2, 30]\\bustMsgExpression[2,1]\\nc<Senpai>Seriously, who put up this sign without permission..."
                             ]
                         },
                         {
@@ -6489,7 +6489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>ひいっ！"
+                                "\\nc<Yasuda-San>Eek!"
                             ]
                         },
                         {
@@ -7001,14 +7001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、しっかしなさい。あなた、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのお客からちゃんとチケットもらったの？"
+                                "\\nc<Senpai>Saki, get a grip. Did you properly get a ticket from that\ncustomer?"
                             ]
                         },
                         {
@@ -7062,7 +7055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、それが、特別クーポンっていう…"
+                                "\\nc<Saki>Th-that's... something called a special coupon..."
                             ]
                         },
                         {
@@ -7123,14 +7116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>何言ってるの？　特別クーポンなんてあるわけないでしょ。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[2, 3]そしてこのクズは何なの？"
+                                "\\nc<Senpai>What are you talking about? There's no such thing as a\nspecial coupon. [bustMsgExp[2, 3]] And what's with this\ntrash?"
                             ]
                         },
                         {
@@ -7220,7 +7206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustExp[1, 1]はいいっ？！"
+                                "\\bustExp[1, 1]\\nc<Saki>Yes?! What?!"
                             ]
                         },
                         {
@@ -7251,14 +7237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<安田>うわっ、離せ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺のスマホ返せよ！　お、お金も払うからさ！　クアアッ！"
+                                "\\nc<Yasuda-San>Whoa, let go! Give me back my smartphone! I'll pay, just let\nme go! Argh!"
                             ]
                         },
                         {
@@ -8149,14 +8128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ブラックリストに入ってるお客じゃない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警備のほうでしっかりやってちょうだい。"
+                                "\\nc<Senpai>He's not on the blacklist... Please make sure security\nhandles this properly."
                             ]
                         },
                         {
@@ -8210,7 +8182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ、じゃあ私は…"
+                                "\\nc<Saki>Eh, so what about me..."
                             ]
                         },
                         {
@@ -8255,14 +8227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]騙されて無駄骨を折ったのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ…精気を奪ったから無駄骨ではないかしら？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>You were fooled and wasted your effort. Well... it wasn't a\ntotal waste since you drained his energy, right?"
                             ]
                         },
                         {
@@ -8279,14 +8244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]…今回は警備のほうのミスもあるから特別に許してあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつはもう二度と来れないわ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>...This time I'll let it slide because security also made a\nmistake. He won't be able to come back ever again."
                             ]
                         },
                         {
@@ -8331,7 +8289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]先輩…"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>Senpai..."
                             ]
                         },
                         {
@@ -8376,7 +8334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>早く起きて次のお客を通しなさい。まだ終わってないわよ。"
+                                "\\nc<Senpai>Hurry up and get ready for the next customer. We're not done\nyet."
                             ]
                         },
                         {
@@ -8421,7 +8379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](そりゃそうだよね…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(That figures...)"
                             ]
                         },
                         {
@@ -8482,7 +8440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>結局その日も残業した。"
+                                "\\nc<>I ended up working overtime that day as well."
                             ]
                         },
                         {

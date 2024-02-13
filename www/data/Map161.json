@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -4858,14 +4858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>やあ、咲姫ちゃん！　時間ピッタリだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ささ、早く行こう。いい店を押さえたんだ。"
+                                "\\nc<Reporter>Hey, Saki-chan! Right on time. Come on, let's go quickly.\nI've reserved a nice place."
                             ]
                         },
                         {
@@ -4936,14 +4929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ほ、本日はお招きいただきありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、本当に私なんかがご一緒してもいいんですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Oh, thank you for inviting me today! But, is it really okay\nfor someone like me to join?"
                             ]
                         },
                         {
@@ -4974,14 +4960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<取材者>もちろん！　今回の主役は咲姫ちゃんだからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまえの番組が大成功でさ、続編も作りたいくらいだよ。"
+                                "\\nc<Reporter>Of course! You're the star this time, Saki-chan. The last\nshow was a huge success, and I'd even like to make a sequel."
                             ]
                         },
                         {
@@ -5012,14 +4991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]あはは、次回もぜひよろしくお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(今の私、ちょっとビジネスマンっぽかった…？)"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Ahaha, I'm looking forward to working with you next time\ntoo. (Did I sound a bit like a businessman just now...?)"
                             ]
                         },
                         {
@@ -5059,7 +5031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>そろそろ時間ですので、早く行きましょう！"
+                                "\\nc<Staff>It's about time, so let's go quickly!"
                             ]
                         },
                         {
@@ -5090,14 +5062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0](そういや時間的にちょっと早いような…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが健全な打ち上げってやつ？)"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>(Come to think of it, it feels a bit early... Is this what\nthey call a wholesome wrap party?)"
                             ]
                         },
                         {

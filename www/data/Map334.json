@@ -3849,14 +3849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>おめでとう、咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうこれ以上、私が教えることはないわ。"
+                                "\\nc<Senpai>Congratulations, Saki. There's nothing more I can teach you."
                             ]
                         },
                         {
@@ -3882,21 +3875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>初めて来たときはいったいどうしようかと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ったけど…私が教える技術を１年ですべて学んだ淫魔は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたが初めてよ。"
+                                "\\nc<Senpai>When you first arrived, I wondered what to do... but you're\nthe first succubus to learn all the techniques I teach in\njust one year."
                             ]
                         },
                         {
@@ -3957,14 +3936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ？　本当ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな…ありえない！"
+                                "\\nc<Saki>Eh? Really? That's... impossible!"
                             ]
                         },
                         {
@@ -4009,21 +3981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>本当よ。私の技術は全部伝授したのよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残ったのは…咲姫、あなたが地に足を着けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生きていくことだけね。"
+                                "\\nc<Senpai>It's true. I've taught you all my techniques. What's left\nis... for you, Saki, to live with your feet firmly on the\nground."
                             ]
                         },
                         {
@@ -4084,7 +4042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>私はいつも地に足は着いていると思いますけど…"
+                                "\\nc<Saki>I always thought my feet were firmly on the ground..."
                             ]
                         },
                         {
@@ -4129,7 +4087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もうこういう受け答えも自然にできるのね。"
+                                "\\nc<Senpai>You can even respond naturally to this kind of conversation\nnow."
                             ]
                         },
                         {
@@ -4190,14 +4148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>へへッ。これ以上教わることがないなら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は先輩と同じレベルってことじゃないですか？"
+                                "\\nc<Saki>Hehe. If there's nothing more to learn... does that mean I'm\non the same level as you, Senpai?"
                             ]
                         },
                         {
@@ -4258,7 +4209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ん？　まあ、そうなるわね。"
+                                "\\nc<Senpai>Hm? Well, I suppose that's true."
                             ]
                         },
                         {
@@ -4319,14 +4270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あれ？　意外と素直に…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当かな？　先輩と同じレベルになったっていう話…)"
+                                "\\nc<Saki>(Huh? She agreed so easily... Is it true? The talk about\nbeing on the same level as Senpai...)"
                             ]
                         },
                         {
@@ -4378,14 +4322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それじゃあ、もう次の四半期からはノルマも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じ量に割りあててもいいわよね？"
+                                "\\nc<Senpai>Then, from the next quarter, we can assign you the same\namount of quotas, right?"
                             ]
                         },
                         {
@@ -4446,7 +4383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>すみません…"
+                                "\\nc<Saki>I'm sorry..."
                             ]
                         },
                         {

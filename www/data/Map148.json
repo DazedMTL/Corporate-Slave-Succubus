@@ -3036,14 +3036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "特別宣伝野外☆噴水ショー"
+                                "Would you like to watch the event? Special Promotion\nOutdoor☆Fountain Show-"
                             ]
                         },
                         {
@@ -3051,8 +3044,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -3224,14 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>近頃、実績があまり良くないですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな頑張ってるのに、お客が減ったような気がします。"
+                                "\\nc<Member 1>Our performance hasn't been very good lately. Despite\neveryone's hard work, it feels like we're losing customers."
                             ]
                         },
                         {
@@ -3248,14 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>ほかのチームに比べれば実績はトップですよ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先月よりは下がりましたけど…"
+                                "\\nc<Member 2>Compared to other teams, our performance is still at the\ntop, right? Although it has decreased since last month..."
                             ]
                         },
                         {
@@ -3300,21 +3279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]全体の来客数そのものが減ったのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先月に比べて15パーセントの減少…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近くに同業者が現れたからかしら。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>The overall number of visitors has decreased. There's been a\n15 percent drop compared to last month... Maybe it's because\na competitor has appeared nearby."
                             ]
                         },
                         {
@@ -3359,7 +3324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>え…同業者ですか？"
+                                "\\nc<Saki>Eh... A competitor?"
                             ]
                         },
                         {
@@ -3390,7 +3355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>そりゃまあ、この業界って飽和状態だから。"
+                                "\\nc<Member 1>Well, this industry is pretty saturated after all."
                             ]
                         },
                         {
@@ -3407,14 +3372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー２>うちよりはかなり小さくて安心したけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客は新しいもの好きだからね…"
+                                "\\nc<Member 2>I was relieved that they're much smaller than us, but\ncustomers do love new things..."
                             ]
                         },
                         {
@@ -3459,14 +3417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>このままだと取り返しのつかないことになるかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当分は宣伝に集中しましょう。"
+                                "\\nc<Senpai>If things continue this way, it might become irreparable.\nLet's focus on advertising for the time being."
                             ]
                         },
                         {
@@ -3483,14 +3434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>午後はみんなで外回りよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それぞれ１エリアずつ担当して。"
+                                "\\nc<Senpai>This afternoon, everyone will go out. Each person will be\nresponsible for one area."
                             ]
                         },
                         {
@@ -3521,7 +3465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<全員>はい！"
+                                "\\nc<Everyone>Yes!"
                             ]
                         },
                         {

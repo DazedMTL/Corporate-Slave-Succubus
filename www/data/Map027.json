@@ -2455,7 +2455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>他人の視線を感じる…"
+                                "\\nc<>I feel someone's gaze..."
                             ]
                         },
                         {
@@ -2534,7 +2534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>キャビネットの中には怖そうな物がたくさん入っている…"
+                                "\\nc<>The cabinet is filled with lots of scary-looking things..."
                             ]
                         },
                         {
@@ -2551,7 +2551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><手錠>を獲得した！"
+                                "\\nc<>Gained <Handcuffs>!"
                             ]
                         },
                         {
@@ -2568,7 +2568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><ロープ>を獲得した！"
+                                "\\nc<>Gained <Rope>!"
                             ]
                         },
                         {
@@ -2701,14 +2701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<><手錠>と<ロープ>のシリアルナンバーが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "<謎の書類>の準備品目と一致する！"
+                                "\\nc<> The serial numbers for the <Handcuffs> and <Rope> match the\nitems listed on the <Mysterious Documents>!"
                             ]
                         },
                         {
@@ -2725,7 +2718,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<><作業指示書類>を獲得した！"
+                                "\\nc<> You've obtained the <Work Instructions Document>!"
                             ]
                         },
                         {
@@ -2912,14 +2905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>淫魔はいいよね。太る心配をしなくていいし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体重の管理もしなくていいじゃん？"
+                                "\\nc<Exercise Employee>Succubi are great, aren't they? No need to worry about\ngetting fat or managing weight, right?"
                             ]
                         },
                         {
@@ -3004,14 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>ふむ？　君は…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感じる。君の体から漂う薬の気配を…"
+                                "\\nc<Exercise Employee>Hmm? I can feel it... the scent of medicine emanating from\nyour body..."
                             ]
                         },
                         {
@@ -3028,7 +3007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>ふっ、よし。"
+                                "\\nc<Exercise Employee>Heh, alright."
                             ]
                         },
                         {
@@ -3045,7 +3024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>これも縁だし、受けとりな。"
+                                "\\nc<Exercise Employee>This must be fate, take it."
                             ]
                         },
                         {
@@ -3111,14 +3090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>一目で分かるぞ。君と僕は同類…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "果たしてどっちが最果てにたどりつくか。ワクワクするぜ。"
+                                "\\nc<Exercise Employee>It's obvious at a glance. You and I are the same kind... I\nwonder who will reach the very end first. It's exciting."
                             ]
                         },
                         {
@@ -3135,21 +3107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>見てのとおり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕はもう髪の毛すらあまり残ってないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薬の力を使ってでも…僕は最果てにたどりついてみせる。"
+                                "\\nc<Exercise Employee>As you can see, I hardly have any hair left. But even if it\ntakes using drugs... I'll show you that I can reach the very\nend."
                             ]
                         },
                         {
@@ -3166,14 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>これが必要なら、来週にまたおいで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕はいつでもここにいるから。"
+                                "\\nc<Exercise Employee>If you need this, come again next week. I'll always be here."
                             ]
                         },
                         {
@@ -3269,14 +3220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>淫魔はいいよね。太る心配をしなくていいし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体重の管理もしなくていいじゃん？"
+                                "\\nc<Exercise Staff Member>Succubi have it good, don't they? No need to worry about\ngetting fat or managing their weight, right?"
                             ]
                         },
                         {
@@ -3293,14 +3237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>また来たのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、受けとりな。"
+                                "\\nc<Exercise Employee>You're back again? Here, take this."
                             ]
                         },
                         {
@@ -3338,7 +3275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><改造プロテイン>を獲得した！"
+                                "\\nc<> Gained <Modified Protein>!"
                             ]
                         },
                         {
@@ -3366,14 +3303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>これが必要なら、来週にまたおいで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕はいつでもここにいるから。"
+                                "\\nc<Exercise Employee>If you need this, come back next week. I'm always here."
                             ]
                         },
                         {
@@ -3461,7 +3391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>……"
+                                "\\nc<Exercise Employee>..."
                             ]
                         },
                         {
@@ -3478,14 +3408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>今の君には必要ないだろうけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、受けとりな。"
+                                "\\nc<Exercise Employee>You might not need this right now, but... here, take it."
                             ]
                         },
                         {
@@ -3523,7 +3446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><現代の秘薬>を獲得した！"
+                                "\\nc<>Gained <Modern Elixir>!"
                             ]
                         },
                         {
@@ -3551,14 +3474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<運動する社員>…必要ならおいで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の君に…僕は可能性を感じてるんだ。"
+                                "\\nc<Exercise Employee>...If you need it, come see me. I sense potential in you as\nyou are now."
                             ]
                         },
                         {
@@ -3655,7 +3571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<運動する社員>……"
+                                "\\nc<Exercise Employee>..."
                             ]
                         },
                         {
@@ -3682,14 +3598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<運動する社員>これが必要なら、来週にまたおいで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕はいつでもここにいるから。"
+                                "\\nc<Exercise Employee>If you need this, come again next week. I'm always here."
                             ]
                         },
                         {
@@ -3838,14 +3747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<休んでいる社員>週末なのに、心置きなく休めないよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シフト制を選んだ僕のせいなんだろうな。"
+                                "\\nc<Resting Employee>\"Even though it's the weekend, I can't rest without\nworries... It's probably my fault for choosing a shift\nsystem.\""
                             ]
                         },
                         {
@@ -3862,14 +3764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<休んでいる社員>どうせやることもないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "退勤しても分からないんじゃ？"
+                                "\\nc<Resting Employee>\"After all, there's nothing to do, so maybe no one will\nnotice if I leave work?\""
                             ]
                         },
                         {

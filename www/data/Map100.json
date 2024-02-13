@@ -7324,14 +7324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>や、やだ！　放してください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強制派遣だけはお許しを！　どうか……"
+                                "\\nc<Lewd Demon Employee>No, no! Please let me go! Anything but forced dispatch,\nplease...!"
                             ]
                         },
                         {
@@ -8249,14 +8242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せ、先輩。あれ、何ですか？　どういう状況ですか？"
+                                "\\nc<Saki>Eh?! Se-senpai. What's that? What's going on?"
                             ]
                         },
                         {
@@ -8301,21 +8287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ああ、大したことじゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "四半期ごとのノルマを達成できなかった社員は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強制的に派遣させられるの。"
+                                "\\nc<Senpai>Oh, it's nothing serious. Employees who can't meet their\nquarterly quotas are forcibly dispatched."
                             ]
                         },
                         {
@@ -8360,14 +8332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>強制…派遣？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そこでいったい何をされるの？)"
+                                "\\nc<Saki>Forced... dispatch? (What exactly happens there?)"
                             ]
                         },
                         {
@@ -8398,14 +8363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>お願いです！　ちゃんとやりますから…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強制派遣だけは…！"
+                                "\\nc<Lewd Demon Employee>Please! I'll do it properly...! Just not forced dispatch...!"
                             ]
                         },
                         {
@@ -8434,7 +8392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔の社員>い、いやぁぁぁぁぁぁ！"
+                                "\\nc<Employee Of The Succubus>N-nooooooo!"
                             ]
                         },
                         {
@@ -8507,14 +8465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>かといって死にはしないけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、あそこ。実績グラフが見えるでしょう？"
+                                "\\nc<Senpai>Not that it's a death sentence or anything. Look, over\nthere. You can see the performance chart, right?"
                             ]
                         },
                         {
@@ -8563,7 +8514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あのグラフの最下位にいるのがあの子。"
+                                "\\nc<Senpai>That girl at the very bottom of the chart is the one."
                             ]
                         },
                         {
@@ -8580,21 +8531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>四半期ごとに割りあてられたノルマを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "達成できないとあなたも強制派遣行きになるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、最初のうちは余裕があるはずよ。"
+                                "\\nc<Senpai>If you can't meet the quota assigned every quarter, you'll\nbe sent on forced dispatch too. But you should have some\nleeway at first."
                             ]
                         },
                         {
@@ -8639,7 +8576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ヒィィッ……"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Eeeek..."
                             ]
                         },
                         {
@@ -8656,14 +8593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(やっぱり会社を選びまちがえたかも……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今からでも逃げるべき？)"
+                                "\\nc<Saki>(Maybe I chose the wrong company... Should I run away now?)"
                             ]
                         },
                         {
@@ -8708,7 +8638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>私の言うとおりにすれば心配ないわ。"
+                                "\\nc<Senpai>If you do as I say, there's nothing to worry about."
                             ]
                         },
                         {
@@ -8753,14 +8683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]はい、先輩……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(たしかにメアリー先輩の実績はトップだ)"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>Yes, senpai... (It's true that Meary-senpai's performance is\nat the top.)"
                             ]
                         },
                         {
@@ -8837,14 +8760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 2]じゃあ、ノルマ達成のために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日からさっそく残業しましょうか。"
+                                "\\bustMsgExp[2, 2]\\nc<Senpai>Well then, shall we start working overtime from today to\nmeet our quota?"
                             ]
                         },
                         {
@@ -8889,21 +8805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](えっ？　まさかそれがトップになるための秘訣……)\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]宣伝業務はもう終わりましたけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残業が必要な仕事もあるんですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Eh? Could that be the secret to reaching the\ntop...?)\\bustMsgExp[1, 0]I've finished the promotional work,\nbut... are there other tasks that require overtime?"
                             ]
                         },
                         {
@@ -8948,14 +8850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]もちろん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事なら山ほどあるから心配することないわ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Of course. There's plenty of work to be done, so don't\nworry."
                             ]
                         },
                         {
@@ -9000,7 +8895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](ううっ、初日から逃げるのもアレだしな……)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(Ugh, it's not great to run away on the first day either...)"
                             ]
                         },
                         {
@@ -9042,7 +8937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>結局、先輩とめちゃくちゃ残業した……"
+                                "\\nc<>In the end, I ended up working crazy overtime with senpai..."
                             ]
                         },
                         {

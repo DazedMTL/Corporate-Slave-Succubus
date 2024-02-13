@@ -3749,7 +3749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あそこは…別階のVIPルーム。"
+                                "\\nc<Saki>That place is... a VIP room on a different floor."
                             ]
                         },
                         {
@@ -3766,14 +3766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ロビーから中を見られるはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレたら怒られるだろうけど…"
+                                "\\nc<Saki>You should be able to see inside from the lobby. We might\nget scolded if we're caught, though..."
                             ]
                         },
                         {

@@ -4060,14 +4060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]お、お邪魔しまーす…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うわっ、大きい！　あれがペット？)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Excuse me for interrupting...(Wow, it's huge! Is that the\npet?)\""
                             ]
                         },
                         {
@@ -4098,7 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP>おお、来たのか。急な頼みですまない。"
+                                "\\nc<Vip>\"Oh, you've arrived. Sorry for the sudden request.\""
                             ]
                         },
                         {
@@ -4115,14 +4108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP>うちのキューちゃんが、今日に限って寂しがるもんで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしても置いてこれなくてね。"
+                                "\\nc<Vip>\"My little Q-chan has been feeling lonely today of all days,\nso I just couldn't leave her behind.\""
                             ]
                         },
                         {
@@ -4153,21 +4139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]それでは、しばらく私のほうでお預かりいたします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(へえ、珍しく今回のVIPは親切…\\.\\.\\bustMsgExp[1, 2]じゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな状況ならセックスしに来ないでよ)"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>\"Then, I shall take care of her for a while. (Huh, this VIP\nis unusually kind...[bustMsgExp[1, 2]] If that's the\nsituation, they shouldn't come here for sex.)\""
                             ]
                         },
                         {
@@ -4198,14 +4170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP>頼んだよ。そんなに気難しい子じゃないから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食事はもう与えてあるし、適当に遊んでやってくれ。"
+                                "\\nc<Vip>\"I'm counting on you. She's not a difficult child. She's\nalready been fed, so just play with her as you see fit.\""
                             ]
                         },
                         {
@@ -4236,21 +4201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]かしこまりました。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0](いや…まさかこんなペットだったなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうのって飼ってて楽しいのかな？くねくねしてるだけだし…)"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>\"Understood.[bustMsgExp[1, 0]] (No way... I had no idea the\npet was like this. Is it fun to keep something like this?\nIt's just squirming around...)\""
                             ]
                         },
                         {
@@ -4281,7 +4232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅる…"
+                                "\\nc<Slime>\"Kyuru...\""
                             ]
                         },
                         {
@@ -4312,7 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(よく見たら可愛いかも…\\.\\.\\bustMsgExp[1, 1]それにしても大きすぎ！)"
+                                "\\nc<Saki>\"(Upon closer inspection, it might actually be\ncute...[bustMsgExp[1, 1]] But it's way too big!)\""
                             ]
                         },
                         {
@@ -4343,7 +4294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP>さて、私も楽しんでくるとするか…"
+                                "\\nc<Vip>\"Well then, I shall go and enjoy myself...\""
                             ]
                         },
                         {
@@ -4497,7 +4448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅるる…"
+                                "\\nc<Slime>\"Kyururu...\""
                             ]
                         },
                         {
@@ -4690,7 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]飼い主さんがいなくて寂しいのかな？　よ、よしよーし…"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>\"Are you lonely without your owner? There, there...\""
                             ]
                         },
                         {
@@ -4721,7 +4672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅう…"
+                                "\\nc<Slime>\"Kyuu...\""
                             ]
                         },
                         {
@@ -4859,14 +4810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]わっ！？　脚にくっつた…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]そんなに湿っぽくも冷たくもないのね。"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Whoa!? It clung to my leg...[bustMsgExp[1, 0]] It's not as\ndamp or cold as I thought.\""
                             ]
                         },
                         {
@@ -4883,14 +4827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]思ったより可愛げがあるかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふっ、こんにちは！　咲姫お姉ちゃんだよ。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>\"You might be cuter than I thought. Hehe, hello! I'm your\nbig sister Saki.\""
                             ]
                         },
                         {
@@ -4930,7 +4867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>ぷよよっ！"
+                                "\\nc<Slime>\"Puyoyott!\""
                             ]
                         },
                         {
@@ -5156,7 +5093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ、ちょっ、急に何…うわあっ！？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Eh, wait, what are you doing all of a sudden... Whoa!?\""
                             ]
                         },
                         {
@@ -5232,14 +5169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ぐへっ！　い、いきなりのしかかってくるなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てか、重すぎ！"
+                                "\\nc<Saki>\"Guh! To suddenly pounce on me like this... And you're way\ntoo heavy!\""
                             ]
                         },
                         {
@@ -5256,7 +5186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅるる…"
+                                "\\nc<Slime>\"Kyururu...\""
                             ]
                         },
                         {
@@ -5296,7 +5226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スライムは咲姫の脚を掴んで離さない。"
+                                "\\nc<>The slime clings to Saki's legs and won't let go."
                             ]
                         },
                         {
@@ -5313,7 +5243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>嬉しそうにくねるスライムが、咲姫の脚に絡みつく…"
+                                "\\nc<>The slime wriggles happily around Saki's legs..."
                             ]
                         },
                         {
@@ -5341,14 +5271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>い、いや！　離れて！　くっ、こうなったら一発殴って…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って、そもそもパンチが効くのかな？"
+                                "\\nc<Saki>\"No, let go! Ugh, if it comes to this, I'll have to hit\nit... But does a punch even work on something like this?\""
                             ]
                         },
                         {
@@ -5365,7 +5288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>ぎゅぎゅぎゅ…"
+                                "\\nc<Slime>\"Gyugyugyu...\""
                             ]
                         },
                         {
@@ -5393,21 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>どこからどう出しているのかも分からない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奇妙な音を出しながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんどん咲姫を飲みこんでいくスライム。"
+                                "\\nc<>The slime makes strange noises from who knows where as it\ncontinues to engulf Saki."
                             ]
                         },
                         {
@@ -5424,14 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>必死にあがく咲姫だったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "両脚に足枷がかかったように重い…"
+                                "\\nc<>Despite her desperate struggles, Saki felt as if heavy\nshackles were placed on both her legs..."
                             ]
                         },
                         {
@@ -5459,7 +5361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふええ、の、飲みこまれる…おほっ♥"
+                                "\\nc<Saki>\"Oh no, I'm being swallowed... Ohh♥\""
                             ]
                         },
                         {
@@ -5548,14 +5450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>突如、慣れた異物感に襲われた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の体がブルブルと震えた。"
+                                "\\nc<>Suddenly, Saki's body shivers as she feels a familiar\nforeign sensation."
                             ]
                         },
                         {
@@ -5572,7 +5467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>腹の中で暴れまわる感覚に鳥肌が立つ。"
+                                "\\nc<>A sensation of something rampaging inside her belly makes\nher skin crawl."
                             ]
                         },
                         {
@@ -5600,7 +5495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>まさか…挿れたの？　ううっ、抜けない！"
+                                "\\nc<Saki>\"Could it be... Did you insert it? Ugh, I can't pull it\nout!\""
                             ]
                         },
                         {
@@ -5617,7 +5512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>ぷぷぅっ…"
+                                "\\nc<Slime>\"Pupuutt...\""
                             ]
                         },
                         {
@@ -5645,14 +5540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>妙に満足げな音を出しながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だんだんと強く絞めつけるスライム。"
+                                "\\nc<>The slime makes a strangely satisfied noise as it tightens\nits grip on her increasingly."
                             ]
                         },
                         {
@@ -5669,14 +5557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ねっとりとした重みのある粘液質の体が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の腰を飲みこむ。"
+                                "\\nc<>The slimy body with its sticky weight engulfs Saki's hips."
                             ]
                         },
                         {
@@ -5693,21 +5574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジタバタとあがく咲姫の腕は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "VIPルームのつるつるとした床を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むなしく引っ掻くだけ。"
+                                "\\nc<>Saki's flailing arms only scratch the smooth floor of the\nVIP room in vain."
                             ]
                         },
                         {
@@ -5735,21 +5602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>腰が捕まっちゃって…ああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だめっ…キューちゃん…そこ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理やり入っちゃ困るのお…はうっ♥"
+                                "\\nc<Saki>\"My hips are caught... Ahh♥ No... Q-chan... You can't just\nforce your way in there... Hauu♥\""
                             ]
                         },
                         {
@@ -5866,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫を苦しめるのは、ずっしりとした粘液だけではなかった。"
+                                "\\nc<>It wasn't just the heavy mucus that tormented Saki."
                             ]
                         },
                         {
@@ -5883,7 +5736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スライムの体が、いつのまにか咲姫の奥まで押しよせていた。"
+                                "\\nc<>The slime's body had somehow pushed its way deep inside\nSaki."
                             ]
                         },
                         {
@@ -5900,14 +5753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ペニスとは違う、内側のシワを隅々まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "埋めてしまうソレに、ただただ犯されてしまう咲姫。"
+                                "\\nc<>Saki was being violated by something that filled every\ncrevice inside her, unlike a penis."
                             ]
                         },
                         {
@@ -5924,14 +5770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>大した動きはなく、ひたすら中に押しこんでいるだけだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけでも圧迫感が凄まじい。"
+                                "\\nc<>There wasn't much movement; it just kept pushing inside her\nrelentlessly, but even that created an immense sense of\npressure."
                             ]
                         },
                         {
@@ -5959,14 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>おおっ、ごおおっ♥息ができない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた、最初から私を交尾の対象として見てたの？"
+                                "\\nc<Saki>\"Ohh, gohh♥ I can't breathe... Did you see me as a mating\npartner from the start?\""
                             ]
                         },
                         {
@@ -5983,7 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅふっ。"
+                                "\\nc<Slime>\"Kyufuutt.\""
                             ]
                         },
                         {
@@ -6011,7 +5843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュプッ、ジュボッ…"
+                                "\\nc<>*Squelch*, *Squish*..."
                             ]
                         },
                         {
@@ -6028,14 +5860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>挿入が続くと、肌に絡みつく粘液は少し減ったものの…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の体にのしかかる重圧に変わりはなかった。"
+                                "\\nc<>As the insertion continued, the mucus clinging to her skin\ndiminished slightly... but the oppressive weight bearing\ndown on Saki's body remained unchanged."
                             ]
                         },
                         {
@@ -6063,7 +5888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふうっ、はあ…終わっ…た？"
+                                "\\nc<Saki>\"Phew, hah... Is it over...?\""
                             ]
                         },
                         {
@@ -6107,14 +5932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>注入されていた粘液は、咲姫の腹の中を満たし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく止まった。"
+                                "\\nc<>The mucus that had been injected filled Saki's belly and\nfinally stopped."
                             ]
                         },
                         {
@@ -6131,7 +5949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>いつの間にか咲姫の腹は、妊婦のように大きく膨らんでいた。"
+                                "\\nc<>Before she knew it, Saki's belly had swollen as if she were\npregnant."
                             ]
                         },
                         {
@@ -6148,14 +5966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>やっとのことで呼吸を整えた咲姫だったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムが再び動き出すと、鋭い悲鳴を上げて暴れた。"
+                                "\\nc<>Just as Saki managed to catch her breath, the slime began to\nmove again, and she screamed sharply, thrashing about."
                             ]
                         },
                         {
@@ -6183,7 +5994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>きゃ、ふっ…あひっ♥"
+                                "\\nc<Saki>\"Kyaa, huh... Ahh♥\""
                             ]
                         },
                         {
@@ -6200,7 +6011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅきゅっ。"
+                                "\\nc<Slime>\"Kyukyu.\""
                             ]
                         },
                         {
@@ -6240,14 +6051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>四つん這いになった姿勢で捕まったまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムが動きだすと咲姫の腹がくにょくにょと動きだす。"
+                                "\\nc<>Caught in a position on all fours, as the slime began to\nmove, Saki's belly undulated strangely."
                             ]
                         },
                         {
@@ -6264,14 +6068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>腹の中にある重い異物感が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっという間に激痛と快感へと変わった。"
+                                "\\nc<>The heavy foreign sensation inside her belly quickly turned\ninto acute pain and pleasure."
                             ]
                         },
                         {
@@ -6288,14 +6085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スライムはむやみやたらに動いているようでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の弱点を確実に把握していた。"
+                                "\\nc<>The slime seemed to move recklessly, yet it precisely\nunderstood the woman's weak spots."
                             ]
                         },
                         {
@@ -6372,7 +6162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひい、ああっ♥こいつ、無駄に上手い…うぐっ♥"
+                                "\\nc<Saki>\"Hii, ahh♥ This thing is unnecessarily skilled... Ugh♥\""
                             ]
                         },
                         {
@@ -6412,7 +6202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>チュポッ、チュポッ…"
+                                "\\nc<>*Suck*, *Pop*..."
                             ]
                         },
                         {
@@ -6429,14 +6219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の腰に乗っかったまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "粘液を注入しては、抜き出すスライム。"
+                                "\\nc<>The slime remained atop Saki's hips, injecting mucus and\nthen pulling it out."
                             ]
                         },
                         {
@@ -6453,14 +6236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ぐったりしている咲姫の腕も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつの間にかスライムの餌食になっていた。"
+                                "\\nc<>Saki's arms, which were limp, had also become prey to the\nslime without her noticing."
                             ]
                         },
                         {
@@ -6477,7 +6253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>もはや咲姫は、意味のない抵抗すらできなくなっていた…"
+                                "\\nc<>By now, Saki was no longer capable of even meaningless\nresistance..."
                             ]
                         },
                         {
@@ -6505,7 +6281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>痛い、重い…手も足も使えない…やめ…あうっ♥"
+                                "\\nc<Saki>\"It hurts, it's heavy... I can't use my hands or feet...\nstop... ahh♥\""
                             ]
                         },
                         {
@@ -6522,7 +6298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅうぎゅう…"
+                                "\\nc<Slime>\"Kyuugyuu...\""
                             ]
                         },
                         {
@@ -6599,7 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>チュポオッ…"
+                                "\\nc<>*Suck*..."
                             ]
                         },
                         {
@@ -6616,14 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピクピクと痙攣していた咲姫の体の中から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いけない感覚が湧いてきた。"
+                                "\\nc<>From inside Saki's convulsing body, an illicit sensation\nbegan to well up."
                             ]
                         },
                         {
@@ -6640,14 +6409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しつこくも手慣れた攻撃に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついにその女体が堕ちてしまったのだ。"
+                                "\\nc<>The persistent and experienced assault finally brought the\nwoman's body to its downfall."
                             ]
                         },
                         {
@@ -6675,7 +6437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あっ、これ…開いちゃった…そこまで入ってこないでえ♥"
+                                "\\nc<Saki>\"Ah, this... It's opened up... Don't come in there♥\""
                             ]
                         },
                         {
@@ -6692,7 +6454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>ぎゅうぎゅう…"
+                                "\\nc<Slime>\"Gyuugyuu...\""
                             ]
                         },
                         {
@@ -6720,21 +6482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>陰険な鳴き声で咲姫の体内に入りこむスライム。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言葉はまったく通じないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手の意思ははっきりと読みとれた。"
+                                "\\nc<>With a sinister cry, the slime entered Saki's body. Although\nwords were completely ineffective, the intent of the other\nparty was clearly discernible."
                             ]
                         },
                         {
@@ -6751,14 +6499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫を徹底的に自分のものにするという、原初的な欲望が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムの動きから感じられる。"
+                                "\\nc<>The primal desire to thoroughly make Saki its own could be\nfelt from the slime's movements."
                             ]
                         },
                         {
@@ -6786,14 +6527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>簡単な仕事だって言ったのに…おおおっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イくっ、またイっちゃうう♥"
+                                "\\nc<Saki>\"They said it was an easy job... Ohhh♥ I'm coming, I'm going\nto come again♥\""
                             ]
                         },
                         {
@@ -6882,7 +6616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ジュポッ…"
+                                "\\nc<>*Thrust*, *Suck*..."
                             ]
                         },
                         {
@@ -6899,14 +6633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>かろうじて飲みこまれていない上半身で必死にあがいてみるも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムは止まらない。"
+                                "\\nc<>Despite desperately struggling with the upper half of her\nbody that was barely not swallowed, the slime did not stop."
                             ]
                         },
                         {
@@ -6923,14 +6650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>奴は咲姫の体内にくっついたまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女の性感帯を容赦なく刺激した。"
+                                "\\nc<>The creature clung to the inside of Saki's body, mercilessly\nstimulating her erogenous zones."
                             ]
                         },
                         {
@@ -6947,14 +6667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>おかげで咲姫の体は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危機一髪の状況でもしっかりと感じていた。"
+                                "\\nc<>Thanks to this, Saki's body was keenly responsive even in\nthis dire situation."
                             ]
                         },
                         {
@@ -6982,7 +6695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ぐふっ、こんなベタベタなセックス、もうだめえ…おおおっ♥"
+                                "\\nc<Saki>\"Guhh, this sticky sex is too much... Ohhh♥\""
                             ]
                         },
                         {
@@ -7010,14 +6723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の子宮の奥まで入りこんだ細かい触手が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "禁断の場所へと向かう。"
+                                "\\nc<>Tiny tentacles that had entered deep into Saki's womb headed\ntowards a forbidden area."
                             ]
                         },
                         {
@@ -7034,14 +6740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ついに目的地にたどりついた触手は、卵巣に容赦なく噛みつき"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こねくりまわすように刺激した…"
+                                "\\nc<>Once the tentacles reached their destination, they bit and\nkneaded the ovaries without mercy..."
                             ]
                         },
                         {
@@ -7069,21 +6768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふぅっ！？　ば、バカ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなので排卵するわけないでしょおっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ、噛まないでえ♥"
+                                "\\nc<Saki>\"Kuhh!? Idiot! You can't make me ovulate like that♥ Ahh,\ndon't bite♥\""
                             ]
                         },
                         {
@@ -7221,7 +6906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ブルルッ！"
+                                "\\nc<>*Vibrate*!"
                             ]
                         },
                         {
@@ -7238,14 +6923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>初めて感じる暴力的な快感に敗北した咲姫が体を震わせながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶頂すると、スライムが彼女の体をさらに飲みこんだ。"
+                                "\\nc<>Defeated by a violently pleasurable sensation she had never\nfelt before, Saki climaxed while shaking, and the slime\nfurther engulfed her body."
                             ]
                         },
                         {
@@ -7262,14 +6940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>体の内外から押さえつけられている咲姫には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抵抗する気力すら残っていなかった。"
+                                "\\nc<>Pressed down from both inside and outside her body, Saki no\nlonger had the energy to resist."
                             ]
                         },
                         {
@@ -7286,14 +6957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>相手を完全に無力化したスライムが、意気揚々と蠢きながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不気味に脈を打つ。"
+                                "\\nc<>The slime that had completely incapacitated its opponent\nwriggled triumphantly and pulsed ominously."
                             ]
                         },
                         {
@@ -7310,7 +6974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>本能的に危機感を察知した咲姫の体が硬直する。"
+                                "\\nc<>Sensing danger instinctively, Saki's body stiffened."
                             ]
                         },
                         {
@@ -7446,7 +7110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あうっ！？　こ、これは…"
+                                "\\nc<Saki>\"Ahh!? Wh-what is this...\""
                             ]
                         },
                         {
@@ -7463,7 +7127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>ぷおおっ！"
+                                "\\nc<Slime>\"Puooh!\""
                             ]
                         },
                         {
@@ -7491,7 +7155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビュッ、ビュルルッ…"
+                                "\\nc<>Splurt, squirting..."
                             ]
                         },
                         {
@@ -7508,14 +7172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>まえより確実に薄くなった粘液が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の無防備な子宮の中に流しこまれる。"
+                                "\\nc<>The slime, now noticeably thinner than before, was poured\ninto Saki's defenseless womb."
                             ]
                         },
                         {
@@ -7532,7 +7189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>半ば諦めていた咲姫だったが、力を振りしぼって抵抗した。"
+                                "\\nc<>Although Saki had almost given up, she mustered her strength\nto resist."
                             ]
                         },
                         {
@@ -7560,14 +7217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひいっ、もう…だめぇっ、出さないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ペットのくせに勝手に淫魔を妊娠させないでぇ♥"
+                                "\\nc<Saki>\"Hiih, no more... I can't take it, don't release it! Don't\nimpregnate a succubus on your own whim♥\""
                             ]
                         },
                         {
@@ -7584,7 +7234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅうきゅう。"
+                                "\\nc<Slime>\"Squeeze squeeze.\""
                             ]
                         },
                         {
@@ -7601,14 +7251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>これ以上お腹が重くなるなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だめ！　キューちゃん、やめて！　おほっ♥"
+                                "\\nc<Saki>\"I can't handle my belly getting any heavier... No! Kyu-\nchan, stop it! Ohh♥\""
                             ]
                         },
                         {
@@ -7760,14 +7403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫に名前を呼ばれてさらに興奮したスライムは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "射精を続けた。"
+                                "\\nc<>Called by name, the slime became even more excited and\ncontinued to ejaculate."
                             ]
                         },
                         {
@@ -7784,14 +7420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>永遠に続く射精と絶頂が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "床に横たわった咲姫を苦しめる。"
+                                "\\nc<>The never-ending ejaculation and climax tormented Saki as\nshe lay on the floor."
                             ]
                         },
                         {
@@ -7808,14 +7437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>綺麗だったVIPルームの床は粘液まみれになっていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこに咲姫の痕跡は見当たらない。"
+                                "\\nc<>The once pristine VIP room floor was now smeared with slime,\nbut there was no sign of Saki's presence."
                             ]
                         },
                         {
@@ -7843,14 +7465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ま、まさか…全部吸いとってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきよりも大きくなったような…あうっ！"
+                                "\\nc<Saki>\"Could it be... it's all being absorbed? It seems bigger\nthan before... Auhh!\""
                             ]
                         },
                         {
@@ -7890,14 +7505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫が反射的にあがくと、腰が折れそうなほどの重みが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女にのしかかる。"
+                                "\\nc<>When Saki reflexively struggled, a weight so heavy it felt\nlike her waist would break pressed down on her."
                             ]
                         },
                         {
@@ -7914,7 +7522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>さきほどとは違って、明白な悪意が感じられる圧力。"
+                                "\\nc<>Unlike before, there was a clear malice in the pressure."
                             ]
                         },
                         {
@@ -7942,7 +7550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>ぎゅぎゅっ…"
+                                "\\nc<Slime>\"Gyugyu...\""
                             ]
                         },
                         {
@@ -7959,7 +7567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひっ？　ちょ…おおおっ♥"
+                                "\\nc<Saki>\"Hih? Wait... Oooh♥\""
                             ]
                         },
                         {
@@ -7976,7 +7584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅうっ！"
+                                "\\nc<Slime>\"Squeeze!\""
                             ]
                         },
                         {
@@ -8044,14 +7652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>わずかに残った力で腰を抜こうとすると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐさま罰が与えられる。"
+                                "\\nc<>As she tried to escape with the little strength she had\nleft, immediate punishment was dealt."
                             ]
                         },
                         {
@@ -8068,14 +7669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>青ざめた顔で必死に腕を動かす咲姫だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依然と抜け出すことはできなかった。"
+                                "\\nc<>Saki desperately moved her arms with a pale face, but she\nstill couldn't break free."
                             ]
                         },
                         {
@@ -8103,21 +7697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>こいつ、完全に私を見下してる！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屈服させようとしてるんだ…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あううっ♥"
+                                "\\nc<Saki>\"This thing is completely looking down on me! It's trying to\nmake me submit... Auuu♥\""
                             ]
                         },
                         {
@@ -8182,14 +7762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>抵抗の兆しを見せるたびに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すさまじい圧力が容赦なく咲姫を押しつぶした。"
+                                "\\nc<>Every sign of resistance was met with tremendous pressure\nthat mercilessly crushed Saki."
                             ]
                         },
                         {
@@ -8206,7 +7779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>もはや自分の骨がどうなっているかすら分からない。"
+                                "\\nc<>She could no longer even tell what had become of her own\nbones."
                             ]
                         },
                         {
@@ -8223,14 +7796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ペットなんかに負けられないというプライドも束の間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は抵抗すること自体を諦め、ぐったりと横たわった。"
+                                "\\nc<>Pride in not losing to a mere pet was fleeting. Saki gave up\non resisting and lay limp."
                             ]
                         },
                         {
@@ -8247,21 +7813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>自分の体を支える力すらなかったため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムに押しつぶされているというより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しがみついているかのようだった。"
+                                "\\nc<>Without the strength to support herself, she seemed more\nlike she was clinging to the slime rather than being crushed\nby it."
                             ]
                         },
                         {
@@ -8289,7 +7841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふ、うっ…ふあっ♥や、やめてぇ♥もう無理、許してよぉ…"
+                                "\\nc<Saki>\"Fu, uhh... Fuaah♥ Stop, please♥ I can't take anymore, have\nmercy...\""
                             ]
                         },
                         {
@@ -8306,7 +7858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅぎゅう…"
+                                "\\nc<Slime>\"Kyugyu...\""
                             ]
                         },
                         {
@@ -8323,7 +7875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ？　軽い…？"
+                                "\\nc<Saki>\"Eh? Lighter...?\""
                             ]
                         },
                         {
@@ -8379,14 +7931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>互いの言葉が通じるわけなどないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は自分の体がいっきに軽くなったことに気づいた。"
+                                "\\nc<>Though they could not understand each other's words, Saki\nnoticed that her body had suddenly become lighter."
                             ]
                         },
                         {
@@ -8403,14 +7948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>羞恥心と屈辱で歪んだ顔をした咲姫がお尻をもう少し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高く突きあげると…スライムの動きが一層柔らかくなった。"
+                                "\\nc<>With a face twisted in shame and humiliation, Saki raised\nher butt a little higher and... the slime's movements became\neven gentler."
                             ]
                         },
                         {
@@ -8438,7 +7976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう、いまさら優しくされても…こんなの完全に獣じゃない。"
+                                "\\nc<Saki>\"Ugh, being gentle now doesn't change anything... This is\njust like being with a beast.\""
                             ]
                         },
                         {
@@ -8455,7 +7993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅ？"
+                                "\\nc<Slime>\"Kyu?\""
                             ]
                         },
                         {
@@ -8472,14 +8010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いや！　文句があるってわけじゃ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あうっ！　ごほっ♥"
+                                "\\nc<Saki>\"No! It's not that I'm complaining... Auhh! Gohh♥\""
                             ]
                         },
                         {
@@ -8629,7 +8160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビュルル……"
+                                "\\nc<>Squirting..."
                             ]
                         },
                         {
@@ -8646,14 +8177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は最大限に腰の角度を調整し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムの粘液を受けとめる。"
+                                "\\nc<>Saki adjusted the angle of her hips to the maximum extent to\nreceive the slime's fluids."
                             ]
                         },
                         {
@@ -8670,14 +8194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>相手がおとなしくなったことに気づいたスライムは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よりリズミカルに動いた。"
+                                "\\nc<>Noticing that its partner had calmed down, the slime moved\nmore rhythmically."
                             ]
                         },
                         {
@@ -8694,14 +8211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ただの荒々しく暴力的な行為ではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きちんと咲姫を配慮した動きだった。"
+                                "\\nc<>The action was no longer just rough and violent; it was\nconsiderate of Saki."
                             ]
                         },
                         {
@@ -8729,21 +8239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふっ、はあ、はあ……体はらくになったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだか罪悪感が……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな方法であんたと親しくなりたくなかった……"
+                                "\\nc<Saki>\"Huff, haa, haa... My body feels lighter, but now I feel\nguilty... I didn't want to get close to you this way...\""
                             ]
                         },
                         {
@@ -8760,7 +8256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅぎゅ？"
+                                "\\nc<Slime>\"Kyugyu?\""
                             ]
                         },
                         {
@@ -8777,14 +8273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひっ……い、嫌ってわけじゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた、人の言葉が分かるの？"
+                                "\\nc<Saki>\"Hih... It's not that I dislike you... Can you understand\nhuman words?\""
                             ]
                         },
                         {
@@ -8812,7 +8301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ペシッ！"
+                                "\\nc<>*Pat*!"
                             ]
                         },
                         {
@@ -8845,14 +8334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は、お尻を包みこむ粘液の動きを感じながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "両目をぎゅっと閉じた。"
+                                "\\nc<>Feeling the movement of the slime enveloping her butt, Saki\ntightly closed both eyes."
                             ]
                         },
                         {
@@ -8869,7 +8351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スライムとやっと親しくはなったものの、もう体力の限界…"
+                                "\\nc<>Though she had finally become close with the slime, she was\nat her physical limit..."
                             ]
                         },
                         {
@@ -8897,7 +8379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひっ、はあ……このまま食べられちゃうのかな、私…あうっ…"
+                                "\\nc<Saki>\"Hih, haa... Am I going to be eaten like this... Auh...\""
                             ]
                         },
                         {
@@ -8925,7 +8407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>再び押しよせる快感の波に、咲姫の体が小刻みに震える。"
+                                "\\nc<>Waves of pleasure surged again, causing Saki's body to\ntremble in small spasms."
                             ]
                         },
                         {
@@ -8942,14 +8424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>床に顔をうずめたままぐったりする咲姫のうしろで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動きつづけるスライム。"
+                                "\\nc<>With her face buried in the floor, Saki lay exhausted while\nthe slime continued to move behind her."
                             ]
                         },
                         {
@@ -8978,7 +8453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>だめと分かっていながらも、咲姫の意識が徐々に遠のく…"
+                                "\\nc<>Even though she knew it was no good, Saki's consciousness\ngradually faded away..."
                             ]
                         },
                         {
@@ -8995,7 +8470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ヌポッ、ジュプッ、ジュポッ…"
+                                "\\nc<>*Nup*, *jup*, *jupo*..."
                             ]
                         },
                         {

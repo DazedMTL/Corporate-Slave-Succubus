@@ -3364,14 +3364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>サーバー室に異常はなさそうだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに名前を書けばいいのだろうか。"
+                                "\\nc<>There doesn't seem to be anything wrong with the server\nroom... Should I write my name here?"
                             ]
                         },
                         {
@@ -3379,8 +3372,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "書く",
-                                    "いいえ"
+                                    "Write",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3438,7 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>点検を済ませた！"
+                                "\\nc<>I've finished the inspection!"
                             ]
                         },
                         {
@@ -3594,7 +3587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>読んでも分からない書類がたくさんある…"
+                                "\\nc<>There are so many documents that I can't understand even\nafter reading them..."
                             ]
                         },
                         {
@@ -3619,7 +3612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>このまえもらった名刺の名前が書いてある。"
+                                "\\nc<>The name on the business card I received before is written\nhere."
                             ]
                         },
                         {
@@ -3636,7 +3629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<><見覚えのある魔族の書類>を獲得した！"
+                                "\\nc<>Gained <Familiar Demon's Documents>!"
                             ]
                         },
                         {
@@ -3653,7 +3646,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<><謎の書類>を獲得した！"
+                                "\\nc<>Gained <Mysterious Documents>!"
                             ]
                         },
                         {
@@ -3708,7 +3701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>下手に手を出さないほうがよさそうだ。"
+                                "\\nc<>It seems better not to meddle with these carelessly."
                             ]
                         },
                         {
@@ -3857,14 +3850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>大きくて赤いボタンが私を誘惑する…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボタンを押す？"
+                                "\\nc<>The big red button tempts me... Should I press it?"
                             ]
                         },
                         {
@@ -3872,8 +3858,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "いいえ"
+                                    "Press it",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4194,7 +4180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>ものすごく大きい音がしたあと、非常ベルが鳴る！"
+                                "\\nc<>After a tremendously loud noise, the emergency bell rings!"
                             ]
                         },
                         {
@@ -4211,7 +4197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>遠くから騒がしい音が聞こえる…"
+                                "\\nc<>Noisy sounds can be heard from afar..."
                             ]
                         },
                         {
@@ -4322,14 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>大きくて赤いボタンが私を誘惑する…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボタンを押す？"
+                                "\\nc<>The large red button is tempting me... Should I press it?"
                             ]
                         },
                         {
@@ -4337,8 +4316,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "いいえ"
+                                    "Press it",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4640,7 +4619,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>まったく反応しない…"
+                                "\\nc<>It doesn't respond at all..."
                             ]
                         },
                         {
@@ -4751,14 +4730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<装備担当の社員>何だ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敏感な装備も多いから、勝手に触るなよ。"
+                                "\\nc<Equipment Manager Staff>What's this? There's a lot of sensitive equipment here, so\ndon't touch anything without permission."
                             ]
                         },
                         {
@@ -4837,14 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<装備担当の社員>何だ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敏感な装備も多いから、勝手に触るなよ。"
+                                "\\nc<Equipment Manager Staff>What's this? There are many sensitive pieces of equipment\nhere, so don't touch anything without permission."
                             ]
                         },
                         {
@@ -4861,14 +4826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<装備担当の社員>ん？　あいつが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ったく、必要な時だけ探しやがって。"
+                                "\\nc<Equipment Manager Staff>Hm? That person? ...Seriously, they only come looking when\nthey need something."
                             ]
                         },
                         {
@@ -4885,14 +4843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<装備担当の社員>まぁ、その件は俺が始末しておく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいから邪魔せずに帰りな。シッシッ。"
+                                "\\nc<Equipment Manager Staff>Well, I'll take care of that matter. Just go home without\ncausing any more trouble. Shoo, shoo."
                             ]
                         },
                         {
@@ -4980,14 +4931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<装備担当の社員>何だ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敏感な装備も多いから、勝手に触るなよ。"
+                                "\\nc<Equipment Manager Staff>What's this? There are many sensitive pieces of equipment\nhere, so don't touch them without permission."
                             ]
                         },
                         {
@@ -5173,7 +5117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入る？"
+                                "\\nc<>Enter?"
                             ]
                         },
                         {
@@ -5181,8 +5125,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5212,7 +5156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>入るためにはカードキーが必要そうだ…"
+                                "\\nc<>It seems we need a card key to enter..."
                             ]
                         },
                         {
@@ -5350,7 +5294,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>カードキーを使ってドアを開けた！"
+                                "\\nc<>Used the card key to open the door!"
                             ]
                         },
                         {

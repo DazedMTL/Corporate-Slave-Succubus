@@ -3036,14 +3036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "上流階級のペット紹介イベント"
+                                "Would you like to view the event? The Upper-Class Pet\nIntroduction Event."
                             ]
                         },
                         {
@@ -3051,8 +3044,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -3243,14 +3236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>…それじゃあ、今週もよろしくね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、それと咲姫には特別業務があるわ。"
+                                "\\nc<Senpai>...Well then, I'm counting on you for this week too. Oh, and\nSaki, there's a special task for you."
                             ]
                         },
                         {
@@ -3304,14 +3290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]特別業務？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それって特別に厳しいってことですよね？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>A special task? Does that mean it's going to be especially\ntough?"
                             ]
                         },
                         {
@@ -3356,7 +3335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もちろん。"
+                                "\\nc<Senpai>Of course."
                             ]
                         },
                         {
@@ -3401,7 +3380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はあ…どこに行けばいいんですか…？"
+                                "\\nc<Saki>Sigh... Where do I need to go...?"
                             ]
                         },
                         {
@@ -3446,21 +3425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>このまえペットを連れてきたVIPがいたでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その方が咲姫を会員制のペットクラブイベントに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "招待したいそうよ。"
+                                "\\nc<Senpai>Remember the VIP who brought a pet last time? That person\nwants to invite Saki to an exclusive pet club event."
                             ]
                         },
                         {
@@ -3514,7 +3479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ペット…？　ひいいいっ！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Pet...? Eeeeek!"
                             ]
                         },
                         {
@@ -3554,14 +3519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員１>真っ青な顔してどうしたの？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ペット、可愛くていいじゃない。"
+                                "\\nc<Employee 1>What's with the pale face? Pets are cute, aren't they?"
                             ]
                         },
                         {
@@ -3587,14 +3545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員２>いや…このまえ連れてきたペットっていうのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "交尾用の大型スライムだったらしいわよ…"
+                                "\\nc<Employee 2>Well... The pet that was brought last time was apparently a\nlarge breeding slime..."
                             ]
                         },
                         {
@@ -3639,7 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>どうして今回も私なんですか！？"
+                                "\\nc<Saki>Why does it have to be me again?!?"
                             ]
                         },
                         {
@@ -3684,14 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>さあ。咲姫は美味しいってペットの間で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "評判にでもなったんじゃないの？"
+                                "\\nc<Senpai>Who knows. Maybe Saki has become popular among the pets as\nbeing tasty?"
                             ]
                         },
                         {
@@ -3736,7 +3680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]スライム同士で親睦会でもするんですか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Are the slimes going to have a social gathering or\nsomething?"
                             ]
                         },
                         {
@@ -3781,7 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>気になる？　だったら直接確かめなさい。"
+                                "\\nc<Senpai>Curious? Then go check it out for yourself."
                             ]
                         },
                         {
@@ -3826,14 +3770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うっ、VIPからの指名ってことは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも拒否権なんてないですよね。"
+                                "\\nc<Saki>Ugh, being nominated by a VIP means I basically have no\nright to refuse, right?"
                             ]
                         },
                         {
@@ -3878,14 +3815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>分かってるじゃない。私、諦めの早い咲姫が好きよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "住所はここ。"
+                                "\\nc<Senpai>You know it. I like it when Saki gives up quickly. Here's\nthe address."
                             ]
                         },
                         {
@@ -3930,7 +3860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>もし私が帰ってこなかったら、早めに助けに来てくださいね…"
+                                "\\nc<Saki>If I don't come back, please come rescue me quickly..."
                             ]
                         },
                         {

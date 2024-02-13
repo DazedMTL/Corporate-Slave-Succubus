@@ -3680,7 +3680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>少なくとも前日には連絡をください…"
+                                "\\nc<Senpai>Please contact me at least the day before..."
                             ]
                         },
                         {
@@ -3711,14 +3711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>ふう、こっちも忙しいの知ってるだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも内斗ちゃんは僕らと遊びたくないのかな？"
+                                "\\nc<Executive 1>Sigh, you know we're busy too, right? Or does Meary-chan not\nwant to play with us?"
                             ]
                         },
                         {
@@ -3735,7 +3728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>排卵期はいつ呼びだされても問題ないようにしないと。"
+                                "\\nc<Executive 2>You have to be ready for ovulation at any time when you're\ncalled."
                             ]
                         },
                         {
@@ -3766,7 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>……"
+                                "\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -3811,14 +3804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](え、えええっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どういうこと…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Eh, eeeeh... What does that mean...)"
                             ]
                         },
                         {
@@ -3872,7 +3858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>約束は守ってください。"
+                                "\\nc<Senpai>Please keep your promise."
                             ]
                         },
                         {
@@ -3912,7 +3898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>もちろん。"
+                                "\\nc<Executive 1>Of course."
                             ]
                         },
                         {
@@ -3929,14 +3915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>どんな手を使ってでも内斗ちゃんを妊娠させるゲーム。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代わりにノルマを満たしてやること。だろ？　心配するな。"
+                                "\\nc<Executive 2>It's a game where we use any means necessary to impregnate\nMeary-chan. In exchange, we'll fulfill the quota, right?\nDon't worry."
                             ]
                         },
                         {
@@ -3981,14 +3960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(さ、最低…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホント、悪魔だからこそ思いつくゲームね…)"
+                                "\\nc<Saki>(That's the worst... Only a devil could come up with such a\ngame...)"
                             ]
                         },
                         {
@@ -4033,7 +4005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そ…そうです。"
+                                "\\nc<Senpai>Yes... that's right."
                             ]
                         },
                         {
@@ -4064,7 +4036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>契約内容を確認するのは大事なことだ。"
+                                "\\nc<Executive 1>It's important to confirm the terms of the contract."
                             ]
                         },
                         {
@@ -4081,14 +4053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>淫魔は本人が望まない限り妊娠しないんだったよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張れよ！"
+                                "\\nc<Executive 2>Succubi won't get pregnant unless they wish for it, right?\nDo your best!"
                             ]
                         },
                         {
@@ -4133,7 +4098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]……"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>..."
                             ]
                         },
                         {
@@ -4164,7 +4129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>よし、それじゃあさっそく始めるか…"
+                                "\\nc<Executive 1>Alright, then let's get started..."
                             ]
                         },
                         {
@@ -4237,7 +4202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ワサッ！"
+                                "\\nc<>ワサ！"
                             ]
                         },
                         {
@@ -4254,14 +4219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>役員の大きな手が先輩のきゃしゃな体を突きとばし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっという間にベッドの上に押したおす。"
+                                "\\nc<>The executive's large hand pushes Senpai's slender body and\nin an instant, she is pushed onto the bed."
                             ]
                         },
                         {
@@ -4278,14 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>乱暴に押したおされた先輩は何の抵抗もせず横になっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反抗はしないが積極的に協力もしないという様子。"
+                                "\\nc<>Roughly pushed down, Senpai lies there without any\nresistance. She doesn't fight back, but she also doesn't\nactively cooperate."
                             ]
                         },
                         {
@@ -4313,7 +4264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>メアリーちゃんは今日もお堅いな～"
+                                "\\nc<Executive 1>Meary-chan is as uptight as ever today~"
                             ]
                         },
                         {
@@ -4330,7 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>まあいい。これですぐにヘロヘロにしてやる…"
+                                "\\nc<Executive 2>Well, it's fine. I'll make her all mellow in no time..."
                             ]
                         },
                         {
@@ -4370,7 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スルッ。"
+                                "\\nc<>スル."
                             ]
                         },
                         {
@@ -4387,14 +4338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>自信満々に話す役員が取り出したのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪しげな注射器だった。"
+                                "\\nc<>The confident executive pulls out a suspicious-looking\nsyringe."
                             ]
                         },
                         {
@@ -4411,21 +4355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ドアごしに見ていた咲姫は大きく身震いしたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩はおおかた予想していたかのように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うんざりした表情をしている。"
+                                "\\nc<>Watching through the door, Saki shudders greatly, but Senpai\nseems to have anticipated this and wears a look of utter\ndisgust."
                             ]
                         },
                         {
@@ -4453,7 +4383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ちょ、ちょっと、何するつもりなの…)"
+                                "\\nc<Saki>(Wait, what are they planning to do...)"
                             ]
                         },
                         {
@@ -4470,7 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>フフ、今注入してあげるよ。"
+                                "\\nc<Executive 1>Heh, I'm going to inject it now."
                             ]
                         },
                         {
@@ -4498,7 +4428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>トントン。"
+                                "\\nc<>トントン."
                             ]
                         },
                         {
@@ -4531,14 +4461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>注射器の針を指で軽く弾いた役員が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩に液体を注入する。"
+                                "\\nc<>The executive flicks the needle of the syringe lightly with\nhis finger before injecting the liquid into Senpai."
                             ]
                         },
                         {
@@ -4555,14 +4478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩はなんとかじっと横になろうとしているが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐさま全身がゾクゾクと震えはじめる。"
+                                "\\nc<>Senpai tries to lie still, but her whole body soon begins to\ntremble intensely."
                             ]
                         },
                         {
@@ -4590,7 +4506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふうっ…♥"
+                                "\\nc<Senpai>Hoo...♥"
                             ]
                         },
                         {
@@ -4607,7 +4523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>普段より薬が早く効くだろ？　日々、改良を重ねてるんだぜ。"
+                                "\\nc<Executive 1>The drug works faster than usual, doesn't it? We've been\nimproving it day by day."
                             ]
                         },
                         {
@@ -4624,7 +4540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>淫魔専用妊娠薬…さて、どのくらい発情したか確認しようか？"
+                                "\\nc<Executive 2>A fertility drug specially for succubi... Now, let's see how\nmuch she's in heat?"
                             ]
                         },
                         {
@@ -4641,7 +4557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くふっ、はあっ♥"
+                                "\\nc<Senpai>Kufu, haa♥"
                             ]
                         },
                         {
@@ -4669,14 +4585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>一目見ても分かるほど呼吸が乱れている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩の体に役員たちが近づく。"
+                                "\\nc<>The executives approach Senpai, whose breathing is visibly\nragged from arousal."
                             ]
                         },
                         {
@@ -4709,14 +4618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>上半身と下半身を仲良く分けた２人の魔族が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それぞれのやり方で先輩を弄ぶ。"
+                                "\\nc<>Two demons divide Senpai's upper and lower body between them\nand begin to play with her in their respective ways."
                             ]
                         },
                         {
@@ -4744,7 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>もう喘いじゃって、いい表情だね♥"
+                                "\\nc<Executive 1>She's already panting, what a lovely expression♥"
                             ]
                         },
                         {
@@ -4761,7 +4663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふっ、はあっ、勝手なこと言わないでくだ…ふっ♥ふあん♥"
+                                "\\nc<Senpai>Fuu, haa, don't say whatever you want... Fuu♥ Fuaan♥"
                             ]
                         },
                         {
@@ -4806,14 +4708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩の顔を占領した男が、勃起したペニスで強ばった顔を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ピシャピシャと叩く間。"
+                                "\\nc<>The man occupying Senpai's face slaps her stiffened face\nwith his erect penis."
                             ]
                         },
                         {
@@ -4830,14 +4725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>下半身を占領した役員は太い指で先輩の膣内を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乱暴に掻きまわす。"
+                                "\\nc<>The executive occupying her lower half roughly stirs inside\nSenpai's pussy with his thick fingers."
                             ]
                         },
                         {
@@ -4854,7 +4742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>あまりに激しい前戯に、咲姫は思わず手で口を塞いでしまう。"
+                                "\\nc<>Saki instinctively covers her mouth with her hand due to the\nexcessively rough foreplay."
                             ]
                         },
                         {
@@ -4882,7 +4770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くふっ♥あうっ♥"
+                                "\\nc<Senpai>Kufu♥ Auu♥"
                             ]
                         },
                         {
@@ -4899,21 +4787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>メアリーちゃん、もう表情が緩んでるよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お高くとまってるくせにチンポの臭いで発情する姿なんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冷めるじゃないか。"
+                                "\\nc<Executive 1>Meary-chan, your expression is already slackening, huh?\nDespite acting all high and mighty, you get aroused by the\nsmell of cock... it's such a turn-off."
                             ]
                         },
                         {
@@ -4930,7 +4804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あうっ、はあっ♥す、すみませ…んあっ♥くふっ？！"
+                                "\\nc<Senpai>Auu, haa♥ I'm sorry... Kufu?!♥"
                             ]
                         },
                         {
@@ -4958,14 +4832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩の腕は相変わらず自由だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ腰の横でビクつくだけ。"
+                                "\\nc<>Senpai's arms are still free, but they only twitch\nhelplessly at her sides."
                             ]
                         },
                         {
@@ -4982,14 +4849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>無抵抗の脚を広げ、掻きわけるように潜りこんだ指が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっきにスパートをかける。"
+                                "\\nc<>With her legs spread open and unresisting, fingers dive in\nand suddenly accelerate the stimulation."
                             ]
                         },
                         {
@@ -5006,14 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>激しい愛撫にもかかわらず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリーの体は着実に発情している。"
+                                "\\nc<>Despite the intense foreplay, Meary's body is steadily\ngetting aroused."
                             ]
                         },
                         {
@@ -5041,21 +4894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>下半身も妊娠準備完了〜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリーちゃんの性感帯は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう目を閉じたままでも攻略できるぜ。"
+                                "\\nc<Executive 2>The lower half is ready for pregnancy too—Meary-chan's\nerogenous zones can be conquered even with her eyes closed."
                             ]
                         },
                         {
@@ -5072,7 +4911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>今日は絶対に受精しような？"
+                                "\\nc<Executive 2>Let's make sure you get fertilized today, okay?"
                             ]
                         },
                         {
@@ -5089,7 +4928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>…頑張ります。そ、そこは…ああんっ♥"
+                                "\\nc<Senpai>...I'll do my best. That place... Ahn♥"
                             ]
                         },
                         {
@@ -5159,7 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュウウッ！"
+                                "\\nc<>Psheww!"
                             ]
                         },
                         {
@@ -5176,7 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>あっという間に潮を吹いてイってしまうマンコ。"
+                                "\\nc<>The pussy squirts and climaxes in no time at all."
                             ]
                         },
                         {
@@ -5193,7 +5032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>不器用に閉じた脚がブルブルと痙攣する。"
+                                "\\nc<>The clumsily closed legs spasm and tremble."
                             ]
                         },
                         {
@@ -5210,21 +5049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>歯を食いしばり必死で無表情を保とうとする先輩だったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 太い亀頭で鼻と唇を擦りつけられると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐにトロンとした表情に変わる。"
+                                "\\nc<>Senpai tries desperately to maintain an expressionless face\nwhile biting her teeth, but as soon as the thick glans rubs\nagainst her nose and lips, her face melts into a dazed\nexpression."
                             ]
                         },
                         {
@@ -5252,14 +5077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふ、はあっ、どうしてっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは、いつものよりかなり…"
+                                "\\nc<Senpai>Fuu, haa, why...♥ This is much more intense than usual..."
                             ]
                         },
                         {
@@ -5276,14 +5094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>心臓がドキドキするだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日の薬は性感を恋愛感情と勘違いさせるんだってよ。"
+                                "\\nc<Executive 1>Your heart's pounding, isn't it? Today's drug makes you\nmistake sexual sensations for romantic feelings."
                             ]
                         },
                         {
@@ -5300,7 +5111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ま、まさかそんな薬が…)"
+                                "\\nc<Saki>(Could there really be such a drug...)"
                             ]
                         },
                         {
@@ -5317,7 +5128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>だから、ラブラブ薬物セックスで必ず妊娠しような？"
+                                "\\nc<Executive 2>That's why we're going to make sure you get pregnant with\nsome lovey-dovey drugged sex, okay?"
                             ]
                         },
                         {
@@ -5334,7 +5145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くはっ♥"
+                                "\\nc<Senpai>Kuhah♥"
                             ]
                         },
                         {
@@ -5362,7 +5173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュボッ…"
+                                "\\nc<>Gulp..."
                             ]
                         },
                         {
@@ -5395,14 +5206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>魔族の太いペニスが口の中に潜りこむと同時に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下のペニスも準備を終えた膣内にスッーと潜りこむ。"
+                                "\\nc<>As the demon's thick penis plunges into her mouth, another\npenis prepares to slide smoothly into her vagina below."
                             ]
                         },
                         {
@@ -5419,7 +5223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>上下を同時に責められた先輩は身動きが取れずにいる。"
+                                "\\nc<>Senpai is immobilized, being assaulted from both above and\nbelow simultaneously."
                             ]
                         },
                         {
@@ -5447,14 +5251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>おおっ、入った。メアリーの高級マンコ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "挿れるとすぐにチンポを包みこんで愛嬌振りまくんだから。"
+                                "\\nc<Executive 2>Ohh, it's in. Meary's high-class pussy. It immediately wraps\naround the cock and starts to charm it."
                             ]
                         },
                         {
@@ -5471,7 +5268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くふっ♥くうううっ♥"
+                                "\\nc<Senpai>Kufu♥ Kuuuu♥"
                             ]
                         },
                         {
@@ -5499,7 +5296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>２人の男はためらわず根元まで突っこんだ。"
+                                "\\nc<>The two men do not hesitate to thrust in all the way to the\nbase."
                             ]
                         },
                         {
@@ -5516,14 +5313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>メアリーにも手に負えないくらいの大きさのペニスが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔術のように体の中に消えていく。"
+                                "\\nc<>A penis too large for Meary to handle disappears into her\nbody as if by magic."
                             ]
                         },
                         {
@@ -5540,14 +5330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>もちろん当事者にとっては魔術ではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "粗悪な暴力でしかない。"
+                                "\\nc<>Of course, for the person involved, it's not magic but\nmerely crude violence."
                             ]
                         },
                         {
@@ -5575,7 +5358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くふふっ♥"
+                                "\\nc<Senpai>Kufufu♥"
                             ]
                         },
                         {
@@ -5592,7 +5375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>ふう、最後まで入った。"
+                                "\\nc<Executive 1>Whew, it's all the way in now."
                             ]
                         },
                         {
@@ -5625,14 +5408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>ここからはメアリーが一番好きな時間…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラマチオされながら金玉で顔面を叩かれるのが大のお気に入りだろ？"
+                                "\\nc<Executive 1>From here on out is Meary's favorite time... getting face-\nfucked while having your face slapped with balls is your\nabsolute favorite, right?"
                             ]
                         },
                         {
@@ -5649,14 +5425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>脚がブルブル震えてるぜ、メアリーちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ子宮口をグイグイされてるだけだって？"
+                                "\\nc<Executive 2>Your legs are trembling, Meary-chan. And that's just from\nhaving your cervix nudged?"
                             ]
                         },
                         {
@@ -5673,7 +5442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>くふっ♥んぷうっ？！"
+                                "\\nc<Senpai>Kufu♥ Mmph?!♥"
                             ]
                         },
                         {
@@ -5701,7 +5470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>薬物にやられた先輩の体はいつも以上に敏感に反応した。"
+                                "\\nc<>The drug-addled Senpai's body reacts more sensitively than\nusual."
                             ]
                         },
                         {
@@ -5718,14 +5487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>何よりも気にくわないのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思考と感情をめちゃくちゃに揺さぶる妙な感覚だ。"
+                                "\\nc<>What's most infuriating is the strange sensation that\nscrambles her thoughts and emotions."
                             ]
                         },
                         {
@@ -5742,14 +5504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>先輩が性感を感じるたびに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手に対する感情が勝手に湧いてくる。"
+                                "\\nc<>Every time Senpai feels pleasure, emotions towards her\npartner involuntarily well up inside her."
                             ]
                         },
                         {
@@ -5777,14 +5532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(こいつら、よくもこんなのものを…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふぎゅぅっ？！"
+                                "\\nc<Senpai>(These guys, how dare they use such a thing...) Fugyuu?!♥"
                             ]
                         },
                         {
@@ -5842,7 +5590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>パンッ、パァンッ！"
+                                "\\nc<>Slap, Slap!"
                             ]
                         },
                         {
@@ -5859,14 +5607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>役員の太い拳が先輩の下腹部を軽く叩くと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "苦しいほど肉壁が締めつける。"
+                                "\\nc<>A heavy fist from the executive lightly taps Senpai's lower\nabdomen, causing the flesh walls to constrict painfully."
                             ]
                         },
                         {
@@ -5883,14 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>上では太い亀頭が喉をグッと押さえつけながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼吸を妨げている。"
+                                "\\nc<>Above, a thick glans presses down on her throat, obstructing\nher breathing."
                             ]
                         },
                         {
@@ -5918,14 +5652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>淫魔たちはいいよな～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに乱暴に犯されても感じるなんて。"
+                                "\\nc<Executive 2>Succubi are amazing, huh~ To think they can feel pleasure\neven when being violated so violently."
                             ]
                         },
                         {
@@ -5942,14 +5669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>さあさあ、そろそろ窒息イラマチオいくぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔が潰れても知らないからな？"
+                                "\\nc<Executive 1>Now now, let's get on with the choking face-fuck? I won't\ncare if your face gets crushed, you know?"
                             ]
                         },
                         {
@@ -5966,7 +5686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>先輩…"
+                                "\\nc<Saki>Senpai..."
                             ]
                         },
                         {
@@ -5994,14 +5714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入り口の前で地団太を踏む咲姫だったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の応援が先輩に届くはずもない。"
+                                "\\nc<>Saki was stomping her feet in frustration at the entrance,\nbut her support could not possibly reach Senpai."
                             ]
                         },
                         {
@@ -6018,7 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>あまりにも強烈な刺激に先輩の脳が勝手に勘違いしはじめる。"
+                                "\\nc<>The excessively intense stimulation begins to cause Senpai's\nbrain to misunderstand on its own."
                             ]
                         },
                         {
@@ -6062,21 +5775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(ほ、本当に殺す気…絶対に許さない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必ず妊娠して…あうっ？)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くふっ、ぐぷ、ぐほっ♥"
+                                "\\nc<Senpai>(They're really trying to kill me... I'll never forgive\nthem. I'll definitely get pregnant... Ahh?) Kuh, gup, guh♥"
                             ]
                         },
                         {
@@ -6104,14 +5803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>喉を圧迫し、器用に口マンコを弄ぶ男。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顎を高く上げた先輩の口からは、汚らしい泡が湧いている。"
+                                "\\nc<>A man skillfully plays with her mouth as if it were a pussy,\npressing down on her throat. From Senpai's mouth, which is\nforced open, dirty bubbles are forming."
                             ]
                         },
                         {
@@ -6128,21 +5820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>下では子宮口と亀頭の先端をしつこく押しつけているが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍵で鍵穴をグイグイとこじあけるような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感覚に先輩の体はビクビクする。"
+                                "\\nc<>Below, the tip of a glans persistently presses against the\nentrance to her womb... It feels like a key being forcefully\nturned in a lock, causing Senpai's body to twitch."
                             ]
                         },
                         {
@@ -6170,21 +5848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(くっ、気を抜けばいっきに薬が回りそう♥ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなにずっしりしてるなんて… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれれ？　薬のせいで、まともに頭が回ら…)"
+                                "\\nc<Senpai>(Kuh, if I let my guard down, the drug will spread\ninstantly♥ It's so heavy... Huh? Because of the drug, I\ncan't think straight...)"
                             ]
                         },
                         {
@@ -6201,7 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>どう、メアリーちゃん？　薬の効果は？"
+                                "\\nc<Executive 1>How is it, Meary-chan? Is the drug effective?"
                             ]
                         },
                         {
@@ -6218,14 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>下はもうグチョグチョだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タオルでも敷くべきだったかな…ククッ♥"
+                                "\\nc<Executive 2>The bottom is already soaking wet, huh? Maybe we should've\nlaid down a towel... Kukku♥"
                             ]
                         },
                         {
@@ -6253,7 +5910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ジュポッ…"
+                                "\\nc<>Jubu, jupo..."
                             ]
                         },
                         {
@@ -6281,21 +5938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(だ、だめ…今回はホントに危険っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとでも油断したら妊娠しちゃうかも…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふああっ♥妊娠…)"
+                                "\\nc<Senpai>(No, this is really dangerous. If I'm not careful, I might\nget pregnant... Fuahh♥ Pregnant...)"
                             ]
                         },
                         {
@@ -6312,14 +5955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>イくぞっ、ピストンはやめて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全体重を乗せて子宮を潰してやる！"
+                                "\\nc<Executive 2>Here I come, I'm going to stop pistoning... and crush your\nwomb with my full weight!"
                             ]
                         },
                         {
@@ -6336,14 +5972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(あっ、これいいっ♥私が一番好きな…だ、だめっ♥)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひっくぅっ♥ああんっ♥"
+                                "\\nc<Senpai>(Ah, this is good♥ My favorite... No, stop♥) Hiccup♥ Aaahn♥"
                             ]
                         },
                         {
@@ -6371,14 +6000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>汚ならしい泡の向こうから苦しげに喘ぐ声が聞こえてきたが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは男をさらに煽るだけ。"
+                                "\\nc<>The sound of her struggling breaths comes through the filthy\nbubbles... but it only serves to further arouse the man."
                             ]
                         },
                         {
@@ -6411,14 +6033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>大きく開いた脚は、いつの間にか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "役員の太い腰にピタリと巻きついていた。"
+                                "\\nc<>Her widely spread legs have somehow wrapped tightly around\nthe executive's thick waist."
                             ]
                         },
                         {
@@ -6435,14 +6050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピクピクと震えていた両手が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太い指と仲睦まじく恋人繋ぎをしている。"
+                                "\\nc<>The hands that were trembling are now intimately interlocked\nwith his thick fingers."
                             ]
                         },
                         {
@@ -6459,14 +6067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>子宮をグイグイと突かれるたびに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣内が不憫に震えてしまう。"
+                                "\\nc<>With every thrust against her womb, her insides tremble\npitifully."
                             ]
                         },
                         {
@@ -6494,14 +6095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>来たあっ、ラブラブ薬物セックス…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今までのとは全然違うぜ。"
+                                "\\nc<Executive 2>Here it comes, lovey-dovey drugged sex... It's totally\ndifferent from before."
                             ]
                         },
                         {
@@ -6518,14 +6112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>メアリーちゃんはかなり長く耐えたから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕の部下たちもかなり気合を入れたんだよ。"
+                                "\\nc<Executive 1>Meary-chan held out for quite a while... so my subordinates\nput in a lot of effort."
                             ]
                         },
                         {
@@ -6542,21 +6129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(社員いじめには手を抜かないんだから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うううっ、ホントにやばい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんな奴が素敵に見えるなんてっ…♥)"
+                                "\\nc<Senpai>(They never skimp on employee abuse... Ugh, this is really\nbad... To think that such a guy could seem wonderful...♥)"
                             ]
                         },
                         {
@@ -6584,7 +6157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>なんとか耐えていると思いこんでいる先輩。"
+                                "\\nc<>Senpai believes she is enduring somehow."
                             ]
                         },
                         {
@@ -6601,14 +6174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しかし、まさか自分の両脚が男の腰にピタリと巻きついているとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知る由もない。"
+                                "\\nc<>However, she has no idea that her legs are tightly wrapped\naround the man's waist."
                             ]
                         },
                         {
@@ -6625,7 +6191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>行為が進むにつれて、魔族２人の見分けがつかなくなる。"
+                                "\\nc<>As the act progresses, it becomes harder to distinguish\nbetween the two demons."
                             ]
                         },
                         {
@@ -6653,7 +6219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>おおっ、そろそろイきそうだ…"
+                                "\\nc<Executive 1>Ohh, I'm about to come..."
                             ]
                         },
                         {
@@ -6670,14 +6236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>じゃあ一緒に行くか？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリーちゃん、タイミング合わせるんだぞ？\\.\\. ふううっ！"
+                                "\\nc<Executive 2>Then shall we go together? Meary-chan, let's sync up our\ntiming? Fuuuh!"
                             ]
                         },
                         {
@@ -6803,14 +6362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>射精の瞬間、淫魔の体は自然と硬直し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "熱い種を一滴も溢さず受けとめる。"
+                                "\\nc<>At the moment of ejaculation, the succubus's body naturally\nstiffens and catches every drop of hot seed without spilling\nany."
                             ]
                         },
                         {
@@ -6827,7 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>相手を上と下でギュッと抱きよせる姿勢は誰が見ても恋人だ。"
+                                "\\nc<>The posture of embracing the partner tightly from above and\nbelow would look like lovers to anyone."
                             ]
                         },
                         {
@@ -6855,7 +6407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>(き、来たあっ♥こぼしちゃだめ、こぼしちゃ…あうう…♥)"
+                                "\\nc<Senpai>(It's coming♥ Don't spill it, don't spill... Auuu...♥)"
                             ]
                         },
                         {
@@ -6872,7 +6424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>ふーっ、お顔拝見っと。"
+                                "\\nc<Executive 1>Phew, let's see that face."
                             ]
                         },
                         {
@@ -6900,7 +6452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スウウッ…"
+                                "\\nc<>Suuu..."
                             ]
                         },
                         {
@@ -6933,14 +6485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>上にいる役員が太い亀頭をスーッと抜くと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐちゃぐちゃになった顔が現れる。"
+                                "\\nc<>When the executive on top pulls out his thick glans\nsmoothly, a messy face appears."
                             ]
                         },
                         {
@@ -6957,7 +6502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>端正な先輩の顔があらゆる液体と快楽で汚れている。"
+                                "\\nc<>The once dignified face of Senpai is now dirtied with\nvarious fluids and pleasure."
                             ]
                         },
                         {
@@ -6974,14 +6519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>なかなか正気に戻らない先輩の頬をパチパチと叩き起こしては、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛おしく囁く。"
+                                "\\nc<>The executive slaps Senpai's cheeks lightly to bring her\nback to her senses and whispers affectionately."
                             ]
                         },
                         {
@@ -7009,7 +6547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>今日のはたしかに違うだろ？　ちゃんと妊娠するんだぞ？"
+                                "\\nc<Executive 2>Today's session was certainly different, right? Make sure\nyou get pregnant, okay?"
                             ]
                         },
                         {
@@ -7026,7 +6564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>い、やっ…"
+                                "\\nc<Senpai>No..."
                             ]
                         },
                         {
@@ -7043,14 +6581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>内斗さん、そろそろノルマ達成するのも大変だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕の子どもを妊娠して愛人になるのも１つの方法だぜ？"
+                                "\\nc<Executive 2>Uchitou-san, it must be hard to meet your quotas soon?\nBecoming pregnant with my child and becoming my mistress is\none way to do it?"
                             ]
                         },
                         {
@@ -7067,7 +6598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そ、そんな…"
+                                "\\nc<Senpai>That's..."
                             ]
                         },
                         {
@@ -7095,14 +6626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>薬物と快楽でおかしくなった脳にやっと危機感が戻ってくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩は舌を強く噛み、かろうじて理性を取りもどす。"
+                                "\\nc<>A sense of crisis finally returns to Senpai's drug-addled\nand pleasure-crazed brain. She bites her tongue hard and\nmanages to regain some semblance of reason."
                             ]
                         },
                         {
@@ -7146,14 +6670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>何が愛人よ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この嘘つき！"
+                                "\\nc<Senpai>What mistress... You liar!"
                             ]
                         },
                         {
@@ -7170,7 +6687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>んん？"
+                                "\\nc<Executive 2>Hmm?"
                             ]
                         },
                         {
@@ -7187,14 +6704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>妊娠したら強制派遣して捨てるくせにっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうなった淫魔を今まで何人見てきたことか…"
+                                "\\nc<Senpai>You'd just send me away on forced dispatch if I got\npregnant... How many succubi have I seen that happen to..."
                             ]
                         },
                         {
@@ -7211,14 +6721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員２>プフフッ、やっぱりメアリーちゃんは鋭いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからとことん陥落させたいんだよな。"
+                                "\\nc<Executive 2>Pffft, Meary-chan is indeed sharp. That's exactly why I want\nto bring you down completely."
                             ]
                         },
                         {
@@ -7235,7 +6738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>……"
+                                "\\nc<Saki>..."
                             ]
                         },
                         {
@@ -7263,14 +6766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>青ざめた咲姫の目に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あってはならないものが飛びこんできた。"
+                                "\\nc<>A sight that should never be seen jumped into the pale-faced\nSaki's eyes."
                             ]
                         },
                         {
@@ -7287,14 +6783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>一瞬、悲鳴を上げたくなったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことをしても何の意味もない。"
+                                "\\nc<>In a moment, she wanted to scream, but she knew it would be\nmeaningless."
                             ]
                         },
                         {
@@ -7322,14 +6811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>正解を当てた賢いメアリーちゃんにプレゼント！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "２発目の特製薬物だ。 "
+                                "\\nc<Executive 1>A present for the clever Meary-chan who guessed correctly! A\nsecond dose of the special drug."
                             ]
                         },
                         {
@@ -7362,7 +6844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>え、え？　くああっ…"
+                                "\\nc<Senpai>Eh, eh? Ahhh..."
                             ]
                         },
                         {
@@ -7379,7 +6861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員１>あうっ、体がブルブル震えてるね？　プハハッ！"
+                                "\\nc<Executive 1>Oh, your body is shivering? Puhaha!"
                             ]
                         },
                         {
@@ -7407,7 +6889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>チュウッ…"
+                                "\\nc<>*kiss*"
                             ]
                         },
                         {
@@ -7424,14 +6906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>容赦なく針を刺しこみ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ピストンを動かした役員が悪魔のように笑った。"
+                                "\\nc<>The executive mercilessly inserted the needle and moved the\npiston, laughing like a devil."
                             ]
                         },
                         {
@@ -7448,7 +6923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そのあいだも下半身にいる役員は必死に腰を擦りつけている。"
+                                "\\nc<>Meanwhile, the executive at her lower half was desperately\nrubbing his hips against her."
                             ]
                         },
                         {
@@ -7476,7 +6951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>……"
+                                "\\nc<Saki>..."
                             ]
                         },
                         {
@@ -7504,14 +6979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>愕然とした咲姫は、完全に死んだような目で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぼうっと部屋の中を見つめていた。"
+                                "\\nc<>The stunned Saki stared blankly around the room with dead\neyes."
                             ]
                         },
                         {
@@ -7528,14 +6996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>すっかり獣になってしまった先輩は、役員とひとつになり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや肉眼では見分けがつかなくなった…"
+                                "\\nc<>The senpai, now completely animalistic, had become one with\nthe executive, indistinguishable to the naked eye..."
                             ]
                         },
                         {

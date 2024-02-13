@@ -5370,14 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "備品室って書いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入らないほうがよさそうだ。"
+                                "It says \"Supply Room.\" It's probably best not to go in."
                             ]
                         },
                         {
@@ -5496,7 +5489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "休憩室に入りますか？"
+                                "Would you like to enter the rest room?"
                             ]
                         },
                         {
@@ -5504,8 +5497,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -5735,7 +5728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>まだ誰も来てないみたい…"
+                                "\\nc<Saki>It looks like no one has come yet..."
                             ]
                         },
                         {
@@ -5885,7 +5878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<管理者>では、今日もよろしくお願いします。"
+                                "\\nc<Administrator>Then, I look forward to working with you today as well."
                             ]
                         },
                         {

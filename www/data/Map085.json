@@ -2718,14 +2718,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "新規SNS宣伝イベント"
+                                "Would you like to view the event? New SNS Promotion Event"
                             ]
                         },
                         {
@@ -2733,8 +2726,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -3087,7 +3080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ザワザワ……"
+                                "\\nc<>Murmurs..."
                             ]
                         },
                         {
@@ -3115,7 +3108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>派遣で来られた方はこちらに集まってください！"
+                                "\\nc<Facilitator>Those who have been dispatched, please gather over here!"
                             ]
                         },
                         {
@@ -3576,21 +3569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>はい、ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、今からストアに新しくリリースされた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『セックスコネクト』というアプリをインストールしてもらいます。"
+                                "\\nc<Facilitator>Yes, thank you. Now, we will install a newly released app in\nthe store called \"Sex Connect.\""
                             ]
                         },
                         {
@@ -3635,7 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うわっ、全然インストールする気になれないアプリ名……"
+                                "\\nc<Saki>Ugh, that's an app name that doesn't make me want to install\nit at all..."
                             ]
                         },
                         {
@@ -3711,7 +3690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 3]ギロッ！"
+                                "\\bustMsgExpression[2, 3]\\nc<Senpai>Glare!"
                             ]
                         },
                         {
@@ -3765,14 +3744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2](はいはい。私が身を粉にして働かないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽できないってことね)"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>(Yeah, yeah. I get it. If I don't work my butt off, there's\nno comfort for me.)"
                             ]
                         },
                         {
@@ -3885,7 +3857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(淫魔登録証の認証までさせられるなんて……まぁ、いっか)"
+                                "\\nc<Saki>(To think I'd even have to authenticate my succubus\nregistration card... Oh well, whatever.)"
                             ]
                         },
                         {
@@ -3916,7 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>はは。皆さん、朝だからか少しお疲れ気味のようですね。"
+                                "\\nc<Facilitator>Ha ha. It seems everyone is a bit tired, perhaps because\nit's morning."
                             ]
                         },
                         {
@@ -3961,14 +3933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(朝からこんな怪しいイベントを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やってるあなたたちのせいじゃ？)"
+                                "\\nc<Saki>(Is it because you're holding such a shady event this early\nin the morning?)"
                             ]
                         },
                         {
@@ -3999,21 +3964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>ですが…ここからはよく聞いてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆さんのモチベーションを上げるために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特別な報酬をご用意しました。"
+                                "\\nc<Facilitator>However... please listen carefully from here on. To raise\neveryone's motivation, we have prepared a special reward."
                             ]
                         },
                         {
@@ -4058,7 +4009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0]特別な報酬？"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>A special reward?"
                             ]
                         },
                         {
@@ -4089,21 +4040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>『セックスコネクト』のリリースを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "記念して行われる今回のイベントは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一種のかくれんぼのようなものです。"
+                                "\\nc<Facilitator>This event, held in commemoration of the release of \"Sex\nConnect,\" is somewhat like a game of hide and seek."
                             ]
                         },
                         {
@@ -4120,14 +4057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>皆さんがお客に捕まれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのままセックスすることになります。"
+                                "\\nc<Facilitator>If the customers catch you, you will have sex with them\nright then and there."
                             ]
                         },
                         {
@@ -4144,7 +4074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>ザワザワ……"
+                                "\\nc<Succubi>Murmurs..."
                             ]
                         },
                         {
@@ -4189,7 +4119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2](最悪じゃない……)"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>(This is the worst...)"
                             ]
                         },
                         {
@@ -4220,14 +4150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>しかし、もし２時間捕まらず生きのこることができれば……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "該当者には特別な報酬をお支払いします。"
+                                "\\nc<Facilitator>However, if you can survive without being caught for two\nhours... we will pay a special reward to those who do."
                             ]
                         },
                         {
@@ -4272,7 +4195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>金額はだいたいこのくらい……"
+                                "\\nc<Facilitator>The amount is roughly this much..."
                             ]
                         },
                         {
@@ -4350,7 +4273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>おおっ……"
+                                "\\nc<Succubi>Wow..."
                             ]
                         },
                         {
@@ -4395,7 +4318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 5]ほ、本当にあんなもくれるっていうの？"
+                                "\\bustMsgExpression[1, 5]\\nc<Saki>H-hold on, you're really going to give us that much?"
                             ]
                         },
                         {
@@ -4426,21 +4349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>皆さんが手を抜いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客ががっかりするようなことがあっては困りますから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真剣にお願いします。"
+                                "\\nc<Facilitator>We can't have you slacking off and disappointing the\ncustomers. Please take this seriously."
                             ]
                         },
                         {
@@ -4457,7 +4366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>ただし、イベント会場の外に出てはいけません。"
+                                "\\nc<Facilitator>However, you must not leave the event venue."
                             ]
                         },
                         {
@@ -4502,14 +4411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 0](待って。よく考えたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うまくいけば仕事しないで済むかもしれないってこと？)"
+                                "\\bustMsgExpression[1, 0]\\nc<Saki>(Wait. If I think about it, this means I might be able to\nget by without working at all?)"
                             ]
                         },
                         {
@@ -4540,7 +4442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>ガヤガヤ……"
+                                "\\nc<Succubi>Buzzing..."
                             ]
                         },
                         {
@@ -4557,7 +4459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>ふふっ。意欲がわいてきたみたいですね…"
+                                "\\nc<Facilitator>Heheh. It seems like everyone's getting motivated..."
                             ]
                         },
                         {
@@ -4574,21 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>さあ、インストールしたアプリに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントに関する宣伝投稿を自撮りと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にアップロードしてください。"
+                                "\\nc<Facilitator>Now, please upload a promotional post about the event along\nwith a selfie using the app you've just installed."
                             ]
                         },
                         {
@@ -4605,7 +4493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>作業が終わったら僕が直接確認します。"
+                                "\\nc<Facilitator>Once you're done, I'll check it personally."
                             ]
                         },
                         {
@@ -4650,7 +4538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>写真って……こんな感じ？"
+                                "\\nc<Saki>A photo like... this?"
                             ]
                         },
                         {
@@ -4679,7 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>カシャッ！"
+                                "\\nc<>Click!"
                             ]
                         },
                         {
@@ -4712,7 +4600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ここには何て書こう……"
+                                "\\nc<Saki>What should I write here..."
                             ]
                         },
                         {
@@ -4757,7 +4645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 0]ちょっと貸して。"
+                                "\\bustMsgExpression[2, 0]\\nc<Senpai>Let me have a look."
                             ]
                         },
                         {
@@ -4809,7 +4697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええっ……な、何を書くんですか？"
+                                "\\nc<Saki>Eh... what are you going to write?"
                             ]
                         },
                         {
@@ -4854,7 +4742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>よし、できた。"
+                                "\\nc<Senpai>There, it's done."
                             ]
                         },
                         {
@@ -5152,7 +5040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1]ちょ、ちょっと！　これ何ですか！"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>Hey, wait! What is this?!"
                             ]
                         },
                         {
@@ -5197,21 +5085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 2]これならお客が盛りのついた犬のように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食いついてくるはずよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張れ、咲姫。"
+                                "\\bustMsgExpression[2, 2]\\nc<Senpai>With this, the customers will flock to you like dogs in\nheat. Good luck, Saki."
                             ]
                         },
                         {
@@ -5256,14 +5130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 2]ふえええ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて人なの……"
+                                "\\bustMsgExpression[1, 2]\\nc<Saki>Waaaah... what kind of person does this..."
                             ]
                         },
                         {
@@ -5428,14 +5295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>お見事です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういう投稿を待っていました。"
+                                "\\nc<Facilitator>Excellent. This is exactly the kind of post we've been\nwaiting for."
                             ]
                         },
                         {
@@ -5521,14 +5381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<進行役>咲姫さんはすぐに始めてもいいですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "10分後にお客が入場します。"
+                                "\\nc<Facilitator>Saki-san, you can start right away. The customers will be\nentering in 10 minutes."
                             ]
                         },
                         {
@@ -5573,7 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1](えっ？　思った以上に時間ない！)"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>(Eh? There's less time than I thought!)"
                             ]
                         },
                         {

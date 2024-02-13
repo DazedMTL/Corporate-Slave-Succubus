@@ -5628,14 +5628,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "連休記念特別処女競売"
+                                "Would you like to view the event? Special Virgin Auction for\nthe Holiday Weekend"
                             ]
                         },
                         {
@@ -5643,8 +5636,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -5877,7 +5870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>うん、咲姫も一人前になったわね。"
+                                "\\nc<Senpai>Yes, Saki has really become a full-fledged member."
                             ]
                         },
                         {
@@ -5922,7 +5915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]本当ですか？　ありがとうございます。へへっ。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Really? Thank you so much. Hehe."
                             ]
                         },
                         {
@@ -5939,14 +5932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(淫魔になったときは人生終わったと思ったけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近は色々と慣れてきたし。もしかして才能あるかも！)"
+                                "\\nc<Saki>(When I became a succubus, I thought my life was over... but\nlately, I've been getting used to it. Maybe I have a talent\nfor this!)"
                             ]
                         },
                         {
@@ -5991,14 +5977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]この調子で頑張ってって言いたいところだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ本番に入ってもらわないとね。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>I'd like to tell you to keep up the good work... but it's\nabout time we get to the main event."
                             ]
                         },
                         {
@@ -6043,14 +6022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExpression[1, 1]ええっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本番って…まさか、セ、セ、セックス…のことですか？"
+                                "\\bustMsgExpression[1, 1]\\nc<Saki>Eh... The main event... You don't mean, se-se-sex... do you?"
                             ]
                         },
                         {
@@ -6095,7 +6067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExpression[2, 0]もちろん。ほかにどんな本番があるの？"
+                                "\\bustMsgExpression[2, 0]\\nc<Senpai>Of course. What other main event could there be?"
                             ]
                         },
                         {
@@ -6140,7 +6112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>で、でも私にはまだ少し早くないですか？"
+                                "\\nc<Saki>But, isn't it a bit too soon for me?"
                             ]
                         },
                         {
@@ -6185,7 +6157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]咲姫はもともと人間だったのよね？　だからそうなの？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>You were originally human, right? Is that why you feel this\nway?"
                             ]
                         },
                         {
@@ -6230,7 +6202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]はい、まあ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Yes, well..."
                             ]
                         },
                         {
@@ -6275,21 +6247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]だけど本番をしないと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんどん高くなるノルマをこなすのは大変よ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本番をせずに得られる精気には限界があるから。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>But if you don't do the main event, it'll be tough to meet\nthe increasingly high quotas. There's a limit to the amount\nof vital energy you can get without doing it."
                             ]
                         },
                         {
@@ -6334,21 +6292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、そうなんですね… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(それでも嫌だ。私の初体験をこんなふうに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奪われるわけには…)"
+                                "\\nc<Saki>Is that so... (But I still don't want it. I can't let my\nfirst time be taken away like this...)"
                             ]
                         },
                         {
@@ -6365,14 +6309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>でも先輩…そこをどうにかお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私まだ処女なんです…"
+                                "\\nc<Saki>But Senpai... please, somehow... I'm still a virgin..."
                             ]
                         },
                         {
@@ -6563,7 +6500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔たち>処、処女？！"
+                                "\\nc<Succubi>A virgin?!"
                             ]
                         },
                         {
@@ -6608,14 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]咲姫、本当に処女だったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度も男性としたことがないってこと？"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>Saki, are you really a virgin? You've never been with a man\nbefore?"
                             ]
                         },
                         {
@@ -6660,14 +6590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(みんな、ここで驚くんだ。淫魔らしいというか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもこう言えば分かってくれるよね？　むしろ好都合かも)"
+                                "\\nc<Saki>(Everyone is shocked here. It's so like a succubus... But if\nI say it like this, they'll understand, right? It might even\nwork out better for me.)"
                             ]
                         },
                         {
@@ -6684,7 +6607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]そうなんです。私、一度もしたことがないんです。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Yes, that's right. I've never done it before."
                             ]
                         },
                         {
@@ -6729,14 +6652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]…分かったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の処女を簡単に奪われるわけにはね。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>...I understand. We can't just take away Saki's virginity so\neasily."
                             ]
                         },
                         {
@@ -6781,7 +6697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]先輩…分かってくれるんですか？"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>Senpai... do you really understand?"
                             ]
                         },
                         {
@@ -6826,14 +6742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もちろん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の処女は……"
+                                "\\nc<Senpai>Of course. Saki's virginity is..."
                             ]
                         },
                         {

@@ -3816,14 +3816,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ピンク色☆ぐちょぐちょ撮影コース"
+                                "Would you like to view the event? Pink Color☆Sloppy Shooting\nCourse"
                             ]
                         },
                         {
@@ -3831,8 +3824,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4340,7 +4333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]何をそんなに慌ててるの？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Why are you in such a hurry?"
                             ]
                         },
                         {
@@ -4371,21 +4364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>メアリーさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今朝送っていただいたメンバーなんですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客からクレームが入りまして。"
+                                "\\nc<Employee>Meary-san. About the member I sent this morning, we've\nreceived a complaint from a client."
                             ]
                         },
                         {
@@ -4425,14 +4404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>えっ？　あの子、ベテランなんだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かミスでもした？　簡単な仕事だったはずよね。"
+                                "\\nc<Senpai>Eh? But she's a veteran... Did she make some kind of\nmistake? It was supposed to be an easy job, right?"
                             ]
                         },
                         {
@@ -4463,7 +4435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>そ、それが…気に入らないので変更してくれと…"
+                                "\\nc<Employee>Well, that's... they said they didn't like it and asked for\na change..."
                             ]
                         },
                         {
@@ -4503,21 +4475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてなのかって聞いてるでしょ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も質問させないで。"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>That's why I'm asking, why? Don't make me ask over and over."
                             ]
                         },
                         {
@@ -4557,7 +4515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>その…色が、あまり綺麗じゃなかったようで…"
+                                "\\nc<Employee>It's just that... the color wasn't very pretty..."
                             ]
                         },
                         {
@@ -4588,21 +4546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]色？　ああ、そういうこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔は基本的に綺麗なはずなんだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完璧な薄ピンクをお望みとか？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Color? Oh, I see. Succubi are supposed to be beautiful by\ndefault... Are they looking for a perfect light pink or\nsomething?"
                             ]
                         },
                         {
@@ -4633,14 +4577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>どうもそのようです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は帰ってもらったほうがいいでしょうか。"
+                                "\\nc<Employee>It seems so. Should we send her home for today?"
                             ]
                         },
                         {
@@ -4671,21 +4608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]何を言ってるの。お金を払ってもらってるんだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "要望に合わせないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな簡単な仕事、めったにないわよ。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>What are you talking about? We're getting paid, so we have\nto meet their requests. Jobs this easy don't come around\noften."
                             ]
                         },
                         {
@@ -4716,7 +4639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>では、誰を送りましょうか？"
+                                "\\nc<Employee>Then, who should we send?"
                             ]
                         },
                         {
@@ -4747,14 +4670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]最近の新入りの中だと…咲姫しかいないわね。\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[2, 0]咲姫、代わりに入りなさい。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Among the recent newcomers... Saki is the only one\nleft.\\bustMsgExp[2, 0]Saki, you take over."
                             ]
                         },
                         {
@@ -4839,7 +4755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]\\bustMoveTo[1, 1300, 720, 30]えっ！？　私ですか？"
+                                "\\bustMsgExp[1, 1]\\bustMoveTo[1, 1300, 720, 30]\\nc<Saki>Eh!? Me?"
                             ]
                         },
                         {
@@ -4884,7 +4800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]何、もしかして嫌なの？"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>What, do you have a problem with that?"
                             ]
                         },
                         {
@@ -4929,7 +4845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いえ、そういうわけでは…ただ、私にできるかどうか…"
+                                "\\nc<Saki>No, it's not that... I'm just wondering if I can do it..."
                             ]
                         },
                         {
@@ -4974,14 +4890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]心配ないわ。お客の好みで入ったクレームなんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事もいたって簡単だしね。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Don't worry. It's a complaint based on the client's\npreference. The job itself is quite simple."
                             ]
                         },
                         {
@@ -5026,7 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]なるほど…それで、私は何をすればいいんですか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>I see... So, what exactly should I do?"
                             ]
                         },
                         {
@@ -5071,21 +4980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>たしか、単純撮影コースだったわよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本はお触り禁止だけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高額コースだから適当に付き合いなさい。"
+                                "\\nc<Senpai>If I remember correctly, it was just a simple shooting\ncourse, right? The basic rule is no touching, but since it's\na high-priced course, just go along with it appropriately."
                             ]
                         },
                         {
@@ -5130,7 +5025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えええ！？　撮影って、AVとかですか！？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eeeh!? Shooting, as in AV or something!?"
                             ]
                         },
                         {
@@ -5175,14 +5070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]バカ、そんな大げさなものじゃなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スマホとかで写真を撮るだけよ…"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Idiot, it's nothing that exaggerated. It's just taking\nphotos with smartphones or something..."
                             ]
                         },
                         {
@@ -5199,7 +5087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]流出は厳禁だから安心して。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Leaks are strictly forbidden, so don't worry."
                             ]
                         },
                         {
@@ -5244,7 +5132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ここまで来てそんなことをするお客がいるんですね。"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>To think there are clients who would do such things even\nafter coming this far."
                             ]
                         },
                         {
@@ -5289,7 +5177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>撮った写真をオカズにでもするつもりなんでしょう。"
+                                "\\nc<Senpai>They probably intend to use the photos as fap material or\nsomething."
                             ]
                         },
                         {
@@ -5306,21 +5194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]気に入らないとクレームを入れる奴だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気は抜かないように。撮影コースは内容のわりに高額だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫、あなたツイてるわよ。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Since they're the type to complain if they don't like\nsomething, don't let your guard down. The shooting course is\nquite pricey for what it is, and Saki, you're lucky this\ntime."
                             ]
                         },
                         {
@@ -5365,14 +5239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]たしかにお触りなしの撮影なら簡単そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行ってきます！"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Indeed, if it's just no-touch photography, it seems easy\nenough. I'll be going then!"
                             ]
                         },
                         {
@@ -5700,14 +5567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]なんとかなってよかったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手を見くびって意気揚々と挑むのが咲姫の魅力よね。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Glad that's settled. Underestimating the opponent and\ncharging in with high spirits is part of Saki's charm, isn't\nit."
                             ]
                         },
                         {
@@ -5738,7 +5598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>…まあ、今回の仕事は本当に簡単ですから…"
+                                "\\nc<Employee>...Well, this job really is quite simple..."
                             ]
                         },
                         {
@@ -6471,7 +6331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>私もここに入社してそんなに経ってないの。"
+                                "\\nc<Lewd Demon Employee>I haven't been with the company for that long either."
                             ]
                         },
                         {
@@ -6488,7 +6348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>１～２か月の差でも先輩は先輩でしょ？"
+                                "\\nc<Lewd Demon Employee>But even a difference of one or two months still makes you a\nsenpai, right?"
                             ]
                         },
                         {
@@ -6577,7 +6437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>見てるぞ。新入り。"
+                                "\\nc<Lewd Demon Employee>I'm watching you, newbie."
                             ]
                         },
                         {
@@ -6665,14 +6525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>いくらやっても仕事が終わらない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だって？　休日出勤？"
+                                "\\nc<Lewd Demon Employee>No matter how much I do, the work never ends... What's that?\nWork on a holiday?"
                             ]
                         },
                         {
@@ -6689,14 +6542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>生き残るためには割りきるしか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手当なんて期待もしてないって。"
+                                "\\nc<Lewd Demon Employee>To survive, I just have to accept it... I'm not even\nexpecting any extra pay."
                             ]
                         },
                         {

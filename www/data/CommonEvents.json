@@ -7106,7 +7106,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]先輩からスキルを学べます。"
+                    "\\TA[1]You can learn skills from your senpai."
                 ]
             },
             {
@@ -7139,14 +7139,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]業務は時間の経過につれ解放されますが"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "業務を強化するためにはスキルを学ぶ必要があります。"
+                    "\\TA[1]Tasks will become available over time, but you need to learn\nskills to enhance your tasks."
                 ]
             },
             {
@@ -7179,14 +7172,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]スキルは様々な効果を持っており"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "独特な方法で業務を強化することができます。"
+                    "\\TA[1]Skills have various effects and can enhance your tasks in\nunique ways."
                 ]
             },
             {
@@ -7219,7 +7205,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]スキルには先行スキルがあります。"
+                    "\\TA[1]There are prerequisite skills for skills."
                 ]
             },
             {
@@ -7252,14 +7238,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]スキルを習得するためには"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "財貨のほかに、別途の条件が必要となる場合があります。"
+                    "\\TA[1]In addition to funds, there may be other conditions required\nto acquire skills."
                 ]
             },
             {
@@ -7276,7 +7255,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]財貨を有効に使用してスキルを習得しましょう。"
+                    "\\TA[1]Use your funds effectively to acquire skills."
                 ]
             },
             {
@@ -7452,7 +7431,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]ここではスケジュールを組むことができます。"
+                    "\\TA[1]Here you can arrange your schedule."
                 ]
             },
             {
@@ -7485,7 +7464,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]曜日を選択すると、スケジュールが選択できます。"
+                    "\\TA[1]By selecting a day of the week, you can choose a schedule."
                 ]
             },
             {
@@ -7518,14 +7497,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]スケジュールは方向キー(左右)で選択でき"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "財貨の獲得量や疲労度の消費量はそれぞれ異なります。"
+                    "\\TA[1]Schedules can be selected with the directional keys (left\nand right), and the amount of money earned and fatigue\nconsumed varies for each."
                 ]
             },
             {
@@ -7558,14 +7530,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]祝日・記念日などの特別な日には固定のスケジュールがあり"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ほかのスケジュールを選択することはできません。"
+                    "\\TA[1]On special days such as holidays and anniversaries, there is\na fixed schedule and you cannot choose other schedules."
                 ]
             },
             {
@@ -7598,14 +7563,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]スケジュールを選択すると、画面の右下にある予想財貨獲得量が"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "合計で表示されます。"
+                    "\\TA[1]When you select a schedule, the estimated total amount of\nmoney earned is displayed at the bottom right of the screen."
                 ]
             },
             {
@@ -7638,14 +7596,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]すべてのスケジュールを選択すると決定ボタンが有効になり"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "スケジュールを決定すると１週間のスケジュールが開始します。"
+                    "\\TA[1]Once all schedules are selected, the confirm button becomes\nactive, and confirming the schedule will start the schedule\nfor the week."
                 ]
             },
             {
@@ -7825,7 +7776,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]週末もスケジュールを組むことができます。"
+                    "\\TA[1]You can also schedule your weekends."
                 ]
             },
             {
@@ -7858,7 +7809,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]週末は休むこともできます。"
+                    "\\TA[1]You can take a break on the weekends as well."
                 ]
             },
             {
@@ -7875,14 +7826,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]休むと疲労度が回復します。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "疲労度の回復は、スキルの習得によって効率が異なります。 "
+                    "\\TA[1]Taking a break will recover your fatigue level. The\nefficiency of recovery depends on the skills you've learned."
                 ]
             },
             {
@@ -7915,14 +7859,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]普通の業務は行えませんが"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "会社を探索することもできます。"
+                    "\\TA[1]While you cannot perform regular duties, you can explore the\ncompany."
                 ]
             },
             {
@@ -7939,14 +7876,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]探索を進めていくと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "資源や役に立つアイテムを手に入れることができます。"
+                    "\\TA[1]As you continue to explore, you can find resources and\nuseful items."
                 ]
             },
             {
@@ -7963,7 +7893,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]疲労度に余裕があるなら、探索をしてみてもいいでしょう。"
+                    "\\TA[1]If you have enough energy left, it might be a good idea to\ngo exploring."
                 ]
             },
             {
@@ -8056,7 +7986,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "週末は何して過ごそうか…"
+                    "What should I do this weekend..."
                 ]
             },
             {
@@ -8144,7 +8074,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]ゲームで使用する資源について説明します。"
+                    "\\TA[1]I will explain the resources used in the game."
                 ]
             },
             {
@@ -8161,7 +8091,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]魔力はゲームの目的であり、咲姫の生存に最も関わる資源となります。"
+                    "\\TA[1]Magic power is the goal of the game and the most crucial\nresource for Saki's survival."
                 ]
             },
             {
@@ -8178,14 +8108,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]様々な方法を使って効率的に魔力を集めることが"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "このゲームの目的です。"
+                    "\\TA[1]The purpose of this game is to collect magic power\nefficiently using various methods."
                 ]
             },
             {
@@ -8218,7 +8141,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]新しい業務を習得する際にも魔力が必要です。"
+                    "\\TA[1]Magic power is also necessary when acquiring new skills."
                 ]
             },
             {
@@ -8251,7 +8174,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]経験指数は自己啓発に必要な資源です。"
+                    "\\TA[1]Experience points are a resource needed for self-\nimprovement."
                 ]
             },
             {
@@ -8268,7 +8191,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]新しい業務の習得にも活用されます。"
+                    "\\TA[1]They are also used for acquiring new skills."
                 ]
             },
             {
@@ -8301,7 +8224,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]魔力と経験指数は毎週のスケジュールから得られます。"
+                    "\\TA[1]Magic power and experience points can be obtained from the\nweekly schedule."
                 ]
             },
             {
@@ -8318,7 +8241,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]残りの日数をチェックしつつ、効率的に資源を集めてみましょう。"
+                    "\\TA[1]While checking the remaining days, let's try to collect\nresources efficiently."
                 ]
             },
             {
@@ -8438,7 +8361,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]「取引先」が解放されました。"
+                    "\\TA[1]\"Business Partner\" has been unlocked."
                 ]
             },
             {
@@ -8455,7 +8378,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]今後、金曜日の業務はすべて「取引先業務」に固定されます。"
+                    "\\TA[1]From now on, all Friday tasks will be fixed to \"Business\nPartner Tasks.\""
                 ]
             },
             {
@@ -8488,14 +8411,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]取引先勤務は一般業務より多くの資源を獲得でき"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "特定の効果を持っています。"
+                    "\\TA[1]Working with a business partner yields more resources than\ngeneral tasks and comes with specific effects."
                 ]
             },
             {
@@ -8512,14 +8428,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]取引先の信頼度をあげるとレベルアップができ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "取得する資源とバフの効果が上昇します。"
+                    "\\TA[1]Increasing your trust level with the business partner allows\nfor leveling up, which enhances the resources gained and the\neffects of buffs."
                 ]
             },
             {
@@ -8536,14 +8445,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]特定条件を満たすと別の取引先が解放されます。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "それぞれの取引先は違う資源とバフ効果を持っています。"
+                    "\\TA[1]If certain conditions are met, another business partner will\nbe unlocked. Each business partner has different resources\nand buff effects."
                 ]
             },
             {
@@ -8576,7 +8478,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]また、今後の週末探索で取引先を選択できるようになります。"
+                    "\\TA[1]Furthermore, you will be able to choose a business partner\nfor weekend explorations in the future."
                 ]
             },
             {
@@ -8609,14 +8511,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]信頼度が上がるにつれ、当取引先内で"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "探索できる場所も増えます。"
+                    "\\TA[1]As trust increases, more locations within that business\npartner will become available for exploration."
                 ]
             },
             {
@@ -8633,7 +8528,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]取引先との関係をよく管理して、円満な関係を築いてください。"
+                    "\\TA[1]Manage your relationships with business partners well to\nmaintain a harmonious partnership."
                 ]
             },
             {
@@ -8774,7 +8669,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]これから四半期ごとに必要な魔力のノルマが決まります。"
+                    "\\TA[1]From now on, the quota of magical power needed for each\nquarter will be set."
                 ]
             },
             {
@@ -8791,14 +8686,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]このゲームの最終目標は効率的に魔力を集め"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "咲姫が強制派遣されずに生き残ることです。"
+                    "\\TA[1]The ultimate goal of this game is to efficiently gather\nmagical power so that Saki can survive without being\nforcibly dispatched."
                 ]
             },
             {
@@ -8815,14 +8703,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]四半期は３か月(13週)となっており"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ゲームのエンディングまでは合計１年の時間が与えられます。"
+                    "\\TA[1]A quarter is 3 months (13 weeks), and a total of one year is\ngiven until the game's ending."
                 ]
             },
             {
@@ -8839,14 +8720,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]咲姫がこのブラック企業で無事に生き残れるように"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "力を貸してください。"
+                    "\\TA[1]Please lend your strength so that Saki can survive safely in\nthis black company."
                 ]
             },
             {
@@ -8992,7 +8866,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]ゲームの操作画面やメイン財貨について説明します。"
+                    "\\TA[1]I will explain the game interface and the main currency."
                 ]
             },
             {
@@ -9025,7 +8899,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]画面の右上には、現在所持中の魔力と経験指数が表示されます。"
+                    "\\TA[1]In the top right corner of the screen, you can see your\ncurrent magical power and experience index."
                 ]
             },
             {
@@ -9042,7 +8916,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]魔力はゲームの目的であり、咲姫の生存に最も関わる資源となります。"
+                    "\\TA[1]Magical power is the goal of the game and the most crucial\nresource for Saki's survival."
                 ]
             },
             {
@@ -9059,14 +8933,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]様々な方法を使って効率的に魔力を集めることが"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "このゲームの目的です。"
+                    "\\TA[1]The objective of this game is to efficiently gather magical\npower using various methods."
                 ]
             },
             {
@@ -9099,7 +8966,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]新しい業務を習得する際にも魔力が必要です。"
+                    "\\TA[1]Magical power is also needed when acquiring new skills."
                 ]
             },
             {
@@ -9132,7 +8999,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]経験指数は自己啓発に必要な資源です。"
+                    "\\TA[1]The experience index is a resource necessary for self-\nimprovement."
                 ]
             },
             {
@@ -9149,7 +9016,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]新しい業務の習得にも活用されます。"
+                    "\\TA[1]It is also used in the acquisition of new skills."
                 ]
             },
             {
@@ -9182,7 +9049,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]画面の右下には、現在の疲労度の数値が表示されます。"
+                    "\\TA[1]In the bottom right corner of the screen, the current\nfatigue level is displayed."
                 ]
             },
             {
@@ -9215,7 +9082,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]疲労度はスケジュールをこなすと溜まります。"
+                    "\\TA[1]Fatigue accumulates as you complete schedules."
                 ]
             },
             {
@@ -9232,7 +9099,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]疲労度が溜まるほどスケジュールの成功率が減少します。"
+                    "\\TA[1]The more fatigue you accumulate, the lower the success rate\nof schedules becomes."
                 ]
             },
             {
@@ -9265,7 +9132,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]画面の左下には、残りの期間が表示されます。"
+                    "\\TA[1]In the bottom left corner of the screen, the remaining time\nperiod is displayed."
                 ]
             },
             {
@@ -9282,7 +9149,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]すべてのチュートリアルは、あとで先輩から再度確認できます。"
+                    "\\TA[1]All tutorials can be reviewed again later from your senpai."
                 ]
             },
             {
@@ -28434,7 +28301,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "\\nc<><怪しい器具>のデータ収集が完了した。"
+                    "\\nc<>Data collection for the <Suspicious Device> is complete."
                 ]
             },
             {
@@ -28731,7 +28598,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "\\nc<><牛柄ビキニ>アイテムを獲得した。"
+                    "\\nc<>You have obtained the <Cow Print Bikini> item."
                 ]
             },
             {
@@ -29121,21 +28988,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\TA[1]\\nc<>魔力\\V[41]獲得！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "経験指数\\V[42]獲得！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "疲労度\\V[43]上昇"
+                    "\\TA[1]\\nc<>Gained \\V[41] M. Power! Gained \\V[42] EXP! Fatigue level\nincreased by \\V[43]"
                 ]
             },
             {
@@ -68374,7 +68227,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\nc<>疲労度が20回復した！"
+                    "\\nc<>Fatigue has recovered by 20!"
                 ]
             },
             {
@@ -68448,7 +68301,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\nc<>疲労度が10回復した！"
+                    "\\nc<>Fatigue has recovered by 10!"
                 ]
             },
             {
@@ -68522,7 +68375,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\nc<>疲労度が40回復した！"
+                    "\\nc<>Fatigue has been restored by 40!"
                 ]
             },
             {
@@ -68583,7 +68436,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\nc<>魔力を5000獲得した。"
+                    "\\nc<>Gained 5000 M. Power!"
                 ]
             },
             {
@@ -68644,7 +68497,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\nc<>魔力を20000獲得した。"
+                    "\\nc<>Gained 20000 M. Power!"
                 ]
             },
             {
@@ -68705,7 +68558,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\nc<>魔力を50000を獲得した。"
+                    "\\nc<>Gained 50000 M. Power!"
                 ]
             },
             {

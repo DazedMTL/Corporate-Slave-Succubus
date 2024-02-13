@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -2879,14 +2879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫？　まったく、呑気なものね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取引先で寝ちゃだめでしょ。"
+                                "\\nc<Senpai>\"Saki? Honestly, you're so carefree. You shouldn't sleep at\na client's place.\""
                             ]
                         },
                         {
@@ -2978,21 +2971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ああっ！　すみません、先輩。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急に眠気が…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにしても、さっきのインタビュー本当に酷かったんですよ！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Ah! I'm sorry, senpai. I suddenly felt so sleepy... And\nthat interview earlier was just awful!\""
                             ]
                         },
                         {
@@ -3037,14 +3016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>知らないわよ。あっちは満足したみたいだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か言われる前に早く帰るわよ。"
+                                "\\nc<Senpai>\"I don't know about that. They seemed satisfied, so let's\nget back before anyone says anything.\""
                             ]
                         },
                         {
@@ -3089,7 +3061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]はい…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>\"Yes...\""
                             ]
                         },
                         {
@@ -3129,7 +3101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>数日後、インタビューは放送され…"
+                                "\\nc<>A few days later, the interview was broadcasted..."
                             ]
                         },
                         {
@@ -3146,7 +3118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は、会社で顔を上げられなくなった…"
+                                "\\nc<>Saki could no longer raise her face at the company..."
                             ]
                         },
                         {

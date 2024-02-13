@@ -3834,14 +3834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "突然の警備業務実践"
+                                "Would you like to view the event? Sudden security duty\npractice."
                             ]
                         },
                         {
@@ -3849,8 +3842,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4266,14 +4259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は警備会社に派遣だけど…何してるの？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Saki. You're dispatched to the security company today...\nWhat are you doing?"
                             ]
                         },
                         {
@@ -4349,7 +4335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>退職届を書いてました。"
+                                "\\nc<Saki>I was writing my resignation letter."
                             ]
                         },
                         {
@@ -4394,14 +4380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふーん、見せて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃ様式が大雑把すぎてだめね。"
+                                "\\nc<Senpai>Hmm, let me see. This won't do, the format is too sloppy."
                             ]
                         },
                         {
@@ -4465,7 +4444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]うわぁ！　なにも、破る必要なくないですか！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Ahh! There's no need to tear it up, is there?!"
                             ]
                         },
                         {
@@ -4510,21 +4489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]こんなもの見せたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いなく長期派遣よ。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと支度して。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>If you show them something like this, you'll definitely be\non long-term dispatch. Hurry up and get ready."
                             ]
                         },
                         {
@@ -4569,14 +4534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]先輩。一生のお願いなんですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１日だけ休んじゃいけませんか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Senpai. It's a once-in-a-lifetime request, but can't I take\njust one day off?"
                             ]
                         },
                         {
@@ -4621,7 +4579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]いいわよ…なんて言うと思う？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Do you think I'd say 'okay'...?"
                             ]
                         },
                         {
@@ -4666,14 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]警備会社の社員たち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にイカれてるんです！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>The employees at the security company are really crazy!"
                             ]
                         },
                         {
@@ -4718,14 +4669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>でも、今は何もできないはずよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴ら、あなたが役員のおもちゃって信じこんでるから。"
+                                "\\nc<Senpai>But you can't do anything about it now, can you? They\nbelieve you're the executive's plaything."
                             ]
                         },
                         {
@@ -4770,7 +4714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]あのときは本当に助かりましたけど…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>You really saved me that time, but..."
                             ]
                         },
                         {
@@ -4815,7 +4759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>じゃあ、さっさと支度しなさい。"
+                                "\\nc<Senpai>Then hurry up and get ready."
                             ]
                         },
                         {
@@ -4860,7 +4804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう…分かりましたよ。行けばいいんでしょ、行けば。"
+                                "\\nc<Saki>Ugh... Fine, I get it. If I must go, I'll go."
                             ]
                         },
                         {
@@ -5461,7 +5405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>私もここに入社してそんなに経ってないの。"
+                                "\\nc<Lewd Demon Employee>I haven't been with the company for very long either."
                             ]
                         },
                         {
@@ -5478,7 +5422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>１～２か月の差でも先輩は先輩でしょ？"
+                                "\\nc<Lewd Demon Employee>But even a difference of one or two months still makes you a\nsenpai, right?"
                             ]
                         },
                         {
@@ -5566,14 +5510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>はあ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰りたい。"
+                                "\\nc<Lewd Demon Employee>Sigh... I want to go home."
                             ]
                         },
                         {
@@ -5661,7 +5598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>見てるぞ。新入り。"
+                                "\\nc<Lewd Demon Employee>I'm watching you, newbie."
                             ]
                         },
                         {
@@ -5749,14 +5686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>いくらやっても仕事が終わらない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だって？　休日出勤？"
+                                "\\nc<Lewd Demon Employee>\"No matter how much I do, the work never ends... What's\nthat? Work on a holiday?\""
                             ]
                         },
                         {
@@ -5773,14 +5703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>生き残るためには割りきるしか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手当なんて期待もしてないって。"
+                                "\\nc<Lewd Demon Employee>\"To survive, I just have to accept it... I'm not even\nexpecting any extra pay.\""
                             ]
                         },
                         {

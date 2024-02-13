@@ -6192,7 +6192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>ようこそ！今日も楽しい異種間実験です！"
+                                "\\nc<Researcher 1>Welcome! Today we have another exciting interspecies\nexperiment!"
                             ]
                         },
                         {
@@ -6232,7 +6232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]……"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>..."
                             ]
                         },
                         {
@@ -6294,14 +6294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>いけませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "被験者が酷く固まってるじゃないですか。"
+                                "\\nc<Researcher 2>This won't do. The subject is terribly stiff."
                             ]
                         },
                         {
@@ -6349,14 +6342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>ああっ、そんなに心配しなくても大丈夫です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残念ながら前回のような実験はもう二度とできませんから。"
+                                "\\nc<Researcher 1>Ah, don't worry so much. Unfortunately, we can't conduct\nexperiments like the last time ever again."
                             ]
                         },
                         {
@@ -6449,7 +6435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]えっ、できないんですか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Eh, we can't do it anymore?"
                             ]
                         },
                         {
@@ -6489,21 +6475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>はい…トロールくんが研究室をめちゃくちゃに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汚したと怒られたんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その最中に壊れた機材もいくつかありまして"
+                                "\\nc<Researcher 1>Yes... We got scolded because Troll-kun made a huge mess of\nthe lab. Some equipment was also broken in the process."
                             ]
                         },
                         {
@@ -6520,21 +6492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>トロールくんが勝手に暴れすぎたからか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "効果もそれほどでしたし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで今日は相手役に拘束具を着用させるつもりです。"
+                                "\\nc<Researcher 2>Maybe because Troll-kun rampaged too much on his own, the\neffects weren't that great either. That's why today we plan\nto have the partner wear restraints."
                             ]
                         },
                         {
@@ -6565,7 +6523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふ、ふぅ…"
+                                "\\nc<Saki>Huh, huu..."
                             ]
                         },
                         {
@@ -6596,14 +6554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>次の実験はまたいつできるか分からないので…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々もできる限り慎重に行います。"
+                                "\\nc<Researcher 2>Since we don't know when we can do the next experiment... We\nwill proceed with as much caution as possible."
                             ]
                         },
                         {
@@ -6665,7 +6616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>では、付いてきてください。"
+                                "\\nc<Researcher 2>Now, please follow me."
                             ]
                         },
                         {
@@ -7732,14 +7683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]被験者の安全も少しくらいは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を遣ってくれませんか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Can't you at least pay a little attention to the subject's\nsafety?"
                             ]
                         },
                         {
@@ -7770,14 +7714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>では日が暮れる前に始めますか～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さきに注射から打ちます！"
+                                "\\nc<Researcher 1>Then shall we start before dusk? Let's begin with an\ninjection!"
                             ]
                         },
                         {
@@ -7861,7 +7798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うあっ、く、薬がもっと強くなったような気が…"
+                                "\\nc<Saki>Ugh, it feels like the drug has gotten stronger..."
                             ]
                         },
                         {
@@ -7910,14 +7847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>そりゃあ耐性ができたかも知れないので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ではこの辺で本日の相手役を紹介します！"
+                                "\\nc<Researcher 1>Well, you might have built up a tolerance. Now, let me\nintroduce today's partner!"
                             ]
                         },
                         {
@@ -9090,14 +9020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]キャアアア！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや人間型じゃない？！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Kyaaa! It's not even human-shaped anymore?!"
                             ]
                         },
                         {
@@ -9128,7 +9051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>巨大触手群のグビグビくんを紹介します！"
+                                "\\nc<Researcher 1>Introducing Gubigubi-kun, the giant tentacle mass!"
                             ]
                         },
                         {
@@ -9145,21 +9068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>うう、グビグビくんなら被験者を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確実に妊娠させてくれるでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この実験が失敗すれば、これ以上の実験は意味がないかも…"
+                                "\\nc<Researcher 2>Ugh, Gubigubi-kun will surely ensure the subject gets\npregnant. If this experiment fails, there may be no point in\ncontinuing further..."
                             ]
                         },
                         {
@@ -9190,14 +9099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(ありえない、ありえない！　早く逃げなきゃ…くっ？)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]ふああっ…"
+                                "\\nc<Saki>(Impossible, impossible! I have to escape...\nhuh?)\\bustMsgExp[1, 2]Fuaaah..."
                             ]
                         },
                         {
@@ -9240,7 +9142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<グビグビくん>クオオ…"
+                                "\\nc<Gubigubi-Kun>Kuooh..."
                             ]
                         },
                         {
@@ -9271,14 +9173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(えぇっ…触手の群れに穴が…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか…私を飲みこもうとしてるんじゃ！？)"
+                                "\\nc<Saki>(Ehh... there's a hole in the mass of tentacles... don't\ntell me... they're trying to swallow me whole!?)"
                             ]
                         },
                         {
@@ -9309,21 +9204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>ご安心を！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グビグビくんは相手を飲みこんだまま妊娠させるタイプの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手の魔物なんです！"
+                                "\\nc<Researcher 1>Rest assured! Gubigubi-kun is a type of tentacle monster\nthat impregnates its partner while swallowing them whole!"
                             ]
                         },
                         {
@@ -9354,7 +9235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]いったいどの部分で安心しろっていうのよ！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>What part of that is supposed to make me feel reassured?!"
                             ]
                         },
                         {
@@ -9385,7 +9266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>本当に飲みこむのではありません。"
+                                "\\nc<Researcher 2>It doesn't actually swallow you."
                             ]
                         },
                         {
@@ -9414,7 +9295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<グビグビくん>キヒッ！"
+                                "\\nc<Gubigubi-Kun>Kihih!"
                             ]
                         },
                         {
@@ -9513,14 +9394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(クフッ…捕まったせいで力が抜けていく！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして…私眠い？！)"
+                                "\\nc<Saki>(Kuhh... I'm losing strength because I got caught! Could it\nbe... I'm feeling sleepy?!)"
                             ]
                         },
                         {
@@ -9551,7 +9425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>果たして、睡眠剤を混ぜておいたのが吉と出るか凶と出るか…"
+                                "\\nc<Researcher 1>Now, whether mixing in a sleeping pill turns out to be a\ngood or bad idea..."
                             ]
                         },
                         {
@@ -9568,7 +9442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>果たして、睡眠中にも妊娠に抵抗できるのか。"
+                                "\\nc<Researcher 2>Indeed, whether one can resist getting pregnant even while\nasleep."
                             ]
                         },
                         {
@@ -9599,14 +9473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>やっぱりあなたたちのせいだったのね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クハッ♥"
+                                "\\nc<Saki>So it was you guys after all... Kuhah♥"
                             ]
                         },
                         {
@@ -9693,14 +9560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の体があっという間に触手の群れに飲みこまれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上半身だけが外に出ている状態になる。"
+                                "\\nc<>Saki's body is quickly swallowed by the mass of tentacles,\nleaving only her upper body exposed."
                             ]
                         },
                         {
@@ -9717,21 +9577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>両腕を大きく広げているため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以上入りこみはしなかったが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手はしつこく腰と脚を引っぱってくる。"
+                                "\\nc<>Her arms are spread wide, preventing further entry, but...\nthe tentacles persistently pull at her waist and legs."
                             ]
                         },
                         {
@@ -9759,7 +9605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>だ、だめっ…私は美味しくないってばぁ！"
+                                "\\nc<Saki>No, no... I'm not tasty at all!"
                             ]
                         },
                         {
@@ -9776,14 +9622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>らしくない謙虚さ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クチコミサイトでも高評価でしたけど？"
+                                "\\nc<Researcher 1>Such modesty is unlike you... You had high ratings on the\nreview sites, didn't you?"
                             ]
                         },
                         {
@@ -9812,7 +9651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<グビグビくん>キヒヒッ！"
+                                "\\nc<Gubigubi-Kun>Kihihih!"
                             ]
                         },
                         {
@@ -9840,14 +9679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>もともな発声器官すらない触手なのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫は相手の気持ちの悪い熱意を鮮明に感じとる。"
+                                "\\nc<>Despite lacking vocal organs, Saki vividly feels the\ntentacles' disturbing enthusiasm."
                             ]
                         },
                         {
@@ -9864,14 +9696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ベトベトした触手たちが咲姫の下半身全体にまとわりつき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "胸に向かって這いあがってくる。"
+                                "\\nc<>The sticky tentacles cling to Saki's lower half and begin to\ncrawl up towards her chest."
                             ]
                         },
                         {
@@ -9888,14 +9713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>>必死に脱出を試みる咲姫だったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薬のせいで触手を振りはらうこともできない。"
+                                "\\nc<>Saki desperately tries to escape, but due to the drug, she\ncan't shake off the tentacles."
                             ]
                         },
                         {
@@ -9923,14 +9741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(だめっ、どんどん力が抜けて…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒイイッ♥"
+                                "\\nc<Saki>(No good, I'm losing strength...) Hiiih♥"
                             ]
                         },
                         {
@@ -10019,14 +9830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>さらに細長い触手が剝きだしになった割れ目に触れると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゾッとする快感が広がっていく。"
+                                "\\nc<>The moment the slender tentacles touch her exposed slit, a\nchilling pleasure spreads through her."
                             ]
                         },
                         {
@@ -10043,21 +9847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>湿った触手の丸い部分が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ完全に勃起もしていないクリトリスを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐさま攻略してくる。"
+                                "\\nc<>The damp round part of a tentacle immediately targets her\nclit, which isn't fully erect yet."
                             ]
                         },
                         {
@@ -10085,7 +9875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(こいつ…かなり慣れてる！　それにすごく吸いついてくる！)"
+                                "\\nc<Saki>(This thing... it's quite skilled! And it clings so\nstrongly!)"
                             ]
                         },
                         {
@@ -10113,7 +9903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>チュウッ！"
+                                "\\nc<>Smooch!"
                             ]
                         },
                         {
@@ -10146,14 +9936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>「く」の字に曲がった脚が強制的にまっすぐに伸び、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "股の間の聖域があっという間に丸見えになる。"
+                                "\\nc<>Her legs bent into a 'く' shape are forcibly straightened,\nand the sanctuary between her thighs is exposed in an\ninstant."
                             ]
                         },
                         {
@@ -10170,21 +9953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>細長い触手たちは咲姫の体のあちこちを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きなだけ噛んでは弄くりまわす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは胸や下半身も例外ではない。"
+                                "\\nc<>The slender tentacles bite and play around with Saki's body\nwherever they please, including her breasts and lower half."
                             ]
                         },
                         {
@@ -10212,7 +9981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>だめっ、来ないでぇっ…ひゃんっ♥"
+                                "\\nc<Saki>No, don't come... Hyahn♥"
                             ]
                         },
                         {
@@ -10240,14 +10009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>絶体絶命のピンチにもかかわらず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の体には力が少しも入らない。"
+                                "\\nc<>Despite the desperate crisis, Saki's body can't muster any\nstrength."
                             ]
                         },
                         {
@@ -10264,7 +10026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>むしろ意識が遠のき、目がとろんとしている。"
+                                "\\nc<>Instead, her consciousness fades, and her eyes grow hazy."
                             ]
                         },
                         {
@@ -10292,14 +10054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(どうしよう。睡魔に勝てな…んふっ？！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あああっ♥"
+                                "\\nc<Saki>(What should I do... I can't beat the drowsiness... Nfuh?! )\nAaah♥"
                             ]
                         },
                         {
@@ -10327,14 +10082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>獲物の健康状態を気にかけるように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の体を熱心に撫でる触手たち。"
+                                "\\nc<>The tentacles caress Saki's body earnestly, as if concerned\nabout the health of their prey."
                             ]
                         },
                         {
@@ -10351,14 +10099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>敏感な性感帯にはすでに触手がいっせいにくっつき"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むやみやたらに引っぱっている。"
+                                "\\nc<>The tentacles have already attached themselves to her\nsensitive erogenous zones, pulling them indiscriminately."
                             ]
                         },
                         {
@@ -10375,14 +10116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>くっつけなかった触手たちは、すっかり露わになった肌を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ペタペタと叩いたり擦ったりしながら、怒りをぶつけている。"
+                                "\\nc<>The tentacles that couldn't attach themselves slap and rub\nagainst her fully exposed skin, venting their frustration."
                             ]
                         },
                         {
@@ -10410,7 +10144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふぎゃぁっ♥やめてっ、私の体はおもちゃじゃ…あうっ…"
+                                "\\nc<Saki>Fugyah♥ Stop it, my body isn't a toy... Auh..."
                             ]
                         },
                         {
@@ -10461,7 +10195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>結局、睡眠剤の成分に酔ったままうつむく咲姫。"
+                                "\\nc<>In the end, Saki succumbs to the sleeping drug and hangs her\nhead."
                             ]
                         },
                         {
@@ -10478,14 +10212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>しかし、本意ではない安息さえ長くは続かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鋭い痛みと異物感が消えてしまった意識を強制的に覚醒させる。"
+                                "\\nc<>However, even the unintended respite doesn't last long.\nSharp pain and the sensation of a foreign object forcibly\nawaken her dulled consciousness."
                             ]
                         },
                         {
@@ -10529,7 +10256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あふっ♥な、何を入れるのよ！"
+                                "\\nc<Saki>Ahf♥ What are you putting in me?!"
                             ]
                         },
                         {
@@ -10546,7 +10273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>あ、それは妊娠しやすくする発情剤ですよ。"
+                                "\\nc<Researcher 1>Ah, that's an aphrodisiac to make you more fertile."
                             ]
                         },
                         {
@@ -10563,7 +10290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふあっ、こいつ、私の体を勝手に…あううっ？！"
+                                "\\nc<Saki>Fuaah, this thing... it's taking liberties with my body...\nAuuuh?!"
                             ]
                         },
                         {
@@ -10603,7 +10330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュポッ♥"
+                                "\\nc<>Squish♥"
                             ]
                         },
                         {
@@ -10620,7 +10347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>突如、大きく開いた股の間に太い異物が潜りこむ。"
+                                "\\nc<>Suddenly, a thick foreign object slips between her widely\nspread legs."
                             ]
                         },
                         {
@@ -10637,7 +10364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ほかの触手たちと比較しても圧倒的に太い、大柄の触手。"
+                                "\\nc<>Even compared to the other tentacles, this one is\noverwhelmingly thick and large."
                             ]
                         },
                         {
@@ -10654,14 +10381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>魔物に飲みこまれたまま腰をブルブルと震わす咲姫だが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やはり、脱出はほど遠い。"
+                                "\\nc<>While Saki trembles and shakes her hips, still engulfed by\nthe creature, escape remains far out of reach."
                             ]
                         },
                         {
@@ -10678,14 +10398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>あっという間に奥まで触れた触手が、先端で咲姫の子宮口を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりと弄りまわす。"
+                                "\\nc<>The tentacle that reached deep inside her now slowly toys\nwith the entrance of Saki's womb at its tip."
                             ]
                         },
                         {
@@ -10729,14 +10442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あはっ♥だめっ、起きてなきゃ…あうう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Zzz…"
+                                "\\nc<Saki>Ahah♥ No good, I need to wake up... Auuu... Zzz..."
                             ]
                         },
                         {
@@ -10764,14 +10470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫が再び睡魔に負けて眠っている間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太い触手は先端を最適の形態に加工していく。"
+                                "\\nc<>While Saki succumbs to sleep once more, the thick tentacle\nshapes its tip into the optimal form."
                             ]
                         },
                         {
@@ -10788,14 +10487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ちょうど咲姫の子宮口の形になった先端が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蟻の這いでる隙もないくらい、ピタリと密着する。"
+                                "\\nc<>The tip, now perfectly molded to the shape of Saki's\ncervical entrance, fits snugly without leaving any space for\neven an ant to crawl through."
                             ]
                         },
                         {
@@ -10840,14 +10532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そのまま力強くピストン運動を始めると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の子宮全体が揺れうごく。"
+                                "\\nc<>As it begins a powerful piston movement, Saki's entire womb\nquivers."
                             ]
                         },
                         {
@@ -10875,14 +10560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ？！　ああっ…またいつ眠ってしまったのっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あああっ♥"
+                                "\\nc<Saki>Kufuh?! Ahh... When did I fall asleep again... Ahhh♥"
                             ]
                         },
                         {
@@ -10899,7 +10577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あう、このままだと本当に妊娠しちゃっ…♥ふぐぅっ♥"
+                                "\\nc<Saki>Auh, at this rate I'll really get pregnant... Fuguuh♥"
                             ]
                         },
                         {
@@ -10927,7 +10605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>くぅっ♥"
+                                "\\nc<>Kuuh♥"
                             ]
                         },
                         {
@@ -10944,21 +10622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>完璧な鍵に出会ってしまったせいで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっしりと押しあげられるような気分も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暴力的な快感に思えてしまう。"
+                                "\\nc<>Because it feels like a perfect key has been inserted, the\nsensation of being heavily pushed up seems like a violent\npleasure."
                             ]
                         },
                         {
@@ -10975,7 +10639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は顎を高く突きあげたまま、か弱くジタバタさせる。"
+                                "\\nc<>Saki raises her chin high and flails weakly."
                             ]
                         },
                         {
@@ -10992,14 +10656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>入り口でドクドクと流れおちる唾液と喘ぎ声。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジタバタする咲姫の悲鳴が触手に効くはずがない。"
+                                "\\nc<>The drool flowing down at the entrance and her gasping\nvoice. The flailing Saki's screams have no effect on the\ntentacles."
                             ]
                         },
                         {
@@ -11027,7 +10684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふああっ♥"
+                                "\\nc<Saki>Fuaah♥"
                             ]
                         },
                         {
@@ -11055,7 +10712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>外側から子宮を揉みつくす動きに鳥肌が立つ。"
+                                "\\nc<>Goosebumps rise from the movement of kneading the womb from\nthe outside."
                             ]
                         },
                         {
@@ -11072,14 +10729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の子宮を自分の苗床として定めるような動きには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐怖を覚えるしかない。"
+                                "\\nc<>The movements that seem to designate Saki's womb as their\nown seedbed can only be met with fear."
                             ]
                         },
                         {
@@ -11096,14 +10746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>今まで数多くの客を接待してきた咲姫にとっても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまでの野性的なアピールはほとんどなかった。"
+                                "\\nc<>Even for Saki, who has entertained countless clients before,\nsuch wild appeal was almost unheard of."
                             ]
                         },
                         {
@@ -11131,7 +10774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>やだっ、あはんっ…"
+                                "\\nc<Saki>No, ahahn..."
                             ]
                         },
                         {
@@ -11175,14 +10818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>再び襲ってくる睡魔に舌をギュッと噛む咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、歯茎にも力が入らないのは同じ。"
+                                "\\nc<>Once again fighting off sleepiness by biting her tongue\ntightly, Saki finds she can't put any strength into her gums\neither."
                             ]
                         },
                         {
@@ -11210,14 +10846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>フフ、今日は触手との受胎と出産を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見学することができるかも知れません！"
+                                "\\nc<Researcher 1>Hehe, today we might be able to observe tentacle\nimpregnation and birth!"
                             ]
                         },
                         {
@@ -11234,7 +10863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヒイイッ！"
+                                "\\nc<Saki>Hiiii!"
                             ]
                         },
                         {
@@ -11251,7 +10880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>被験者が驚いているじゃないですか！"
+                                "\\nc<Researcher 2>The subject seems surprised!"
                             ]
                         },
                         {
@@ -11268,7 +10897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>問題ありません。まだ５時間も残っているので。"
+                                "\\nc<Researcher 1>No problem. We still have five hours left."
                             ]
                         },
                         {
@@ -11296,14 +10925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫を絶望のどん底へと突きおとすような研究員の発言だが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際の残り時間は４時間。"
+                                "\\nc<>It was a researcher's remark that seemed to push Saki into\nthe depths of despair... but the actual remaining time was\nfour hours."
                             ]
                         },
                         {
@@ -11320,21 +10942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そんな事実を知る由もない咲姫は泣きわめきながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足をジタバタさせるしかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう相手のミスを待つしかない状況。"
+                                "\\nc<>Saki, having no way of knowing such a fact, can only flail\nher legs and cry out in her wailing. She's in a situation\nwhere she can only wait for the opponent's mistake."
                             ]
                         },
                         {
@@ -11362,14 +10970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>んぐっ♥はうんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こいつ、いったいいつまで…)"
+                                "\\nc<Saki>Nnguh♥ Haunn♥ (How long is this going to...)"
                             ]
                         },
                         {
@@ -11397,14 +10998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>全身にまとわりついた触手たちは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不気味なくらいにおとなしい。"
+                                "\\nc<>The tentacles wrapped around her body are eerily calm."
                             ]
                         },
                         {
@@ -11421,14 +11015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>もう咲姫を完全に制圧したことに気付いたのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりと準備を進めている。"
+                                "\\nc<>Perhaps realizing they have completely overpowered Saki,\nthey are slowly making their preparations."
                             ]
                         },
                         {
@@ -11472,14 +11059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(はあっ、はあ…いつ出してしまうか分からない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふぅっ、また眠い…)"
+                                "\\nc<Saki>(Haa, haa... I don't know when it will come out. Fuu, sleepy\nagain...)"
                             ]
                         },
                         {
@@ -11496,7 +11076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<グビグビくん>プフッ、クフッ…"
+                                "\\nc<Gubigubi-Kun>Pffh, Kuhf..."
                             ]
                         },
                         {
@@ -11513,7 +11093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>おお、まだ射精しないんですか？　さすがベテランですね。"
+                                "\\nc<Researcher 1>Oh, it hasn't ejaculated yet? As expected of a veteran."
                             ]
                         },
                         {
@@ -11530,7 +11110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>相手が淫魔だということに気付いたのですから。"
+                                "\\nc<Researcher 2>It must have realized that its opponent is a succubus."
                             ]
                         },
                         {
@@ -11547,14 +11127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>何度射精しても無駄だというのが分かったのでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とことん焦らせて確実に妊娠させるつもりですね。"
+                                "\\nc<Researcher 2>It knows that ejaculating multiple times is futile. It's\nplanning to tease her thoroughly and ensure impregnation."
                             ]
                         },
                         {
@@ -11571,7 +11144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヒイイッ！"
+                                "\\nc<Saki>Hiiii!"
                             ]
                         },
                         {
@@ -11599,7 +11172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ヌプッ、ジュポッ♥"
+                                "\\nc<>Nup, Jupo♥"
                             ]
                         },
                         {
@@ -11616,14 +11189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>さきほどから子宮口を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しつこく攻められている咲姫はもう陥落寸前。"
+                                "\\nc<>Saki, who has been persistently attacked at the entrance of\nher womb since earlier, is on the verge of collapse."
                             ]
                         },
                         {
@@ -11640,7 +11206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>浅い眠りと目覚めを無数に繰りかえし、ぼうっとする頭の中。"
+                                "\\nc<>She repeats countless shallow sleeps and awakenings, her\nmind growing hazy."
                             ]
                         },
                         {
@@ -11657,14 +11223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>すでに夢と現実の区別が曖昧になり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意識を保てずにいる。"
+                                "\\nc<>The distinction between dreams and reality has become\nblurred, and she can no longer maintain consciousness."
                             ]
                         },
                         {
@@ -11692,14 +11251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>んふっ、はあっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(誰か、お願いだから終わらせて…うう…)"
+                                "\\nc<Saki>Nnfu, haa... (Someone, please end this... ugh...)"
                             ]
                         },
                         {
@@ -11727,14 +11279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>その状況でも淫魔の体はあらゆる刺激にも着実に反応し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自由のない天国に導いていく。"
+                                "\\nc<>Even in that situation, the succubus's body steadily\nresponds to all stimuli, leading her to a heaven where she\nis not free."
                             ]
                         },
                         {
@@ -11762,14 +11307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふあぁっ、ふくっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(妊娠したらラクになるかな？　ちがう、だめっ、うぅっ…)"
+                                "\\nc<Saki>Fuaah, fuk...♥ (Will I be at ease if I get pregnant? No,\nthat's wrong, don't... ugh...)"
                             ]
                         },
                         {
@@ -11797,7 +11335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュボッ！"
+                                "\\nc<>Jubo!"
                             ]
                         },
                         {
@@ -11825,7 +11363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふぅっ？！"
+                                "\\nc<Saki>Kufuu?!"
                             ]
                         },
                         {
@@ -11853,14 +11391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>何度も眠ってしまう咲姫の態度が気に食わないのか、子宮を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強く圧迫する触手の塊。"
+                                "\\nc<>The mass of tentacles pressing strongly against her womb\nseems displeased with Saki's repeated dozing off."
                             ]
                         },
                         {
@@ -11877,21 +11408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>いくらもがいても逃げ道などない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや、あまりにもがっしりと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "掴まれているせいで身動きひとつ取れない。"
+                                "\\nc<>No matter how much she struggles, there is no escape. Now,\nshe is held so firmly that she cannot move an inch."
                             ]
                         },
                         {
@@ -11919,14 +11436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(くふっ、脚が痛い…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うわぁっ、触手の中からさらに小さい触手が…)"
+                                "\\nc<Saki>(Kufu, my legs hurt... uwaah, smaller tentacles are coming\nout from inside the other ones...)"
                             ]
                         },
                         {
@@ -11970,7 +11480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ズブッ…"
+                                "\\nc<>Zub..."
                             ]
                         },
                         {
@@ -11987,14 +11497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>触手の先端から飛びだした舌が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の子宮口を掻きわけるように潜りこむ。"
+                                "\\nc<>A tongue that shot out from the tip of the tentacle burrows\ninto Saki's womb as if prying open the entrance."
                             ]
                         },
                         {
@@ -12022,7 +11525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヒイイッ♥出ていけっ…"
+                                "\\nc<Saki>Hiiii♥ Get out..."
                             ]
                         },
                         {
@@ -12050,21 +11553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>こういう経験が初めての咲姫だが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま射精が始まると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一滴も溢してはいけないことをすぐに察知した。"
+                                "\\nc<>It was Saki's first experience of this kind... but she\nquickly realized that if ejaculation started now, not a\nsingle drop could be spilled."
                             ]
                         },
                         {
@@ -12081,14 +11570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>か弱い抵抗も虚しく、上半身はむしろ腕が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手の群れの中に入りこんでしまう…"
+                                "\\nc<>Her feeble resistance was in vain, and her upper body was\nrather drawn into the swarm of tentacles..."
                             ]
                         },
                         {
@@ -12116,7 +11598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>ヒイッ、いつ見ても凄まじいですね。"
+                                "\\nc<Researcher 1>Hii! It's always tremendous to watch."
                             ]
                         },
                         {
@@ -12133,7 +11615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>僕ならあんなのは絶対にごめんですよ。"
+                                "\\nc<Researcher 2>I would definitely refuse to do something like that."
                             ]
                         },
                         {
@@ -12150,7 +11632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うわっ、入っちゃっ…出してよっ！　出してぇっ…♥"
+                                "\\nc<Saki>Uwah, it's going in... let it out! Let it out...♥"
                             ]
                         },
                         {
@@ -12178,7 +11660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>スゥーッ！"
+                                "\\nc<>Suu..."
                             ]
                         },
                         {
@@ -12195,7 +11677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>とうとう完全に飲みこまれた咲姫。"
+                                "\\nc<>Finally completely engulfed, Saki."
                             ]
                         },
                         {
@@ -12212,14 +11694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>パクパクしていた口にも容赦なく触手が突っこんできて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悲鳴すら出せない。"
+                                "\\nc<>Even her mouth, which had been opening and closing, is\nmercilessly penetrated by a tentacle, leaving her unable to\nscream."
                             ]
                         },
                         {
@@ -12247,14 +11722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(許してっ…妊娠したくない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたなんかとの子なんて作らないんだからっ…ああああっ♥)"
+                                "\\nc<Saki>(Please... I don't want to get pregnant! I won't have a\nchild with something like you... aaaaah♥)"
                             ]
                         },
                         {
@@ -12271,7 +11739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<グビグビくん>くああっ！"
+                                "\\nc<Gubigubi-Kun>Kuaah!"
                             ]
                         },
                         {
@@ -12376,7 +11844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビュビュッ\\.\\."
+                                "\\nc<>Byubyu!"
                             ]
                         },
                         {
@@ -12447,7 +11915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビュウウウッ！"
+                                "\\nc<>Byuuuu!"
                             ]
                         },
                         {
@@ -12464,7 +11932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>射精の気配を察した体がまたも発情してしまう。"
+                                "\\nc<>The sensation of impending ejaculation once again arouses\nher body."
                             ]
                         },
                         {
@@ -12481,7 +11949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>熱くなった咲姫の体の中に激しく注がれる白濁液。"
+                                "\\nc<>The hot, milky fluid is violently poured into the heated\ninsides of Saki."
                             ]
                         },
                         {
@@ -12498,7 +11966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>案の定、咲姫の子宮は一滴も溢さずに受けとめる。"
+                                "\\nc<>As expected, Saki's womb accepts every drop without spilling\nany."
                             ]
                         },
                         {
@@ -12515,14 +11983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>触手に捕らえられた手足は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すがるところを求めて自然と揃う。"
+                                "\\nc<>The limbs captured by the tentacles naturally come together,\nseeking something to cling to."
                             ]
                         },
                         {
@@ -12550,7 +12011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(はあんっ♥んぐぐっ♥)"
+                                "\\nc<Saki>(Haaan♥ Nggguh♥)"
                             ]
                         },
                         {
@@ -12648,7 +12109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュッ、ピュブブッ！"
+                                "\\nc<>Pyu, pyububu!"
                             ]
                         },
                         {
@@ -12665,7 +12126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>いっこうに終わる気配のない長い射精。"
+                                "\\nc<>The long ejaculation shows no sign of ending."
                             ]
                         },
                         {
@@ -12682,14 +12143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>今までの妊娠したくないという思いを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の体が勝手に陥落しようとする。 "
+                                "\\nc<>Despite her previous desire not to get pregnant, Saki's body\nseems to be surrendering on its own."
                             ]
                         },
                         {
@@ -12717,7 +12171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(だめっ、耐えなきゃっ…♥妊娠したくないっ…)"
+                                "\\nc<Saki>(No, I must resist...♥ I don't want to get pregnant...)"
                             ]
                         },
                         {
@@ -12734,7 +12188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員２>うーん、微妙ですね。果たして成功しますかね？"
+                                "\\nc<Researcher 2>Hmm, it's a bit iffy. I wonder if it will be successful?"
                             ]
                         },
                         {
@@ -12751,7 +12205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<研究員１>まだ少し時間が残っているので"
+                                "\\nc<Researcher 1>There's still a little time left, so"
                             ]
                         },
                         {

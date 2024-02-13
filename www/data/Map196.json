@@ -5541,7 +5541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]結局、戻ってきちゃった…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>In the end, I ended up coming back..."
                             ]
                         },
                         {
@@ -5572,7 +5572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>じゃあ、終わったら迎えに来るわね。"
+                                "\\nc<Senpai>Then, I'll come to pick you up when it's over."
                             ]
                         },
                         {
@@ -5667,7 +5667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]うう。気が重いけど、行くしかないか…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh. I'm dreading it, but I guess I have no choice but to\ngo..."
                             ]
                         },
                         {
@@ -5921,21 +5921,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<社員>お話はうかがっております、咲姫様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お待ちしておりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モニタールームに向かいますか？"
+                                "\\nc<Employee>We have been informed of your story, Saki-sama. We have been\nwaiting for you. Shall we head to the monitor room?"
                             ]
                         },
                         {
@@ -5943,8 +5929,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6019,7 +6005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<社員>お仕事は中でどうぞ。"
+                                "\\nc<Employee>Please proceed with your work inside."
                             ]
                         },
                         {

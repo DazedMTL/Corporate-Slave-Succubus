@@ -6184,14 +6184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気弱な客の潜在能力"
+                                "Would you like to view the event? The Timid Customer's\nHidden Potential"
                             ]
                         },
                         {
@@ -6199,8 +6192,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -6901,7 +6894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]どうしたの？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>What's wrong?"
                             ]
                         },
                         {
@@ -6977,14 +6970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>あの客、さっきからずっとうろついてるんですけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追い出しちゃいましょうか？"
+                                "\\nc<Employee>That customer has been loitering around for a while now...\nShould we kick them out?"
                             ]
                         },
                         {
@@ -7029,14 +7015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]どうしようもない小心者のお客みたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追い出すには惜しいわ。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Seems like a hopeless coward. It would be a shame to throw\nthem out."
                             ]
                         },
                         {
@@ -7081,7 +7060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>惜しい？"
+                                "\\nc<Employee>A shame?"
                             ]
                         },
                         {
@@ -7126,21 +7105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]ええ。ああいうタイプは一度味を占めると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立派なカモ…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、常連さんになってくれるもの。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Yes. That type of customer, once they get a taste, they turn\ninto splendid... I mean, regulars."
                             ]
                         },
                         {
@@ -7185,14 +7150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>そうなんですね。けど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきコースを勧めようとしたら逃げられちゃって。"
+                                "\\nc<Employee>I see. But when I tried to recommend a course earlier, they\nran away."
                             ]
                         },
                         {
@@ -7237,7 +7195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>声を掛けたらだめよ。 "
+                                "\\nc<Senpai>You can't approach them by calling out."
                             ]
                         },
                         {
@@ -7282,14 +7240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>それじゃあどうするんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通、ああいうタイプは淫魔たちも嫌がりますけど…"
+                                "\\nc<Employee>Then what should we do? Normally, even the succubi dislike\nthat type of customer..."
                             ]
                         },
                         {
@@ -7334,7 +7285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>大丈夫。こんなときこそ私たちのエースの見せどころよ。"
+                                "\\nc<Senpai>It's fine. This is exactly the time for us to show our ace\nin the hole."
                             ]
                         },
                         {
@@ -7532,7 +7483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫、暇よね？　ちょっとこっちに来て。"
+                                "\\nc<Senpai>Saki, you're free right now, aren't you? Come here for a\nsecond."
                             ]
                         },
                         {
@@ -7577,7 +7528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMoveTo[1, 1300, 720, 30]どうしたんですか、先輩？"
+                                "\\bustMoveTo[1, 1300, 720, 30]\\nc<Saki>What's the matter, Senpai?"
                             ]
                         },
                         {
@@ -7737,7 +7688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あそこの客、見える？"
+                                "\\nc<Senpai>Do you see that customer over there?"
                             ]
                         },
                         {
@@ -7878,7 +7829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>なんか…ものすごく挙動不審ですね。"
+                                "\\nc<Saki>They seem... incredibly suspicious in their behavior."
                             ]
                         },
                         {
@@ -7985,21 +7936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのお客、どうやらセクシュランガイドの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "評価委員みたいなの。"
+                                "\\nc<Senpai>Right? That customer seems to be an evaluator for the Sexure\nGuide."
                             ]
                         },
                         {
@@ -8044,7 +7981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]セ、セクシュランガイドですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>The Sexure Guide?"
                             ]
                         },
                         {
@@ -8089,14 +8026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そう。あなたも聞いたことくらいはあるわよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクシュラン一つ星、二つ星っていう…"
+                                "\\nc<Senpai>Yes. You've heard about it, haven't you? The one-star, two-\nstar ratings..."
                             ]
                         },
                         {
@@ -8141,21 +8071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それって飲食店の話じゃなかったんですか？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔業界にもあったなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そういうのがあってもおかしくはない…かな？)"
+                                "\\nc<Saki>Isn't that something for restaurants? I had no idea it\nexisted in the succubus industry too...(I guess it's not too\nstrange to have something like that... maybe?)"
                             ]
                         },
                         {
@@ -8200,21 +8116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もし今回セクシュランを取れなかったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの会社は危なくなるかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫、あなたに任せてもいい？"
+                                "\\nc<Senpai>If we don't get a Sexure rating this time, our company might\nbe in danger. Saki, can I leave it to you?"
                             ]
                         },
                         {
@@ -8259,14 +8161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えっ、私には荷が重すぎます！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうことなら先輩が直々に接待されたほうが…"
+                                "\\nc<Saki>Eh, that's too much for me! If it's like that, Senpai, you\nshould personally attend to them..."
                             ]
                         },
                         {
@@ -8311,14 +8206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>私が直接出ると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の接待じゃないことがバレるじゃない。"
+                                "\\nc<Senpai>If I go out there directly, they'll know it's not just\nregular hospitality."
                             ]
                         },
                         {
@@ -8363,14 +8251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>そ、そうですね…セクシュラン評価委員会だなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうすれば…"
+                                "\\nc<Saki>Right... A Sexure Guide evaluator committee. What should I\ndo..."
                             ]
                         },
                         {
@@ -8415,14 +8296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>普段通りにしつつ、今回はお客に合わせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもより積極的に誘うといいわ。"
+                                "\\nc<Senpai>Just act as usual but be more proactive in inviting the\ncustomer this time."
                             ]
                         },
                         {
@@ -8439,7 +8313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あ、うまくいけば有給休暇が出るかもね。"
+                                "\\nc<Senpai>Oh, and if it goes well, you might even get some paid leave."
                             ]
                         },
                         {
@@ -8484,14 +8358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]有給休暇ですか？！\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "積極的に誘う…分かりました！"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>Paid leave?! Proactively invite... Understood!"
                             ]
                         },
                         {
@@ -8811,14 +8678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>セクシュランって…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう妙な嘘までつく必要あるんですか？"
+                                "\\nc<Employee>Do we really need to concoct such a strange lie like the\nSexure Guide?"
                             ]
                         },
                         {
@@ -8863,14 +8723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>咲姫は少しプレッシャーをかけるとうまくやるの。それに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな話を本当に信じちゃうんだから面白いじゃない。"
+                                "\\nc<Senpai>Saki performs better with a bit of pressure on her.\nBesides... it's funny that she actually believes such a\nstory."
                             ]
                         },
                         {
@@ -8915,7 +8768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>(まったく悪趣味なんだから…)"
+                                "\\nc<Employee>(She really has bad taste...)"
                             ]
                         },
                         {
@@ -9007,7 +8860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]\\bustMoveTo[1, 1300, 720, 30]こんにちは。あの、お気に召すルームでも…"
+                                "\\bustMsgExp[1, 3]\\bustMoveTo[1, 1300, 720, 30]\\nc<Saki>Hello. Um, would you like to see a room that suits your\ntaste..."
                             ]
                         },
                         {
@@ -9199,7 +9052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ヒイッ！"
+                                "\\nc<Customer>Eek!"
                             ]
                         },
                         {
@@ -9244,14 +9097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](うわっ、声を掛けただけなのに逃げた…すごく警戒してる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "迷惑客のふりをしてるのかな？)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Wow, they ran away just from being spoken to... They're\nvery wary. Are they pretending to be a nuisance customer?)"
                             ]
                         },
                         {
@@ -9268,7 +9114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<c咲姫>\\bustMsgExp[1, 3](だけど、有給休暇を諦めるわけにはいかない！)"
+                                "\\bustMsgExp[1, 3]\\n<Saki>(But I can't give up on the chance for paid leave!)"
                             ]
                         },
                         {
@@ -9334,7 +9180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>バッ！"
+                                "\\nc<>Bam!"
                             ]
                         },
                         {
@@ -9362,7 +9208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>!"
+                                "\\nc<Customer>!"
                             ]
                         },
                         {
@@ -9379,14 +9225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(うう、すごく恥ずかしい。だけど積極的に誘うように言われたから…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？　こっちに来てる？)"
+                                "\\nc<Saki>(Oh no, this is so embarrassing. But I was told to invite\nthem proactively... Huh? Are they coming this way?)"
                             ]
                         },
                         {
@@ -9403,14 +9242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(すごく見られてる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うう、恥ずかしい服ではあるけど見えてはないよね？)"
+                                "\\nc<Saki>(I'm being watched so intently... Ahh, this outfit is\nembarrassing but nothing is showing, right?)"
                             ]
                         },
                         {
@@ -9427,7 +9259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>(ジィー…)"
+                                "\\nc<Customer>(Staring...)"
                             ]
                         },
                         {
@@ -9444,7 +9276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ほいっ！　はあ～、ストレッチは気持ちいいな～"
+                                "\\nc<Saki>Ta-da! Ahh~ Stretching feels so good~"
                             ]
                         },
                         {
@@ -9461,14 +9293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>何してるのあのバカ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、同じバカ相手には丁度いいかしら。"
+                                "\\nc<Senpai>What is that idiot doing... No, maybe she's just right for\nan idiot like that customer."
                             ]
                         },
                         {
@@ -9496,7 +9321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>客は咲姫の体をまじまじと見つめている。"
+                                "\\nc<>The customer is staring intently at Saki's body."
                             ]
                         },
                         {
@@ -9524,7 +9349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(効果あり！　だけど廊下でしちゃうのはちょっと…)"
+                                "\\nc<Saki>(It worked! But doing it in the hallway is a bit...)"
                             ]
                         },
                         {
@@ -9541,7 +9366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>ふう、ふう…"
+                                "\\nc<Customer>Haa, haa..."
                             ]
                         },
                         {
@@ -9558,21 +9383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>あ、お客様。申し訳ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "廊下でのお触りはNGとなっております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしければ、会員登録されますか？"
+                                "\\nc<Saki>Ah, dear customer, I apologize. Touching in the hallway is\nnot allowed. Would you like to register as a member?"
                             ]
                         },
                         {
@@ -9589,7 +9400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>あ、う、そ、そ…それじゃあ、お願い、します。"
+                                "\\nc<Customer>Ah, uh, ye-yes... Please do that."
                             ]
                         },
                         {
@@ -9606,7 +9417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はいっ！　新規会員登録１名様！"
+                                "\\nc<Saki>Yes! One new member registration!"
                             ]
                         },
                         {
@@ -9984,7 +9795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔社員>また仕事が増えたよ…"
+                                "\\nc<Lewd Demon Employee>More work has piled up again..."
                             ]
                         },
                         {

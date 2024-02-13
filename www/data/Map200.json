@@ -2391,7 +2391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>どうすんだよ！　うっかり連れてきちまったじゃねぇか！"
+                                "\\nc<Thief 2>What are we gonna do now? We accidentally brought her along!"
                             ]
                         },
                         {
@@ -2431,7 +2431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>何するんですか！　放してください！"
+                                "\\nc<Saki>What are you doing? Let me go!"
                             ]
                         },
                         {
@@ -2471,7 +2471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>どう処分する？"
+                                "\\nc<Thief 2>How should we dispose of her?"
                             ]
                         },
                         {
@@ -2542,21 +2542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ヒイイッ…ちょっと待って！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は皆さんが誰なのか知りませんよ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マスク被ってるから！"
+                                "\\nc<Saki>Eeeek... wait a minute! I don't know who you guys are\nbecause you're wearing masks!"
                             ]
                         },
                         {
@@ -2596,7 +2582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>ええっ、そうなの？"
+                                "\\nc<Thief 1>Huh, really?"
                             ]
                         },
                         {
@@ -2658,14 +2644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>どうせ月給取りだから意欲もないし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通報しないから、帰してください！"
+                                "\\nc<Saki>I'm just a salaried worker without any motivation! I won't\nreport you, so please let me go!"
                             ]
                         },
                         {
@@ -2705,7 +2684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>うむ、そこまで言われると…"
+                                "\\nc<Thief 1>Well, when you put it that way..."
                             ]
                         },
                         {
@@ -2731,7 +2710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>ちょっと待てよ。この女、結構綺麗な体してやがる。"
+                                "\\nc<Thief 2>Wait a second. This girl, she's got a pretty nice body."
                             ]
                         },
                         {
@@ -2748,7 +2727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>たしかに、どう見ても警備ではないな。わざと犯されに来たのか？"
+                                "\\nc<Thief 1>Indeed, she's definitely not security. Did she come here\nwanting to be violated?"
                             ]
                         },
                         {
@@ -2788,7 +2767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>えええっ？！　何とんでもないことを…"
+                                "\\nc<Saki>Eeeeh?! What an outrageous thing to say..."
                             ]
                         },
                         {
@@ -2819,7 +2798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>こんな体をこのまま返すのも失礼だな。"
+                                "\\nc<Thief 1>It would be rude to return such a body untouched."
                             ]
                         },
                         {
@@ -2836,7 +2815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>おっ、手錠まであるぞ！"
+                                "\\nc<Thief 2>Oh, there are even handcuffs!"
                             ]
                         },
                         {
@@ -2949,7 +2928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は手錠をかけられ、身動き一つ取れなくなってしまった！"
+                                "\\nc<>Saki has been handcuffed and can no longer move an inch!"
                             ]
                         },
                         {
@@ -2977,14 +2956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>またこうなっちゃうなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから警備会社で派遣勤務なんかやりたくなかったのに！"
+                                "\\nc<Saki>To end up like this again... That's why I didn't want to\nwork for a security company!"
                             ]
                         },
                         {
@@ -3001,14 +2973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>制服に名札も付いてるな。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんっていうんだ？ "
+                                "\\nc<Thief 1>There's even a name tag on the uniform. So your name is\nSaki-chan?"
                             ]
                         },
                         {
@@ -3025,21 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>淫魔第一産業なんて、セックスのプロじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから手錠まで持ってきたのか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "備えがしっかりしてるじゃねぇか！"
+                                "\\nc<Thief 2>Succubus First Industries, huh? You're a pro at sex! So\nthat's why you brought handcuffs... You're well-prepared,\naren't you?!"
                             ]
                         },
                         {
@@ -3056,7 +3007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>勝手に何を言って…ふぁんっ！"
+                                "\\nc<Saki>Stop saying whatever you want... Ahn!"
                             ]
                         },
                         {
@@ -3133,7 +3084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>泥棒たちの手が一瞬で咲姫を覆う。"
+                                "\\nc<>The thieves' hands instantly cover Saki."
                             ]
                         },
                         {
@@ -3150,14 +3101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>柱に結ばれた体が激しく揺らぐも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１ミリも逃げることはできない。"
+                                "\\nc<>Tied to the pillar, her body shakes violently, but she can't\nescape even a millimeter."
                             ]
                         },
                         {
@@ -3185,7 +3129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(やばい、このままだとまたこのまえみたいに…)"
+                                "\\nc<Saki>(This is bad, it's going to be like last time...)"
                             ]
                         },
                         {
@@ -3202,7 +3146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>お前、魔族とヤったことある？"
+                                "\\nc<Thief 1>Have you ever fucked a demon before?"
                             ]
                         },
                         {
@@ -3219,7 +3163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>いや。これからヤらせてもらうぜ。オラッ！"
+                                "\\nc<Thief 2>No. But I'm about to. Here I go!"
                             ]
                         },
                         {
@@ -3236,7 +3180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひいいんっ♥"
+                                "\\nc<Saki>Hiiiiin♥"
                             ]
                         },
                         {
@@ -3325,7 +3269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>容赦なく秘部に潜りこむ指先にビクッとする咲姫。"
+                                "\\nc<>Saki twitches as fingers mercilessly invade her private\nparts."
                             ]
                         },
                         {
@@ -3342,14 +3286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>勝手に既視感を感じた体が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大げさながらも慣れた反応を見せてしまう。"
+                                "\\nc<>Her body, feeling déjà vu, shows an exaggerated yet\naccustomed response."
                             ]
                         },
                         {
@@ -3377,7 +3314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>けっ、指が切れちまいそうだぜ！"
+                                "\\nc<Thief 2>Damn, I might cut my fingers on this!"
                             ]
                         },
                         {
@@ -3394,14 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>ふはは！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつ、マンコで俺たちを逮捕する気か？"
+                                "\\nc<Thief 1>Hahaha! Is she planning to arrest us with her pussy?"
                             ]
                         },
                         {
@@ -3418,14 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ♥うう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なんでこんな状況で反応しちゃうんだろう…)"
+                                "\\nc<Saki>Kuh♥ Ugh... (Why am I reacting in this situation...)"
                             ]
                         },
                         {
@@ -3453,21 +3376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>男たちを少しでも邪魔するべく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "股を堅く閉じる咲姫だったが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泥棒はとっさに足首を掴み、高く持ちあげる！"
+                                "\\nc<>Trying to hinder the men even a little, Saki clenched her\nlegs tightly... but the thief suddenly grabbed her ankles\nand lifted them high!"
                             ]
                         },
                         {
@@ -3544,7 +3453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>ジャジャン、咲姫ちゃんのマンコお披露目～"
+                                "\\nc<Thief 1>Ta-da, presenting Saki-chan's pussy~"
                             ]
                         },
                         {
@@ -3561,7 +3470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うわああっ！　こ、この野郎…おほぉっ♥"
+                                "\\nc<Saki>Uwaaaah! You bastard... Ohh♥"
                             ]
                         },
                         {
@@ -3578,14 +3487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>おおっ、いいね。そのまま結んでみなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃん、マンコ本当に弱いんだ？"
+                                "\\nc<Thief 2>Oh yeah, that's nice. Tie her up like that. Saki-chan, is\nyour pussy really that weak?"
                             ]
                         },
                         {
@@ -3613,7 +3515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュボッ、ジュポッ…"
+                                "\\nc<>Squish, Squelch..."
                             ]
                         },
                         {
@@ -3630,7 +3532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の秘部からは、いつの間にか水音が騒がしく響いていた…"
+                                "\\nc<>Saki's private parts were already making noisy wet sounds..."
                             ]
                         },
                         {
@@ -3647,14 +3549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>クリトリスも一瞬で勃起し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手の手を待ちわびることになった。"
+                                "\\nc<>Her clitoris was instantly erect, eagerly awaiting the touch\nof her assailant."
                             ]
                         },
                         {
@@ -3682,14 +3577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>いいっ、許さない…もうすぐ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警備の人が来るから…ああっ♥"
+                                "\\nc<Saki>No way, I won't forgive you... Security will be here soon...\nAhh♥"
                             ]
                         },
                         {
@@ -3706,14 +3594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>強がるなよ。さっきの無線機の内容、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞かせてもらったぜ。"
+                                "\\nc<Thief 1>Don't act tough. We heard what was on that walkie-talkie\nearlier."
                             ]
                         },
                         {
@@ -3730,7 +3611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>これがクリトリスってやつか？　可愛く勃ってるじゃねぇか。"
+                                "\\nc<Thief 2>Is this the clitoris? It's cutely erect, isn't it?"
                             ]
                         },
                         {
@@ -3747,7 +3628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ちょ、ちょっと待って！　そこは…"
+                                "\\nc<Saki>Wait, just wait! That place is..."
                             ]
                         },
                         {
@@ -3764,7 +3645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>やっぱ生意気だから潰しちゃおう。オラッ！"
+                                "\\nc<Thief 2>As expected, too cheeky. Let's crush it. Here goes!"
                             ]
                         },
                         {
@@ -3808,7 +3689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ギュウゥッ♥"
+                                "\\nc<>Guuuh♥"
                             ]
                         },
                         {
@@ -3836,7 +3717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>んごおぉぉぉおっ♥"
+                                "\\nc<Saki>Nngooohhh♥"
                             ]
                         },
                         {
@@ -3948,7 +3829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ピュッ、プシュウゥッ…"
+                                "\\nc<>Squirt, Gush..."
                             ]
                         },
                         {
@@ -3965,14 +3846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫の顎がひっくり返り、無理やり広げられた股から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鮮明な潮が吹き出す。"
+                                "\\nc<>Saki's jaw dropped, and a vivid squirt shot out from her\nforcibly spread crotch."
                             ]
                         },
                         {
@@ -3989,14 +3863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>一撃で絶頂を迎えた体が余韻で震えると、汚い倉庫が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "爆笑とメスのにおいで埋められていく…"
+                                "\\nc<>Her body, having reached climax with a single blow, trembled\nwith the afterglow, filling the dirty warehouse with\nlaughter and the scent of a female..."
                             ]
                         },
                         {
@@ -4043,14 +3910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>えっ、まさか１発でイっちゃったの？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃん、ザコすぎるんじゃない？"
+                                "\\nc<Thief 1>Eh, she came with just one hit? Saki-chan, aren't you too\nweak?"
                             ]
                         },
                         {
@@ -4067,7 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>淫魔のくせにこんなに弱くてもいいのか？"
+                                "\\nc<Thief 2>Is it okay for a succubus to be this frail?"
                             ]
                         },
                         {
@@ -4084,7 +3944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>淫魔って敗北中毒のオナホ種族って噂、本当だったかも…"
+                                "\\nc<Thief 1>Maybe the rumors about succubi being a defeat-addicted\nonahole race are true..."
                             ]
                         },
                         {
@@ -4101,14 +3961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>おごっ♥へうっ♥はぁ、はぁっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(大変だ。もう目がクラクラする…)"
+                                "\\nc<Saki>Ohh♥ Heugh♥ Haa, haa♥ (This is bad. My vision is\nspinning...)"
                             ]
                         },
                         {
@@ -4125,14 +3978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>俺も！　俺もやる！　えいっ、また不細工なアヘ顔見せながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イっちまえ！"
+                                "\\nc<Thief 1>Me too! I'm going! Now, cum again while showing that ugly\nahegao!"
                             ]
                         },
                         {
@@ -4149,14 +3995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ちょ、ちょっと待って！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のクリトリスはおもちゃなんかじゃ…あはんっ♥くふっ♥"
+                                "\\nc<Saki>Wait, just wait! My clitoris isn't some kind of toy...\nAhahn♥ Kuhu♥"
                             ]
                         },
                         {
@@ -4287,7 +4126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>プシュッ！　ピュウッ…"
+                                "\\nc<>Gush! Squirt..."
                             ]
                         },
                         {
@@ -4315,7 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>いやぁ、淫魔はデコピンにもイっちまうのか？"
+                                "\\nc<Thief 2>No way, does a succubus cum even from a flick?"
                             ]
                         },
                         {
@@ -4332,7 +4171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>淫魔って、救いようのないド変態なのかも…"
+                                "\\nc<Thief 1>Succubi might really be hopeless perverts..."
                             ]
                         },
                         {
@@ -4349,21 +4188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>おぉぉっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(くぅ…私の体、少しは持ってよ…ああっ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダメ、また気持ちいいの来る♥)"
+                                "\\nc<Saki>Oooh...(Kuu... My body, hold on a bit... Ahh, no, another\nwave of pleasure is coming♥)"
                             ]
                         },
                         {
@@ -4380,7 +4205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>ふう…これで十分って感じかな？　そろそろ…"
+                                "\\nc<Thief 1>Phew... That should be enough, right? It's about time..."
                             ]
                         },
                         {
@@ -4397,7 +4222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>ああ、そうだな！"
+                                "\\nc<Thief 2>Ah, right!"
                             ]
                         },
                         {
@@ -4474,7 +4299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビンビンに勃ったペニスが咲姫の膣口をゆっくりと弄る。"
+                                "\\nc<>An erect penis slowly toys with Saki's vaginal entrance."
                             ]
                         },
                         {
@@ -4491,14 +4316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫に抵抗する暇を与えず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ペニスが咲姫の中に押しこまれる！"
+                                "\\nc<>Without giving Saki a chance to resist, the penis is pushed\ninside her!"
                             ]
                         },
                         {
@@ -4559,21 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ほおおっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(結局入ってしまったっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体が勝手に接客モードに…おぉぉっ♥)"
+                                "\\nc<Saki>Hooo♥ (It's in after all... My body automatically switches\nto hospitality mode... Oooh♥)"
                             ]
                         },
                         {
@@ -4618,21 +4422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>しっかりしてよ、咲姫ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきからよだれ垂れてるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許せないとかほざいていた奴はどこに行った！"
+                                "\\nc<Thief 1>Get it together, Saki-chan. You've been drooling since\nearlier. Where did the girl who was saying she wouldn't\nforgive go?"
                             ]
                         },
                         {
@@ -4649,14 +4439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>くくっ、言われたとおり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このマンコは俺を許してくれなさそうだな。"
+                                "\\nc<Thief 2>Kuku, just as you said, this pussy doesn't seem to forgive\nme."
                             ]
                         },
                         {
@@ -4673,7 +4456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ♥　ぬ、抜いてぇ…んぎぃっ♥　ほぉ♥"
+                                "\\nc<Saki>Kuhu♥ Pull it out... Ngyii♥ Hoo♥"
                             ]
                         },
                         {
@@ -4690,7 +4473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>咲姫ちゃんの締まりが強すぎて抜けねぇっつーの。おおおっ！"
+                                "\\nc<Thief 2>Saki-chan's tightness is too much; I can't pull out. Oooh!"
                             ]
                         },
                         {
@@ -4707,7 +4490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>どうした、使えそうか？"
+                                "\\nc<Thief 1>What's up, is it usable?"
                             ]
                         },
                         {
@@ -4724,14 +4507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>超名器。一番奥まで入るとビクビク締めつけてくれて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抜くときは抜かないでってベッタリ吸いつくんだぜ…"
+                                "\\nc<Thief 2>A super masterpiece. When I go all the way in, it clenches\ntightly, and when I try to pull out, it clings desperately\nasking not to let go..."
                             ]
                         },
                         {
@@ -4748,7 +4524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>くぅぅ、期待できるじゃん！　早く出しちまえ！"
+                                "\\nc<Thief 1>Kuuu, that sounds promising! Hurry up and cum!"
                             ]
                         },
                         {
@@ -4765,7 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>抜いて、抜いでぇ、んひぃっ♥ら、らめぇ…"
+                                "\\nc<Saki>Pull out, pull out, nhyii♥ Stop it..."
                             ]
                         },
                         {
@@ -4838,7 +4614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>壊れたようにつぶやいていた咲姫が改めて危機感を感じる。"
+                                "\\nc<>Saki muttered as if broken and felt a renewed sense of\ncrisis."
                             ]
                         },
                         {
@@ -4855,21 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ゆっくりとストロークを楽しんでいた男が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "徐々に早く、そして深く腰を押しこみ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫の一番中を擦る。"
+                                "\\nc<>The man who had been enjoying slow strokes gradually sped up\nand pushed deeper, rubbing against Saki's innermost part."
                             ]
                         },
                         {
@@ -4886,14 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>少々荒い圧迫にもかかわらず、淫魔の膣は柔らかく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして暖かく、ペニスを包む。"
+                                "\\nc<>Despite the somewhat rough pressure, the succubus's vagina\nwas soft and warm, enveloping the penis."
                             ]
                         },
                         {
@@ -4921,14 +4676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>くぅぅっ。このマンコ、超高級のオナホみたいだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暖かい水風船なんかよりずっと気持ちいいぜ！ "
+                                "\\nc<Thief 2>Kuuu. This pussy is like a super high-class onahole... It\nfeels way better than any warm water balloon!"
                             ]
                         },
                         {
@@ -4945,7 +4693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>そんなもんまで使ってたのか…"
+                                "\\nc<Thief 1>You've used such things before?"
                             ]
                         },
                         {
@@ -4962,7 +4710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>さぁさぁ、イくよ、咲姫ちゃん？　もう我慢できねぇから…"
+                                "\\nc<Thief 2>Now now, I'm gonna cum, Saki-chan? I can't hold back\nanymore..."
                             ]
                         },
                         {
@@ -4979,7 +4727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>くふっ、あ、あううっ♥あっちいけ、いやぁ、あふぅ♥"
+                                "\\nc<Saki>Kuhu, ah, auu♥ Go away, nooo, afuu♥"
                             ]
                         },
                         {
@@ -5119,7 +4867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ビュルルル…"
+                                "\\nc<>Burururu..."
                             ]
                         },
                         {
@@ -5136,14 +4884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>相手とほぼ同時に絶頂を迎えた咲姫の体が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ペニスをギュウギュウと搾る。"
+                                "\\nc<>Saki's body squeezed the penis tightly as she climaxed\nalmost simultaneously with her partner."
                             ]
                         },
                         {
@@ -5160,14 +4901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>勢いよく噴出された大量の白濁液は少しも垂れずに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらく咲姫の奥に溜まり…"
+                                "\\nc<>The large amount of cloudy fluid that was forcefully ejected\nstayed inside Saki for a while without dripping..."
                             ]
                         },
                         {
@@ -5184,14 +4918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>情けない喘ぎ声と同時に腰を抜くと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっとジョロリと割れ目から流れる。"
+                                "\\nc<>As she let out pitiful moans and her hips were pulled out,\nfinally it trickled down from her slit."
                             ]
                         },
                         {
@@ -5235,7 +4962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>くはっ、こいつ、なんてマンコしてやがる…"
+                                "\\nc<Thief 2>Kuha, what kind of pussy does this girl have..."
                             ]
                         },
                         {
@@ -5252,7 +4979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>つ、次は俺だ！"
+                                "\\nc<Thief 1>T-Next, it's my turn!"
                             ]
                         },
                         {
@@ -5269,7 +4996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ちょ、ちょっと、少しは休ませて…ふいぃぃっ♥"
+                                "\\nc<Saki>W-Wait, let me rest a little... hiiii♥"
                             ]
                         },
                         {
@@ -5358,7 +5085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>すでに男に折れてしまった女体が、再び猛烈に犯される。"
+                                "\\nc<>The woman's body, already broken by the man, is violated\nfiercely once again."
                             ]
                         },
                         {
@@ -5375,21 +5102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>荒い息を吐きながら脱出を試みる咲姫だったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疲れはててしまった体は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の動きに合わせて少しずつ揺れるだけだった…"
+                                "\\nc<>While gasping for breath, Saki tried to escape, but her\nexhausted body could only sway slightly in response to the\nman's movements..."
                             ]
                         },
                         {
@@ -5417,7 +5130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(おぉっ♥中を突かれて力が入らない…)."
+                                "\\nc<Saki>(Ohhh♥ I can't muster any strength with my insides being\nthrust into...)."
                             ]
                         },
                         {
@@ -5434,7 +5147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>くっ、腰をどう振ってもそれに付いてくるとは…"
+                                "\\nc<Thief 1>Damn, no matter how I swing my hips, she follows along..."
                             ]
                         },
                         {
@@ -5451,14 +5164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>ふあ…淫魔ってすごいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうやって無理やり犯してもちゃんと感じてるみたいだし…"
+                                "\\nc<Thief 2>Fua... succubi are amazing. Even when we force ourselves on\nthem like this, they seem to feel it properly..."
                             ]
                         },
                         {
@@ -5475,14 +5181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>てめぇ、マンコで俺たちを逮捕するつもりか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふざけんな、死ぬまで犯してやる！"
+                                "\\nc<Thief 1>You think you can arrest us with your pussy?! Don't mess\nwith me, I'll fuck you to death!"
                             ]
                         },
                         {
@@ -5499,7 +5198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふあっ♥はあっ、やめれぇ…"
+                                "\\nc<Saki>Huaa♥ Haa, stop it..."
                             ]
                         },
                         {
@@ -5555,7 +5254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>パンッ、パァンッ！"
+                                "\\nc<>Slap, Bang!"
                             ]
                         },
                         {
@@ -5572,14 +5271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>不幸にも、咲姫の哀願は男をますます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興奮させるだけであった。"
+                                "\\nc<>Unfortunately, Saki's pleas only served to excite the men\neven more."
                             ]
                         },
                         {
@@ -5596,14 +5288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>疲れはてた体に無理やり刺激を与えながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男は生々しい反応を楽しむ。"
+                                "\\nc<>While forcefully stimulating her tired body, the man enjoyed\nher raw reactions."
                             ]
                         },
                         {
@@ -5631,14 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>ふう、ふうって、ふう… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔族つってもザコは大したことねぇな！"
+                                "\\nc<Thief 1>Whew, whew... Even if you're a demon, weaklings aren't a big\ndeal!"
                             ]
                         },
                         {
@@ -5655,14 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>ところで…俺たち、ここに何しに来たっけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長居しすぎてんじゃね？"
+                                "\\nc<Thief 2>By the way... what did we come here for? Haven't we stayed\ntoo long?"
                             ]
                         },
                         {
@@ -5679,21 +5350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒１>気にすることねぇよ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちをクビにした魔族どもに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "復讐しに来てたんだからさ…"
+                                "\\nc<Thief 1>Don't worry about it! We came here to get revenge on the\ndemon folks who fired us..."
                             ]
                         },
                         {
@@ -5710,21 +5367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<泥棒２>そうだったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫ちゃんがちゃんと慰めてくれて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が晴れるぜ！"
+                                "\\nc<Thief 2>That's right. Saki-chan is comforting us nicely, it clears\nmy head!"
                             ]
                         },
                         {
@@ -5741,14 +5384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(こいつら、まったく関係ない魔族に八つ当たりを…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私だって搾取されてる身なのに！！)"
+                                "\\nc<Saki>(These guys are taking their anger out on completely\nunrelated demons... And I'm being exploited too!!)"
                             ]
                         },
                         {
@@ -5776,7 +5412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ジュブッ、ジュポッ…"
+                                "\\nc<>Squelch, Slop..."
                             ]
                         },
                         {
@@ -5793,7 +5429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫への凌辱は、いくら経っても終わりが見えなかった。"
+                                "\\nc<>The humiliation of Saki seemed to have no end in sight."
                             ]
                         },
                         {
@@ -5810,7 +5446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>倉庫の中は変な臭いが充満し、頭がクラクラしてくる。"
+                                "\\nc<>The warehouse was filled with a strange smell, and it made\nher head spin."
                             ]
                         },
                         {
@@ -5827,7 +5463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>涙も枯れた頃、外から騒がしい足音が聞こえてくる。"
+                                "\\nc<>When her tears had dried up, noisy footsteps could be heard\nfrom outside."
                             ]
                         },
                         {

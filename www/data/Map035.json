@@ -3756,14 +3756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先輩の教育時間"
+                                "Would you like to view the event? It's time for Senpai's\ntraining."
                             ]
                         },
                         {
@@ -3771,8 +3764,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4023,14 +4016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]自分の性感帯がまだ分からない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた本当に淫魔なの？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>You still don't know your erogenous zones? Are you really a\nsuccubus?"
                             ]
                         },
                         {
@@ -4075,7 +4061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]その、淫魔になったばかりでして…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Well, I've only just become a succubus..."
                             ]
                         },
                         {
@@ -4120,14 +4106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]ああ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もともとは人間だっけ。正直よく分からないけど…"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Ah... you were originally human, right? Honestly, it's a bit\nconfusing..."
                             ]
                         },
                         {
@@ -4181,7 +4160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]それが…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>About that..."
                             ]
                         },
                         {
@@ -4262,14 +4241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>なるほど。変な酒を飲まされたのが原因ってことね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうりで間抜けなわけだわ。"
+                                "\\nc<Senpai>I see. So it's because you drank some strange liquor. No\nwonder you're such a klutz."
                             ]
                         },
                         {
@@ -4314,14 +4286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]ま、間抜け…？\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]とにかく…こっちも事情があるんです！"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Klutz...?\\bustMsgExp[1, 2] Anyway... I have my own\ncircumstances!"
                             ]
                         },
                         {
@@ -4366,14 +4331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]分かったわ。\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[2, 0]でも、元人間の淫魔だからってノルマは減らないわよ。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>I understand.\\bustMsgExp[2, 0] But just because you were\noriginally human doesn't mean your quota is reduced."
                             ]
                         },
                         {
@@ -4418,14 +4376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](え…それだけ？\\.\\. "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]感想も結論もクールすぎるんですけど…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Eh... Is that all? \\bustMsgExp[1, 2] Your feedback and\nconclusions are too cool...)"
                             ]
                         },
                         {
@@ -4470,14 +4421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>はぁ、仕方ないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたには特別講習をしてあげる。"
+                                "\\nc<Senpai>Sigh, can't be helped. I'll give you some special training."
                             ]
                         },
                         {
@@ -4494,7 +4438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>仕事がつらいだけだと、長続きしないだろうし…"
+                                "\\nc<Senpai>If it's only tough work, it won't last long after all..."
                             ]
                         },
                         {
@@ -4539,7 +4483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]特別講習ですか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Special training?"
                             ]
                         },
                         {
@@ -4584,7 +4528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ええ、簡単なことよ。まずは場所を変えましょう。"
+                                "\\nc<Senpai>Yes, it's simple. Let's change the location first."
                             ]
                         },
                         {

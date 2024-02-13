@@ -8251,7 +8251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]うわぁ、なんだか…有名人がたくさん。"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Wow, there are so many... celebrities here."
                             ]
                         },
                         {
@@ -8286,14 +8286,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]あの人は政治家だよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まさか淫魔化ウイルスをばら撒くために…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>That person is a politician, right? Don't tell me they're\nhere to spread the succubus virus..."
                             ]
                         },
                         {
@@ -8451,7 +8444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]みんな、くれぐれもミスはしないように。"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>Everyone, please make sure not to make any mistakes."
                             ]
                         },
                         {
@@ -8498,7 +8491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>今回も美味しそうな淫魔が集まりましたな。"
+                                "\\nc<Customer>The succubi gathered here this time look delicious as well."
                             ]
                         },
                         {
@@ -8524,14 +8517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>弊社から厳選して参りました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうか存分にお楽しみください。"
+                                "\\nc<Executive Officer>We have carefully selected them from our company. Please\nenjoy to your heart's content."
                             ]
                         },
                         {
@@ -8636,7 +8622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>どれ…この女にするか…"
+                                "\\nc<Executive Officer>Let's see... I'll choose this woman..."
                             ]
                         },
                         {
@@ -8662,7 +8648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>あはは、よろしくお願いします！"
+                                "\\nc<Succubus>Ahaha, please take care of me!"
                             ]
                         },
                         {
@@ -8702,7 +8688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](あれは…隣の部署のチームリーダー…）"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(That's... the team leader from the department next door...)"
                             ]
                         },
                         {
@@ -8719,7 +8705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](ベテラン社員が完全に固まってる…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(The veteran employee is completely frozen...)"
                             ]
                         },
                         {
@@ -8981,7 +8967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](えっ、待って。あいつらは何？)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Wait, what are those guys doing?)"
                             ]
                         },
                         {
@@ -9077,7 +9063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](えええっ？)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Eeeeh?)"
                             ]
                         },
                         {
@@ -9094,7 +9080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2](どう見ても健康って感じじゃないのに、あんなに堂々と…)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>(They don't look healthy at all, yet they're so brazen...)"
                             ]
                         },
                         {
@@ -9480,7 +9466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>ヒヒヒ。メアリーさん、お待たせ。"
+                                "\\nc<Executive Officer>Hehehe. Meary-san, sorry to keep you waiting."
                             ]
                         },
                         {
@@ -9511,14 +9497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]はあ… "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本日もお越しいただき、ありがとうございます。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Sigh... Thank you for coming today as well."
                             ]
                         },
                         {
@@ -9549,7 +9528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>フフフ、メアリーさんにまた会う日を待ってたんだぞ。"
+                                "\\nc<Executive Officer>Hehehe, I've been waiting for the day to see Meary-san\nagain."
                             ]
                         },
                         {
@@ -9566,7 +9545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>早く行こうか。"
+                                "\\nc<Executive Officer>Shall we go soon?"
                             ]
                         },
                         {
@@ -9583,7 +9562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>私はこっちにしますか。"
+                                "\\nc<Customer>Shall I go with this one here?"
                             ]
                         },
                         {
@@ -9614,14 +9593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ、ああっ。よろしくお願いします！\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]誠心誠意ご奉仕いたします…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh, ah! Please take care of me!\\bustMsgExp[1, 0]I will serve\nyou with all my heart..."
                             ]
                         },
                         {
@@ -9652,7 +9624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<役員>さあさあ、さっそく向かいましょう。"
+                                "\\nc<Executive Officer>Now, now, let's head over right away."
                             ]
                         },
                         {

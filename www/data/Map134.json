@@ -3929,14 +3929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 3]咲姫！　起きて、咲姫！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつ、離れないんですけど！　早く取り出しなさい！"
+                                "\\bustMsgExp[2, 3]\\nc<Senpai>Saki! Wake up, Saki! This thing won't let go! Hurry up and\npull it out!"
                             ]
                         },
                         {
@@ -3981,7 +3974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うっ…先輩…？"
+                                "\\nc<Saki>Ugh... Senpai...?"
                             ]
                         },
                         {
@@ -4290,14 +4283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ペットを見に行ったきり帰ってこないと思ったら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちが狙いだったのね？"
+                                "\\nc<Senpai>I thought you hadn't come back from checking on the pet...\nSo you were the target, huh?"
                             ]
                         },
                         {
@@ -4404,14 +4390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふえっ、先輩…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 1]ああっ！　あいつ、まだいるんですか！？"
+                                "\\nc<Saki>Fueh, Senpai... \\bustMsgExp[1, 1]Aah! Is that thing still\nthere?!"
                             ]
                         },
                         {
@@ -4456,21 +4435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ええ。ついさっき、あいつから私たちが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたを取り出したの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少し遅かったら消化されてたかもしれないわ。"
+                                "\\nc<Senpai>Yes. We just extracted you from that creature. If we had\nbeen any later, you might have been digested."
                             ]
                         },
                         {
@@ -4510,14 +4475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP>変なことを言わないでくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キューちゃんがそんなことをするわけないだろう？"
+                                "\\nc<Vip>Don't say such weird things. There's no way Kyu-chan would\ndo something like that, right?"
                             ]
                         },
                         {
@@ -4571,7 +4529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]あはは、失礼いたしました。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Ahaha, my apologies."
                             ]
                         },
                         {
@@ -4633,7 +4591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅう…"
+                                "\\nc<Slime>Kyuu..."
                             ]
                         },
                         {
@@ -4650,21 +4608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP>おや？　キューちゃん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきより顔色が良くなったようだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの淫魔が気に入ったかい？"
+                                "\\nc<Vip>Oh? Kyu-chan, you seem to look better than before. Did you\ntake a liking to that succubus?"
                             ]
                         },
                         {
@@ -4690,7 +4634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スライム>きゅっ！"
+                                "\\nc<Slime>Kyu!"
                             ]
                         },
                         {
@@ -4716,21 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<VIP>\\bustMsgExp[1, 2]そうか、そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キューちゃんが気に入ったのなら私も嬉しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君たちもご苦労だったね。"
+                                "\\bustMsgExp[1, 2]\\nc<Vip>I see, I see. If Kyu-chan is happy, then I'm happy too. You\nall did a great job."
                             ]
                         },
                         {
@@ -4775,14 +4705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ご利用ありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またのお越しをお待ちしております。"
+                                "\\nc<Senpai>Thank you for your patronage. We look forward to your next\nvisit."
                             ]
                         },
                         {
@@ -5373,14 +5296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>よくやったわ、咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セックスは万国共通語っていうけど…"
+                                "\\nc<Senpai>Well done, Saki. They say sex is the universal language..."
                             ]
                         },
                         {
@@ -5397,14 +5313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それであのキューちゃんと親しくなったのね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた、ペットシッターの才能があるかもよ。"
+                                "\\nc<Senpai>So that's how you became friends with Kyu-chan? You might\nhave a talent for pet-sitting."
                             ]
                         },
                         {
@@ -5458,7 +5367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]そんな才能、要りません…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>I don't need such a talent..."
                             ]
                         },
                         {
@@ -5486,7 +5395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>身も心もボロボロになった咲姫は、やっと帰ることができた。"
+                                "\\nc<>Saki, both physically and mentally exhausted, was finally\nable to go home."
                             ]
                         },
                         {

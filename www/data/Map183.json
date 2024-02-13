@@ -3848,14 +3848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(あっ、いつ終わったんだろう？\\.\\.\\bustMsgExp[1, 3]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもなんか良かったな、フフッ)"
+                                "\\nc<Saki>(Ah, when did it end? \\bustMsgExp[1, 3] But it felt kind of\nnice, hehe.)"
                             ]
                         },
                         {
@@ -4021,7 +4014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]咲姫、変わったことはなかった？"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Saki, was there anything unusual?"
                             ]
                         },
                         {
@@ -4066,14 +4059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい、先輩！　皆さん親切で仕事も簡単でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次回も行きたいです。"
+                                "\\nc<Saki>Yes, Senpai! Everyone was kind, and the work was easy. I\nwant to go again next time."
                             ]
                         },
                         {
@@ -4118,14 +4104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]あ…そう？　分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(やっぱり怪しい。私は絶対に行かないでおこう)"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Ah... really? Understood. (This is definitely suspicious. I\nshould absolutely avoid going.)"
                             ]
                         },
                         {

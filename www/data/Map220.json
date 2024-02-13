@@ -3827,7 +3827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ふうっ、ふわぁ…ふあああ…"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>*sigh*...hah...haaaa..."
                             ]
                         },
                         {
@@ -3872,14 +3872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お疲れ様、咲姫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのバカからたっぷり奪って、チーム別のノルマ達成確定よ。"
+                                "\\nc<Senpai>Good work, Saki. You've taken plenty from that idiot, our\nteam's quota is definitely met."
                             ]
                         },
                         {
@@ -3924,7 +3917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ふうっ、ふわぁ…"
+                                "\\nc<Saki>*sigh*...hah..."
                             ]
                         },
                         {
@@ -3969,7 +3962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>報告書は、ほかの人が書くから上がってもいいわ。"
+                                "\\nc<Senpai>Someone else will write the report, so you can go ahead and\nleave."
                             ]
                         },
                         {
@@ -4014,7 +4007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]はいっ、お疲れ様です。失礼します！"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Yes, thank you for your hard work. Excuse me!"
                             ]
                         },
                         {
@@ -4054,7 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>…何だ、大丈夫だったの？"
+                                "\\nc<Member 1>...What's the matter, are you okay?"
                             ]
                         },
                         {
@@ -4130,21 +4123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]全然大丈夫じゃなかったです！\\.\\. "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 3]だけど、もうこんな目に遭ってしまったので…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれるだけのことはやります。"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>I wasn't okay at all! \\bustMsgExp[1, 3] But since I've\nalready been through this much... I'll do whatever I can."
                             ]
                         },
                         {
@@ -4189,21 +4168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]成長したわね。私に突っかかってくるところは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気に入らないけど…今日は目を瞑ってあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報告書はあなたが代わりに書きなさい。"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>You've grown. I don't like how you challenge me... but I'll\nturn a blind eye today. You write the report instead."
                             ]
                         },
                         {
@@ -4234,7 +4199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<メンバー１>私がですか？　あ…分かりました。お疲れ、咲姫。"
+                                "\\nc<Member 1>Me? Ah... understood. Take care, Saki."
                             ]
                         },
                         {
@@ -4279,7 +4244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>お疲れ様です！"
+                                "\\nc<Saki>Thank you for your hard work!"
                             ]
                         },
                         {
@@ -4576,7 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>咲姫は振りむきもせずオフィスを立ち去った。"
+                                "\\nc<>Saki left the office without looking back."
                             ]
                         },
                         {

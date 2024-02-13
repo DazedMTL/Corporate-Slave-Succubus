@@ -5628,14 +5628,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "日常的なフェラ業務"
+                                "Would you like to view the event? Routine fellatio duties."
                             ]
                         },
                         {
@@ -5643,8 +5636,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -5877,14 +5870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(すぐにできる仕事で簡単そうなのは…\\.\\. \\bustMsgExp[1, 2]やっぱりこれか)\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]先輩、今日はキスフェラにします。"
+                                "\\nc<Saki>(The easiest job that can be done right away is...\n\\bustMsgExp[1, 2]this must be it.)\\bustMsgExp[1, 0]Senpai,\nI'll do a kiss and blowjob today."
                             ]
                         },
                         {
@@ -5960,7 +5946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そう、いいわよ。けど、今期のノルマには気を付けなさい。"
+                                "\\nc<Senpai>That's fine. But be mindful of this term's quota."
                             ]
                         },
                         {
@@ -6005,14 +5991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](そうだ、四半期ごとに精気のノルマがあったんだっけ…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]でも、しばらくは心配なさそう)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(That's right, there was a quota for spiritual energy every\nquarter...\\bustMsgExp[1, 0]But it seems I don't have to\nworry for a while.)"
                             ]
                         },
                         {
@@ -6057,14 +6036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>私はほかの仕事があるから、あとは任せるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "業務報告書も忘れずにね。"
+                                "\\nc<Senpai>I have other work to do, so I'll leave the rest to you.\nDon't forget to submit the work report."
                             ]
                         },
                         {
@@ -6109,7 +6081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]はい！　分かりました。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Yes! Understood."
                             ]
                         },
                         {

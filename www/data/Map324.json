@@ -6903,14 +6903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>ふふ…使わせてもらったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度会社まで来な。"
+                                "\\nc<Staff>Hehe... I've made use of it. Come to the company next time."
                             ]
                         },
                         {
@@ -7055,21 +7048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>お客様、うちは無料サービスは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "禁止となっておりまして。申し訳ございませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代金は払っていただきますよ。"
+                                "\\nc<Senpai>Dear customer, our establishment prohibits free services.\nI'm sorry, but you will have to pay the fee."
                             ]
                         },
                         {
@@ -7109,14 +7088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>何だと？　こいつが俺を誘惑したんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もらいたければあいつからもらえ！"
+                                "\\nc<Staff>What? This guy seduced me! If you want payment, get it from\nhim!"
                             ]
                         },
                         {
@@ -7161,14 +7133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]あら、失礼ですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マスコミの方ですよね？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Oh, excuse me, but you're from the press, aren't you?"
                             ]
                         },
                         {
@@ -7185,21 +7150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]最近かなりお忙しいことと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "存じますが。月曜日の朝から淫魔第一産業に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出勤されてもよろしいんですか？"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>I understand you've been quite busy lately. Is it alright\nfor you to be coming to work at the Demon First Industries\nstarting Monday morning?"
                             ]
                         },
                         {
@@ -7230,14 +7181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<スタッフ>くっ…分かった。お金は払ってやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の顔、覚えたからな。"
+                                "\\nc<Staff>Grr... Fine. I'll pay the money. I won't forget your face."
                             ]
                         },
                         {
@@ -7665,14 +7609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>横領だなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫、あなたがそんな大胆なことするとは思わなかったわ。"
+                                "\\nc<Senpai>Embezzlement? Saki, I never thought you'd do something so\nbold."
                             ]
                         },
                         {
@@ -7717,7 +7654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう…それが、色々と事情がありまして…"
+                                "\\nc<Saki>Ugh... Well, there are various circumstances..."
                             ]
                         },
                         {
@@ -7762,14 +7699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>まっ、いいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目を瞑ってあげたんだから、私にも何かしてくれるわよね？"
+                                "\\nc<Senpai>Well, it's fine. I turned a blind eye for you, so you'll do\nsomething for me too, right?"
                             ]
                         },
                         {
@@ -7814,7 +7744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう…"
+                                "\\nc<Saki>Ugh..."
                             ]
                         },
                         {
@@ -7842,7 +7772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>魔力を少し上納した…"
+                                "\\nc<>I submitted a bit of magical power..."
                             ]
                         },
                         {

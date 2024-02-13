@@ -6806,14 +6806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>少し浅いけど、感度も締まりもいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔は体がすべてだから、常に抜かりなくケアするように。"
+                                "\\nc<Senpai>It's a bit shallow, but your sensitivity and tightness are\ngood. As a succubus, your body is everything, so always take\ncare of it without fail."
                             ]
                         },
                         {
@@ -6858,21 +6851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>残業して帰ったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お風呂に入る気力なんてないですよ……\\.\\.\\bustMsgExp[1, 1]あっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(つい本音が…)"
+                                "\\nc<Saki>After working overtime and coming home, I don't even have\nthe energy to take a bath...\\bustMsgExp[1, 1]Ah! (I\naccidentally spoke my true feelings...)"
                             ]
                         },
                         {
@@ -6926,7 +6905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>ふふ、私の腕前は健在ね。"
+                                "\\nc<Senpai>Hehe, my skills are still sharp."
                             ]
                         },
                         {
@@ -6943,14 +6922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[1, 1]だけど、イきやすいところは直しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃないと新入りたちの教材にしちゃうわよ。"
+                                "\\bustMsgExp[1, 1]\\nc<Senpai>But you need to fix those spots where you climax too easily.\nOtherwise, I'll use you as teaching material for the\nnewbies."
                             ]
                         },
                         {
@@ -6995,7 +6967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ひいいっ……で、でも、どうやって直せば？"
+                                "\\nc<Saki>Eeek... But, how do I fix it?"
                             ]
                         },
                         {
@@ -7040,7 +7012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]まあ、慣れでしょうね。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>Well, it's all about getting used to it."
                             ]
                         },
                         {
@@ -7057,14 +7029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あなたは淫魔にしては経験が浅すぎるせいか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔としての特性がまだ弱いの。"
+                                "\\nc<Senpai>For a succubus, you're inexperienced, which might be why\nyour succubus traits are still weak."
                             ]
                         },
                         {
@@ -7109,7 +7074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>へえ……そ、そうなんですか。"
+                                "\\nc<Saki>Eh... Is that so?"
                             ]
                         },
                         {
@@ -7154,21 +7119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それなのに、もうこんなに成果があるなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "将来が楽しみだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほかの子たちみたいにならずに、末永く働いてちょうだいね。"
+                                "\\nc<Senpai>And yet, to already have such results. I'm looking forward\nto your future. Please work with us for a long time, and\ndon't end up like the other girls."
                             ]
                         },
                         {
@@ -7213,14 +7164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]が、頑張ります…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ほかの子たちって…前任者たちのこと？)"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>I'll do my best... (The other girls... Does she mean my\npredecessors?)"
                             ]
                         },
                         {
@@ -7237,7 +7181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1](まさか、みんな強制派遣されたんじゃ…)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Could it be that they were all sent away by force...)"
                             ]
                         },
                         {
@@ -7352,7 +7296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>講習はこれで終わり。あなたは掃除してから戻ってね。"
+                                "\\nc<Senpai>That's the end of the training. Clean up before you come\nback."
                             ]
                         },
                         {
@@ -7397,14 +7341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]痛っ！\\.\\. "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 2]い、いきなり離すなんて酷いです…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Ouch! \\bustMsgExp[1, 2]How could you suddenly let go...\nThat's cruel..."
                             ]
                         },
                         {
@@ -7740,14 +7677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(私ってそんなに弱いんだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、今の私は淫魔だから当然よ！)"
+                                "\\nc<Saki>(Am I really that weak... No, it's natural since I'm a\nsuccubus now!)"
                             ]
                         },
                         {
@@ -7764,7 +7694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はあ…これを１人で片づけるのか…"
+                                "\\nc<Saki>Sigh... Do I have to clean all this up by myself..."
                             ]
                         },
                         {

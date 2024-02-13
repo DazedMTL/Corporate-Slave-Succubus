@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -6222,7 +6222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ふう…本当にこれでよかったのかな？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Phew... Was this really the right choice?"
                             ]
                         },
                         {
@@ -6684,7 +6684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>僕は内斗さんを指名したんだけど…"
+                                "\\nc<Customer>I had requested Naoto-san, but..."
                             ]
                         },
                         {
@@ -6724,14 +6724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]アハハ、申し訳ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メアリーはただいまほかの仕事に当たっておりまして。"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Ahaha, I'm terribly sorry. Meary is currently occupied with\nanother job."
                             ]
                         },
                         {
@@ -6748,7 +6741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>私が代わりを務めさせていただいてもよろしいですか？"
+                                "\\nc<Saki>Would it be alright if I take her place?"
                             ]
                         },
                         {
@@ -6779,14 +6772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>チッ、忙しいなら仕方ないな。分かった。 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルールは知ってるのか？"
+                                "\\nc<Customer>Tch, if you're busy, it can't be helped. Alright. Do you\nknow the rules?"
                             ]
                         },
                         {
@@ -6817,14 +6803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]あ、はい。だいたいのことは聞きましたが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にセーフワードがなくても大丈夫ですか？"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Ah, yes. I've heard most of it. But are you sure it's okay\nto proceed without a safeword?"
                             ]
                         },
                         {
@@ -6855,7 +6834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<客>うん。僕はそういうの必要ないから…"
+                                "\\nc<Customer>Yeah. I don't need things like that..."
                             ]
                         },
                         {
@@ -6886,14 +6865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>それでは始めますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふう…"
+                                "\\nc<Saki>Then let's begin. Phew..."
                             ]
                         },
                         {

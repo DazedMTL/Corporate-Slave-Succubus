@@ -6367,14 +6367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 3]\\bustMoveTo[1, 1300, 720, 30]先輩、終わりました！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクシュラン五つ星は取れると思います！"
+                                "\\bustMsgExp[1, 3]\\bustMoveTo[1, 1300, 720, 30]\\nc<Saki>Senpai, I'm done! I think we can get a five-star\nSexshuranku!"
                             ]
                         },
                         {
@@ -6459,7 +6452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]\\bustMoveTo[2, -100, 720, 30]咲姫…本物のミ〇ランも三つ星までしかないの。"
+                                "\\bustMsgExp[2, 1]\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Saki... even the real Michelin only goes up to three stars."
                             ]
                         },
                         {
@@ -6504,14 +6497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ、本物のミ〇ランって？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあセクシュランは…"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh, the real Michelin? Then, Sexshuranku is..."
                             ]
                         },
                         {
@@ -6556,7 +6542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]そんなものあるわけないでしょ？　バカ正直の咲姫。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>There's no such thing, you gullible Saki."
                             ]
                         },
                         {
@@ -6601,7 +6587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>だ、騙された！　私がどれだけ頑張ったと思ってるんですか！"
+                                "\\nc<Saki>No way, I've been tricked! Do you know how hard I worked for\nthis?!"
                             ]
                         },
                         {
@@ -6646,14 +6632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>あら、それじゃあ普段は頑張ってなかったってこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああいう常連、何人か作っておいて損はないわ。"
+                                "\\nc<Senpai>Oh? So you're saying you don't usually work hard? It\nwouldn't hurt to have a few regulars like that."
                             ]
                         },
                         {
@@ -6698,7 +6677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>うう、それでも…"
+                                "\\nc<Saki>Ugh, even so..."
                             ]
                         },
                         {
@@ -6743,14 +6722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>有給休暇の件は私から言っておくから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(今までそんな申請が通ったことなんて一度もないけど…)"
+                                "\\nc<Senpai>I'll talk to them about your paid leave. (Not that such a\nrequest has ever been approved before...)"
                             ]
                         },
                         {
@@ -6795,14 +6767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 4]さすが先輩！\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 3]よろしくお願いします！　ふふっ。"
+                                "\\bustMsgExp[1, 4]\\nc<Saki>As expected of Senpai! \\bustMsgExp[1, 3]Please take care of\nit! Hehe."
                             ]
                         },
                         {
@@ -7173,7 +7138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<<淫魔社員>また仕事が増えたよ…"
+                                "\\nc<Lewd Demon Employee>More work has piled up again..."
                             ]
                         },
                         {

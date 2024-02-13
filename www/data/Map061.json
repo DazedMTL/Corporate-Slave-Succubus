@@ -3834,14 +3834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントを観ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "新規アトラクションのテスト"
+                                "Would you like to view the event? Testing the new\nattraction."
                             ]
                         },
                         {
@@ -3849,8 +3842,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "観る",
-                                    "スキップする"
+                                    "Watch",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,
@@ -4057,7 +4050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>今週は何事もなく終わるかな？"
+                                "\\nc<Saki>I wonder if this week will end without any incidents?"
                             ]
                         },
                         {
@@ -4189,7 +4182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMoveTo[2, -100, 720, 30]咲姫、ちょっと。"
+                                "\\bustMoveTo[2, -100, 720, 30]\\nc<Senpai>Saki, a moment please."
                             ]
                         },
                         {
@@ -4274,7 +4267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]ううっ、今度は何ですか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ugh, what is it this time?"
                             ]
                         },
                         {
@@ -4319,7 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 1]あら、その反応は何？"
+                                "\\bustMsgExp[2, 1]\\nc<Senpai>Oh, what's with that reaction?"
                             ]
                         },
                         {
@@ -4364,7 +4357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>だって、先輩に呼ばれるたびに何か起きるんですもん…"
+                                "\\nc<Saki>Because something always happens whenever you call me,\nSenpai..."
                             ]
                         },
                         {
@@ -4409,14 +4402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]たしかに咲姫をいじめるのは大好きだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残念ながら今回は上層部から直接下りた指示なの。 "
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>True, I do love teasing you, Saki, but unfortunately, this\ntime it's a direct order from the higher-ups."
                             ]
                         },
                         {
@@ -4461,7 +4447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 1]えっ、上層部ですか？"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>Eh, from the higher-ups?"
                             ]
                         },
                         {
@@ -4506,14 +4492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>そう。上層部で今回新しいアトラクションを開発したんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テストが必要なの。 "
+                                "\\nc<Senpai>Yes. The higher-ups have developed a new attraction, and it\nneeds to be tested."
                             ]
                         },
                         {
@@ -4558,7 +4537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>(アトラクションって…遊園地でもあるまいし！)"
+                                "\\nc<Saki>(An attraction... It's not like we're at an amusement park!)"
                             ]
                         },
                         {
@@ -4603,21 +4582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>テストのために志願者が必要なんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲姫、あなたが志願してくれるかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうこれくらいは任せられそうだし。"
+                                "\\nc<Senpai>We need volunteers for the test, Saki. Would you volunteer?\nI think you can handle this much."
                             ]
                         },
                         {
@@ -4662,14 +4627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 2]あっ…はい。「志願者」ですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "念のためにお尋ねしますが、もし断ったらどうなりますか？"
+                                "\\bustMsgExp[1, 2]\\nc<Saki>Ah... Yes. 'Volunteer,' right? Just to be sure, what happens\nif I refuse?"
                             ]
                         },
                         {
@@ -4714,14 +4672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>もし断ったら、人事考課に深刻な問題が発生して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強制派遣されちゃう可能性があるわね。"
+                                "\\nc<Senpai>If you refuse, there might be serious repercussions on your\npersonnel evaluation, leading to a forced reassignment."
                             ]
                         },
                         {
@@ -4766,14 +4717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>なるほど…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[1, 0]それで、そのアトラクションっていうのは何なんですか？"
+                                "\\nc<Saki>I see...\\bustMsgExp[1, 0]So, what exactly is this\nattraction?"
                             ]
                         },
                         {
@@ -4818,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それは自分の目で確かめたほうがいいわ。 "
+                                "\\nc<Senpai>You should see it for yourself."
                             ]
                         },
                         {
@@ -4863,7 +4807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>\\bustMsgExp[1, 0]うう、もうすでに不安。"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>Ugh, I'm already feeling anxious."
                             ]
                         },
                         {

@@ -3188,7 +3188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>生物学的危険の警告が貼られた箱がある…"
+                                "\\nc<>There's a box with a biological hazard warning on it..."
                             ]
                         },
                         {
@@ -3205,7 +3205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>文字に布が掛けられたようにまったく見えない…"
+                                "\\nc<>The text is completely obscured as if covered by a cloth..."
                             ]
                         },
                         {
@@ -3222,7 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><謎の箱>についての情報を獲得した！"
+                                "\\nc<>Acquired information about the <Mysterious Box>!"
                             ]
                         },
                         {
@@ -3317,7 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>文字に布が掛けられたようにまったく見えない…"
+                                "\\nc<>It's completely invisible, as if a cloth has been draped\nover the characters..."
                             ]
                         },
                         {
@@ -3396,7 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>生物学的危険の警告が貼られた箱がある…"
+                                "\\nc<>There's a box with a biological hazard warning on it..."
                             ]
                         },
                         {
@@ -3413,14 +3413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ぼやけて見えた字が鮮明になっていく…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは研究機関で獲得したウイルスと同じものだ！"
+                                "\\nc<>The blurry letters become clear... This is the same virus\nthat was acquired from the research institute!"
                             ]
                         },
                         {
@@ -3437,14 +3430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<><謎の箱>の情報を更新した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "<ウイルス溶液が入った箱>に関する情報を獲得した。"
+                                "\\nc<> Updated information on <Mysterious Box>. Acquired\ninformation about the <Box Containing Virus Solution>."
                             ]
                         },
                         {

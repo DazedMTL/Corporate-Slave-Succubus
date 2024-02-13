@@ -2484,7 +2484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>いつもより少し遅かったわね。ちゃんと撮ってきた？"
+                                "\\nc<Senpai>You're a bit later than usual. Did you get the shot?"
                             ]
                         },
                         {
@@ -2529,21 +2529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>はい、これです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使えそうなシーンがあるかは分かりませんが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うちの会社にこんな空間あったっけ…？)"
+                                "\\nc<Saki>Yes, here it is. I'm not sure if there's a usable scene\nthough...(Did our company even have a space like this...?)"
                             ]
                         },
                         {
@@ -2588,7 +2574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>それは、見ないことには分からないわ。"
+                                "\\nc<Senpai>Well, we won't know until we look at it."
                             ]
                         },
                         {
@@ -2741,14 +2727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>どれどれ…\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\bustMsgExp[2, 1]でもなんで休憩室に設置したの？"
+                                "\\nc<Senpai>Let's see...\\bustMsgExp[2, 1] But why did you set it up in\nthe break room?"
                             ]
                         },
                         {
@@ -2793,21 +2772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<咲姫>ええっ？　そ、それは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事務室にはいつも人がいるじゃないですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで設置できなかった…んですよ？"
+                                "\\nc<Saki>Eh? That's because... there are always people in the office,\nright? So I couldn't set it up there... you know?"
                             ]
                         },
                         {
@@ -2852,7 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<先輩>\\bustMsgExp[2, 0]それもそうね。\\.\\.\\bustMsgExp[2, 1]あ、始まった。"
+                                "\\bustMsgExp[2, 0]\\nc<Senpai>That's true.\\bustMsgExp[2, 1] Oh, it's starting."
                             ]
                         },
                         {
