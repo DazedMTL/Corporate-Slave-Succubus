@@ -34285,7 +34285,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" Magic Gain 500\\n Fatique Gain 15\""
+                                "\" Magic Gain 500\\n Fatique Cost 15\""
                             ]
                         },
                         {
@@ -44253,7 +44253,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '自己啓発' 業務 Release\""
+                                "\"'Self Improvement Release\""
                             ]
                         },
                         {
@@ -44410,7 +44410,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '自己啓発' 業務 Release\""
+                                "\"'Self Improvement Release\""
                             ]
                         },
                         {
@@ -52680,7 +52680,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -52925,7 +52925,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -53169,7 +53169,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54192,7 +54192,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54437,7 +54437,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54681,7 +54681,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -56328,7 +56328,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" EXP Gain 500\\n Fatique Gain 10\""
+                                "\" EXP Gain 500\\n Fatique Cost 10\""
                             ]
                         },
                         {
@@ -97683,7 +97683,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -97901,7 +97901,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98111,7 +98111,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98405,7 +98405,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98623,7 +98623,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98833,7 +98833,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -99127,7 +99127,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99345,7 +99345,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99555,7 +99555,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99849,7 +99849,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -100067,7 +100067,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -100277,7 +100277,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -103687,7 +103687,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -103905,7 +103905,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104122,7 +104122,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104416,7 +104416,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104634,7 +104634,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104851,7 +104851,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105145,7 +105145,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105363,7 +105363,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105580,7 +105580,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105874,7 +105874,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -106092,7 +106092,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -106309,7 +106309,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -107312,7 +107312,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -107517,7 +107517,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -107727,7 +107727,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108021,7 +108021,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108226,7 +108226,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108436,7 +108436,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108730,7 +108730,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108935,7 +108935,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -109145,7 +109145,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -109439,7 +109439,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -109644,7 +109644,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -109854,7 +109854,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {

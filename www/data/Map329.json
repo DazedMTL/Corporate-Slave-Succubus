@@ -7490,7 +7490,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" Magic Gain 500\\n Fatique Gain 10\""
+                                "\" Magic Gain 500\\n Fatique Cost 10\""
                             ]
                         },
                         {
@@ -7666,7 +7666,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" Magic Gain 500\\n Fatique Gain 10\""
+                                "\" Magic Gain 500\\n Fatique Cost 10\""
                             ]
                         },
                         {
@@ -7791,7 +7791,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" Magic Gain 500\\n Fatique Gain 10\""
+                                "\" Magic Gain 500\\n Fatique Cost 10\""
                             ]
                         },
                         {
@@ -11941,7 +11941,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" EXP Gain 500\\n Fatique Gain 10\""
+                                "\" EXP Gain 500\\n Fatique Cost 10\""
                             ]
                         },
                         {
@@ -12117,7 +12117,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" EXP Gain 500\\n Fatique Gain 10\""
+                                "\" EXP Gain 500\\n Fatique Cost 10\""
                             ]
                         },
                         {
@@ -12253,7 +12253,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" EXP Gain 500\\n Fatique Gain 10\""
+                                "\" EXP Gain 500\\n Fatique Cost 10\""
                             ]
                         },
                         {
@@ -16847,7 +16847,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類作業 Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" 書類作業 Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17052,7 +17052,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類作業 Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" 書類作業 Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17262,7 +17262,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類作業 Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" 書類作業 Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17568,7 +17568,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17773,7 +17773,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17983,7 +17983,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
