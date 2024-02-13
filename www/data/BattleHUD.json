@@ -163,7 +163,7 @@
     },
     {
         "type": "Text",
-        "Value": " 魔力 : ${$gameVariables.value(1)}",
+        "Value": " Mana: ${$gameVariables.value(1)}",
         "Condition": "$gameSwitches.value(101)",
         "Layer": "2",
         "Font": "GameFont",
@@ -206,7 +206,7 @@
     },
     {
         "type": "Text",
-        "Value": " 経験指数 : ${$gameVariables.value(2)}",
+        "Value": " EXP: ${$gameVariables.value(2)}",
         "Condition": "$gameSwitches.value(101)",
         "Layer": "2",
         "Font": "GameFont",
@@ -590,7 +590,7 @@
     },
     {
         "type": "Text",
-        "Value": "目標まで ${$gameVariables.value(40) - $gameVariables.value(56)}",
+        "Value": "Target ${$gameVariables.value(40) - $gameVariables.value(56)}",
         "Condition": "$gameSwitches.value(101)",
         "Layer": "2",
         "Font": "GameFont",
@@ -3815,7 +3815,7 @@
     },
     {
         "type": "Text",
-        "Value": "残った期間",
+        "Value": "Remaining",
         "Condition": "$gameSwitches.value(101)",
         "Layer": "3",
         "Font": "GameFont",
