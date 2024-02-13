@@ -34407,7 +34407,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000\""
                             ]
                         },
                         {
@@ -34429,7 +34429,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 300\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 300\""
                             ]
                         },
                         {
@@ -34625,7 +34625,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000\""
                             ]
                         },
                         {
@@ -34647,7 +34647,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 300\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 300\""
                             ]
                         },
                         {
@@ -34842,7 +34842,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000\""
                             ]
                         },
                         {
@@ -34864,7 +34864,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 300\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 300\""
                             ]
                         },
                         {
@@ -35136,7 +35136,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -35158,7 +35158,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 700\\n 宣伝業務疲労度 \" + $gameVariables.value(43) + \" - 5 \""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n 宣伝業務疲労度 \" + $gameVariables.value(43) + \" - 5 \""
                             ]
                         },
                         {
@@ -35390,7 +35390,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -35412,7 +35412,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 700\\n 宣伝業務疲労度 \" + $gameVariables.value(43) + \" - 5 \""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n 宣伝業務疲労度 \" + $gameVariables.value(43) + \" - 5 \""
                             ]
                         },
                         {
@@ -35634,7 +35634,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -35656,7 +35656,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 700\\n 宣伝業務疲労度 \" + $gameVariables.value(43) + \" - 5 \""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n 宣伝業務疲労度 \" + $gameVariables.value(43) + \" - 5 \""
                             ]
                         },
                         {
@@ -35928,7 +35928,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -35950,7 +35950,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 1000\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 1000\""
                             ]
                         },
                         {
@@ -36146,7 +36146,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -36168,7 +36168,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 1000\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 1000\""
                             ]
                         },
                         {
@@ -36356,7 +36356,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -36378,7 +36378,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 1000\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 1000\""
                             ]
                         },
                         {
@@ -36650,7 +36650,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000 \\n 魔力 \"  + $gameVariables.value(1) + \"/20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000 \\n M. Power \"  + $gameVariables.value(1) + \"/20000\""
                             ]
                         },
                         {
@@ -36672,7 +36672,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 2000\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 2000\""
                             ]
                         },
                         {
@@ -36895,7 +36895,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000 \\n 魔力 \"  + $gameVariables.value(1) + \"/20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000 \\n M. Power \"  + $gameVariables.value(1) + \"/20000\""
                             ]
                         },
                         {
@@ -36917,7 +36917,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 2000\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 2000\""
                             ]
                         },
                         {
@@ -37139,7 +37139,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000 \\n 魔力 \"  + $gameVariables.value(1) + \"/20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000 \\n M. Power \"  + $gameVariables.value(1) + \"/20000\""
                             ]
                         },
                         {
@@ -37161,7 +37161,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 2000\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 2000\""
                             ]
                         },
                         {
@@ -37433,7 +37433,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000\""
                             ]
                         },
                         {
@@ -37455,7 +37455,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 2000\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 2000\""
                             ]
                         },
                         {
@@ -37651,7 +37651,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000\""
                             ]
                         },
                         {
@@ -37673,7 +37673,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 2000\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 2000\""
                             ]
                         },
                         {
@@ -37861,7 +37861,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000\""
                             ]
                         },
                         {
@@ -37883,7 +37883,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 2000\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 2000\""
                             ]
                         },
                         {
@@ -38155,7 +38155,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000 \\n 魔力 \"  + $gameVariables.value(1) + \"/80000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000 \\n M. Power \"  + $gameVariables.value(1) + \"/80000\""
                             ]
                         },
                         {
@@ -38177,7 +38177,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 3500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 3500\""
                             ]
                         },
                         {
@@ -38400,7 +38400,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000 \\n 魔力 \"  + $gameVariables.value(1) + \"/80000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000 \\n M. Power \"  + $gameVariables.value(1) + \"/80000\""
                             ]
                         },
                         {
@@ -38422,7 +38422,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 3500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 3500\""
                             ]
                         },
                         {
@@ -38644,7 +38644,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000 \\n 魔力 \"  + $gameVariables.value(1) + \"/80000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000 \\n M. Power \"  + $gameVariables.value(1) + \"/80000\""
                             ]
                         },
                         {
@@ -38666,7 +38666,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務魔力獲得量 \" + $gameVariables.value(41) + \" + 3500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 3500\""
                             ]
                         },
                         {
@@ -39831,7 +39831,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \""
                             ]
                         },
                         {
@@ -39853,7 +39853,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 200\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 200\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 200\\n EXP Gain \" + $gameVariables.value(42) + \" + 200\""
                             ]
                         },
                         {
@@ -40049,7 +40049,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \""
                             ]
                         },
                         {
@@ -40071,7 +40071,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 200\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 200\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 200\\n EXP Gain \" + $gameVariables.value(42) + \" + 200\""
                             ]
                         },
                         {
@@ -40271,7 +40271,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \""
                             ]
                         },
                         {
@@ -40293,7 +40293,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 200\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 200\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 200\\n EXP Gain \" + $gameVariables.value(42) + \" + 200\""
                             ]
                         },
                         {
@@ -40565,7 +40565,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -40587,7 +40587,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 300\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 300\\n 応対業務 疲労度 消耗 \" + $gameVariables.value(43) + \" - 3\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 300\\n EXP Gain \" + $gameVariables.value(42) + \" + 300\\n Service Fatique \" + $gameVariables.value(43) + \" - 3\""
                             ]
                         },
                         {
@@ -40801,7 +40801,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -40823,7 +40823,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 300\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 300\\n 応対業務 疲労度 消耗 \" + $gameVariables.value(43) + \" - 3\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 300\\n EXP Gain \" + $gameVariables.value(42) + \" + 300\\n Service Fatique \" + $gameVariables.value(43) + \" - 3\""
                             ]
                         },
                         {
@@ -41050,7 +41050,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -41072,7 +41072,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 300\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 300\\n 応対業務 疲労度 消耗 \" + $gameVariables.value(43) + \" - 3\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 300\\n EXP Gain \" + $gameVariables.value(42) + \" + 300\\n Service Fatique \" + $gameVariables.value(43) + \" - 3\""
                             ]
                         },
                         {
@@ -41344,7 +41344,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000 \""
                             ]
                         },
                         {
@@ -41366,7 +41366,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 200\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 200\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 200\\n EXP Gain \" + $gameVariables.value(42) + \" + 200\""
                             ]
                         },
                         {
@@ -41562,7 +41562,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000 \""
                             ]
                         },
                         {
@@ -41584,7 +41584,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 200\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 200\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 200\\n EXP Gain \" + $gameVariables.value(42) + \" + 200\""
                             ]
                         },
                         {
@@ -41784,7 +41784,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000 \""
                             ]
                         },
                         {
@@ -41806,7 +41806,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 200\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 200\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 200\\n EXP Gain \" + $gameVariables.value(42) + \" + 200\""
                             ]
                         },
                         {
@@ -42078,7 +42078,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000 \\n 魔力 \"  + $gameVariables.value(1) + \"/20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000 \\n M. Power \"  + $gameVariables.value(1) + \"/20000\""
                             ]
                         },
                         {
@@ -42100,7 +42100,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 500\\n 応対業務 疲労度 消耗 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 500\\n EXP Gain \" + $gameVariables.value(42) + \" + 500\\n Service Fatique \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -42323,7 +42323,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000 \\n 魔力 \"  + $gameVariables.value(1) + \"/20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000 \\n M. Power \"  + $gameVariables.value(1) + \"/20000\""
                             ]
                         },
                         {
@@ -42345,7 +42345,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 500\\n 応対業務 疲労度 消耗 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 500\\n EXP Gain \" + $gameVariables.value(42) + \" + 500\\n Service Fatique \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -42572,7 +42572,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000 \\n 魔力 \"  + $gameVariables.value(1) + \"/20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000 \\n M. Power \"  + $gameVariables.value(1) + \"/20000\""
                             ]
                         },
                         {
@@ -42594,7 +42594,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 500\\n 応対業務 疲労度 消耗 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 500\\n EXP Gain \" + $gameVariables.value(42) + \" + 500\\n Service Fatique \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -42866,7 +42866,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000 \""
                             ]
                         },
                         {
@@ -42888,7 +42888,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 300\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 300\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 300\\n EXP Gain \" + $gameVariables.value(42) + \" + 300\""
                             ]
                         },
                         {
@@ -43084,7 +43084,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000 \""
                             ]
                         },
                         {
@@ -43106,7 +43106,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 300\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 300\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 300\\n EXP Gain \" + $gameVariables.value(42) + \" + 300\""
                             ]
                         },
                         {
@@ -43306,7 +43306,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000 \""
                             ]
                         },
                         {
@@ -43328,7 +43328,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 300\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 300\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 300\\n EXP Gain \" + $gameVariables.value(42) + \" + 300\""
                             ]
                         },
                         {
@@ -43600,7 +43600,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000 \\n 魔力 \"  + $gameVariables.value(1) + \"/80000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000 \\n M. Power \"  + $gameVariables.value(1) + \"/80000\""
                             ]
                         },
                         {
@@ -43622,7 +43622,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1200\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1200\\n 応対業務 疲労度 消耗 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 1200\\n EXP Gain \" + $gameVariables.value(42) + \" + 1200\\n Service Fatique \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -43845,7 +43845,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000 \\n 魔力 \"  + $gameVariables.value(1) + \"/80000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000 \\n M. Power \"  + $gameVariables.value(1) + \"/80000\""
                             ]
                         },
                         {
@@ -43867,7 +43867,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1200\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1200\\n 応対業務 疲労度 消耗 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 1200\\n EXP Gain \" + $gameVariables.value(42) + \" + 1200\\n Service Fatique \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -44094,7 +44094,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000 \\n 魔力 \"  + $gameVariables.value(1) + \"/80000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000 \\n M. Power \"  + $gameVariables.value(1) + \"/80000\""
                             ]
                         },
                         {
@@ -44116,7 +44116,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1200\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1200\\n 応対業務 疲労度 消耗 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 1200\\n EXP Gain \" + $gameVariables.value(42) + \" + 1200\\n Service Fatique \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -44682,7 +44682,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 7500 \\n 魔力 \"  + $gameVariables.value(1) + \"/4000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 7500 \\n M. Power \"  + $gameVariables.value(1) + \"/4000\""
                             ]
                         },
                         {
@@ -44918,7 +44918,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 7500 \\n 魔力 \"  + $gameVariables.value(1) + \"/4000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 7500 \\n M. Power \"  + $gameVariables.value(1) + \"/4000\""
                             ]
                         },
                         {
@@ -45162,7 +45162,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 7500 \\n 魔力 \"  + $gameVariables.value(1) + \"/4000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 7500 \\n M. Power \"  + $gameVariables.value(1) + \"/4000\""
                             ]
                         },
                         {
@@ -45456,7 +45456,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/2000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/2000\""
                             ]
                         },
                         {
@@ -45692,7 +45692,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/2000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/2000\""
                             ]
                         },
                         {
@@ -45936,7 +45936,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/2000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/2000\""
                             ]
                         },
                         {
@@ -46230,7 +46230,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/6000\""
                             ]
                         },
                         {
@@ -46466,7 +46466,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/6000\""
                             ]
                         },
                         {
@@ -46710,7 +46710,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/6000\""
                             ]
                         },
                         {
@@ -47004,7 +47004,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/8000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/8000\""
                             ]
                         },
                         {
@@ -47240,7 +47240,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/8000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/8000\""
                             ]
                         },
                         {
@@ -47484,7 +47484,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/8000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/8000\""
                             ]
                         },
                         {
@@ -51942,7 +51942,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \""
                             ]
                         },
                         {
@@ -51964,7 +51964,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -52147,7 +52147,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \""
                             ]
                         },
                         {
@@ -52169,7 +52169,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -52364,7 +52364,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \""
                             ]
                         },
                         {
@@ -52386,7 +52386,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -52658,7 +52658,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/6000\""
                             ]
                         },
                         {
@@ -52680,7 +52680,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1500\\n 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -52903,7 +52903,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/6000\""
                             ]
                         },
                         {
@@ -52925,7 +52925,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1500\\n 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -53147,7 +53147,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/6000\""
                             ]
                         },
                         {
@@ -53169,7 +53169,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1500\\n 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -53441,7 +53441,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -53463,7 +53463,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -53659,7 +53659,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -53681,7 +53681,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -53876,7 +53876,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -53898,7 +53898,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -54170,7 +54170,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000 \\n 魔力 \"  + $gameVariables.value(1) + \"/24000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000 \\n M. Power \"  + $gameVariables.value(1) + \"/24000\""
                             ]
                         },
                         {
@@ -54192,7 +54192,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 3500\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 5000\\n 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54415,7 +54415,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000 \\n 魔力 \"  + $gameVariables.value(1) + \"/24000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000 \\n M. Power \"  + $gameVariables.value(1) + \"/24000\""
                             ]
                         },
                         {
@@ -54437,7 +54437,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 3500\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 5000\\n 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54659,7 +54659,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000 \\n 魔力 \"  + $gameVariables.value(1) + \"/24000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000 \\n M. Power \"  + $gameVariables.value(1) + \"/24000\""
                             ]
                         },
                         {
@@ -54681,7 +54681,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 3500\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 5000\\n 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54953,7 +54953,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000\""
                             ]
                         },
                         {
@@ -54975,7 +54975,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -55158,7 +55158,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000\""
                             ]
                         },
                         {
@@ -55180,7 +55180,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -55375,7 +55375,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000\""
                             ]
                         },
                         {
@@ -55397,7 +55397,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -55669,7 +55669,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000 \\n 魔力 \"  + $gameVariables.value(1) + \"/100000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000 \\n M. Power \"  + $gameVariables.value(1) + \"/100000\""
                             ]
                         },
                         {
@@ -55691,7 +55691,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 7000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 8000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 7000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 8000\""
                             ]
                         },
                         {
@@ -55914,7 +55914,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000 \\n 魔力 \"  + $gameVariables.value(1) + \"/100000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000 \\n M. Power \"  + $gameVariables.value(1) + \"/100000\""
                             ]
                         },
                         {
@@ -55936,7 +55936,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 7000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 8000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 7000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 8000\""
                             ]
                         },
                         {
@@ -56158,7 +56158,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000 \\n 魔力 \"  + $gameVariables.value(1) + \"/100000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000 \\n M. Power \"  + $gameVariables.value(1) + \"/100000\""
                             ]
                         },
                         {
@@ -56180,7 +56180,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 7000\\n 現場業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 8000\""
+                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 7000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 8000\""
                             ]
                         },
                         {
@@ -56273,7 +56273,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 書類業務\""
+                                "\" Paperwork\""
                             ]
                         },
                         {
@@ -56317,7 +56317,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '書類業務' 解放\""
+                                "\" 'Paperwork' 解放\""
                             ]
                         },
                         {
@@ -57202,7 +57202,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 3000\""
                             ]
                         },
                         {
@@ -57224,7 +57224,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 300\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 300\""
                             ]
                         },
                         {
@@ -57407,7 +57407,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 3000\""
                             ]
                         },
                         {
@@ -57429,7 +57429,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 300\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 300\""
                             ]
                         },
                         {
@@ -57617,7 +57617,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 3000\""
                             ]
                         },
                         {
@@ -57639,7 +57639,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 300\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 300\""
                             ]
                         },
                         {
@@ -57911,7 +57911,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -57933,7 +57933,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -58116,7 +58116,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -58138,7 +58138,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -58326,7 +58326,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -58348,7 +58348,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -58620,7 +58620,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000\""
                             ]
                         },
                         {
@@ -58642,7 +58642,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -58825,7 +58825,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000\""
                             ]
                         },
                         {
@@ -58847,7 +58847,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -59035,7 +59035,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 40000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 40000\""
                             ]
                         },
                         {
@@ -59057,7 +59057,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -59329,7 +59329,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000\""
                             ]
                         },
                         {
@@ -59351,7 +59351,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -59534,7 +59534,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000\""
                             ]
                         },
                         {
@@ -59556,7 +59556,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -59744,7 +59744,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000\""
                             ]
                         },
                         {
@@ -59766,7 +59766,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -60038,7 +60038,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000\""
                             ]
                         },
                         {
@@ -60060,7 +60060,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 3500\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 3500\""
                             ]
                         },
                         {
@@ -60243,7 +60243,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000\""
                             ]
                         },
                         {
@@ -60265,7 +60265,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 3500\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 3500\""
                             ]
                         },
                         {
@@ -60453,7 +60453,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 100000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 100000\""
                             ]
                         },
                         {
@@ -60475,7 +60475,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 3500\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 3500\""
                             ]
                         },
                         {
@@ -60747,7 +60747,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 8000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 8000\""
                             ]
                         },
                         {
@@ -60769,7 +60769,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 700\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 700\""
                             ]
                         },
                         {
@@ -60952,7 +60952,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 8000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 8000\""
                             ]
                         },
                         {
@@ -60974,7 +60974,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 700\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 700\""
                             ]
                         },
                         {
@@ -61162,7 +61162,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 8000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 8000\""
                             ]
                         },
                         {
@@ -61184,7 +61184,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 700\""
+                                "\" Paperwork EXP Gain \" + $gameVariables.value(42) + \" + 700\""
                             ]
                         },
                         {
@@ -61750,7 +61750,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000\""
                             ]
                         },
                         {
@@ -61968,7 +61968,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000\""
                             ]
                         },
                         {
@@ -62185,7 +62185,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000\""
                             ]
                         },
                         {
@@ -62479,7 +62479,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/10000\""
                             ]
                         },
                         {
@@ -62724,7 +62724,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/10000\""
                             ]
                         },
                         {
@@ -62968,7 +62968,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/10000\""
                             ]
                         },
                         {
@@ -63262,7 +63262,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -63480,7 +63480,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -63697,7 +63697,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -63991,7 +63991,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000 \\n 魔力 \"  + $gameVariables.value(1) + \"/20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000 \\n M. Power \"  + $gameVariables.value(1) + \"/20000\""
                             ]
                         },
                         {
@@ -64236,7 +64236,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000 \\n 魔力 \"  + $gameVariables.value(1) + \"/20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000 \\n M. Power \"  + $gameVariables.value(1) + \"/20000\""
                             ]
                         },
                         {
@@ -64480,7 +64480,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000 \\n 魔力 \"  + $gameVariables.value(1) + \"/20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000 \\n M. Power \"  + $gameVariables.value(1) + \"/20000\""
                             ]
                         },
                         {
@@ -64774,7 +64774,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 1500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 1500\""
                             ]
                         },
                         {
@@ -64979,7 +64979,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 1500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 1500\""
                             ]
                         },
                         {
@@ -65189,7 +65189,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 1500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 1500\""
                             ]
                         },
                         {
@@ -65483,7 +65483,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 3000\""
                             ]
                         },
                         {
@@ -65688,7 +65688,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 3000\""
                             ]
                         },
                         {
@@ -65898,7 +65898,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 3000\""
                             ]
                         },
                         {
@@ -66192,7 +66192,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 6000\""
                             ]
                         },
                         {
@@ -66397,7 +66397,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 6000\""
                             ]
                         },
                         {
@@ -66607,7 +66607,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 6000\""
                             ]
                         },
                         {
@@ -66901,7 +66901,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 9000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 9000\""
                             ]
                         },
                         {
@@ -67106,7 +67106,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 9000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 9000\""
                             ]
                         },
                         {
@@ -67316,7 +67316,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 9000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 9000\""
                             ]
                         },
                         {
@@ -67610,7 +67610,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -67815,7 +67815,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -68025,7 +68025,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -68319,7 +68319,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -68524,7 +68524,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -68734,7 +68734,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -69028,7 +69028,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000\""
                             ]
                         },
                         {
@@ -69233,7 +69233,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000\""
                             ]
                         },
                         {
@@ -69443,7 +69443,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000\""
                             ]
                         },
                         {
@@ -69737,7 +69737,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 35000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 35000\""
                             ]
                         },
                         {
@@ -69942,7 +69942,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 35000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 35000\""
                             ]
                         },
                         {
@@ -70152,7 +70152,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 35000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 35000\""
                             ]
                         },
                         {
@@ -70446,7 +70446,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 1500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 1500\""
                             ]
                         },
                         {
@@ -70651,7 +70651,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 1500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 1500\""
                             ]
                         },
                         {
@@ -70861,7 +70861,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 1500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 1500\""
                             ]
                         },
                         {
@@ -71155,7 +71155,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 3000\""
                             ]
                         },
                         {
@@ -71360,7 +71360,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 3000\""
                             ]
                         },
                         {
@@ -71570,7 +71570,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 3000\""
                             ]
                         },
                         {
@@ -71864,7 +71864,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 6000\""
                             ]
                         },
                         {
@@ -72069,7 +72069,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 6000\""
                             ]
                         },
                         {
@@ -72279,7 +72279,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 6000\""
                             ]
                         },
                         {
@@ -72573,7 +72573,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 9000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 9000\""
                             ]
                         },
                         {
@@ -72791,7 +72791,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 9000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 9000\""
                             ]
                         },
                         {
@@ -73001,7 +73001,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 9000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 9000\""
                             ]
                         },
                         {
@@ -73295,7 +73295,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -73513,7 +73513,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -73723,7 +73723,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -74017,7 +74017,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -74235,7 +74235,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -74445,7 +74445,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -74739,7 +74739,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000\""
                             ]
                         },
                         {
@@ -74957,7 +74957,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000\""
                             ]
                         },
                         {
@@ -75167,7 +75167,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000\""
                             ]
                         },
                         {
@@ -75461,7 +75461,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 35000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 35000\""
                             ]
                         },
                         {
@@ -75679,7 +75679,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 35000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 35000\""
                             ]
                         },
                         {
@@ -75889,7 +75889,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 35000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 35000\""
                             ]
                         },
                         {
@@ -83230,7 +83230,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/3000\""
                             ]
                         },
                         {
@@ -83466,7 +83466,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/3000\""
                             ]
                         },
                         {
@@ -83710,7 +83710,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/3000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/3000\""
                             ]
                         },
                         {
@@ -84004,7 +84004,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 7500 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 7500 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -84240,7 +84240,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 7500 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 7500 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -84484,7 +84484,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 7500 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 7500 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -84778,7 +84778,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/7500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/7500\""
                             ]
                         },
                         {
@@ -85014,7 +85014,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/7500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/7500\""
                             ]
                         },
                         {
@@ -85258,7 +85258,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/7500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/7500\""
                             ]
                         },
                         {
@@ -85552,7 +85552,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/12500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/12500\""
                             ]
                         },
                         {
@@ -85788,7 +85788,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/12500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/12500\""
                             ]
                         },
                         {
@@ -86032,7 +86032,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/12500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/12500\""
                             ]
                         },
                         {
@@ -86326,7 +86326,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000 \\n 魔力 \"  + $gameVariables.value(1) + \"/15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000 \\n M. Power \"  + $gameVariables.value(1) + \"/15000\""
                             ]
                         },
                         {
@@ -86562,7 +86562,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000 \\n 魔力 \"  + $gameVariables.value(1) + \"/15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000 \\n M. Power \"  + $gameVariables.value(1) + \"/15000\""
                             ]
                         },
                         {
@@ -86806,7 +86806,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 20000 \\n 魔力 \"  + $gameVariables.value(1) + \"/15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 20000 \\n M. Power \"  + $gameVariables.value(1) + \"/15000\""
                             ]
                         },
                         {
@@ -87852,7 +87852,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \""
                             ]
                         },
                         {
@@ -88057,7 +88057,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \""
                             ]
                         },
                         {
@@ -88274,7 +88274,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \""
                             ]
                         },
                         {
@@ -88568,7 +88568,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 7500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 7500\""
                             ]
                         },
                         {
@@ -88773,7 +88773,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 7500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 7500\""
                             ]
                         },
                         {
@@ -88983,7 +88983,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 7500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 7500\""
                             ]
                         },
                         {
@@ -89277,7 +89277,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000\""
                             ]
                         },
                         {
@@ -89482,7 +89482,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000\""
                             ]
                         },
                         {
@@ -89692,7 +89692,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000\""
                             ]
                         },
                         {
@@ -89986,7 +89986,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/2000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/2000\""
                             ]
                         },
                         {
@@ -90222,7 +90222,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/2000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/2000\""
                             ]
                         },
                         {
@@ -90466,7 +90466,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/2000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/2000\""
                             ]
                         },
                         {
@@ -90760,7 +90760,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/4000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/4000\""
                             ]
                         },
                         {
@@ -90996,7 +90996,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/4000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/4000\""
                             ]
                         },
                         {
@@ -91240,7 +91240,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/4000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/4000\""
                             ]
                         },
                         {
@@ -91534,7 +91534,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/6000\""
                             ]
                         },
                         {
@@ -91770,7 +91770,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/6000\""
                             ]
                         },
                         {
@@ -92014,7 +92014,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000 \\n 魔力 \"  + $gameVariables.value(1) + \"/6000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000 \\n M. Power \"  + $gameVariables.value(1) + \"/6000\""
                             ]
                         },
                         {
@@ -92308,7 +92308,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -92544,7 +92544,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -92788,7 +92788,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -93082,7 +93082,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/10000\""
                             ]
                         },
                         {
@@ -93318,7 +93318,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/10000\""
                             ]
                         },
                         {
@@ -93562,7 +93562,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/10000\""
                             ]
                         },
                         {
@@ -93856,7 +93856,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 30000 \\n 魔力 \"  + $gameVariables.value(1) + \"/30000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 30000 \\n M. Power \"  + $gameVariables.value(1) + \"/30000\""
                             ]
                         },
                         {
@@ -94092,7 +94092,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 30000 \\n 魔力 \"  + $gameVariables.value(1) + \"/30000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 30000 \\n M. Power \"  + $gameVariables.value(1) + \"/30000\""
                             ]
                         },
                         {
@@ -94336,7 +94336,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 30000 \\n 魔力 \"  + $gameVariables.value(1) + \"/30000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 30000 \\n M. Power \"  + $gameVariables.value(1) + \"/30000\""
                             ]
                         },
                         {
@@ -94630,7 +94630,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000 \\n 魔力 \"  + $gameVariables.value(1) + \"/60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000 \\n M. Power \"  + $gameVariables.value(1) + \"/60000\""
                             ]
                         },
                         {
@@ -94866,7 +94866,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000 \\n 魔力 \"  + $gameVariables.value(1) + \"/60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000 \\n M. Power \"  + $gameVariables.value(1) + \"/60000\""
                             ]
                         },
                         {
@@ -95110,7 +95110,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 60000 \\n 魔力 \"  + $gameVariables.value(1) + \"/60000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 60000 \\n M. Power \"  + $gameVariables.value(1) + \"/60000\""
                             ]
                         },
                         {
@@ -95404,7 +95404,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -95609,7 +95609,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -95819,7 +95819,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 15000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -96113,7 +96113,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000 \\n 魔力 \"  + $gameVariables.value(1) + \"/10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000 \\n M. Power \"  + $gameVariables.value(1) + \"/10000\""
                             ]
                         },
                         {
@@ -96349,7 +96349,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000 \\n 魔力 \"  + $gameVariables.value(1) + \"/10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000 \\n M. Power \"  + $gameVariables.value(1) + \"/10000\""
                             ]
                         },
                         {
@@ -96593,7 +96593,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000 \\n 魔力 \"  + $gameVariables.value(1) + \"/10000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000 \\n M. Power \"  + $gameVariables.value(1) + \"/10000\""
                             ]
                         },
                         {
@@ -96887,7 +96887,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 50000 \\n 魔力 \"  + $gameVariables.value(1) + \"/30000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 50000 \\n M. Power \"  + $gameVariables.value(1) + \"/30000\""
                             ]
                         },
                         {
@@ -97123,7 +97123,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 50000 \\n 魔力 \"  + $gameVariables.value(1) + \"/30000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 50000 \\n M. Power \"  + $gameVariables.value(1) + \"/30000\""
                             ]
                         },
                         {
@@ -97367,7 +97367,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 50000 \\n 魔力 \"  + $gameVariables.value(1) + \"/30000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 50000 \\n M. Power \"  + $gameVariables.value(1) + \"/30000\""
                             ]
                         },
                         {
@@ -97683,7 +97683,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -97901,7 +97901,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98111,7 +98111,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98405,7 +98405,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98623,7 +98623,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98833,7 +98833,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -99127,7 +99127,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99345,7 +99345,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99555,7 +99555,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99849,7 +99849,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -100067,7 +100067,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -100277,7 +100277,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -100549,7 +100549,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/2500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/2500\""
                             ]
                         },
                         {
@@ -100571,7 +100571,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 500\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 500\\n EXP Gain \" + $gameVariables.value(42) + \" + 500\""
                             ]
                         },
                         {
@@ -100785,7 +100785,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/2500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/2500\""
                             ]
                         },
                         {
@@ -100807,7 +100807,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 500\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 500\\n EXP Gain \" + $gameVariables.value(42) + \" + 500\""
                             ]
                         },
                         {
@@ -101034,7 +101034,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 5000 \\n 魔力 \"  + $gameVariables.value(1) + \"/2500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 5000 \\n M. Power \"  + $gameVariables.value(1) + \"/2500\""
                             ]
                         },
                         {
@@ -101056,7 +101056,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 500\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 500\\n EXP Gain \" + $gameVariables.value(42) + \" + 500\""
                             ]
                         },
                         {
@@ -101328,7 +101328,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -101350,7 +101350,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 500\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 500\\n EXP Gain \" + $gameVariables.value(42) + \" + 500\""
                             ]
                         },
                         {
@@ -101564,7 +101564,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -101586,7 +101586,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 500\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 500\\n EXP Gain \" + $gameVariables.value(42) + \" + 500\""
                             ]
                         },
                         {
@@ -101813,7 +101813,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 10000 \\n 魔力 \"  + $gameVariables.value(1) + \"/5000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 10000 \\n M. Power \"  + $gameVariables.value(1) + \"/5000\""
                             ]
                         },
                         {
@@ -101835,7 +101835,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 500\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 500\\n EXP Gain \" + $gameVariables.value(42) + \" + 500\""
                             ]
                         },
                         {
@@ -102107,7 +102107,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000 \\n 魔力 \"  + $gameVariables.value(1) + \"/12500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000 \\n M. Power \"  + $gameVariables.value(1) + \"/12500\""
                             ]
                         },
                         {
@@ -102129,7 +102129,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 1000\\n EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -102343,7 +102343,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000 \\n 魔力 \"  + $gameVariables.value(1) + \"/12500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000 \\n M. Power \"  + $gameVariables.value(1) + \"/12500\""
                             ]
                         },
                         {
@@ -102365,7 +102365,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 1000\\n EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -102592,7 +102592,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 25000 \\n 魔力 \"  + $gameVariables.value(1) + \"/12500\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 25000 \\n M. Power \"  + $gameVariables.value(1) + \"/12500\""
                             ]
                         },
                         {
@@ -102614,7 +102614,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 1000\\n EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -102886,7 +102886,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 50000 \\n 魔力 \"  + $gameVariables.value(1) + \"/25000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 50000 \\n M. Power \"  + $gameVariables.value(1) + \"/25000\""
                             ]
                         },
                         {
@@ -102908,7 +102908,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 2000\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 2000\\n EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -103122,7 +103122,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 50000 \\n 魔力 \"  + $gameVariables.value(1) + \"/25000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 50000 \\n M. Power \"  + $gameVariables.value(1) + \"/25000\""
                             ]
                         },
                         {
@@ -103144,7 +103144,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 2000\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 2000\\n EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -103371,7 +103371,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 経験指数 \" + $gameVariables.value(2) + \" / 50000 \\n 魔力 \"  + $gameVariables.value(1) + \"/25000\""
+                                "\" EXP \" + $gameVariables.value(2) + \" / 50000 \\n M. Power \"  + $gameVariables.value(1) + \"/25000\""
                             ]
                         },
                         {
@@ -103393,7 +103393,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 応対業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 2000\\n 応対業務 経験指数 獲得量 \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Response Mana Gain \" + $gameVariables.value(41) + \" + 2000\\n EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
