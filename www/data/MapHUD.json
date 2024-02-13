@@ -547,7 +547,7 @@
     },
     {
         "type": "Text",
-        "Value": " ${$gameVariables.value(49) - $gameVariables.value(52)} 週",
+        "Value": " ${$gameVariables.value(49) - $gameVariables.value(52)} Week",
         "Condition": "$gameSwitches.value(101)",
         "Layer": "3",
         "Font": "GameFont",
@@ -2310,7 +2310,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(131)} 回 ",
+        "Value": "${$gameVariables.value(131)} x ",
         "Condition": "$gameSwitches.value(94)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -2353,7 +2353,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(132)} 回 ",
+        "Value": "${$gameVariables.value(132)} x ",
         "Condition": "$gameSwitches.value(94)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -2396,7 +2396,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(133)} 回 ",
+        "Value": "${$gameVariables.value(133)} x ",
         "Condition": "$gameSwitches.value(94)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -2439,7 +2439,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(134)} 回 ",
+        "Value": "${$gameVariables.value(134)} x ",
         "Condition": "$gameSwitches.value(94)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -2482,7 +2482,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(135)} 回 ",
+        "Value": "${$gameVariables.value(135)} x ",
         "Condition": "$gameSwitches.value(94)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -2525,7 +2525,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(136)} 回 ",
+        "Value": "${$gameVariables.value(136)} x ",
         "Condition": "$gameSwitches.value(94)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -2568,7 +2568,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(137)} 回 ",
+        "Value": "${$gameVariables.value(137)} x ",
         "Condition": "$gameSwitches.value(94)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -3084,7 +3084,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(101)} 回 ",
+        "Value": "${$gameVariables.value(101)} x ",
         "Condition": "$gameSwitches.value(95)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -3127,7 +3127,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(102)} 回 ",
+        "Value": "${$gameVariables.value(102)} x ",
         "Condition": "$gameSwitches.value(95)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold ",
@@ -3170,7 +3170,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(103)} 回 ",
+        "Value": "${$gameVariables.value(103)} x ",
         "Condition": "$gameSwitches.value(95)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -3213,7 +3213,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(104)} 回 ",
+        "Value": "${$gameVariables.value(104)} x ",
         "Condition": "$gameSwitches.value(95)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -3256,7 +3256,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(105)} 回 ",
+        "Value": "${$gameVariables.value(105)} x ",
         "Condition": "$gameSwitches.value(95)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -3299,7 +3299,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(106)} 回 ",
+        "Value": "${$gameVariables.value(106)} x ",
         "Condition": "$gameSwitches.value(95)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -3342,7 +3342,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(109)} 回 ",
+        "Value": "${$gameVariables.value(109)} x ",
         "Condition": "$gameSwitches.value(95)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -3385,7 +3385,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(110)} 回 ",
+        "Value": "${$gameVariables.value(110)} x ",
         "Condition": "$gameSwitches.value(95)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -3428,7 +3428,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(111)} 回 ",
+        "Value": "${$gameVariables.value(111)} x ",
         "Condition": "$gameSwitches.value(95)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",
@@ -3471,7 +3471,7 @@
     },
     {
         "type": "Text",
-        "Value": "${$gameVariables.value(112)} 回 ",
+        "Value": "${$gameVariables.value(112)} x ",
         "Condition": "$gameSwitches.value(95)",
         "Layer": "0",
         "Font": "NotoSansKR-Bold",

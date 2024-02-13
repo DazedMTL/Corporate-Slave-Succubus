@@ -34230,7 +34230,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 宣伝業務\""
+                                "\" Advertising\""
                             ]
                         },
                         {
@@ -34252,7 +34252,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" なし\""
+                                "\" None\""
                             ]
                         },
                         {
@@ -34274,7 +34274,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '宣伝業務'解放\""
+                                "\" 'Advertising'Release\""
                             ]
                         },
                         {
@@ -34285,7 +34285,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" 魔力獲得量 500\\n 疲労度消耗 15\""
+                                "\" Magic Gain 500\\n Fatique Gain 15\""
                             ]
                         },
                         {
@@ -35158,7 +35158,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n 宣伝業務疲労度 \" + $gameVariables.value(43) + \" - 5 \""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n Advertising疲労度 \" + $gameVariables.value(43) + \" - 5 \""
                             ]
                         },
                         {
@@ -35412,7 +35412,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n 宣伝業務疲労度 \" + $gameVariables.value(43) + \" - 5 \""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n Advertising疲労度 \" + $gameVariables.value(43) + \" - 5 \""
                             ]
                         },
                         {
@@ -35656,7 +35656,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n 宣伝業務疲労度 \" + $gameVariables.value(43) + \" - 5 \""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 700\\n Advertising疲労度 \" + $gameVariables.value(43) + \" - 5 \""
                             ]
                         },
                         {
@@ -39357,7 +39357,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 応対業務\""
+                                "\" Reception\""
                             ]
                         },
                         {
@@ -39401,7 +39401,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '応対業務'解放\""
+                                "\" 'Reponse' Release\""
                             ]
                         },
                         {
@@ -39514,7 +39514,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 応対業務\""
+                                "\" Reception\""
                             ]
                         },
                         {
@@ -39558,7 +39558,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '応対業務' 解放\""
+                                "\" '応対業務' Release\""
                             ]
                         },
                         {
@@ -44253,7 +44253,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '自己啓発' 業務 解放\""
+                                "\" '自己啓発' 業務 Release\""
                             ]
                         },
                         {
@@ -44410,7 +44410,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '自己啓発' 業務 解放\""
+                                "\" '自己啓発' 業務 Release\""
                             ]
                         },
                         {
@@ -47778,7 +47778,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 3000 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 5000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 3000 \\n EXP \"+ $gameVariables.value(2) + \" / 5000\""
                             ]
                         },
                         {
@@ -47800,7 +47800,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 10% 増加\""
+                                "\" Self Improvement \\n 10% Gain\""
                             ]
                         },
                         {
@@ -48014,7 +48014,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 3000 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 5000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 3000 \\n EXP \"+ $gameVariables.value(2) + \" / 5000\""
                             ]
                         },
                         {
@@ -48036,7 +48036,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 10% 増加\""
+                                "\" Self Improvement \\n 10% Gain\""
                             ]
                         },
                         {
@@ -48258,7 +48258,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 3000 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 5000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 3000 \\n EXP \"+ $gameVariables.value(2) + \" / 5000\""
                             ]
                         },
                         {
@@ -48280,7 +48280,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 10% 増加\""
+                                "\" Self Improvement \\n 10% Gain\""
                             ]
                         },
                         {
@@ -48552,7 +48552,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 5000 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 7500\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 5000 \\n EXP \"+ $gameVariables.value(2) + \" / 7500\""
                             ]
                         },
                         {
@@ -48574,7 +48574,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 20% 増加\""
+                                "\" Self Improvement \\n 20% Gain\""
                             ]
                         },
                         {
@@ -48788,7 +48788,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 5000 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 7500\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 5000 \\n EXP \"+ $gameVariables.value(2) + \" / 7500\""
                             ]
                         },
                         {
@@ -48810,7 +48810,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 20% 増加\""
+                                "\" Self Improvement \\n 20% Gain\""
                             ]
                         },
                         {
@@ -49032,7 +49032,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 5000 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 7500\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 5000 \\n EXP \"+ $gameVariables.value(2) + \" / 7500\""
                             ]
                         },
                         {
@@ -49054,7 +49054,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 20% 増加\""
+                                "\" Self Improvement \\n 20% Gain\""
                             ]
                         },
                         {
@@ -49326,7 +49326,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 7500 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 7500 \\n EXP \"+ $gameVariables.value(2) + \" / 10000\""
                             ]
                         },
                         {
@@ -49348,7 +49348,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 30% 増加\""
+                                "\" Self Improvement \\n 30% Gain\""
                             ]
                         },
                         {
@@ -49562,7 +49562,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 7500 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 7500 \\n EXP \"+ $gameVariables.value(2) + \" / 10000\""
                             ]
                         },
                         {
@@ -49584,7 +49584,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 30% 増加\""
+                                "\" Self Improvement \\n 30% Gain\""
                             ]
                         },
                         {
@@ -49806,7 +49806,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 7500 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 7500 \\n EXP \"+ $gameVariables.value(2) + \" / 10000\""
                             ]
                         },
                         {
@@ -49828,7 +49828,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 30% 増加\""
+                                "\" Self Improvement \\n 30% Gain\""
                             ]
                         },
                         {
@@ -50100,7 +50100,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 12500 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 15000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 12500 \\n EXP \"+ $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -50122,7 +50122,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 40% 増加\""
+                                "\" Self Improvement \\n 40% Gain\""
                             ]
                         },
                         {
@@ -50336,7 +50336,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 12500 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 15000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 12500 \\n EXP \"+ $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -50358,7 +50358,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 40% 増加\""
+                                "\" Self Improvement \\n 40% Gain\""
                             ]
                         },
                         {
@@ -50580,7 +50580,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 12500 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 15000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 12500 \\n EXP \"+ $gameVariables.value(2) + \" / 15000\""
                             ]
                         },
                         {
@@ -50602,7 +50602,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 40% 増加\""
+                                "\" Self Improvement \\n 40% Gain\""
                             ]
                         },
                         {
@@ -50874,7 +50874,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 15000 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 15000 \\n EXP \"+ $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -50896,7 +50896,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 50% 増加\""
+                                "\" Self Improvement \\n 50% Gain\""
                             ]
                         },
                         {
@@ -51110,7 +51110,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 15000 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 15000 \\n EXP \"+ $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -51132,7 +51132,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 50% 増加\""
+                                "\" Self Improvement \\n 50% Gain\""
                             ]
                         },
                         {
@@ -51354,7 +51354,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 15000 \\n 経験指数 \"+ $gameVariables.value(2) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 15000 \\n EXP \"+ $gameVariables.value(2) + \" / 20000\""
                             ]
                         },
                         {
@@ -51376,7 +51376,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発 翌日の資源 獲得量\\n 50% 増加\""
+                                "\" Self Improvement \\n 50% Gain\""
                             ]
                         },
                         {
@@ -51469,7 +51469,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 現場業務\""
+                                "\" Field\""
                             ]
                         },
                         {
@@ -51513,7 +51513,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '現場業務' 解放\""
+                                "\" 'Field' Release\""
                             ]
                         },
                         {
@@ -51626,7 +51626,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 現場業務\""
+                                "\" Field\""
                             ]
                         },
                         {
@@ -51670,7 +51670,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '現場業務' 解放\""
+                                "\" 'Field' Release\""
                             ]
                         },
                         {
@@ -51964,7 +51964,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -52169,7 +52169,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -52386,7 +52386,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -52680,7 +52680,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -52925,7 +52925,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -53169,7 +53169,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -53419,7 +53419,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 顧客管理\""
+                                "\" Clients\""
                             ]
                         },
                         {
@@ -53463,7 +53463,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -53637,7 +53637,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 顧客管理\""
+                                "\" Clients\""
                             ]
                         },
                         {
@@ -53681,7 +53681,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -53854,7 +53854,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 顧客管理\""
+                                "\" Clients\""
                             ]
                         },
                         {
@@ -53898,7 +53898,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1000\""
                             ]
                         },
                         {
@@ -54192,7 +54192,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54437,7 +54437,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54681,7 +54681,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field 疲労度 消耗量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Gain量 \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54975,7 +54975,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -55180,7 +55180,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -55397,7 +55397,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 2000\""
                             ]
                         },
                         {
@@ -55691,7 +55691,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 7000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 8000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 7000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 8000\""
                             ]
                         },
                         {
@@ -55936,7 +55936,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 7000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 8000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 7000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 8000\""
                             ]
                         },
                         {
@@ -56180,7 +56180,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 7000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 8000\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 7000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 8000\""
                             ]
                         },
                         {
@@ -56295,7 +56295,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" なし\""
+                                "\" None\""
                             ]
                         },
                         {
@@ -56317,7 +56317,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 'Paperwork' 解放\""
+                                "\" 'Paperwork' Release\""
                             ]
                         },
                         {
@@ -56328,7 +56328,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" 経験指数 獲得 500\\n 疲労度 消耗 10\""
+                                "\" EXP Gain 500\\n Fatique Gain 10\""
                             ]
                         },
                         {
@@ -61478,7 +61478,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 10% 増加\""
+                                "\" Resources (Current) 10% Gain\""
                             ]
                         },
                         {
@@ -61772,7 +61772,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 20% 増加\""
+                                "\" Resources (Current) 20% Gain\""
                             ]
                         },
                         {
@@ -61990,7 +61990,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 20% 増加\""
+                                "\" Resources (Current) 20% Gain\""
                             ]
                         },
                         {
@@ -62207,7 +62207,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 20% 増加\""
+                                "\" Resources (Current) 20% Gain\""
                             ]
                         },
                         {
@@ -62501,7 +62501,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 50% 増加\""
+                                "\" Resources (Current) 50% Gain\""
                             ]
                         },
                         {
@@ -62746,7 +62746,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 50% 増加\""
+                                "\" Resources (Current) 50% Gain\""
                             ]
                         },
                         {
@@ -62990,7 +62990,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 50% 増加\""
+                                "\" Resources (Current) 50% Gain\""
                             ]
                         },
                         {
@@ -63284,7 +63284,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 60% 増加\""
+                                "\" Resources (Current) 60% Gain\""
                             ]
                         },
                         {
@@ -63502,7 +63502,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 60% 増加\""
+                                "\" Resources (Current) 60% Gain\""
                             ]
                         },
                         {
@@ -63719,7 +63719,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 60% 増加\""
+                                "\" Resources (Current) 60% Gain\""
                             ]
                         },
                         {
@@ -64013,7 +64013,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 100% 増加\""
+                                "\" Resources (Current) 100% Gain\""
                             ]
                         },
                         {
@@ -64258,7 +64258,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 100% 増加\""
+                                "\" Resources (Current) 100% Gain\""
                             ]
                         },
                         {
@@ -64502,7 +64502,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 今週の資源 獲得量 100% 増加\""
+                                "\" Resources (Current) 100% Gain\""
                             ]
                         },
                         {
@@ -76183,7 +76183,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -76205,7 +76205,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 2倍 増加\""
+                                "\" すべての業務の大成功確率 2倍 Gain\""
                             ]
                         },
                         {
@@ -76388,7 +76388,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -76410,7 +76410,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 2倍 増加\""
+                                "\" すべての業務の大成功確率 2倍 Gain\""
                             ]
                         },
                         {
@@ -76598,7 +76598,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -76620,7 +76620,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 2倍 増加\""
+                                "\" すべての業務の大成功確率 2倍 Gain\""
                             ]
                         },
                         {
@@ -76892,7 +76892,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 25000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 25000\""
                             ]
                         },
                         {
@@ -76914,7 +76914,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 4倍 増加\""
+                                "\" すべての業務の大成功確率 4倍 Gain\""
                             ]
                         },
                         {
@@ -77097,7 +77097,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 25000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 25000\""
                             ]
                         },
                         {
@@ -77119,7 +77119,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 4倍 増加\""
+                                "\" すべての業務の大成功確率 4倍 Gain\""
                             ]
                         },
                         {
@@ -77307,7 +77307,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 25000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 25000\""
                             ]
                         },
                         {
@@ -77329,7 +77329,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 4倍 増加\""
+                                "\" すべての業務の大成功確率 4倍 Gain\""
                             ]
                         },
                         {
@@ -77601,7 +77601,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 40000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 40000\""
                             ]
                         },
                         {
@@ -77623,7 +77623,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 6倍 増加\""
+                                "\" すべての業務の大成功確率 6倍 Gain\""
                             ]
                         },
                         {
@@ -77806,7 +77806,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 40000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 40000\""
                             ]
                         },
                         {
@@ -77828,7 +77828,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 6倍 増加\""
+                                "\" すべての業務の大成功確率 6倍 Gain\""
                             ]
                         },
                         {
@@ -78016,7 +78016,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 40000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 40000\""
                             ]
                         },
                         {
@@ -78038,7 +78038,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 6倍 増加\""
+                                "\" すべての業務の大成功確率 6倍 Gain\""
                             ]
                         },
                         {
@@ -78310,7 +78310,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 60000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 60000\""
                             ]
                         },
                         {
@@ -78332,7 +78332,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 10倍 増加\""
+                                "\" すべての業務の大成功確率 10倍 Gain\""
                             ]
                         },
                         {
@@ -78515,7 +78515,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 60000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 60000\""
                             ]
                         },
                         {
@@ -78537,7 +78537,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 10倍 増加\""
+                                "\" すべての業務の大成功確率 10倍 Gain\""
                             ]
                         },
                         {
@@ -78725,7 +78725,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 60000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 60000\""
                             ]
                         },
                         {
@@ -78747,7 +78747,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 10倍 増加\""
+                                "\" すべての業務の大成功確率 10倍 Gain\""
                             ]
                         },
                         {
@@ -78891,7 +78891,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 5000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 5000\""
                             ]
                         },
                         {
@@ -79109,7 +79109,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 5000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 5000\""
                             ]
                         },
                         {
@@ -79326,7 +79326,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 5000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 5000\""
                             ]
                         },
                         {
@@ -79620,7 +79620,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 7500\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 7500\""
                             ]
                         },
                         {
@@ -79838,7 +79838,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 7500\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 7500\""
                             ]
                         },
                         {
@@ -80048,7 +80048,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 7500\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 7500\""
                             ]
                         },
                         {
@@ -80342,7 +80342,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 12500\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 12500\""
                             ]
                         },
                         {
@@ -80560,7 +80560,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 12500\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 12500\""
                             ]
                         },
                         {
@@ -80770,7 +80770,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 12500\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 12500\""
                             ]
                         },
                         {
@@ -81064,7 +81064,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -81282,7 +81282,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -81492,7 +81492,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -81786,7 +81786,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 40000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 40000\""
                             ]
                         },
                         {
@@ -82004,7 +82004,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 40000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 40000\""
                             ]
                         },
                         {
@@ -82214,7 +82214,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 40000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 40000\""
                             ]
                         },
                         {
@@ -82508,7 +82508,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 70000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 70000\""
                             ]
                         },
                         {
@@ -82726,7 +82726,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 70000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 70000\""
                             ]
                         },
                         {
@@ -82936,7 +82936,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 70000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 70000\""
                             ]
                         },
                         {
@@ -93060,7 +93060,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 図々しさ増加\""
+                                "\" 図々しさ Gain\""
                             ]
                         },
                         {
@@ -93296,7 +93296,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 図々しさ増加\""
+                                "\" 図々しさ Gain\""
                             ]
                         },
                         {
@@ -93540,7 +93540,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 図々しさ増加\""
+                                "\" 図々しさ Gain\""
                             ]
                         },
                         {
@@ -97661,7 +97661,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -97683,7 +97683,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -97879,7 +97879,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -97901,7 +97901,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98089,7 +98089,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -98111,7 +98111,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98383,7 +98383,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 50000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 50000\""
                             ]
                         },
                         {
@@ -98405,7 +98405,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98601,7 +98601,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 50000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 50000\""
                             ]
                         },
                         {
@@ -98623,7 +98623,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98811,7 +98811,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 50000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 50000\""
                             ]
                         },
                         {
@@ -98833,7 +98833,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -99105,7 +99105,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 100000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 100000\""
                             ]
                         },
                         {
@@ -99127,7 +99127,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99323,7 +99323,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 100000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 100000\""
                             ]
                         },
                         {
@@ -99345,7 +99345,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99533,7 +99533,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 100000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 100000\""
                             ]
                         },
                         {
@@ -99555,7 +99555,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99827,7 +99827,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -99849,7 +99849,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -100045,7 +100045,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -100067,7 +100067,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -100255,7 +100255,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -100277,7 +100277,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -102085,7 +102085,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" フェロモン解放\""
+                                "\" フェロモンRelease\""
                             ]
                         },
                         {
@@ -102321,7 +102321,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" フェロモン解放\""
+                                "\" フェロモンRelease\""
                             ]
                         },
                         {
@@ -102570,7 +102570,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" フェロモン解放\""
+                                "\" フェロモンRelease\""
                             ]
                         },
                         {
@@ -103665,7 +103665,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -103687,7 +103687,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -103883,7 +103883,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -103905,7 +103905,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104100,7 +104100,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -104122,7 +104122,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104394,7 +104394,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -104416,7 +104416,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104612,7 +104612,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -104634,7 +104634,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104829,7 +104829,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -104851,7 +104851,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105123,7 +105123,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 50000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 50000\""
                             ]
                         },
                         {
@@ -105145,7 +105145,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105341,7 +105341,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 50000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 50000\""
                             ]
                         },
                         {
@@ -105363,7 +105363,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105558,7 +105558,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 50000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 50000\""
                             ]
                         },
                         {
@@ -105580,7 +105580,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105852,7 +105852,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 100000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 100000\""
                             ]
                         },
                         {
@@ -105874,7 +105874,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -106070,7 +106070,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 100000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 100000\""
                             ]
                         },
                         {
@@ -106092,7 +106092,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -106287,7 +106287,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 100000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 100000\""
                             ]
                         },
                         {
@@ -106309,7 +106309,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 現場業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Gain量 \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -106581,7 +106581,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 85000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 85000\""
                             ]
                         },
                         {
@@ -106603,7 +106603,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 20倍 増加\""
+                                "\" すべての業務の大成功確率 20倍 Gain\""
                             ]
                         },
                         {
@@ -106786,7 +106786,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 85000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 85000\""
                             ]
                         },
                         {
@@ -106808,7 +106808,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 20倍 増加\""
+                                "\" すべての業務の大成功確率 20倍 Gain\""
                             ]
                         },
                         {
@@ -106996,7 +106996,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 85000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 85000\""
                             ]
                         },
                         {
@@ -107018,7 +107018,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 20倍 増加\""
+                                "\" すべての業務の大成功確率 20倍 Gain\""
                             ]
                         },
                         {
@@ -107290,7 +107290,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -107312,7 +107312,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -107495,7 +107495,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -107517,7 +107517,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -107705,7 +107705,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -107727,7 +107727,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -107999,7 +107999,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -108021,7 +108021,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108204,7 +108204,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -108226,7 +108226,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108414,7 +108414,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -108436,7 +108436,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108708,7 +108708,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 50000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 50000\""
                             ]
                         },
                         {
@@ -108730,7 +108730,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108913,7 +108913,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 50000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 50000\""
                             ]
                         },
                         {
@@ -108935,7 +108935,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -109123,7 +109123,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 50000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 50000\""
                             ]
                         },
                         {
@@ -109145,7 +109145,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -109417,7 +109417,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 100000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 100000\""
                             ]
                         },
                         {
@@ -109439,7 +109439,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -109622,7 +109622,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 100000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 100000\""
                             ]
                         },
                         {
@@ -109644,7 +109644,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -109832,7 +109832,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 100000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 100000\""
                             ]
                         },
                         {
@@ -109854,7 +109854,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {

@@ -7435,7 +7435,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 宣伝業務\""
+                                "\" Advertising\""
                             ]
                         },
                         {
@@ -7457,7 +7457,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" なし\""
+                                "\" None\""
                             ]
                         },
                         {
@@ -7479,7 +7479,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '宣伝業務'開放\""
+                                "\" 'Advertising' Release\""
                             ]
                         },
                         {
@@ -7490,7 +7490,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" 魔力 獲得量 500\\n 疲労度 消耗 10\""
+                                "\" Magic Gain 500\\n Fatique Gain 10\""
                             ]
                         },
                         {
@@ -7611,7 +7611,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 宣伝業務\""
+                                "\" Advertising\""
                             ]
                         },
                         {
@@ -7633,7 +7633,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" なし\""
+                                "\" None\""
                             ]
                         },
                         {
@@ -7655,7 +7655,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '宣伝業務'開放\""
+                                "\" 'Advertising' Release\""
                             ]
                         },
                         {
@@ -7666,7 +7666,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" 魔力 獲得量 500\\n 疲労度 消耗 10\""
+                                "\" Magic Gain 500\\n Fatique Gain 10\""
                             ]
                         },
                         {
@@ -7736,7 +7736,7 @@
                                 321,
                                 0,
                                 4,
-                                "\" 宣伝業務\""
+                                "\" Advertising\""
                             ]
                         },
                         {
@@ -7758,7 +7758,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" なし\""
+                                "\" None\""
                             ]
                         },
                         {
@@ -7780,7 +7780,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" '宣伝業務'開放\""
+                                "\" 'Advertising' Release\""
                             ]
                         },
                         {
@@ -7791,7 +7791,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" 魔力 獲得量 500\\n 疲労度 消耗 10\""
+                                "\" Magic Gain 500\\n Fatique Gain 10\""
                             ]
                         },
                         {
@@ -8052,7 +8052,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 5000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 5000\""
                             ]
                         },
                         {
@@ -8074,7 +8074,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 500\""
                             ]
                         },
                         {
@@ -8266,7 +8266,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 5000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 5000\""
                             ]
                         },
                         {
@@ -8288,7 +8288,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 500\""
                             ]
                         },
                         {
@@ -8476,7 +8476,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 5000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 5000\""
                             ]
                         },
                         {
@@ -8498,7 +8498,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 500\""
                             ]
                         },
                         {
@@ -8770,7 +8770,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -8792,7 +8792,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 500\""
                             ]
                         },
                         {
@@ -8993,7 +8993,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -9015,7 +9015,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 500\""
                             ]
                         },
                         {
@@ -9203,7 +9203,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -9225,7 +9225,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 500\""
                             ]
                         },
                         {
@@ -9497,7 +9497,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -9519,7 +9519,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 500\""
                             ]
                         },
                         {
@@ -9702,7 +9702,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -9724,7 +9724,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 500\""
                             ]
                         },
                         {
@@ -9912,7 +9912,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 20000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 20000\""
                             ]
                         },
                         {
@@ -9934,7 +9934,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 魔力 獲得量 \" + $gameVariables.value(41) + \" + 500\""
+                                "\" Advertising Magic Gain \" + $gameVariables.value(41) + \" + 500\""
                             ]
                         },
                         {
@@ -11908,7 +11908,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" なし\""
+                                "\" None\""
                             ]
                         },
                         {
@@ -11930,7 +11930,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 'Paperwork' 開放\""
+                                "\" 'Paperwork'  Release\""
                             ]
                         },
                         {
@@ -11941,7 +11941,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" 経験指数 獲得 500\\n 疲労度 消耗 10\""
+                                "\" EXP Gain 500\\n Fatique Gain 10\""
                             ]
                         },
                         {
@@ -12084,7 +12084,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" なし\""
+                                "\" None\""
                             ]
                         },
                         {
@@ -12106,7 +12106,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 'Paperwork' 開放\""
+                                "\" 'Paperwork'  Release\""
                             ]
                         },
                         {
@@ -12117,7 +12117,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" 経験指数 獲得 500\\n 疲労度 消耗 10\""
+                                "\" EXP Gain 500\\n Fatique Gain 10\""
                             ]
                         },
                         {
@@ -12220,7 +12220,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" なし\""
+                                "\" None\""
                             ]
                         },
                         {
@@ -12242,7 +12242,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 'Paperwork' 開放\""
+                                "\" 'Paperwork'  Release\""
                             ]
                         },
                         {
@@ -12253,7 +12253,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" 経験指数 獲得 500\\n 疲労度 消耗 10\""
+                                "\" EXP Gain 500\\n Fatique Gain 10\""
                             ]
                         },
                         {
@@ -15369,7 +15369,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -15574,7 +15574,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -15784,7 +15784,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 10000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 10000\""
                             ]
                         },
                         {
@@ -16078,7 +16078,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 15000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 15000\""
                             ]
                         },
                         {
@@ -16283,7 +16283,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 15000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 15000\""
                             ]
                         },
                         {
@@ -16493,7 +16493,7 @@
                                 323,
                                 0,
                                 4,
-                                "\" 魔力 \" + $gameVariables.value(1) + \" / 15000\""
+                                "\" M. Power \" + $gameVariables.value(1) + \" / 15000\""
                             ]
                         },
                         {
@@ -16847,7 +16847,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類作業 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" 書類作業 Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17052,7 +17052,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類作業 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" 書類作業 Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17262,7 +17262,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類作業 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" 書類作業 Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17568,7 +17568,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17773,7 +17773,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17983,7 +17983,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 宣伝業務 疲労度 消耗量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Gain量 \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
