@@ -547,7 +547,7 @@
     },
     {
         "type": "Text",
-        "Value": " ${$gameVariables.value(49) - $gameVariables.value(52)} 週",
+        "Value": " ${$gameVariables.value(49) - $gameVariables.value(52)} Week",
         "Condition": "$gameSwitches.value(101)",
         "Layer": "3",
         "Font": "GameFont",
