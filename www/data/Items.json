@@ -1361,7 +1361,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]A precious letter filled with a fan's feelings.\n\\V[99]\\TA[1]That's why I don't need fans who get their dicks hard and\nattack me... \\V[99]\\TA[1]\\V[99]\\TA[1]Increase in trust acquisition\nfrom clients\\TA[0]\\V[99]",
+        "description": "\\TA[1]A precious letter filled with a fan's\nfeelings. \\V[99]\\TA[1]That's why I don't need fans\nwho get their dicks hard and attack me...\n\\V[99]\\TA[1]\\V[99]\\TA[1]Increase in trust\nacquisition from clients\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1394,7 +1394,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]A cosplay costume of a cow-patterned bikini used in experiments.\n\\V[99]\\TA[1]Popular among niche customers.\n\\V[99]\\TA[1]\\V[99]\\TA[1]Increase in experience points\ngained\\TA[0]\\V[99]",
+        "description": "\\TA[1]A cosplay costume of a cow-patterned bikini\nused in experiments. \\V[99]\\TA[1]Popular among\nniche customers. \\V[99]\\TA[1]\\V[99]\\TA[1]Increase\nin experience points gained\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1427,7 +1427,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]The secret manual of advertising left by the <Legendary\nPromotion Pro>. \\V[99]\\TA[1]I wonder if something like this really\nworks...? \\V[99]\\TA[1]\\V[99]\\TA[1]Slight increase in magic power\ngained\\TA[0]\\V[99]",
+        "description": "\\TA[1]The secret manual of advertising left by the\n<Legendary Promotion Pro>. \\V[99]\\TA[1]I wonder if\nsomething like this really works...?\n\\V[99]\\TA[1]\\V[99]\\TA[1]Slight increase in magic\npower gained\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1460,7 +1460,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]The secret manual of advertising left by the <Legendary\nPromotion Pro>. \\V[99]\\TA[1]Realization lies within oneself...\n\\V[99]\\TA[1]\\V[99]\\TA[1]A little increase in magic power\ngained\\TA[0]\\V[99]",
+        "description": "\\TA[1]The secret manual of advertising left by the\n<Legendary Promotion Pro>. \\V[99]\\TA[1]Realization\nlies within oneself... \\V[99]\\TA[1]\\V[99]\\TA[1]A\nlittle increase in magic power gained\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1493,7 +1493,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]The secret manual of advertising left by the <Legendary\nPromotion Pro>. \\V[99]\\TA[1]Teachings are nothing more than an array\nof characters, \\V[99]\\TA[1]Only those who believe in themselves will\nmove forward. \\V[99]\\TA[1]Increase in magic power gained\\TA[0]\\V[99]",
+        "description": "\\TA[1]The secret manual of advertising left by the\n<Legendary Promotion Pro>. \\V[99]\\TA[1]Teachings\nare nothing more than an array of characters,\n\\V[99]\\TA[1]Only those who believe in themselves\nwill move forward. \\V[99]\\TA[1]Increase in magic\npower gained\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1526,7 +1526,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]A token of friendship from the macho demon tribe.\n\\V[99]\\TA[1]Not even death can separate the two, hence,\n\\V[99]\\TA[1]It's like... \\V[99]\\TA[1]Reduction of 1 fatigue in\nschedule\\TA[0]\\V[99]",
+        "description": "\\TA[1]A token of friendship from the macho demon\ntribe. \\V[99]\\TA[1]Not even death can separate the\ntwo, hence, \\V[99]\\TA[1]It's like...\n\\V[99]\\TA[1]Reduction of 1 fatigue in\nschedule\\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1559,7 +1559,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\TA[1]An experimental report about a friend from the macho demon\ntribe. \\V[99]\\TA[1]It contains tremendous details... \\TA[0]\\V[99]",
+        "description": "\\TA[1]An experimental report about a friend from\nthe macho demon tribe. \\V[99]\\TA[1]It contains\ntremendous details... \\TA[0]\\V[99]",
         "effects": [
             {
                 "code": 44,
@@ -1930,7 +1930,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The article details the series of disappearances involving succubi.\nThere are no commonalities among the victims, and five have vanished\nover the course of two months. Whether it's a planned crime or a mere\ncoincidence remains a question as the incident gradually fades into\nobscurity...",
+        "description": "The article details the series of disappearances\ninvolving succubi. There are no commonalities\namong the victims, and five have vanished over the\ncourse of two months. Whether it's a planned crime\nor a mere coincidence remains a question as the\nincident gradually fades into obscurity...",
         "effects": [
             {
                 "code": 44,
@@ -1963,7 +1963,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This media guideline serves as the foundation to grant high value to\nthe succubus industry as a new renewable energy source and to garner\nfull support from the general populace as a future national industry.\nThe published guidelines do not appear to be intentionally damaged...",
+        "description": "This media guideline serves as the foundation to\ngrant high value to the succubus industry as a new\nrenewable energy source and to garner full support\nfrom the general populace as a future national\nindustry. The published guidelines do not appear\nto be intentionally damaged...",
         "effects": [
             {
                 "code": 44,
@@ -1996,7 +1996,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "These are fragments of documents that were found shredded in the trash\ncan, marked with a distinctive pattern.",
+        "description": "These are fragments of documents that were found\nshredded in the trash can, marked with a\ndistinctive pattern.",
         "effects": [
             {
                 "code": 44,
@@ -2029,7 +2029,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A draft article about the death of a client who used the services of\nthe succubus industry. It coincides with the issuance of the media\nguidelines and seems to have been rejected for publication. Despite\nthe date being quite old, it was found tucked away in a drawer corner.\nIt is written that the client died from having their life force\ndrained excessively during sexual intercourse.",
+        "description": "A draft article about the death of a client who\nused the services of the succubus industry. It\ncoincides with the issuance of the media\nguidelines and seems to have been rejected for\npublication. Despite the date being quite old, it\nwas found tucked away in a drawer corner. It is\nwritten that the client died from having their\nlife force drained excessively during sexual\nintercourse.",
         "effects": [
             {
                 "code": 44,
@@ -2062,7 +2062,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A document entrusted by an employee of a logistics company for\ntransmission. It seems that it should not be opened...",
+        "description": "A document entrusted by an employee of a logistics\ncompany for transmission. It seems that it should\nnot be opened...",
         "effects": [
             {
                 "code": 44,
@@ -2095,7 +2095,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An apparatus instructed to be worn by employees at a research\ninstitution. It's so customized to one's body that it gives\ngoosebumps...",
+        "description": "An apparatus instructed to be worn by employees at\na research institution. It's so customized to\none's body that it gives goosebumps...",
         "effects": [
             {
                 "code": 44,
@@ -2128,7 +2128,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A report found at a research institution. It suggests that the more\nsuccubi become dependent on vital energy, the more they also become\ndependent on men. This is thought to be because succubi have\nhistorically been used as consumables.",
+        "description": "A report found at a research institution. It\nsuggests that the more succubi become dependent on\nvital energy, the more they also become dependent\non men. This is thought to be because succubi have\nhistorically been used as consumables.",
         "effects": [
             {
                 "code": 44,
@@ -2161,7 +2161,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mysterious disk found in a computer exchanged at a research\ninstitution. A player is needed. There is nothing written on its\nsurface.",
+        "description": "A mysterious disk found in a computer exchanged at\na research institution. A player is needed. There\nis nothing written on its surface.",
         "effects": [
             {
                 "code": 44,
@@ -2194,7 +2194,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Accusation materials for an insolent new employee. It documents the\nunfair treatment they received at the succubus industry.",
+        "description": "Accusation materials for an insolent new employee.\nIt documents the unfair treatment they received at\nthe succubus industry.",
         "effects": [
             {
                 "code": 44,
@@ -2260,7 +2260,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A box found at a research institution containing a virus... its\ncontents are...",
+        "description": "A box found at a research institution containing a\nvirus... its contents are...",
         "effects": [
             {
                 "code": 44,
@@ -2293,7 +2293,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A box with a biological hazard warning label attached. What is written\ncannot be read...",
+        "description": "A box with a biological hazard warning label\nattached. What is written cannot be read...",
         "effects": [
             {
                 "code": 44,
@@ -2326,7 +2326,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A key with a unique pattern engraved on it. It has a pattern similar\nto that on the <torn document>.",
+        "description": "A key with a unique pattern engraved on it. It has\na pattern similar to that on the <torn document>.",
         "effects": [
             {
                 "code": 44,
@@ -2359,7 +2359,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A card key found at a logistics company. Its purpose is unknown.",
+        "description": "A card key found at a logistics company. Its\npurpose is unknown.",
         "effects": [
             {
                 "code": 44,
@@ -2392,7 +2392,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A map detailing the city's water supply facilities. What could this be\nused for...?",
+        "description": "A map detailing the city's water supply\nfacilities. What could this be used for...?",
         "effects": [
             {
                 "code": 44,
@@ -2425,7 +2425,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Documents containing all information regarding the city's water supply\nfacilities' equipment. What could this be used for...?",
+        "description": "Documents containing all information regarding the\ncity's water supply facilities' equipment. What\ncould this be used for...?",
         "effects": [
             {
                 "code": 44,
@@ -2458,7 +2458,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A business card of a demon race that seems familiar. There is a\ndistinctive scar on the face...",
+        "description": "A business card of a demon race that seems\nfamiliar. There is a distinctive scar on the\nface...",
         "effects": [
             {
                 "code": 44,
@@ -2491,7 +2491,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Documents containing information about a demon race that seems\nfamiliar. The details are unclear, but it appears to list their past\ndeeds and experiences.",
+        "description": "Documents containing information about a demon\nrace that seems familiar. The details are unclear,\nbut it appears to list their past deeds and\nexperiences.",
         "effects": [
             {
                 "code": 44,
@@ -2524,7 +2524,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mysterious documents. They contain coordinates to a specific location\nand list of preparation items with unclear serial numbers.",
+        "description": "Mysterious documents. They contain coordinates to\na specific location and list of preparation items\nwith unclear serial numbers.",
         "effects": [
             {
                 "code": 44,
@@ -2557,7 +2557,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Documents about specific coordinates and preparation items required.\nThey list serial numbers for handcuffs and rope found in a cabinet.",
+        "description": "Documents about specific coordinates and\npreparation items required. They list serial\nnumbers for handcuffs and rope found in a cabinet.",
         "effects": [
             {
                 "code": 44,
@@ -2590,7 +2590,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Handcuffs found in a security company's cabinet. They are marked with\nP337187.",
+        "description": "Handcuffs found in a security company's cabinet.\nThey are marked with P337187.",
         "effects": [
             {
                 "code": 44,
@@ -2623,7 +2623,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A rope found in a security company's cabinet. It is marked with\nP409420.",
+        "description": "A rope found in a security company's cabinet. It\nis marked with P409420.",
         "effects": [
             {
                 "code": 44,
@@ -2656,7 +2656,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Detailed information about the security system of the city's water\nsupply facilities is documented here. What could this be used for...?",
+        "description": "Detailed information about the security system of\nthe city's water supply facilities is documented\nhere. What could this be used for...?",
         "effects": [
             {
                 "code": 44,
@@ -2689,7 +2689,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An apparatus instructed to be worn by employees at a research\ninstitution. Data collection has been completed.",
+        "description": "An apparatus instructed to be worn by employees at\na research institution. Data collection has been\ncompleted.",
         "effects": [
             {
                 "code": 44,
@@ -2847,7 +2847,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A protein imbued with the wishes of an exercise-loving demon race\nmember. They are willing to sacrifice everything to reach their\ndesired place. It recovers fatigue by 10 points.",
+        "description": "A protein imbued with the wishes of an exercise-\nloving demon race member. They are willing to\nsacrifice everything to reach their desired place.\nIt recovers fatigue by 10 points.",
         "effects": [
             {
                 "code": 44,
@@ -2880,7 +2880,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A medicine that fully restores physical strength and stamina... or\ndoes not. No one can guarantee the side effects. It recovers fatigue\nby 40 points.",
+        "description": "A medicine that fully restores physical strength\nand stamina... or does not. No one can guarantee\nthe side effects. It recovers fatigue by 40\npoints.",
         "effects": [
             {
                 "code": 44,
@@ -2913,7 +2913,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A friend who is an office worker. It recovers fatigue by 10 points.",
+        "description": "A friend who is an office worker. It recovers\nfatigue by 10 points.",
         "effects": [
             {
                 "code": 44,
@@ -2946,7 +2946,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Caffeine for those with unusual tastes. It recovers fatigue by 20\npoints.",
+        "description": "Caffeine for those with unusual tastes. It\nrecovers fatigue by 20 points.",
         "effects": [
             {
                 "code": 44,
