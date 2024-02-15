@@ -44421,7 +44421,7 @@
                                 326,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 10 回復\""
+                                "\" Self Improvement Fatique 10 Recovery\""
                             ]
                         },
                         {
@@ -44704,7 +44704,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 14 回復\""
+                                "\" Self Improvement Fatique 14 Recovery\""
                             ]
                         },
                         {
@@ -44940,7 +44940,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 14 回復\""
+                                "\" Self Improvement Fatique 14 Recovery\""
                             ]
                         },
                         {
@@ -45184,7 +45184,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 14 回復\""
+                                "\" Self Improvement Fatique 14 Recovery\""
                             ]
                         },
                         {
@@ -45478,7 +45478,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 12 回復\""
+                                "\" Self Improvement Fatique 12 Recovery\""
                             ]
                         },
                         {
@@ -45714,7 +45714,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 12 回復\""
+                                "\" Self Improvement Fatique 12 Recovery\""
                             ]
                         },
                         {
@@ -45958,7 +45958,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 12 回復\""
+                                "\" Self Improvement Fatique 12 Recovery\""
                             ]
                         },
                         {
@@ -46252,7 +46252,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 16 回復\""
+                                "\" Self Improvement Fatique 16 Recovery\""
                             ]
                         },
                         {
@@ -46488,7 +46488,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 16 回復\""
+                                "\" Self Improvement Fatique 16 Recovery\""
                             ]
                         },
                         {
@@ -46732,7 +46732,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 16 回復\""
+                                "\" Self Improvement Fatique 16 Recovery\""
                             ]
                         },
                         {
@@ -47026,7 +47026,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 20 回復\""
+                                "\" Self Improvement Fatique 20 Recovery\""
                             ]
                         },
                         {
@@ -47262,7 +47262,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 20 回復\""
+                                "\" Self Improvement Fatique 20 Recovery\""
                             ]
                         },
                         {
@@ -47506,7 +47506,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 自己啓発日程での Fatique 20 回復\""
+                                "\" Self Improvement Fatique 20 Recovery\""
                             ]
                         },
                         {
@@ -52680,7 +52680,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Cost \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -52925,7 +52925,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Cost \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -53169,7 +53169,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 1000\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 1500\\n Field Fatique Cost \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54192,7 +54192,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Cost \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54437,7 +54437,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Cost \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -54681,7 +54681,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Cost量 \" + $gameVariables.value(43) + \" + 5\""
+                                "\" Field Magic Gain \" + $gameVariables.value(41) + \" + 3500\\n Field EXP Gain \" + $gameVariables.value(42) + \" + 5000\\n Field Fatique Cost \" + $gameVariables.value(43) + \" + 5\""
                             ]
                         },
                         {
@@ -64796,7 +64796,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 500 獲得\""
+                                "\" Fixed Weekly EXP 500 Gain\""
                             ]
                         },
                         {
@@ -65001,7 +65001,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 500 獲得\""
+                                "\" Fixed Weekly EXP 500 Gain\""
                             ]
                         },
                         {
@@ -65211,7 +65211,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 500 獲得\""
+                                "\" Fixed Weekly EXP 500 Gain\""
                             ]
                         },
                         {
@@ -65505,7 +65505,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 1000 獲得\""
+                                "\" Fixed Weekly EXP 1000 Gain\""
                             ]
                         },
                         {
@@ -65710,7 +65710,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 1000 獲得\""
+                                "\" Fixed Weekly EXP 1000 Gain\""
                             ]
                         },
                         {
@@ -65920,7 +65920,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 1000 獲得\""
+                                "\" Fixed Weekly EXP 1000 Gain\""
                             ]
                         },
                         {
@@ -66214,7 +66214,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 2000 獲得\""
+                                "\" Fixed Weekly EXP 2000 Gain\""
                             ]
                         },
                         {
@@ -66419,7 +66419,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 2000 獲得\""
+                                "\" Fixed Weekly EXP 2000 Gain\""
                             ]
                         },
                         {
@@ -66629,7 +66629,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 2000 獲得\""
+                                "\" Fixed Weekly EXP 2000 Gain\""
                             ]
                         },
                         {
@@ -66923,7 +66923,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 3000 獲得\""
+                                "\" Fixed Weekly EXP 3000 Gain\""
                             ]
                         },
                         {
@@ -67128,7 +67128,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 3000 獲得\""
+                                "\" Fixed Weekly EXP 3000 Gain\""
                             ]
                         },
                         {
@@ -67338,7 +67338,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 3000 獲得\""
+                                "\" Fixed Weekly EXP 3000 Gain\""
                             ]
                         },
                         {
@@ -67632,7 +67632,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 5000 獲得\""
+                                "\" Fixed Weekly EXP 5000 Gain\""
                             ]
                         },
                         {
@@ -67837,7 +67837,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 5000 獲得\""
+                                "\" Fixed Weekly EXP 5000 Gain\""
                             ]
                         },
                         {
@@ -68047,7 +68047,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 5000 獲得\""
+                                "\" Fixed Weekly EXP 5000 Gain\""
                             ]
                         },
                         {
@@ -68341,7 +68341,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 7500 獲得\""
+                                "\" Fixed Weekly EXP 7500 Gain\""
                             ]
                         },
                         {
@@ -68546,7 +68546,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 7500 獲得\""
+                                "\" Fixed Weekly EXP 7500 Gain\""
                             ]
                         },
                         {
@@ -68756,7 +68756,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 7500 獲得\""
+                                "\" Fixed Weekly EXP 7500 Gain\""
                             ]
                         },
                         {
@@ -69050,7 +69050,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 12000 獲得\""
+                                "\" Fixed Weekly EXP 12000 Gain\""
                             ]
                         },
                         {
@@ -69255,7 +69255,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 12000 獲得\""
+                                "\" Fixed Weekly EXP 12000 Gain\""
                             ]
                         },
                         {
@@ -69465,7 +69465,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 12000 獲得\""
+                                "\" Fixed Weekly EXP 12000 Gain\""
                             ]
                         },
                         {
@@ -69759,7 +69759,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 15000 獲得\""
+                                "\" Fixed Weekly EXP 15000 Gain\""
                             ]
                         },
                         {
@@ -69964,7 +69964,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 15000 獲得\""
+                                "\" Fixed Weekly EXP 15000 Gain\""
                             ]
                         },
                         {
@@ -70174,7 +70174,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 EXP 15000 獲得\""
+                                "\" Fixed Weekly EXP 15000 Gain\""
                             ]
                         },
                         {
@@ -70468,7 +70468,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 500 獲得\""
+                                "\" Fixed Weekly M. Power 500 Gain\""
                             ]
                         },
                         {
@@ -70673,7 +70673,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 500 獲得\""
+                                "\" Fixed Weekly M. Power 500 Gain\""
                             ]
                         },
                         {
@@ -70883,7 +70883,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 500 獲得\""
+                                "\" Fixed Weekly M. Power 500 Gain\""
                             ]
                         },
                         {
@@ -71177,7 +71177,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 1000 獲得\""
+                                "\" Fixed Weekly M. Power 1000 Gain\""
                             ]
                         },
                         {
@@ -71382,7 +71382,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 1000 獲得\""
+                                "\" Fixed Weekly M. Power 1000 Gain\""
                             ]
                         },
                         {
@@ -71592,7 +71592,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 1000 獲得\""
+                                "\" Fixed Weekly M. Power 1000 Gain\""
                             ]
                         },
                         {
@@ -71886,7 +71886,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 2000 獲得\""
+                                "\" Fixed Weekly M. Power 2000 Gain\""
                             ]
                         },
                         {
@@ -72091,7 +72091,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 2000 獲得\""
+                                "\" Fixed Weekly M. Power 2000 Gain\""
                             ]
                         },
                         {
@@ -72301,7 +72301,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 2000 獲得\""
+                                "\" Fixed Weekly M. Power 2000 Gain\""
                             ]
                         },
                         {
@@ -72595,7 +72595,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 3000 獲得\""
+                                "\" Fixed Weekly M. Power 3000 Gain\""
                             ]
                         },
                         {
@@ -72813,7 +72813,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 3000 獲得\""
+                                "\" Fixed Weekly M. Power 3000 Gain\""
                             ]
                         },
                         {
@@ -73023,7 +73023,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 3000 獲得\""
+                                "\" Fixed Weekly M. Power 3000 Gain\""
                             ]
                         },
                         {
@@ -73317,7 +73317,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 5000 獲得\""
+                                "\" Fixed Weekly M. Power 5000 Gain\""
                             ]
                         },
                         {
@@ -73535,7 +73535,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 5000 獲得\""
+                                "\" Fixed Weekly M. Power 5000 Gain\""
                             ]
                         },
                         {
@@ -73745,7 +73745,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 5000 獲得\""
+                                "\" Fixed Weekly M. Power 5000 Gain\""
                             ]
                         },
                         {
@@ -74039,7 +74039,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 7500 獲得\""
+                                "\" Fixed Weekly M. Power 7500 Gain\""
                             ]
                         },
                         {
@@ -74257,7 +74257,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 7500 獲得\""
+                                "\" Fixed Weekly M. Power 7500 Gain\""
                             ]
                         },
                         {
@@ -74467,7 +74467,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 7500 獲得\""
+                                "\" Fixed Weekly M. Power 7500 Gain\""
                             ]
                         },
                         {
@@ -74761,7 +74761,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 12000 獲得\""
+                                "\" Fixed Weekly M. Power 12000 Gain\""
                             ]
                         },
                         {
@@ -74979,7 +74979,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 12000 獲得\""
+                                "\" Fixed Weekly M. Power 12000 Gain\""
                             ]
                         },
                         {
@@ -75189,7 +75189,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 12000 獲得\""
+                                "\" Fixed Weekly M. Power 12000 Gain\""
                             ]
                         },
                         {
@@ -75483,7 +75483,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 15000 獲得\""
+                                "\" Fixed Weekly M. Power 15000 Gain\""
                             ]
                         },
                         {
@@ -75701,7 +75701,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 15000 獲得\""
+                                "\" Fixed Weekly M. Power 15000 Gain\""
                             ]
                         },
                         {
@@ -75911,7 +75911,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 一週間ごとに固定 M. Power 15000 獲得\""
+                                "\" Fixed Weekly M. Power 15000 Gain\""
                             ]
                         },
                         {
@@ -76205,7 +76205,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 2倍 Gain\""
+                                "\" Great Success Chance 2倍 Gain\""
                             ]
                         },
                         {
@@ -76410,7 +76410,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 2倍 Gain\""
+                                "\" Great Success Chance 2倍 Gain\""
                             ]
                         },
                         {
@@ -76620,7 +76620,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 2倍 Gain\""
+                                "\" Great Success Chance 2倍 Gain\""
                             ]
                         },
                         {
@@ -76914,7 +76914,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 4倍 Gain\""
+                                "\" Great Success Chance 4倍 Gain\""
                             ]
                         },
                         {
@@ -77119,7 +77119,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 4倍 Gain\""
+                                "\" Great Success Chance 4倍 Gain\""
                             ]
                         },
                         {
@@ -77329,7 +77329,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 4倍 Gain\""
+                                "\" Great Success Chance 4倍 Gain\""
                             ]
                         },
                         {
@@ -77623,7 +77623,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 6倍 Gain\""
+                                "\" Great Success Chance 6倍 Gain\""
                             ]
                         },
                         {
@@ -77828,7 +77828,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 6倍 Gain\""
+                                "\" Great Success Chance 6倍 Gain\""
                             ]
                         },
                         {
@@ -78038,7 +78038,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 6倍 Gain\""
+                                "\" Great Success Chance 6倍 Gain\""
                             ]
                         },
                         {
@@ -78332,7 +78332,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 10倍 Gain\""
+                                "\" Great Success Chance 10倍 Gain\""
                             ]
                         },
                         {
@@ -78537,7 +78537,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 10倍 Gain\""
+                                "\" Great Success Chance 10倍 Gain\""
                             ]
                         },
                         {
@@ -78747,7 +78747,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 10倍 Gain\""
+                                "\" Great Success Chance 10倍 Gain\""
                             ]
                         },
                         {
@@ -83252,7 +83252,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 2 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 2 Recovery\""
                             ]
                         },
                         {
@@ -83488,7 +83488,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 2 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 2 Recovery\""
                             ]
                         },
                         {
@@ -83732,7 +83732,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 2 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 2 Recovery\""
                             ]
                         },
                         {
@@ -84026,7 +84026,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 4 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 4 Recovery\""
                             ]
                         },
                         {
@@ -84262,7 +84262,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 4 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 4 Recovery\""
                             ]
                         },
                         {
@@ -84506,7 +84506,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 4 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 4 Recovery\""
                             ]
                         },
                         {
@@ -84800,7 +84800,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 6 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 6 Recovery\""
                             ]
                         },
                         {
@@ -85036,7 +85036,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 6 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 6 Recovery\""
                             ]
                         },
                         {
@@ -85280,7 +85280,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 6 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 6 Recovery\""
                             ]
                         },
                         {
@@ -85574,7 +85574,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 8 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 8 Recovery\""
                             ]
                         },
                         {
@@ -85810,7 +85810,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 8 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 8 Recovery\""
                             ]
                         },
                         {
@@ -86054,7 +86054,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 8 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 8 Recovery\""
                             ]
                         },
                         {
@@ -86348,7 +86348,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 10 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 10 Recovery\""
                             ]
                         },
                         {
@@ -86584,7 +86584,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 10 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 10 Recovery\""
                             ]
                         },
                         {
@@ -86828,7 +86828,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 金曜日の日課を済ませた後 Fatique 10 回復\""
+                                "\" 金曜日の日課を済ませた後 Fatique 10 Recovery\""
                             ]
                         },
                         {
@@ -92330,7 +92330,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 1 減少\""
+                                "\" Daily Activities Fatique 1 Less\""
                             ]
                         },
                         {
@@ -92566,7 +92566,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 1 減少\""
+                                "\" Daily Activities Fatique 1 Less\""
                             ]
                         },
                         {
@@ -92810,7 +92810,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 1 減少\""
+                                "\" Daily Activities Fatique 1 Less\""
                             ]
                         },
                         {
@@ -93104,7 +93104,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 2 減少\""
+                                "\" Daily Activities Fatique 2 Less\""
                             ]
                         },
                         {
@@ -93340,7 +93340,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 2 減少\""
+                                "\" Daily Activities Fatique 2 Less\""
                             ]
                         },
                         {
@@ -93584,7 +93584,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 2 減少\""
+                                "\" Daily Activities Fatique 2 Less\""
                             ]
                         },
                         {
@@ -93878,7 +93878,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 3 減少\""
+                                "\" Daily Activities Fatique 3 Less\""
                             ]
                         },
                         {
@@ -94114,7 +94114,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 3 減少\""
+                                "\" Daily Activities Fatique 3 Less\""
                             ]
                         },
                         {
@@ -94358,7 +94358,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 3 減少\""
+                                "\" Daily Activities Fatique 3 Less\""
                             ]
                         },
                         {
@@ -94652,7 +94652,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 5 減少\""
+                                "\" Daily Activities Fatique 5 Less\""
                             ]
                         },
                         {
@@ -94888,7 +94888,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 5 減少\""
+                                "\" Daily Activities Fatique 5 Less\""
                             ]
                         },
                         {
@@ -95132,7 +95132,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての日課での Fatique 5 減少\""
+                                "\" Daily Activities Fatique 5 Less\""
                             ]
                         },
                         {
@@ -97683,7 +97683,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -97901,7 +97901,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98111,7 +98111,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98405,7 +98405,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98623,7 +98623,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -98833,7 +98833,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -99127,7 +99127,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99345,7 +99345,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99555,7 +99555,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -99849,7 +99849,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -100067,7 +100067,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -100277,7 +100277,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Paperwork Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Paperwork Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -103687,7 +103687,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -103905,7 +103905,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104122,7 +104122,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104416,7 +104416,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104634,7 +104634,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -104851,7 +104851,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105145,7 +105145,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105363,7 +105363,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105580,7 +105580,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -105874,7 +105874,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -106092,7 +106092,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -106309,7 +106309,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Field Fatique Cost量 \" + $gameVariables.value(43) + \" - 5\""
+                                "\" Field Fatique Cost \" + $gameVariables.value(43) + \" - 5\""
                             ]
                         },
                         {
@@ -106603,7 +106603,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 20倍 Gain\""
+                                "\" Great Success Chance 20x Gain\""
                             ]
                         },
                         {
@@ -106808,7 +106808,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 20倍 Gain\""
+                                "\" Great Success Chance 20x Gain\""
                             ]
                         },
                         {
@@ -107018,7 +107018,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" すべての業務の大成功確率 20倍 Gain\""
+                                "\" Great Success Chance 20x Gain\""
                             ]
                         },
                         {
@@ -107312,7 +107312,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -107517,7 +107517,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -107727,7 +107727,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108021,7 +108021,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108226,7 +108226,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108436,7 +108436,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108730,7 +108730,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -108935,7 +108935,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -109145,7 +109145,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -109439,7 +109439,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -109644,7 +109644,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {
@@ -109854,7 +109854,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 2\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 2\""
                             ]
                         },
                         {

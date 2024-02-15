@@ -13967,7 +13967,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 EXP 200 獲得\""
+                                "\" １週間ごとに固定 EXP 200 Gain\""
                             ]
                         },
                         {
@@ -14172,7 +14172,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 EXP 200 獲得\""
+                                "\" １週間ごとに固定 EXP 200 Gain\""
                             ]
                         },
                         {
@@ -14382,7 +14382,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 EXP 200 獲得\""
+                                "\" １週間ごとに固定 EXP 200 Gain\""
                             ]
                         },
                         {
@@ -14676,7 +14676,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 EXP 500 獲得\""
+                                "\" １週間ごとに固定 EXP 500 Gain\""
                             ]
                         },
                         {
@@ -14881,7 +14881,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 EXP 500 獲得\""
+                                "\" １週間ごとに固定 EXP 500 Gain\""
                             ]
                         },
                         {
@@ -15091,7 +15091,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 EXP 500 獲得\""
+                                "\" １週間ごとに固定 EXP 500 Gain\""
                             ]
                         },
                         {
@@ -15391,7 +15391,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 M. Power 200 獲得\""
+                                "\" １週間ごとに固定 M. Power 200 Gain\""
                             ]
                         },
                         {
@@ -15596,7 +15596,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 M. Power 200 獲得\""
+                                "\" １週間ごとに固定 M. Power 200 Gain\""
                             ]
                         },
                         {
@@ -15806,7 +15806,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 M. Power 200 獲得\""
+                                "\" １週間ごとに固定 M. Power 200 Gain\""
                             ]
                         },
                         {
@@ -16100,7 +16100,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 M. Power 500 獲得\""
+                                "\" １週間ごとに固定 M. Power 500 Gain\""
                             ]
                         },
                         {
@@ -16305,7 +16305,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 M. Power 500 獲得\""
+                                "\" １週間ごとに固定 M. Power 500 Gain\""
                             ]
                         },
                         {
@@ -16515,7 +16515,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" １週間ごとに固定 M. Power 500 獲得\""
+                                "\" １週間ごとに固定 M. Power 500 Gain\""
                             ]
                         },
                         {
@@ -16847,7 +16847,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類作業 Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" 書類作業 Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17052,7 +17052,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類作業 Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" 書類作業 Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17262,7 +17262,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" 書類作業 Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" 書類作業 Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17568,7 +17568,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17773,7 +17773,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
@@ -17983,7 +17983,7 @@
                                 325,
                                 0,
                                 4,
-                                "\" Advertising Fatique Cost量 \" + $gameVariables.value(43) + \" - 1\""
+                                "\" Advertising Fatique Cost \" + $gameVariables.value(43) + \" - 1\""
                             ]
                         },
                         {
