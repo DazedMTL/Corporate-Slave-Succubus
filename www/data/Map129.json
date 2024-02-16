@@ -8107,7 +8107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\bustMsgExp[1, 0]\\nc<Saki>The succubus way...\\[bustMsgExp[1, 1]]Ah!"
+                                "\\bustMsgExp[1, 0]\\nc<Saki>The succubus way...\\bustMsgExp[1, 1]Ah!"
                             ]
                         },
                         {

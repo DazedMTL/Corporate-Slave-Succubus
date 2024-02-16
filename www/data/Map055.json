@@ -4283,7 +4283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\bustMsgExp[1, 1]\\nc<Saki>(Ah, they're here...\\[bustMsgExp[1, 3]] But Meary-senpai said\nshe would take care of it, so I should be fine...)"
+                                "\\bustMsgExp[1, 1]\\nc<Saki>(Ah, they're here...\\bustMsgExp[1, 3] But Meary-senpai said\nshe would take care of it, so I should be fine...)"
                             ]
                         },
                         {

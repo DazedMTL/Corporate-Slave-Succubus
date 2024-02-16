@@ -6417,7 +6417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\bustMsgExp[1, 3]\\nc<Saki>Ugh, it's already erect... Disgusting...\\[bustMsgExp[1, 1]]\nOops! If there's an NG, please say it now!"
+                                "\\bustMsgExp[1, 3]\\nc<Saki>Ugh, it's already erect... Disgusting...\\bustMsgExp[1, 1]\nOops! If there's an NG, please say it now!"
                             ]
                         },
                         {

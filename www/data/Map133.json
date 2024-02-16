@@ -4139,7 +4139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\bustMsgExp[1, 3]\\nc<Saki>\"Then, I shall take care of her for a while. (Huh, this VIP\nis unusually kind...\\[bustMsgExp[1, 2]] If that's the\nsituation, they shouldn't come here for sex.)\""
+                                "\\bustMsgExp[1, 3]\\nc<Saki>\"Then, I shall take care of her for a while. (Huh, this VIP\nis unusually kind...\\bustMsgExp[1, 2] If that's the\nsituation, they shouldn't come here for sex.)\""
                             ]
                         },
                         {
@@ -4201,7 +4201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\bustMsgExp[1, 3]\\nc<Saki>\"Understood.\\[bustMsgExp[1, 0]] (No way... I had no idea the\npet was like this. Is it fun to keep something like this?\nIt's just squirming around...)\""
+                                "\\bustMsgExp[1, 3]\\nc<Saki>\"Understood.\\bustMsgExp[1, 0] (No way... I had no idea the\npet was like this. Is it fun to keep something like this?\nIt's just squirming around...)\""
                             ]
                         },
                         {
@@ -4263,7 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<Saki>\"(Upon closer inspection, it might actually be\ncute...\\[bustMsgExp[1, 1]] But it's way too big!)\""
+                                "\\nc<Saki>\"(Upon closer inspection, it might actually be\ncute...\\bustMsgExp[1, 1] But it's way too big!)\""
                             ]
                         },
                         {
@@ -4810,7 +4810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Whoa!? It clung to my leg...\\[bustMsgExp[1, 0]] It's not as\ndamp or cold as I thought.\""
+                                "\\bustMsgExp[1, 1]\\nc<Saki>\"Whoa!? It clung to my leg...\\bustMsgExp[1, 0] It's not as\ndamp or cold as I thought.\""
                             ]
                         },
                         {
