@@ -4012,7 +4012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<Saki>Is it already evaluation day...[bustMsgExp[1, 2]]sigh. I\nbarely made the quota this time, but it should be okay,\nright?"
+                                "\\nc<Saki>Is it already evaluation day...\\[bustMsgExp[1, 2]]sigh. I\nbarely made the quota this time, but it should be okay,\nright?"
                             ]
                         },
                         {
